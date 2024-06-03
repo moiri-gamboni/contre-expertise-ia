@@ -13,15 +13,15 @@ function Testimonial() {
       </div> */}
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
-          “This method of designing icons is genius. I wish I had known this
-          method a lot sooner.”
+          “Nous avons décidé d’arrêter le développement de notre IA Chameau 4
+          après cette contre-expertise.”
         </p>
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-500">
-        <strong className="font-semibold text-blue-600 before:content-['—_']">
-          Stacey Solomon
+        <strong className="font-semibold text-brand-600 before:content-['—_']">
+          Yunn LeCan
         </strong>
-        , Founder at Retail Park
+        , Fondateur de Bêta
       </figcaption>
     </figure>
   )
