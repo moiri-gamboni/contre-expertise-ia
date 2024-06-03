@@ -8,9 +8,9 @@ import coverImage from '@/images/cover.png'
 function Testimonial() {
   return (
     <figure className="relative mx-auto max-w-md text-center lg:mx-0 lg:text-left">
-      <div className="flex justify-center text-blue-600 lg:justify-start">
+      {/* <div className="flex justify-center text-blue-600 lg:justify-start">
         <StarRating />
-      </div>
+      </div> */}
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
           “This method of designing icons is genius. I wish I had known this
