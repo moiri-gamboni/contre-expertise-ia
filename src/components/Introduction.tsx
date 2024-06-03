@@ -24,8 +24,8 @@ export function Introduction() {
           {[
             `Le rapport de la Commission de l'IA présente d'énormes manquements, 
             notamment en ignorant les risques existentiels liés à l'IA
-            malgré l'avis de nombreux experts. Il semble être influencé par des
-             lobbys américains comme Meta.`,
+            malgré l'avis de nombreux experts. Il semble être influencé par des 
+            lobbys américains comme Meta.`,
             `Plus de 50% des experts en IA, 100% des experts en sécurité de 
             l'IA, et 60% des français sont inquiets des risques catastrophiques
             de l'IA, mais le rapport n'en tient pas compte, ce qui est a la fois
