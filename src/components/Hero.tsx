@@ -59,11 +59,11 @@ export function Hero() {
               une capture par des lobbys américains
             </p>
             <div className="mt-8 flex gap-4">
-              <Button href="#free-chapters" color="brand">
+              <Button href="#risques" color="brand">
                 Lire notre contre-expertise
               </Button>
-              <Button href="#pricing" variant="outline" color="brand">
-                Assister à notre conférence de presse
+              <Button href="#petition" variant="outline" color="brand">
+                Signer notre pétition
               </Button>
             </div>
           </div>

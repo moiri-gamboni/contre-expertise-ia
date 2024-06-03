@@ -5,19 +5,13 @@ import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
 import clsx from 'clsx'
 
 const sections = [
-  {
-    id: 'table-of-contents',
-    title: (
-      <>
-        <span className="hidden lg:inline">Table of contents</span>
-        <span className="lg:hidden">Contents</span>
-      </>
-    ),
-  },
-  { id: 'screencasts', title: 'Screencasts' },
-  { id: 'resources', title: 'Resources' },
-  { id: 'pricing', title: 'Pricing' },
-  { id: 'author', title: 'Author' },
+  { id: 'risques', title: 'Risques de l’IA' },
+  { id: 'conflits', title: 'Conflits d’intérêts' },
+  { id: 'solutions', title: 'Solutions' },
+  { id: 'experts', title: 'Experts' },
+  { id: 'associations', title: 'Associations' },
+  { id: 'petition', title: 'Pétition' },
+  { id: 'conference', title: 'Conférence de presse' },
 ]
 
 function MenuIcon({
@@ -107,7 +101,7 @@ export function NavBar() {
                 <>
                   <span
                     aria-hidden="true"
-                    className="font-mono text-sm text-blue-600"
+                    className="font-mono text-sm text-brand-600"
                   >
                     {(mobileActiveIndex + 1).toString().padStart(2, '0')}
                   </span>
@@ -142,7 +136,7 @@ export function NavBar() {
                 >
                   <span
                     aria-hidden="true"
-                    className="font-mono text-sm text-blue-600"
+                    className="font-mono text-sm text-brand-600"
                   >
                     {(sectionIndex + 1).toString().padStart(2, '0')}
                   </span>
@@ -168,8 +162,8 @@ export function NavBar() {
                 className={clsx(
                   'flex w-full flex-col items-center justify-center border-b-2 before:mb-2 before:font-mono before:text-sm before:content-[counter(section,decimal-leading-zero)]',
                   sectionIndex === activeIndex
-                    ? 'border-blue-600 bg-blue-50 text-blue-600 before:text-blue-600'
-                    : 'border-transparent before:text-slate-500 hover:bg-blue-50/40 hover:before:text-slate-900',
+                    ? 'border-brand-600 bg-brand-50 text-brand-600 before:text-brand-600'
+                    : 'border-transparent before:text-slate-500 hover:bg-brand-50/40 hover:before:text-slate-900',
                 )}
               >
                 {section.title}
