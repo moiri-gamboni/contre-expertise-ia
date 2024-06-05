@@ -12,7 +12,7 @@ export function Introduction() {
     >
       <Container className="text-lg tracking-tight text-slate-700">
         <p className="font-display text-4xl font-bold tracking-tight text-slate-900">
-          Nôtre contre-expertise, signée par des experts reconnus et des
+          Notre contre-expertise, signée par des experts reconnus et des
           associations, pointe les manquements du rapport.
         </p>
         <p className="mt-4">
@@ -56,37 +56,12 @@ export function Introduction() {
           général.
         </p>
         <p className="mt-4">
-          C'est tout le sens de la démarche dans laquelle nous nous engageons
-          aujourd'hui avec le lancement de Pause AI France. En tant
-          qu'association pleinement engagée pour une approche responsable et
-          éthique de l'IA, il est de notre devoir de tirer la sonnette d'alarme
-          face à ces manquements graves. Nous ne pouvons laisser ces conclusions
-          erronées et biaisées orienter la politique française sur un sujet
-          aussi crucial pour notre avenir commun. L'heure n'est plus à la
-          complaisance mais à l'action déterminée.
+          C'est pourquoi nous publions une contre-expertise détaillée et implacable, qui met en lumière sans
+          concession les failles et les angles morts du rapport. Ce travail de
+          fond, appuyé par de nombreux experts reconnus, est complété par une
+          enquête sur les potentiels conflits d'intérêts ayant influencé les
+          travaux de la Commission.
         </p>
-        <p className="mt-4">
-          C'est pourquoi nous lançons aujourd'hui ce projet, articulé autour de
-          deux volets complémentaires :
-        </p>
-        <ul role="list" className="ml-8 mt-4 list-outside list-disc space-y-3">
-          {[
-            `La production d'une contre-expertise détaillée et implacable,qui 
-            mettra en lumière sans concession les failles et les angles morts
-            du rapport. Ce travail de fond, appuyé par de nombreux experts
-            reconnus, sera complété par une enquête sur les potentiels conflits
-            d'intérêts ayant influencé les travaux de la Commission.`,
-            `L'organisation d'une conférence de presse pour rendre publics ces 
-            éléments et poser les bases d'un débat national éclairé sur le
-            sujet. Cet événement marquera également le lancement officiel de
-            notre antenne française, Pause AI France.`,
-          ].map((item) => (
-            <li key={item} className="pl-4 marker:text-brand-600">
-              {/* <CheckIcon className="h-8 w-8 flex-none fill-blue-500" /> */}
-              <span>{item}</span>
-            </li>
-          ))}
-        </ul>
         <p className="mt-4">
           Notre démarche se veut à la fois ferme sur les principes et ouverte
           sur le dialogue. Ferme, car nous ne transigerons pas sur la nécessité
@@ -104,10 +79,10 @@ export function Introduction() {
         </p>
         <p className="mt-10">
           <Link
-            href="#email-commission"
+            href="#petition"
             className="text-base font-medium text-brand-600 hover:text-brand-800"
           >
-            Écrivez aux co-présidents de la commission{' '}
+            Signez notre pétition{' '}
             <span aria-hidden="true">&rarr;</span>
           </Link>
         </p>
