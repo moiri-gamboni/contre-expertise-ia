@@ -2,7 +2,7 @@ import { type Config } from 'tailwindcss'
 import defaultTheme from 'tailwindcss/defaultTheme'
 
 export default {
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
+  content: ['./src/**/*.{js,jsx,ts,tsx,mdx}','./mdx-components.tsx'],
   theme: {
     boxShadow: {
       sm: '0 2px 6px rgb(15 23 42 / 0.08)',

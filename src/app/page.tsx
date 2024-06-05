@@ -12,6 +12,7 @@ import { Testimonial } from '@/components/Testimonial'
 import { Testimonials } from '@/components/Testimonials'
 import avatarImage1 from '@/images/avatars/avatar-1.png'
 import avatarImage2 from '@/images/avatars/avatar-2.png'
+import Report from './contre-expertise/page'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Hero />
       <Introduction />
       <NavBar />
+      <Report />
       <TableOfContents />
       <Testimonial
         id="testimonial-from-tommy-stroman"
