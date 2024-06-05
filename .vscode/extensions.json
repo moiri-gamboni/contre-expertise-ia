@@ -1,6 +1,8 @@
 {
 	"recommendations": [
 		"streetsidesoftware.code-spell-checker",
-    "streetsidesoftware.code-spell-checker-french"
+    "streetsidesoftware.code-spell-checker-french",
+		"bradlc.vscode-tailwindcss",
+		"dbaeumer.vscode-eslint",
 	]
 }
