@@ -5,7 +5,7 @@ import type { MDXComponents } from 'mdx/types'
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
     ...components,
-    Image: ({alt, ...props }) => <Image alt={alt} {...props} />,
+    Image: ({ alt, ...props }) => <Image alt={alt} {...props} />,
     // MDX is already nested under h2, so we need to adjust h-level
     h2: (props) => (
       <h3
@@ -35,8 +35,21 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
       />
     ),
     li: (props) => <li className="pl-4 marker:text-brand-600" {...props} />,
-    a: ({ href="#", ...props }) => (
-      <Link className="font-medium text-brand-600 hover:text-brand-800" href={href} {...props} />
+    a: ({ href = '#', ...props }) => (
+      <Link
+        className="font-medium text-brand-600 hover:text-brand-800"
+        href={href}
+        {...props}
+      />
+    ),
+    blockquote: (props) => (
+      <blockquote
+        className="my-8 ps-4 italic border-s-4 border-s-slate-200 font-medium text-slate-900 [&_p:first-of-type]:before:content-[open-quote] [&_p:last-of-type]:after:content-[close-quote]"
+        style={{
+          quotes: '"\\201C""\\201D""\\2018""\\2019"',
+        }}
+        {...props}
+      />
     ),
   }
 }
