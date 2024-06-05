@@ -46,7 +46,7 @@ export function Introduction() {
             </li>
           ))}
         </ul>
-        <p className="mt-8">
+        <p className="mt-4">
           Autant de failles béantes qui ne peuvent que susciter une vive
           inquiétude et appellent de notre part une réaction ferme et
           déterminée. Nous ne pouvons accepter qu'un sujet aussi crucial pour
@@ -55,7 +55,7 @@ export function Introduction() {
           de contrôle par des intérêts particuliers au détriment de l'intérêt
           général.
         </p>
-        <p className="mt-8">
+        <p className="mt-4">
           C'est tout le sens de la démarche dans laquelle nous nous engageons
           aujourd'hui avec le lancement de Pause AI France. En tant
           qu'association pleinement engagée pour une approche responsable et
@@ -65,11 +65,11 @@ export function Introduction() {
           aussi crucial pour notre avenir commun. L'heure n'est plus à la
           complaisance mais à l'action déterminée.
         </p>
-        <p className="mt-8">
+        <p className="mt-4">
           C'est pourquoi nous lançons aujourd'hui ce projet, articulé autour de
           deux volets complémentaires :
         </p>
-        <ul role="list" className="ml-8 mt-8 list-outside list-disc space-y-3">
+        <ul role="list" className="ml-8 mt-4 list-outside list-disc space-y-3">
           {[
             `La production d'une contre-expertise détaillée et implacable,qui 
             mettra en lumière sans concession les failles et les angles morts
@@ -87,7 +87,7 @@ export function Introduction() {
             </li>
           ))}
         </ul>
-        <p className="mt-8">
+        <p className="mt-4">
           Notre démarche se veut à la fois ferme sur les principes et ouverte
           sur le dialogue. Ferme, car nous ne transigerons pas sur la nécessité
           absolue d'un développement éthique et maîtrisé de l'IA, dans le
