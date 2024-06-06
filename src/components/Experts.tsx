@@ -1,4 +1,4 @@
-import Image, { type ImageProps } from 'next/image'
+import Image, { ImageProps, StaticImageData } from 'next/image'
 import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
@@ -18,11 +18,24 @@ import avatarImage10 from '@/images/avatars/avatar-10.png'
 import avatarImage11 from '@/images/avatars/avatar-11.png'
 import { SectionHeading } from './SectionHeading'
 
-const testimonials = [
+interface AuthorType {
+  name: string
+  role: string
+  image: StaticImageData
+}
+
+interface TestimonialType {
+  content?: string
+  author: AuthorType
+}
+
+interface TestimonialColumnType extends Array<Array<TestimonialType>> {}
+
+const testimonials: TestimonialColumnType = [
   [
     {
-      content:
-        'Mira’s teaching style is second to none. Everything was easy to follow every step of the way.',
+      // content:
+      // 'Mira’s teaching style is second to none. Everything was easy to follow every step of the way.',
       author: {
         name: 'Antonio Littel',
         role: 'Frontend Developer',
@@ -30,8 +43,6 @@ const testimonials = [
       },
     },
     {
-      content:
-        'Even though I was excited to learn, I was pessimistic that I wouldn’t actually ever get good enough to design my own icons. I was wrong — this book is all I needed.',
       author: {
         name: 'Lynn Nolan',
         role: 'Growth Marketer',
@@ -39,8 +50,6 @@ const testimonials = [
       },
     },
     {
-      content:
-        'I’ve been employed as a professional icon designer for years and still learned tons of new tricks that have made my work even better',
       author: {
         name: 'Krista Prosacco',
         role: 'Professional Designer',
@@ -50,8 +59,6 @@ const testimonials = [
   ],
   [
     {
-      content:
-        'I run an ecommerce store selling rare vintage gummy bears and could never find a good gummy bear icon. Now I can design my own in minutes.',
       author: {
         name: 'Cameron Considine',
         role: 'Entrepreneur',
@@ -59,8 +66,6 @@ const testimonials = [
       },
     },
     {
-      content:
-        'The complete package is worth it for the weekly teardown videos alone. I’ve learned so much watching Mira take apart other icons and recreate them from scratch.',
       author: {
         name: 'Regina Wisoky',
         role: 'Design Student',
@@ -68,8 +73,6 @@ const testimonials = [
       },
     },
     {
-      content:
-        'I didn’t expect to find a lot of value in the community but now I’m in there for at least an hour every day picking up tips from other designers.',
       author: {
         name: 'Vernon Cummerata',
         role: 'UI Engineer',
@@ -79,8 +82,6 @@ const testimonials = [
   ],
   [
     {
-      content:
-        'I couldn’t believe how fast Mira moved in Figma compared to my own workflow. I’m designing icons more accurately in half the time with the shortcuts I learned from her videos.',
       author: {
         name: 'Steven Hackett',
         role: 'Bootcamp Instructor',
@@ -88,8 +89,6 @@ const testimonials = [
       },
     },
     {
-      content:
-        'I never thought I would enjoy designing icons but using the ideas in this book, it’s become a great way for me to relax while still being creative.',
       author: {
         name: 'Carla Schoen',
         role: 'Startup Founder',
@@ -97,8 +96,6 @@ const testimonials = [
       },
     },
     {
-      content:
-        'All I can say is wow — this is easily the best icon design resource I’ve ever encountered.',
       author: {
         name: 'Leah Kiehn',
         role: 'Creative Director',
@@ -112,17 +109,19 @@ function Testimonial({
   author,
   children,
 }: {
-  author: { name: string; role: string; image: ImageProps['src'] }
+  author: AuthorType
   children: React.ReactNode
 }) {
   return (
     <figure className="rounded-4xl p-8 shadow-md ring-1 ring-slate-900/5">
-      <blockquote>
-        <p className="text-lg tracking-tight text-slate-900 before:content-['“'] after:content-['”']">
-          {children}
-        </p>
-      </blockquote>
-      <figcaption className="mt-6 flex items-center">
+      {children && (
+        <blockquote className="mb-6">
+          <p className="text-lg tracking-tight text-slate-900 before:content-['“'] after:content-['”']">
+            {children}
+          </p>
+        </blockquote>
+      )}
+      <figcaption className="flex items-center">
         <div className="overflow-hidden rounded-full bg-slate-50">
           <Image
             className="h-12 w-12 object-cover"
