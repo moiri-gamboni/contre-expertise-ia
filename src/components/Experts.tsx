@@ -16,6 +16,7 @@ import avatarImage8 from '@/images/avatars/avatar-8.png'
 import avatarImage9 from '@/images/avatars/avatar-9.png'
 import avatarImage10 from '@/images/avatars/avatar-10.png'
 import avatarImage11 from '@/images/avatars/avatar-11.png'
+import { SectionHeading } from './SectionHeading'
 
 const testimonials = [
   [
@@ -142,17 +143,29 @@ function Testimonial({
   )
 }
 
-export function Testimonials() {
+export function Experts() {
   return (
-    <section className="py-8 sm:py-10 lg:py-16">
+    <section
+      id="experts"
+      aria-labelledby="experts-title"
+      className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32"
+    >
       <Container className="text-center">
-        <h2 className="font-display text-4xl font-bold tracking-tight text-slate-900">
-          Some kind words from early customers...
-        </h2>
-        <p className="mt-4 text-lg tracking-tight text-slate-600">
-          I worked with a small group of early access customers to make sure all
-          of the content in the book was exactly what they needed. Hears what
-          they had to say about the finished product.
+        <SectionHeading number="4" id="experts-title">
+          Experts signataires
+        </SectionHeading>
+        <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
+          Tous ces experts sont concerné·e·s par les risques de l'IA
+        </p>
+        <p className="mt-4 text-lg tracking-tight text-slate-700">
+          Nous avons l'honneur de présenter une liste distinguée d'experts qui
+          ont approuvé notre contre-rapport. Ces signataires représentent une
+          diversité de domaines, y compris l'intelligence artificielle,
+          l'éthique, les politiques publiques et la technologie. Leur expertise
+          collective et leur soutien soulignent la crédibilité et l'importance
+          de nos conclusions. En unissant nos forces, nous visons à promouvoir
+          une approche plus responsable et éthique du développement et de la
+          régulation de l'IA en France.
         </p>
       </Container>
       <Expandable className="group mt-16">
