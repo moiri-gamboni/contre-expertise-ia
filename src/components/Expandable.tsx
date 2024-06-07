@@ -1,5 +1,6 @@
 'use client'
 
+import { Transition } from '@headlessui/react'
 import { Children, createContext, useContext, useState } from 'react'
 
 function ArrowDownIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
@@ -47,8 +48,27 @@ export function ExpandableItems({
   limit?: number
 }) {
   let { isExpanded } = useContext(ExpandableContext)
+  const prefersReducedMotion = !window.matchMedia('(prefers-reduced-motion: no-preference)').matches
+  
+  return (
+    <>
+      {Children.toArray(children).slice(0, limit)}
 
-  return Children.toArray(children).slice(0, isExpanded ? undefined : limit)
+      <Transition
+        show={isExpanded}
+        enter={prefersReducedMotion ? "" : "transition-opacity duration-300"}
+        enterFrom="opacity-0"
+        enterTo="opacity-100"
+      >
+        <div>
+          {Children.toArray(children).slice(
+            limit,
+            isExpanded ? undefined : limit,
+          )}
+        </div>
+      </Transition>
+    </>
+  )
 }
 
 export function ExpandableButton({ children }: { children: React.ReactNode }) {
