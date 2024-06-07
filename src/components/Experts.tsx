@@ -147,7 +147,7 @@ export function Experts({ expanded = false }) {
     <section
       id="experts"
       aria-labelledby="experts-title"
-      className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32"
+      className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32 mb-8"
     >
       <Container className="text-center">
         <SectionHeading number="4" id="experts-title">
