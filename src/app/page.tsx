@@ -9,10 +9,10 @@ import { Resources } from '@/components/Resources'
 import { Screencasts } from '@/components/Screencasts'
 import { TableOfContents } from '@/components/TableOfContents'
 import { Testimonial } from '@/components/Testimonial'
-import { Experts } from '@/components/Experts'
 import avatarImage1 from '@/images/avatars/avatar-1.png'
 import avatarImage2 from '@/images/avatars/avatar-2.png'
-import Report from './contre-expertise/page'
+import { Report } from '@/components/Report'
+import { Experts } from '@/components/Experts'
 
 export default function Home() {
   return (
@@ -22,6 +22,7 @@ export default function Home() {
       <NavBar />
       <Report />
       <Experts />
+
       <TableOfContents />
       <Testimonial
         id="testimonial-from-tommy-stroman"
