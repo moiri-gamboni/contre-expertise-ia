@@ -5,7 +5,7 @@ export default function FullReport() {
   return (
     <>
       <Report />
-      <Experts />
+      <Experts expanded={true} />
     </>
   )
 }

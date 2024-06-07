@@ -22,8 +22,8 @@ const ExpandableContext = createContext({
   expand: () => {},
 })
 
-export function Expandable(props: React.ComponentPropsWithoutRef<'div'>) {
-  let [isExpanded, setIsExpanded] = useState(false)
+export function Expandable({ expanded = false, ...props }: { expanded?: boolean } & React.ComponentPropsWithoutRef<'div'>) {
+  let [isExpanded, setIsExpanded] = useState(expanded)
 
   return (
     <ExpandableContext.Provider

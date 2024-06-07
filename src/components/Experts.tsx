@@ -142,7 +142,7 @@ function Testimonial({
   )
 }
 
-export function Experts() {
+export function Experts({ expanded = false }) {
   return (
     <section
       id="experts"
@@ -167,7 +167,7 @@ export function Experts() {
           régulation de l'IA en France.
         </p>
       </Container>
-      <Expandable className="group mt-16">
+      <Expandable expanded={expanded} className="group mt-16">
         <ul
           role="list"
           className="mx-auto grid max-w-2xl grid-cols-1 gap-8 px-4 lg:max-w-7xl lg:grid-cols-3 lg:px-8"
