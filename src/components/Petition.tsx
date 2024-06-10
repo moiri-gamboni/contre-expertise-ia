@@ -3,6 +3,7 @@ import { Container } from "./Container";
 import { SectionHeading } from "./SectionHeading";
 
 import petitionBg from '@/images/cover.png'
+import { Button } from "./Button";
 
 export function Petition() {
   return (
@@ -24,7 +25,7 @@ export function Petition() {
                 <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
                   <span className="block sm:inline">Chaque signature est importante</span>
                 </h2>
-                <p className="mt-3 text-xl text-white">
+                <p className="mt-3 text-xl text-white tracking-tight">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, nulla et volutpat tincidunt, ligula nisi facilisis purus, et bibendum risus eros in orci.
                 </p>
                 <Button variant="large" color="slate" className="mt-8">
