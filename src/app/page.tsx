@@ -13,6 +13,7 @@ import avatarImage1 from '@/images/avatars/avatar-1.png'
 import avatarImage2 from '@/images/avatars/avatar-2.png'
 import { Report } from '@/components/Report'
 import { Experts } from '@/components/Experts'
+import { Petition } from '@/components/Petition'
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <NavBar />
       <Report />
       <Experts />
+      <Petition />
 
       <TableOfContents />
       <Testimonial
