@@ -1,5 +1,5 @@
 import Image, { ImageProps } from 'next/image'
-import Link from 'next/link'
+import StyledLink from '@/components/StyledLink'
 import type { MDXComponents } from 'mdx/types'
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
@@ -34,10 +34,9 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
         {...props}
       />
     ),
-    li: (props) => <li className="pl-4 marker:text-brand-600" {...props} />,
+    li: (props) => <li className="pl-4 marker:text-brand-700" {...props} />,
     a: ({ href = '#', ...props }) => (
-      <Link
-        className="font-medium text-brand-600 hover:text-brand-800"
+      <StyledLink
         href={href}
         {...props}
       />

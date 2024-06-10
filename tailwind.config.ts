@@ -2,7 +2,7 @@ import { type Config } from 'tailwindcss'
 import defaultTheme from 'tailwindcss/defaultTheme'
 
 export default {
-  content: ['./src/**/*.{js,jsx,ts,tsx,mdx}','./mdx-components.tsx'],
+  content: ['./src/**/*.{js,jsx,ts,tsx,mdx}', './mdx-components.tsx'],
   theme: {
     boxShadow: {
       sm: '0 2px 6px rgb(15 23 42 / 0.08)',
@@ -36,18 +36,24 @@ export default {
         display: ['Cabinet Grotesk', ...defaultTheme.fontFamily.sans],
       },
       colors: {
+        // contrast > 3.0 (14pt bold text, 18pt normal text, graphical elements)
+        // contrast > 4.5 (other text)
         brand: {
-          50: '#FFF5EB',
-          100: '#FFECD6',
-          200: '#FFDBB3',
-          300: '#FFC88A',
-          400: '#FFB866',
-          500: '#FFA945',
-          600: '#FF9416',
-          700: '#E6891D',
-          800: '#8A4900',
-          900: '#472600',
-          950: '#241300',
+          50: '#fefcee',
+          100: '#fcf1cc',
+          200: '#fbe196',
+          300: '#fbca5b',
+          400: '#faae2d',
+          500: '#ff9416', // PauseAI Brand
+          // colors below > 3.0 contrast over white
+          600: '#e67011',
+          // colors below > 4.5 contrast over white
+          700: '#c05211',
+          // colors above > 4.5 contrast over black
+          800: '#963d10',
+          // colors above > 3.0 contrast over black
+          900: '#793210',
+          950: '#431407',
         },
       },
     },

@@ -80,7 +80,7 @@ export function Introduction() {
         <p className="mt-10">
           <Link
             href="#petition"
-            className="text-base font-medium text-brand-600 hover:text-brand-800"
+            className="text-base font-medium text-brand-700 hover:text-brand-900"
           >
             Signez notre pétition{' '}
             <span aria-hidden="true">&rarr;</span>
