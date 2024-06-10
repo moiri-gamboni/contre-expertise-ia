@@ -27,12 +27,9 @@ export function Petition() {
                 <p className="mt-3 text-xl text-white">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, nulla et volutpat tincidunt, ligula nisi facilisis purus, et bibendum risus eros in orci.
                 </p>
-                <a
-                  href="#"
-                  className="mt-8 block w-full rounded-md border border-transparent bg-white px-8 py-3 text-base font-semibold text-gray-900 hover:bg-gray-100 sm:w-auto"
-                >
+                <Button variant="large" color="slate" className="mt-8">
                   Demander un nouveau rapport
-                </a>
+                </Button>
               </div>
             </div>
           </div>
