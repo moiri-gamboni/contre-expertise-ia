@@ -10,13 +10,13 @@ export function Petition() {
     <section
       id="petition"
       aria-labelledby="petition-title"
-      className="scroll-mt-14 py-16 sm:scroll-mt-32 sm:py-20 lg:py-32"
+      className="-scroll-mt-14 py-16 sm:scroll-mt-16 sm:py-20 lg:py-32"
     >
-      <Container>
+      {/* <Container>
         <SectionHeading number="6" id="petition-title">
           Petition
         </SectionHeading>
-      </Container>
+      </Container> */}
       <div className="bg-white">
         <div className="mx-auto py-16 sm:py-24">
           <div className="relative overflow-hidden">
