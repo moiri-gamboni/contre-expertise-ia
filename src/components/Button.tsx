@@ -6,6 +6,8 @@ const baseStyles = {
     'inline-flex justify-center rounded-md py-1 px-4 text-base font-semibold tracking-tight shadow-sm focus:outline-none',
   outline:
     'inline-flex justify-center rounded-md border py-[calc(theme(spacing.1)-1px)] px-[calc(theme(spacing.4)-1px)] text-base font-semibold tracking-tight focus:outline-none',
+  large:
+    'inline-flex justify-center rounded-md py-3 px-8 text-base font-semibold tracking-tight shadow-sm focus:outline-none',
 }
 
 const variantStyles = {
@@ -22,7 +24,12 @@ const variantStyles = {
     slate:
       'border-slate-200 text-slate-900 hover:border-slate-300 hover:bg-slate-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-600 active:border-slate-200 active:bg-slate-50 active:text-slate-900/70 disabled:opacity-40 disabled:hover:border-slate-200 disabled:hover:bg-transparent',
     blue: 'border-blue-300 text-blue-600 hover:border-blue-400 hover:bg-blue-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 active:text-blue-600/70 disabled:opacity-40 disabled:hover:border-blue-300 disabled:hover:bg-transparent',
-    brand: 'border-brand-300 text-brand-600 hover:border-brand-400 hover:bg-brand-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600 active:text-brand-600/70 disabled:opacity-40 disabled:hover:border-brand-300 disabled:hover:bg-transparent',
+    brand:
+      'border-brand-300 text-brand-600 hover:border-brand-400 hover:bg-brand-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600 active:text-brand-600/70 disabled:opacity-40 disabled:hover:border-brand-300 disabled:hover:bg-transparent',
+  },
+  large: {
+    slate:
+      'bg-white text-slate-900 hover:bg-slate-100 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-900 active:bg-slate-50 active:text-slate-900/80 disabled:opacity-30 disabled:hover:bg-slate-600',
   },
 }
 
@@ -35,6 +42,10 @@ type ButtonProps = (
       variant: 'outline'
       color?: keyof typeof variantStyles.outline
     }
+  | {
+      variant: 'large'
+      color?: keyof typeof variantStyles.large
+    }
 ) &
   (
     | Omit<React.ComponentPropsWithoutRef<typeof Link>, 'color'>
@@ -46,14 +57,20 @@ type ButtonProps = (
 export function Button({ className, ...props }: ButtonProps) {
   props.variant ??= 'solid'
   props.color ??= 'slate'
+  let variantStyle = undefined
+  if (props.variant === 'outline') {
+    variantStyle = variantStyles.outline[props.color]
+  }
+  else if (props.variant === 'solid') {
+    variantStyle = variantStyles.solid[props.color]
+  }
+  else if (props.variant === 'large') {
+    variantStyle = variantStyles.large[props.color]
+  }
 
   className = clsx(
     baseStyles[props.variant],
-    props.variant === 'outline'
-      ? variantStyles.outline[props.color]
-      : props.variant === 'solid'
-        ? variantStyles.solid[props.color]
-        : undefined,
+    variantStyle,
     className,
   )
 

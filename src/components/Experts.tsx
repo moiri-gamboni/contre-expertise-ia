@@ -149,7 +149,7 @@ export function Experts({ expanded = false }) {
       aria-labelledby="experts-title"
       className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32 mb-8"
     >
-      <Container className="text-center">
+      <Container className="text-left">
         <SectionHeading number="4" id="experts-title">
           Experts signataires
         </SectionHeading>
