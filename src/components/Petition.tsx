@@ -20,7 +20,7 @@ export function Petition() {
         <div className="mx-auto py-16 sm:py-24">
           <div className="relative overflow-hidden">
             <div className="relative bg-brand-600 px-6 py-32 sm:px-12 sm:py-40 lg:px-16">
-              <div className="relative mx-auto flex max-w-3xl flex-col items-center text-center">
+              <div className="relative mx-auto flex max-w-3xl flex-col items-center text-left lg:text-center">
                 <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
                   <span className="block sm:inline">Chaque signature est importante</span>
                 </h2>

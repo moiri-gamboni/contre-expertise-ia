@@ -156,7 +156,7 @@ export function Experts({ expanded = false }) {
         <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
           Tous ces experts sont concerné·e·s par les risques de l'IA
         </p>
-        <p className="mt-4 text-lg tracking-tight text-slate-700">
+        <p className="mt-4 text-lg text-left tracking-tight text-slate-700">
           Nous avons l'honneur de présenter une liste distinguée d'experts qui
           ont approuvé notre contre-rapport. Ces signataires représentent une
           diversité de domaines, y compris l'intelligence artificielle,
