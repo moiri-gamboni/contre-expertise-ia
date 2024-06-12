@@ -33,7 +33,11 @@ export function Petition() {
                   vehicula, nulla et volutpat tincidunt, ligula nisi facilisis
                   purus, et bibendum risus eros in orci.
                 </p>
-                <Button variant="large" color="white" className="mt-8">
+                <Button
+                  variant="solid"
+                  color="white"
+                  className="mt-8 px-8 py-3"
+                >
                   Demander un nouveau rapport
                 </Button>
               </div>
