@@ -5,7 +5,7 @@ import { NavBar } from '@/components/NavBar'
 import Associations from '@/components/Associations'
 // import avatarImage1 from '@/images/avatars/avatar-1.png'
 import { Report } from '@/components/Report'
-import { Experts } from '@/components/Experts'
+import Experts from '@/components/Experts'
 import { Petition } from '@/components/Petition'
 
 export default function Home() {
