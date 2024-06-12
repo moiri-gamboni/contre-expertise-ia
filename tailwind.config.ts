@@ -39,21 +39,21 @@ export default {
         // contrast > 3.0 (14pt bold text, 18pt normal text, graphical elements)
         // contrast > 4.5 (other text)
         brand: {
-          50: '#fefcee',
-          100: '#fcf1cc',
-          200: '#fbe196',
-          300: '#fbca5b',
-          400: '#faae2d',
+          50: '#fefcef',
+          100: '#fff2c2',
+          200: '#ffe296',
+          300: '#ffcc64',
+          400: '#fdb22d',
           500: '#ff9416', // PauseAI Brand
           // colors below > 3.0 contrast over white
-          600: '#e67011',
+          600: '#e47402',
           // colors below > 4.5 contrast over white
-          700: '#c05211',
+          700: '#bf5902',
           // colors above > 4.5 contrast over black
-          800: '#963d10',
+          800: '#993d08',
           // colors above > 3.0 contrast over black
-          900: '#793210',
-          950: '#431407',
+          900: '#612008',
+          950: '#1f0300',
         },
       },
     },
