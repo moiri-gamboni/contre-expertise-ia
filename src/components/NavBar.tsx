@@ -11,7 +11,6 @@ const sections = [
   { id: 'experts', title: 'Experts' },
   { id: 'associations', title: 'Associations' },
   { id: 'petition', title: 'Pétition' },
-  { id: 'conference', title: 'Conférence de presse' },
 ]
 
 function MenuIcon({
