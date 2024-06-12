@@ -127,6 +127,25 @@ const experts: Array<Person> = [
   },
 ]
 
+function Expert(expert: Person) {
+  return (
+    <>
+      {expert.image ?
+        <Image
+          className="mx-auto h-24 w-24 rounded-full"
+          src={expert.image}
+          alt={`portrait of ${expert.name}`}
+        /> :
+        <div className="mx-auto h-24 w-24 rounded-full bg-slate-200" />
+      }
+      <h3 className="mt-6 text-base font-semibold leading-7 tracking-tight text-gray-900">
+        {expert.name}
+      </h3>
+      <p className="text-sm leading-6 text-gray-600">{expert.role}</p>
+    </>
+  )
+}
+
 export default function Experts() {
   return (
     <section
@@ -160,18 +179,7 @@ export default function Experts() {
           >
             {experts.map((expert) => (
               <li key={expert.name}>
-                {expert.image ?
-                  <Image
-                    className="mx-auto h-24 w-24 rounded-full"
-                    src={expert.image}
-                    alt={`portrait of ${expert.name}`}
-                  /> :
-                  <div className="mx-auto h-24 w-24 rounded-full bg-slate-200" />
-                }
-                <h3 className="mt-6 text-base font-semibold leading-7 tracking-tight text-gray-900">
-                  {expert.name}
-                </h3>
-                <p className="text-sm leading-6 text-gray-600">{expert.role}</p>
+                <Expert {...expert} />
               </li>
             ))}
           </ul>
