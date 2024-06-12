@@ -21,7 +21,7 @@ import { SectionHeading } from './SectionHeading'
 interface Person {
   name: string
   role: string
-  image: StaticImageData
+  image?: StaticImageData
 }
 
 const experts: Array<Person> = [
@@ -33,7 +33,7 @@ const experts: Array<Person> = [
   {
     name: 'Lynn Nolan',
     role: 'Growth Marketer',
-    image: avatarImage4,
+    // image: avatarImage4,
   },
   {
     name: 'Krista Prosacco',
@@ -160,11 +160,14 @@ export default function Experts() {
           >
             {experts.map((expert) => (
               <li key={expert.name}>
-                <Image
-                  className="mx-auto h-24 w-24 rounded-full"
-                  src={expert.image}
-                  alt={`portrait of ${expert.name}`}
-                />
+                {expert.image ?
+                  <Image
+                    className="mx-auto h-24 w-24 rounded-full"
+                    src={expert.image}
+                    alt={`portrait of ${expert.name}`}
+                  /> :
+                  <div className="mx-auto h-24 w-24 rounded-full bg-slate-200" />
+                }
                 <h3 className="mt-6 text-base font-semibold leading-7 tracking-tight text-gray-900">
                   {expert.name}
                 </h3>
