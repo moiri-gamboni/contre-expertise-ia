@@ -4,6 +4,8 @@ import clsx from 'clsx'
 import { Container } from '@/components/Container'
 import { SectionHeading } from './SectionHeading'
 import { experts, Person } from '@/contre-expertise/experts'
+import { Disclosure, DisclosureButton, DisclosurePanel, Transition } from '@headlessui/react'
+import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 function Expert(expert: Person) {
   return (
@@ -24,12 +26,27 @@ function Expert(expert: Person) {
   )
 }
 
+function ExpertList({ experts }: { experts: Person[] }) {
+  return (
+    <ul
+      role="list"
+      className="mx-auto grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:mx-0 lg:max-w-none xl:grid-cols-6"
+    >
+      {experts.map((expert) => (
+        <li key={expert.name}>
+          <Expert {...expert} />
+        </li>
+      ))}
+    </ul>
+  )
+}
+
 export default function Experts() {
   return (
     <section
       id="experts"
       aria-labelledby="experts-title"
-      className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32 mb-8"
+      className="mb-8 scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32"
     >
       <Container className="text-left">
         <SectionHeading number="4" id="experts-title">
@@ -51,16 +68,27 @@ export default function Experts() {
       </Container>
       <div className="bg-white pt-24">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <ul
-            role="list"
-            className="mx-auto grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:mx-0 lg:max-w-none lg:grid-cols-5 xl:grid-cols-6"
-          >
-            {experts.map((expert) => (
-              <li key={expert.name}>
-                <Expert {...expert} />
-              </li>
-            ))}
-          </ul>
+          <ExpertList experts={experts.slice(0, 6)} />
+          <Disclosure as="div" className="mt-14 flex justify-center">
+            <Transition
+              enter="duration-200 ease-out"
+              enterFrom="opacity-0 -translate-y-6"
+              enterTo="opacity-100 translate-y-0"
+              leave="duration-300 ease-out"
+              leaveFrom="opacity-100 translate-y-0"
+              leaveTo="opacity-0 -translate-y-6"
+            >
+              <DisclosurePanel className="origin-top transition w-full">
+                <ExpertList experts={experts.slice(6)} />
+              </DisclosurePanel>
+            </Transition>
+            <DisclosureButton className="group h-5">
+              <div className="flex items-center text-base font-medium tracking-tight text-slate-900 hover:text-slate-700 group-data-[open]:hidden">
+                Voir plus de signataires
+                <ChevronDownIcon className="ml-2 size-5 fill-slate-900 group-data-[hover]:fill-slate-700" />
+              </div>
+            </DisclosureButton>
+          </Disclosure>
         </div>
       </div>
     </section>
