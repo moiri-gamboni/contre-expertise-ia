@@ -6,6 +6,7 @@ const baseStyles = {
     'inline-flex justify-center rounded-md py-1 px-4 text-base font-bold tracking-tight shadow-sm focus:outline-none',
   outline:
     'inline-flex justify-center rounded-md border py-[calc(theme(spacing.1)-1px)] px-[calc(theme(spacing.4)-1px)] text-base font-bold tracking-tight focus:outline-none',
+  card: 'inline-flex justify-center rounded-lg border p-6 sm:p-8 text-base font-bold tracking-tight shadow-sm focus:outline-none',
 }
 
 const variantStyles = {
@@ -25,6 +26,13 @@ const variantStyles = {
     brand:
       'border-brand-600 text-brand-700 hover:border-brand-700 hover:bg-brand-50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-700 active:text-brand-700/70 disabled:opacity-40 disabled:hover:border-brand-600 disabled:hover:bg-transparent',
   },
+  card: {
+    slate:
+      'border-slate-300 bg-white px-6 py-5 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 hover:border-slate-400',
+    light:
+      'border-slate-300 bg-white px-6 py-5 focus-visible:ring-2 focus-visible:ring-brand-500 focus-visible:ring-offset-2 hover:border-brand-300 hover:bg-brand-50 active:bg-brand-100 active:border-brand-400',
+    dark: 'border-slate-600 bg-slate-900 px-6 py-5 focus-visible:ring-2 focus-visible:ring-brand-500 focus-visible:ring-offset-2 hover:border-brand-800 hover:bg-brand-950 active:bg-brand-900 active:border-brand-600',
+  },
 }
 
 type ButtonProps = (
@@ -35,6 +43,10 @@ type ButtonProps = (
   | {
       variant: 'outline'
       color?: keyof typeof variantStyles.outline
+    }
+  | {
+      variant: 'card'
+      color?: keyof typeof variantStyles.card
     }
 ) &
   (
@@ -53,6 +65,9 @@ export function Button({ className, ...props }: ButtonProps) {
   }
   else if (props.variant === 'solid') {
     variantStyle = variantStyles.solid[props.color]
+  }
+  else if (props.variant === 'card') {
+    variantStyle = variantStyles.card[props.color]
   }
 
   className = clsx(
