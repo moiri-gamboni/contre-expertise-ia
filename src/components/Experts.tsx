@@ -41,7 +41,7 @@ function ExpertList({ experts }: { experts: Person[] }) {
   )
 }
 
-export default function Experts() {
+export default function Experts({ expanded = false }) {
   return (
     <section
       id="experts"
@@ -69,7 +69,7 @@ export default function Experts() {
       <div className="bg-white pt-24">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <ExpertList experts={experts.slice(0, 6)} />
-          <Disclosure as="div" className="mt-14 flex justify-center">
+          <Disclosure as="div" className="mt-14 flex justify-center" defaultOpen={expanded}>
             <Transition
               enter="duration-200 ease-out"
               enterFrom="opacity-0 -translate-y-6"

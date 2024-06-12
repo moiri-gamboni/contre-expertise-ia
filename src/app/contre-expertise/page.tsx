@@ -1,4 +1,5 @@
-import { Experts } from '@/components/Experts'
+import Associations from '@/components/Associations'
+import Experts from '@/components/Experts'
 import { Report } from '@/components/Report'
 
 export default function FullReport() {
@@ -6,6 +7,7 @@ export default function FullReport() {
     <>
       <Report />
       <Experts expanded={true} />
+      <Associations />
     </>
   )
 }
