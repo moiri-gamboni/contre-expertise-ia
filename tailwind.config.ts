@@ -40,10 +40,10 @@ export default {
         // contrast > 4.5 (other text)
         brand: {
           50: '#fefcef',
-          100: '#fff2c2',
-          200: '#ffe296',
-          300: '#ffcc64',
-          400: '#fdb22d',
+          100: '#faf2d4',
+          200: '#fae3a6',
+          300: '#fbcd71',
+          400: '#fbb33c',
           500: '#ff9416', // PauseAI Brand
           // colors below > 3.0 contrast over white
           600: '#e47402',
