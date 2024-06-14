@@ -7,6 +7,7 @@ import Associations from '@/components/Associations'
 import { Report } from '@/components/Report'
 import Experts from '@/components/Experts'
 import { Petition } from '@/components/Petition'
+import Contacts from '@/components/Contacts'
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Experts />
       <Associations />
       <Petition />
+      <Contacts />
       <Footer />
 
       {/* <Testimonial
