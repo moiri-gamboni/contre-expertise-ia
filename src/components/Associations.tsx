@@ -78,12 +78,10 @@ export default function Associations() {
                 href={association.url}
               >
                 <Image
-                  className="max-h-20 w-full object-contain"
+                  className="h-20 w-full object-contain "
                   src={association.image}
                   alt={`${association.title} logo`}
-                  width={158}
-                  height={48}
-                  style={{"fill": "white"}}
+                  style={{ fill: 'white' }}
                   unoptimized // image optimization should be disabled for SVGs
                 />
               </Button>
