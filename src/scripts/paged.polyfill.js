@@ -27445,29 +27445,26 @@
 }
 `;
 
-	async function request(url, options={}) {
-		return new Promise(function(resolve, reject) {
-			let request = new XMLHttpRequest();
+  async function request(url, options = {}) {
+    // Set up fetch options
+    const fetchOptions = {
+      method: options.method || 'GET',
+      headers: options.headers || {},
+      credentials:
+        options.credentials === 'include' ? 'include' : 'same-origin',
+      body: options.body || null,
+    }
 
-			request.open(options.method || "get", url, true);
+    try {
+      const response = await fetch(url, fetchOptions)
 
-			for (let i in options.headers) {
-				request.setRequestHeader(i, options.headers[i]);
-			}
-
-			request.withCredentials = options.credentials === "include";
-
-			request.onload = () => {
-				// Chrome returns a status code of 0 for local files
-				const status = request.status === 0 && url.startsWith("file://") ? 200 : request.status;
-				resolve(new Response(request.responseText, {status}));
-			};
-
-			request.onerror = reject;
-
-			request.send(options.body || null);
-		});
-	}
+      // Create a Response object to maintain API consistency with XMLHttpRequest example
+      const responseBody = await response.text()
+      return new Response(responseBody, { status: response.status })
+    } catch (error) {
+      return Promise.reject(error)
+    }
+  }
 
 	class Polisher {
 		constructor(setup) {
