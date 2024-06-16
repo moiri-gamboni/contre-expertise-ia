@@ -27,13 +27,13 @@ const associations: Array<Association> = [
     background: 'light',
   },
   {
-    title: 'Effisciences',
+    title: 'Effisciences2',
     image: effisciencesLogo,
     url: '#',
     background: 'dark',
   },
   {
-    title: 'Open AI',
+    title: 'Open AI2',
     image: openAIWhiteLogo,
     url: '#',
     background: 'dark',
