@@ -18,10 +18,13 @@ export function ReportSection({
     <section
       id={id}
       aria-labelledby={titleId}
-      className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32"
+      className="scroll-mt-14 pt-16 sm:scroll-mt-32 sm:pt-20 lg:pt-32 print:break-after-avoid"
       {...props}
     >
-      <SectionHeading id={titleId} number={number}>
+      <SectionHeading
+        id={titleId}
+        number={number}
+      >
         {navTitle}
       </SectionHeading>
       {children}

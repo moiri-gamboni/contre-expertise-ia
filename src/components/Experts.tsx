@@ -17,7 +17,11 @@ import { ChevronDownIcon } from '@heroicons/react/20/solid'
 import resolveConfig from 'tailwindcss/resolveConfig'
 import tailwindConfig from '../../tailwind.config'
 
+import { useContext } from 'react'
+import { PagedContext } from '@/components/PagedContext'
+
 function Expert(expert: Person) {
+  const paged = useContext(PagedContext)
   return (
     <>
       {expert.image ? (
@@ -25,6 +29,7 @@ function Expert(expert: Person) {
           className="mx-auto h-24 w-24 rounded-full"
           src={expert.image}
           alt={`portrait of ${expert.name}`}
+          loading={paged ? 'eager' : 'lazy'}
         />
       ) : (
         <div className="mx-auto h-24 w-24 rounded-full bg-slate-200" />
@@ -41,10 +46,10 @@ function ExpertList({ experts }: { experts: Person[] }) {
   return (
     <ul
       role="list"
-      className="mx-auto grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 lg:mx-0 lg:max-w-none xl:grid-cols-6"
+      className="mx-auto grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:mx-0 lg:max-w-none lg:grid-cols-5 xl:grid-cols-6 print:grid-cols-5 print:max-w-none print:mx-0"
     >
       {experts.map((expert) => (
-        <li key={expert.name}>
+        <li key={expert.name} className="print:break-inside-avoid">
           <Expert {...expert} />
         </li>
       ))}
@@ -52,15 +57,20 @@ function ExpertList({ experts }: { experts: Person[] }) {
   )
 }
 
-export default function Experts({ expanded = false }) {
+export default function Experts() {
   const [toDisplay, setToDisplay] = useState(6)
+  const paged = useContext(PagedContext)
   
   // calculate the number of experts to display based on the screen size
   useEffect(() => {
     const fullConfig = resolveConfig(tailwindConfig)
     const updateToDisplay = () => {
       const width = window.innerWidth
-      if (width >= Number.parseInt(fullConfig.theme.screens.xl.slice(0, -2))) {
+      if (paged) {
+        setToDisplay(experts.length)
+      } else if (
+        width >= Number.parseInt(fullConfig.theme.screens.xl.slice(0, -2))
+      ) {
         setToDisplay(12)
       } else if (
         width >= Number.parseInt(fullConfig.theme.screens.lg.slice(0, -2))
@@ -81,7 +91,7 @@ export default function Experts({ expanded = false }) {
     updateToDisplay()
     window.addEventListener('resize', updateToDisplay)
     return () => window.removeEventListener('resize', updateToDisplay)
-  }, [])
+  }, [paged])
 
   return (
     <section
@@ -113,7 +123,7 @@ export default function Experts({ expanded = false }) {
           <Disclosure
             as="div"
             className="mt-14 flex justify-center"
-            defaultOpen={expanded}
+            defaultOpen={paged}
           >
             <Transition
               enter="duration-200 ease-out"

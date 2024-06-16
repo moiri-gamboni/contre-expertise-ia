@@ -1,3 +1,5 @@
+'use client'
+
 import Image, { StaticImageData } from "next/image";
 import { Container } from "@/components/Container";
 import { SectionHeading } from "@/components/SectionHeading";
@@ -5,6 +7,9 @@ import effisciencesLogo from '@/images/associations/effisciences.svg'
 import openAILogo from '@/images/associations/open_ai.svg'
 import openAIWhiteLogo from '@/images/associations/open_ai_white.svg'
 import { Button } from "./Button";
+
+import { useContext } from 'react'
+import { PagedContext } from '@/components/PagedContext'
 
 interface Association {
   title: string
@@ -41,6 +46,7 @@ const associations: Array<Association> = [
 ]
 
 export default function Associations() {
+  const paged = useContext(PagedContext)
   return (
     <section
       id="associations"
@@ -69,13 +75,14 @@ export default function Associations() {
       <Container size="lg" className="mt-16">
         {/* <div className="bg-white py-24 sm:py-32"> */}
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="-mx-6 grid grid-cols-1 sm:grid-cols-2 gap-2 overflow-hidden sm:mx-0 md:grid-cols-3 p-1">
+          <div className="-mx-6 grid grid-cols-1 gap-2 overflow-hidden p-1 sm:mx-0 sm:grid-cols-2 md:grid-cols-3 print:grid-cols-3">
             {associations.map((association) => (
               <Button
                 variant="card"
                 color={association.background}
                 key={association.title}
                 href={association.url}
+                className="print:break-inside-avoid"
               >
                 <Image
                   className="h-20 w-full object-contain "
@@ -83,6 +90,7 @@ export default function Associations() {
                   alt={`${association.title} logo`}
                   style={{ fill: 'white' }}
                   unoptimized // image optimization should be disabled for SVGs
+                  loading={paged ? 'eager' : 'lazy'}
                 />
               </Button>
             ))}

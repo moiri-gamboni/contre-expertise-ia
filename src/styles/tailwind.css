@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @media print {
+    :root {
+      font-size: 70%;
+    }
+    section:not(#associations) a::after {
+      content: " (" attr(href) ")";
+    }
+    /* section {
+      break-after: page;
+    } */
+    /* #risques {
+      counter-reset: page 1;
+    } */
+    @page {
+      margin: 2.5cm;
+      size: A4 portrait;
+      @bottom-right-corner {
+        content: counter(page);
+        font-family: var(--font-inter);
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+      }
+    }
+    @page :first {
+      @bottom-right-corner {
+        content: none;
+      }
+    }
+  }
+}
