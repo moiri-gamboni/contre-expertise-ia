@@ -47,7 +47,7 @@ const Contacts = () => {
   return (
     <div className="py-16">
       <Container>
-        <h2 className="font-bold text-center text-3xl sm:text-4xl text-slate-700 tracking-tight">
+        <h2 className="font-display font-bold text-center text-4xl text-slate-900 tracking-tight">
           Contacter les associations
         </h2>
         <div className="text-xl mx-auto mt-12 grid max-w-lg grid-cols-1 items-center gap-x-10 gap-y-12
