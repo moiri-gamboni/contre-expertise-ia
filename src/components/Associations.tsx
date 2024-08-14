@@ -20,28 +20,22 @@ interface Association {
 
 const associations: Array<Association> = [
   {
-    title: 'Effisciences',
-    image: effisciencesLogo,
-    url: '#',
-    background: 'light',
-  },
-  {
     title: 'Open AI',
     image: openAILogo,
     url: '#',
     background: 'light',
   },
   {
-    title: 'Effisciences2',
-    image: effisciencesLogo,
-    url: '#',
-    background: 'dark',
-  },
-  {
     title: 'Open AI2',
     image: openAIWhiteLogo,
     url: '#',
     background: 'dark',
+  },
+  {
+    title: 'Open AI3',
+    image: openAILogo,
+    url: '#',
+    background: 'light',
   },
 ]
 
