@@ -156,7 +156,7 @@ export function NavBar() {
         >
           {sections.map((section, sectionIndex) => (
             <li key={section.id} className="flex [counter-increment:section]">
-              <a
+              <Link
                 href={`#${section.id}`}
                 className={clsx(
                   'flex w-full flex-col items-center justify-center border-b-2 before:mb-2 before:font-mono before:text-sm before:content-[counter(section,decimal-leading-zero)]',
@@ -166,7 +166,7 @@ export function NavBar() {
                 )}
               >
                 {section.title}
-              </a>
+              </Link>
             </li>
           ))}
         </ol>
