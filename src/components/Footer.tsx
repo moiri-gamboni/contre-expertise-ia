@@ -3,11 +3,8 @@ import Link from 'next/link'
 
 export function Footer() {
   return (
-    <footer className="relative pb-20 pt-5 sm:pb-32 sm:pt-14">
-      <div className="absolute inset-x-0 top-0 h-32 text-slate-900/10 [mask-image:linear-gradient(white,transparent)]">
-        <GridPattern x="50%" />
-      </div>
-      <div className="relative text-center text-sm text-slate-600">
+    <footer className="relative border-t pb-10 pt-5 sm:pb-20 sm:pt-10">
+      <div className="relative text-center text-base text-slate-600">
         <Link href="/mentions-legales">Mentions légales</Link>
       </div>
     </footer>
