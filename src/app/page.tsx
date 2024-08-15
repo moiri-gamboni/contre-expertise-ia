@@ -5,7 +5,7 @@ import { NavBar } from '@/components/NavBar'
 import Associations from '@/components/Associations'
 // import avatarImage1 from '@/images/avatars/avatar-1.png'
 import { Report } from '@/components/Report'
-import Experts from '@/components/Experts'
+import Signataires from '@/components/Signataires'
 import { Petition } from '@/components/Petition'
 import Contacts from '@/components/Contacts'
 
@@ -16,8 +16,8 @@ export default function Home() {
       <Introduction />
       <NavBar />
       <Report />
-      <Experts />
-      <Associations />
+      <Signataires />
+      {/* <Associations /> */}
       <Petition />
       <Contacts />
       <Footer />

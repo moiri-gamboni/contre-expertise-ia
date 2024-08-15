@@ -2,7 +2,7 @@
 
 import Associations from '@/components/Associations'
 import { Container } from '@/components/Container'
-import Experts from '@/components/Experts'
+import Signataires from '@/components/Signataires'
 import { Report } from '@/components/Report'
 import Script from 'next/script'
 import '@/styles/paged.css'
@@ -24,7 +24,7 @@ export default function FullReport() {
         </Container>
       </section>
       <Report />
-      <Experts />
+      <Signataires />
       <Associations />
     </PagedContext.Provider>
   )

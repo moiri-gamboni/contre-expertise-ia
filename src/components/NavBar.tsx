@@ -3,13 +3,13 @@
 import { useEffect, useRef, useState } from 'react'
 import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
 import clsx from 'clsx'
+import Link from 'next/link'
 
 const sections = [
   { id: 'risques', title: 'Risques de l’IA' },
   { id: 'conflits', title: 'Conflits d’intérêts' },
   { id: 'solutions', title: 'Solutions' },
-  { id: 'experts', title: 'Experts' },
-  { id: 'associations', title: 'Associations' },
+  { id: 'signataires', title: 'Signataires' },
   { id: 'petition', title: 'Pétition' },
 ]
 
