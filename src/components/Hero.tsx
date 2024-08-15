@@ -2,7 +2,6 @@ import Image from 'next/image'
 
 import { Button } from '@/components/Button'
 import { GridPattern } from '@/components/GridPattern'
-import { StarRating } from '@/components/StarRating'
 import coverImage from '@/images/rapport.png'
 
 function Testimonial() {
