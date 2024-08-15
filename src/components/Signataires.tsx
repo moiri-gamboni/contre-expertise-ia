@@ -1,12 +1,8 @@
 'use client'
-
 import React, { useState, useEffect } from 'react'
-import Image from 'next/image'
-import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import { SectionHeading } from './SectionHeading'
-import { experts, Person } from '@/contre-expertise/experts'
 import {
   Disclosure,
   DisclosureButton,
@@ -19,45 +15,9 @@ import tailwindConfig from '../../tailwind.config'
 
 import { useContext } from 'react'
 import { PagedContext } from '@/components/PagedContext'
-import { associations } from '@/contre-expertise/associations'
-import { Button } from './Button'
-
-function Expert(expert: Person) {
-  const paged = useContext(PagedContext)
-  return (
-    <>
-      {expert.image ? (
-        <Image
-          className="mx-auto h-24 w-24 rounded-full"
-          src={expert.image}
-          alt={`portrait of ${expert.name}`}
-          loading={paged ? 'eager' : 'lazy'}
-        />
-      ) : (
-        <div className="mx-auto h-24 w-24 rounded-full bg-slate-200" />
-      )}
-      <h3 className="mt-6 text-base font-semibold leading-7 tracking-tight text-gray-900">
-        {expert.name}
-      </h3>
-      <p className="text-sm leading-6 text-gray-600">{expert.role}</p>
-    </>
-  )
-}
-
-function ExpertList({ experts }: { experts: Person[] }) {
-  return (
-    <ul
-      role="list"
-      className="mx-auto grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:mx-0 lg:max-w-none lg:grid-cols-5 xl:grid-cols-6 print:grid-cols-5 print:max-w-none print:mx-0"
-    >
-      {experts.map((expert) => (
-        <li key={expert.name} className="print:break-inside-avoid">
-          <Expert {...expert} />
-        </li>
-      ))}
-    </ul>
-  )
-}
+import { associations, experts } from '@/contre-expertise/signataires'
+import { ExpertList } from './ExpertList'
+import { AssociationList } from './AssociationList'
 
 export default function Signataires() {
   const [toDisplay, setToDisplay] = useState(6)
@@ -164,32 +124,7 @@ export default function Signataires() {
           le bien public.
         </p>
       </Container>
-      <Container size="lg" className="mt-16">
-        {/* <div className="bg-white py-24 sm:py-32"> */}
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="-mx-6 grid grid-cols-1 gap-2 overflow-hidden p-1 sm:mx-0 sm:grid-cols-2 md:grid-cols-3 print:grid-cols-3">
-            {associations.map((association) => (
-              <Button
-                variant="card"
-                color={association.background}
-                key={association.title}
-                href={association.url}
-                className="print:break-inside-avoid"
-              >
-                <Image
-                  className="h-20 w-full object-contain "
-                  src={association.image}
-                  alt={`${association.title} logo`}
-                  style={{ fill: 'white' }}
-                  unoptimized // image optimization should be disabled for SVGs
-                  loading={paged ? 'eager' : 'lazy'}
-                />
-              </Button>
-            ))}
-          </div>
-        </div>
-        {/* </div> */}
-      </Container>
+      <AssociationList associations={associations} />
     </section>
   )
 }

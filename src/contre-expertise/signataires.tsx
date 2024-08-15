@@ -1,3 +1,5 @@
+import openAILogo from '@/images/associations/open_ai.svg'
+import openAIWhiteLogo from '@/images/associations/open_ai_white.svg'
 import avatarImage3 from '@/images/avatars/avatar-3.png'
 import avatarImage4 from '@/images/avatars/avatar-4.png'
 import avatarImage5 from '@/images/avatars/avatar-5.png'
@@ -7,13 +9,30 @@ import avatarImage8 from '@/images/avatars/avatar-8.png'
 import avatarImage9 from '@/images/avatars/avatar-9.png'
 import avatarImage10 from '@/images/avatars/avatar-10.png'
 import avatarImage11 from '@/images/avatars/avatar-11.png'
-import { StaticImageData } from 'next/image'
 
-export interface Person {
-  name: string
-  role: string
-  image?: StaticImageData
-}
+import { Association } from "@/components/AssociationList"
+import { Person } from '@/components/ExpertList'
+
+export const associations: Array<Association> = [
+  {
+    title: 'Open AI',
+    image: openAILogo,
+    url: '#',
+    background: 'light',
+  },
+  {
+    title: 'Open AI2',
+    image: openAIWhiteLogo,
+    url: '#',
+    background: 'dark',
+  },
+  {
+    title: 'Open AI3',
+    image: openAILogo,
+    url: '#',
+    background: 'light',
+  },
+]
 
 export const experts: Array<Person> = [
   {
