@@ -8,12 +8,14 @@ import { Report } from '@/components/Report'
 import Signataires from '@/components/Signataires'
 import { Petition } from '@/components/Petition'
 import Contacts from '@/components/Contacts'
+import Contributors from '@/components/Contributors'
 
 export default function Home() {
   return (
     <>
       <Hero />
       <Introduction />
+      <Contributors />
       <NavBar />
       <Report />
       <Signataires />
