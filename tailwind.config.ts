@@ -56,6 +56,9 @@ export default {
           950: '#1f0300',
         },
       },
+      screens: {
+        '3xl': '1920px',
+      }
     },
   },
   plugins: [],

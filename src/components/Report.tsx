@@ -7,7 +7,7 @@ import { ReportSection } from '@/components/ReportSection'
 export function Report() {
   return (
     <Container className="text-lg tracking-tight text-slate-700">
-      <ReportSection id="risques" number="1" navTitle="Risques de l’IA">
+      <ReportSection id="risques" number="1" navTitle="Risques de l’IA" className='print:pt-0'>
         <Risques />
       </ReportSection>
       <ReportSection id="conflits" number="2" navTitle="Conflits d’intérêts">
