@@ -13,7 +13,7 @@ export interface Association {
 
 export function AssociationList({associations}: {associations: Array<Association>}) {
   const paged = useContext(PagedContext)
-  return <Container size="lg" className="mt-16">
+  return <Container className="mt-16">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="-mx-6 grid grid-cols-1 gap-2 overflow-hidden p-1 sm:mx-0 sm:grid-cols-2 md:grid-cols-3 print:grid-cols-3">
         {associations.map((association) => (

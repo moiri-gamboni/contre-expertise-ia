@@ -66,7 +66,7 @@ export default function Associations() {
           le bien public.
         </p>
       </Container>
-      <Container size="lg" className="mt-16">
+      <Container className="mt-16">
         {/* <div className="bg-white py-24 sm:py-32"> */}
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="-mx-6 grid grid-cols-1 gap-2 overflow-hidden p-1 sm:mx-0 sm:grid-cols-2 md:grid-cols-3 print:grid-cols-3">
