@@ -8,6 +8,12 @@ const outputPath = path.join(
   'contre-expertise',
   'processed.mdx',
 )
+const metadataPath = path.join(
+  __dirname,
+  'src',
+  'contre-expertise',
+  'metadata.json',
+)
 
 const imports = `import { Sidenote } from '@/components/Sidenote'
 import { ReportSection } from '@/components/ReportSection'
@@ -24,6 +30,22 @@ try {
   // Remove the comment at the end and the footnotes section
   content = content.replace(/<!-- Footnotes[\s\S]*$/, '')
 
+  // Extract the title (first second-level heading) and remove it
+  const titleRegex = /^## (.+)$/m
+  const titleMatch = content.match(titleRegex)
+  let title = ''
+  if (titleMatch) {
+    title = titleMatch[1]
+    // Remove the title from the content using the same regex
+    content = content.replace(titleRegex, '')
+  }
+
+  // Create metadata object
+  const metadata = { title }
+
+  // Write metadata to JSON file
+  fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2))
+
   // Trim any extra whitespace
   content = content.trim()
 
@@ -34,6 +56,7 @@ try {
   fs.writeFileSync(outputPath, content)
 
   console.log('Contre-expertise processed successfully!')
+  console.log('Metadata extracted and saved.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }

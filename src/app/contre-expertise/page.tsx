@@ -7,6 +7,7 @@ import { Report } from '@/components/Report'
 import Script from 'next/script'
 import '@/styles/paged.css'
 import { PagedContext } from '@/components/PagedContext'
+import {title} from '@/contre-expertise/metadata.json'
 
 export default function FullReport() {
   return (
@@ -19,7 +20,7 @@ export default function FullReport() {
       >
         <Container className="text-center text-lg tracking-tight text-slate-700">
           <h1 className="font-display text-6xl font-bold tracking-tight text-slate-900">
-            Contre-expertise IA
+            {title}
           </h1>
         </Container>
       </section>
