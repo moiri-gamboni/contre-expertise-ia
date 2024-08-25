@@ -9,6 +9,11 @@ const outputPath = path.join(
   'processed.mdx',
 )
 
+const imports = `import { Sidenote } from '@/components/Sidenote'
+import { ReportSection } from '@/components/ReportSection'
+
+`
+
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
@@ -21,6 +26,9 @@ try {
 
   // Trim any extra whitespace
   content = content.trim()
+
+  // Add the import statements at the beginning of the file
+  content = imports + content
 
   // Write the processed contents to the processed.mdx file
   fs.writeFileSync(outputPath, content)
