@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <Hero />
       <Introduction />
-      <Contributors />
+      {/* <Contributors /> */}
       <NavBar />
       <Report />
       <Signataires />

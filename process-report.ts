@@ -14,6 +14,7 @@ const metadataPath = path.join(
   'contre-expertise',
   'metadata.json',
 )
+const resumePath = path.join(__dirname, 'src', 'contre-expertise', 'resume.mdx')
 
 const imports = `import { Sidenote } from '@/components/Sidenote'
 import { ReportSection } from '@/components/ReportSection'
@@ -40,11 +41,25 @@ try {
     content = content.replace(titleRegex, '')
   }
 
+  // Extract the executive summary
+  const resumeRegex =
+    /^## Résumé Exécutif\n([\s\S]*?)(?=\n## Table des matières)/m
+  const resumeMatch = content.match(resumeRegex)
+  let resume = ''
+  if (resumeMatch) {
+    resume = resumeMatch[1].trim()
+    // Remove the executive summary from the main content
+    content = content.replace(resumeRegex, '')
+  }
+
   // Create metadata object
   const metadata = { title }
 
   // Write metadata to JSON file
   fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2))
+
+  // Write the executive summary to resume.mdx
+  fs.writeFileSync(resumePath, resume)
 
   // Trim any extra whitespace
   content = content.trim()
@@ -57,6 +72,7 @@ try {
 
   console.log('Contre-expertise processed successfully!')
   console.log('Metadata extracted and saved.')
+  console.log('Executive summary extracted and saved.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
