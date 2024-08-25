@@ -1,3 +1,53 @@
 {
-  "title": "Contre-Expertise au Rapport de la Commission de l’IA"
+  "title": "Contre-Expertise au Rapport de la Commission de l’IA",
+  "nav": [
+    {
+      "id": "introduction",
+      "title": "Introduction"
+    },
+    {
+      "id": "methodologie-et-approche",
+      "title": "Méthodologie et approche"
+    },
+    {
+      "id": "analyse-critique-du-rapport",
+      "title": "Analyse critique du rapport"
+    },
+    {
+      "id": "analyse-de-la-composition-de-la-commission-de-lia",
+      "title": "Analyse de la composition de la Commission de l’IA"
+    },
+    {
+      "id": "recommandations",
+      "title": "Recommandations"
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion"
+    },
+    {
+      "id": "validation-des-experts",
+      "title": "Validation des experts"
+    },
+    {
+      "id": "soutien-des-associations",
+      "title": "Soutien des associations"
+    },
+    {
+      "id": "a-propos-de-pause-ia",
+      "title": "A propos de Pause IA"
+    },
+    {
+      "id": "a-propos-des-auteurs",
+      "title": "A propos des auteurs"
+    },
+    {
+      "id": "annexes",
+      "title": "Annexes"
+    },
+    {
+      "id": "bibliographie",
+      "title": "Bibliographie"
+    }
+  ]
 }

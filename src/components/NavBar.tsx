@@ -4,14 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
 import clsx from 'clsx'
 import Link from 'next/link'
-
-const sections = [
-  { id: 'risques', title: 'Risques de l’IA' },
-  { id: 'conflits', title: 'Conflits d’intérêts' },
-  { id: 'solutions', title: 'Solutions' },
-  { id: 'signataires', title: 'Signataires' },
-  { id: 'petition', title: 'Pétition' },
-]
+import { nav as sections } from '@/contre-expertise/metadata.json'
 
 function MenuIcon({
   open,

@@ -21,6 +21,29 @@ import { ReportSection } from '@/components/ReportSection'
 
 `
 
+interface NavItem {
+  id: string
+  title: string
+}
+
+interface Metadata {
+  title: string
+  nav: NavItem[]
+}
+
+function createSlug(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[àáâãäå]/g, 'a')
+    .replace(/[èéêë]/g, 'e')
+    .replace(/[ìíîï]/g, 'i')
+    .replace(/[òóôõö]/g, 'o')
+    .replace(/[ùúûü]/g, 'u')
+    .replace(/[ç]/g, 'c')
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+}
+
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
@@ -37,7 +60,6 @@ try {
   let title = ''
   if (titleMatch) {
     title = titleMatch[1]
-    // Remove the title from the content using the same regex
     content = content.replace(titleRegex, '')
   }
 
@@ -47,7 +69,6 @@ try {
   let resume = ''
   if (resumeMatch) {
     resume = resumeMatch[1].trim()
-    // Remove the executive summary from the main content
     content = content.replace(resumeRegex, '')
   }
 
@@ -55,8 +76,35 @@ try {
   const tocRegex = /^## Table des matières\n([\s\S]*?)(?=\n## )/m
   content = content.replace(tocRegex, '')
 
+  // Process second-level headings
+  const headingRegex = /^## (.+)$/gm
+  const sections = content.split(headingRegex).slice(1)
+  let processedContent = ''
+  const nav: NavItem[] = []
+
+  for (let i = 0; i < sections.length; i += 2) {
+    const fullTitle = sections[i].trim()
+    const sectionContent = (sections[i + 1] || '').trim()
+
+    const numberMatch = fullTitle.match(/^(\d+\.?\s*)/)
+    const number = numberMatch ? numberMatch[1].trim() : ''
+    const navTitle = fullTitle.replace(/^\d+\.?\s*/, '').trim()
+    const id = createSlug(navTitle)
+
+    nav.push({ id, title: navTitle })
+
+    const classNameProp = i === 0 ? " className='print:pt-0'" : ''
+    const numberProp = number ? ` number="${number}"` : ''
+
+    processedContent += `<ReportSection id="${id}"${numberProp} navTitle="${navTitle}"${classNameProp}>
+${sectionContent}
+</ReportSection>
+
+`
+  }
+
   // Create metadata object
-  const metadata = { title }
+  const metadata: Metadata = { title, nav }
 
   // Write metadata to JSON file
   fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2))
@@ -64,11 +112,8 @@ try {
   // Write the executive summary to resume.mdx
   fs.writeFileSync(resumePath, resume)
 
-  // Trim any extra whitespace
-  content = content.trim()
-
   // Add the import statements at the beginning of the file
-  content = imports + content
+  content = imports + processedContent
 
   // Write the processed contents to the processed.mdx file
   fs.writeFileSync(outputPath, content)
@@ -76,7 +121,7 @@ try {
   console.log('Contre-expertise processed successfully!')
   console.log('Metadata extracted and saved.')
   console.log('Executive summary extracted and saved.')
-  console.log('Table of Contents removed.')
+  console.log('Sections processed and wrapped in ReportSection components.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
