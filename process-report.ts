@@ -42,8 +42,7 @@ try {
   }
 
   // Extract the executive summary
-  const resumeRegex =
-    /^## Résumé Exécutif\n([\s\S]*?)(?=\n## Table des matières)/m
+  const resumeRegex = /^## Résumé Exécutif\n([\s\S]*?)(?=\n## )/m
   const resumeMatch = content.match(resumeRegex)
   let resume = ''
   if (resumeMatch) {
@@ -51,6 +50,10 @@ try {
     // Remove the executive summary from the main content
     content = content.replace(resumeRegex, '')
   }
+
+  // Remove the Table of Contents section
+  const tocRegex = /^## Table des matières\n([\s\S]*?)(?=\n## )/m
+  content = content.replace(tocRegex, '')
 
   // Create metadata object
   const metadata = { title }
@@ -73,6 +76,7 @@ try {
   console.log('Contre-expertise processed successfully!')
   console.log('Metadata extracted and saved.')
   console.log('Executive summary extracted and saved.')
+  console.log('Table of Contents removed.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
