@@ -84,7 +84,7 @@ try {
 
   for (let i = 0; i < sections.length; i += 2) {
     const fullTitle = sections[i].trim()
-    const sectionContent = (sections[i + 1] || '').trim()
+    let sectionContent = (sections[i + 1] || '').trim()
 
     const numberMatch = fullTitle.match(/^(\d+\.?\s*)/)
     const number = numberMatch ? numberMatch[1].trim() : ''
@@ -95,6 +95,12 @@ try {
 
     const classNameProp = i === 0 ? " className='print:pt-0'" : ''
     const numberProp = number ? ` number="${number}"` : ''
+
+    // Replace HTML-style underline with JSX-style
+    sectionContent = sectionContent.replace(
+      /<span style="text-decoration:underline;">/g,
+      '<span style={{textDecoration: "underline"}}>',
+    )
 
     processedContent += `<ReportSection id="${id}"${numberProp} navTitle="${navTitle}"${classNameProp}>
 ${sectionContent}
@@ -122,6 +128,7 @@ ${sectionContent}
   console.log('Metadata extracted and saved.')
   console.log('Executive summary extracted and saved.')
   console.log('Sections processed and wrapped in ReportSection components.')
+  console.log('Underline styles updated to JSX syntax.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
