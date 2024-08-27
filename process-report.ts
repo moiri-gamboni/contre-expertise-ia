@@ -105,6 +105,12 @@ try {
     // Add line breaks after opening <td> tags
     sectionContent = sectionContent.replace(/<td>/g, '<td>\n')
 
+    // Wrap table contents with <tbody>
+    sectionContent = sectionContent.replace(
+      /<table>([\s\S]*?)<\/table>/g,
+      '<table><tbody>$1</tbody></table>',
+    )
+
     processedContent += `<ReportSection id="${id}"${numberProp} navTitle="${navTitle}"${classNameProp}>
 ${sectionContent}
 </ReportSection>
