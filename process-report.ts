@@ -102,6 +102,9 @@ try {
       '<span style={{textDecoration: "underline"}}>',
     )
 
+    // Add line breaks after opening <td> tags
+    sectionContent = sectionContent.replace(/<td>/g, '<td>\n')
+
     processedContent += `<ReportSection id="${id}"${numberProp} navTitle="${navTitle}"${classNameProp}>
 ${sectionContent}
 </ReportSection>
