@@ -1,7 +1,7 @@
 fix bold and headings
 implement experts
-fix paperfile
-
+replace paperpile links
+add sidenotes
 
 npmfootnotes:
 https://github.com/remarkjs/remark-gfm
