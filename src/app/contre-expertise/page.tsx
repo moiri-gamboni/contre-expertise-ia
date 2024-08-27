@@ -1,8 +1,6 @@
 'use client'
 
-import Associations from '@/components/Associations'
 import { Container } from '@/components/Container'
-import Signataires from '@/components/Signataires'
 import { Report } from '@/components/Report'
 import Script from 'next/script'
 import '@/styles/paged.css'
@@ -25,8 +23,6 @@ export default function FullReport() {
         </Container>
       </section>
       <Report />
-      <Signataires />
-      <Associations />
     </PagedContext.Provider>
   )
 }
