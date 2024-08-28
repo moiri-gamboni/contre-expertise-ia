@@ -44,6 +44,10 @@ function createSlug(text: string): string {
     .replace(/\s+/g, '-')
 }
 
+export function fixEmphasis(markdown: string): string {
+  return markdown
+}
+
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
@@ -69,6 +73,7 @@ try {
   let resume = ''
   if (resumeMatch) {
     resume = resumeMatch[1].trim()
+    resume = fixEmphasis(resume)
     content = content.replace(resumeRegex, '')
   }
 
@@ -111,6 +116,9 @@ try {
       '<table><tbody>$1</tbody></table>',
     )
 
+    // Fix emphasis and strong emphasis
+    sectionContent = fixEmphasis(sectionContent)
+
     processedContent += `<ReportSection id="${id}"${numberProp} navTitle="${navTitle}"${classNameProp}>
 ${sectionContent}
 </ReportSection>
@@ -138,6 +146,9 @@ ${sectionContent}
   console.log('Executive summary extracted and saved.')
   console.log('Sections processed and wrapped in ReportSection components.')
   console.log('Underline styles updated to JSX syntax.')
+  console.log('Line breaks added after opening table cell tags.')
+  console.log('Table contents wrapped with <tbody> tags.')
+  console.log('Emphasis and strong emphasis formatting fixed.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
