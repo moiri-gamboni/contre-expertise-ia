@@ -4,7 +4,9 @@ import { useEffect, useRef, useState } from 'react'
 import { Popover, PopoverButton, PopoverPanel } from '@headlessui/react'
 import clsx from 'clsx'
 import Link from 'next/link'
-import { nav as sections } from '@/contre-expertise/metadata.json'
+import metadata from '@/contre-expertise/metadata.json'
+
+const sections = metadata.nav
 
 function MenuIcon({
   open,
