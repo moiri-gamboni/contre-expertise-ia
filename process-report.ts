@@ -60,6 +60,15 @@ function createSlug(title: string) {
   return slug
 }
 
+function processMarginNotes(content: string, noteCounter: number): string {
+  const noteRegex = /\\\[Encart\\\]([\s\S]+?)\\\[Fin Encart\\\]/gm
+
+  return content.replace(noteRegex, (match, p1) => {
+    const processedNote = `<Sidenote type="marginnote" id="${noteCounter}">\n${p1.trim()}\n</Sidenote>`
+    noteCounter++
+    return processedNote
+  })
+}
 
 try {
   // Read the contents of the raw.md file
@@ -94,6 +103,7 @@ try {
   let processedContent = ''
   const nav: NavItem[] = []
 
+  let noteCounter = 1
   for (let i = 0; i < sections.length; i += 2) {
     const titleMatch = sections[i].match(/^([\d\.]*) ?(.+?)$/)
     let sectionContent = sections[i + 1].trim()
@@ -121,6 +131,9 @@ try {
     //   /<table>([\s\S]*?)<\/table>/g,
     //   '<table><tbody>$1</tbody></table>',
     // )
+
+    // Process margin notes
+    sectionContent = processMarginNotes(sectionContent, noteCounter)
 
     processedContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
 ${sectionContent}
@@ -151,6 +164,7 @@ ${sectionContent}
   // console.log('Underline styles updated to JSX syntax.')
   // console.log('Line breaks added after opening table cell tags.')
   // console.log('Table contents wrapped with <tbody> tags.')
+  console.log('Margin notes processed and wrapped in Sidenote components.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
