@@ -9,7 +9,12 @@ interface SidenoteProps {
 export function Sidenote({ id, type = 'sidenote', children }: SidenoteProps) {
   return (
     <>
-      <label htmlFor={id} className={`margin-toggle ${type == 'sidenote' ? 'sidenote-number' : ''}`}></label>
+      <label
+        htmlFor={id}
+        className={`margin-toggle ${type == 'sidenote' ? 'sidenote-number' : ''}`}
+      >
+        {type === 'marginnote' ? '🔽' : ''}
+      </label>
       <input type="checkbox" id={id} className="margin-toggle" />
       <span className={type}>{children}</span>
     </>
