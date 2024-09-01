@@ -60,82 +60,69 @@ function createSlug(title: string) {
   return slug
 }
 
-export function fixEmphasis(markdown: string): string {
-  return markdown
-}
 
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
 
-  // Remove the comment at the beginning
-  content = content.replace(/^<!--[\s\S]*?-->/, '')
+  // TODO: extract footnotes as sidenotes
+  // Remove the footnotes section
+  content = content.replace(/!\[\^\d+\]:  .+$/, '')
 
-  // Remove the comment at the end and the footnotes section
-  content = content.replace(/<!-- Footnotes[\s\S]*$/, '')
-
-  // Extract the title (first second-level heading) and remove it
-  const titleRegex = /^## (.+)$/m
-  const titleMatch = content.match(titleRegex)
-  let title = ''
-  if (titleMatch) {
-    title = titleMatch[1]
-    content = content.replace(titleRegex, '')
-  }
+  // Extract the title (first heading) and remove it
+  const reTitle = /^# (.+?)$/m
+  const titleMatch = content.match(reTitle)
+  const title = titleMatch?.[1] ?? ''
+  content = content.replace(reTitle, '')
 
   // Extract the executive summary
-  const resumeRegex = /^## Résumé Exécutif\n([\s\S]*?)(?=\n## )/m
-  const resumeMatch = content.match(resumeRegex)
-  let resume = ''
-  if (resumeMatch) {
-    resume = resumeMatch[1].trim()
-    resume = fixEmphasis(resume)
-    content = content.replace(resumeRegex, '')
-  }
+  const reResume = /^# Résumé Exécutif {#résumé-exécutif}$([\s\S]+?)(?=^\n# )/m
+  const resumeMatch = content.match(reResume)
+  const resume = resumeMatch?.[1] ?? ''
+  content = content.replace(reResume, '')
 
+  // TODO: generate links automatically
   // Remove the Table of Contents section
-  const tocRegex = /^## Table des matières\n([\s\S]*?)(?=\n## )/m
+  const tocRegex =
+    /^# Table des matières {#table-des-matières}$([\s\S]*?)(?=^\n# )/m
   content = content.replace(tocRegex, '')
+  // Remove heading links
+  content = content.replace(/^(#+ .+?) \{.+\}?$/gm, '$1')
 
-  // Process second-level headings
-  const headingRegex = /^## (.+)$/gm
-  const sections = content.split(headingRegex).slice(1)
+  // Process headings
+  const sections = content.split(/^# (.+)$/gm).slice(1)
   let processedContent = ''
   const nav: NavItem[] = []
 
   for (let i = 0; i < sections.length; i += 2) {
-    const fullTitle = sections[i].trim()
-    let sectionContent = (sections[i + 1] || '').trim()
+    const titleMatch = sections[i].match(/^([\d\.]*) ?(.+?)$/)
+    let sectionContent = sections[i + 1].trim()
 
-    const numberMatch = fullTitle.match(/^(\d+\.?\s*)/)
-    const number = numberMatch ? numberMatch[1].trim() : ''
-    const navTitle = fullTitle.replace(/^\d+\.?\s*/, '').trim()
-    const id = createSlug(navTitle)
+    const number = titleMatch?.[1] ?? ''
+    const title = titleMatch?.[2] ?? ''
+    const id = createSlug(title)
 
-    nav.push({ id, title: navTitle })
+    nav.push({ id, title })
 
-    const classNameProp = i === 0 ? " className='print:pt-0'" : ''
-    const numberProp = number ? ` number="${number}"` : ''
+    const classNameProp = i === 0 ? "className='print:pt-0'" : ''
+    const numberProp = number ? `number="${number}"` : ''
 
-    // Replace HTML-style underline with JSX-style
-    sectionContent = sectionContent.replace(
-      /<span style="text-decoration:underline;">/g,
-      '<span style={{textDecoration: "underline"}}>',
-    )
+    // // Replace HTML-style underline with JSX-style
+    // sectionContent = sectionContent.replace(
+    //   /<span style="text-decoration:underline;">/g,
+    //   '<span style={{textDecoration: "underline"}}>',
+    // )
 
-    // Add line breaks after opening <td> tags
-    sectionContent = sectionContent.replace(/<td>/g, '<td>\n')
+    // // Add line breaks after opening <td> tags
+    // sectionContent = sectionContent.replace(/<td>/g, '<td>\n')
 
-    // Wrap table contents with <tbody>
-    sectionContent = sectionContent.replace(
-      /<table>([\s\S]*?)<\/table>/g,
-      '<table><tbody>$1</tbody></table>',
-    )
+    // // Wrap table contents with <tbody>
+    // sectionContent = sectionContent.replace(
+    //   /<table>([\s\S]*?)<\/table>/g,
+    //   '<table><tbody>$1</tbody></table>',
+    // )
 
-    // Fix emphasis and strong emphasis
-    sectionContent = fixEmphasis(sectionContent)
-
-    processedContent += `<ReportSection id="${id}"${numberProp} navTitle="${navTitle}"${classNameProp}>
+    processedContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
 ${sectionContent}
 </ReportSection>
 
@@ -161,10 +148,9 @@ ${sectionContent}
   console.log('Metadata extracted and saved.')
   console.log('Executive summary extracted and saved.')
   console.log('Sections processed and wrapped in ReportSection components.')
-  console.log('Underline styles updated to JSX syntax.')
-  console.log('Line breaks added after opening table cell tags.')
-  console.log('Table contents wrapped with <tbody> tags.')
-  console.log('Emphasis and strong emphasis formatting fixed.')
+  // console.log('Underline styles updated to JSX syntax.')
+  // console.log('Line breaks added after opening table cell tags.')
+  // console.log('Table contents wrapped with <tbody> tags.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
