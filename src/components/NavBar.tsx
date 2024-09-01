@@ -81,7 +81,7 @@ export function NavBar() {
 
   return (
     <div ref={navBarRef} className="sticky top-0 z-50">
-      <Popover className="sm:hidden">
+      <Popover>
         {({ open }) => (
           <>
             <div
@@ -144,28 +144,6 @@ export function NavBar() {
           </>
         )}
       </Popover>
-      <div className="hidden sm:flex sm:h-32 sm:justify-center sm:border-b sm:border-slate-200 sm:bg-white/95 sm:[@supports(backdrop-filter:blur(0))]:bg-white/80 sm:[@supports(backdrop-filter:blur(0))]:backdrop-blur">
-        <ol
-          role="list"
-          className="mb-[-2px] grid auto-cols-[minmax(0,15rem)] grid-flow-col text-base font-medium text-slate-900 [counter-reset:section]"
-        >
-          {sections.map((section, sectionIndex) => (
-            <li key={section.id} className="flex [counter-increment:section]">
-              <Link
-                href={`#${section.id}`}
-                className={clsx(
-                  'flex w-full flex-col items-center justify-center border-b-2 before:mb-2 before:font-mono before:text-sm before:content-[counter(section,decimal-leading-zero)]',
-                  sectionIndex === activeIndex
-                    ? 'border-brand-700 bg-brand-50 text-brand-700 before:text-brand-700'
-                    : 'border-transparent before:text-slate-500 hover:bg-brand-50/40 hover:before:text-slate-900',
-                )}
-              >
-                {section.title}
-              </Link>
-            </li>
-          ))}
-        </ol>
-      </div>
     </div>
   )
 }
