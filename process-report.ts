@@ -31,17 +31,33 @@ interface Metadata {
   nav: NavItem[]
 }
 
-function createSlug(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[àáâãäå]/g, 'a')
-    .replace(/[èéêë]/g, 'e')
-    .replace(/[ìíîï]/g, 'i')
-    .replace(/[òóôõö]/g, 'o')
-    .replace(/[ùúûü]/g, 'u')
-    .replace(/[ç]/g, 'c')
-    .replace(/[^\w\s-]/g, '')
-    .replace(/\s+/g, '-')
+function createSlug(title: string) {
+  // Convert to lowercase
+  let slug = title.toLowerCase()
+
+  // Replace spaces and separators with hyphens
+  slug = slug.replace(/[\s_]+/g, '-')
+
+  // Remove characters that aren't alphanumeric, hyphens, or accented letters
+  slug = slug.replace(/[^\p{L}\p{N}-]/gu, '')
+
+  // Remove leading and trailing hyphens
+  slug = slug.replace(/^-+|-+$/g, '')
+
+  // Replace multiple consecutive hyphens with a single hyphen
+  slug = slug.replace(/-{2,}/g, '-')
+
+  // If the slug doesn't start with a letter (including accented), prepend 'id-'
+  if (!/^[\p{L}]/u.test(slug)) {
+    slug = 'id-' + slug
+  }
+
+  // Ensure the slug is not empty and starts with a letter
+  if (slug === '' || !/^[\p{L}]/u.test(slug)) {
+    return 'id-' + Math.random().toString(36).substring(2, 10)
+  }
+
+  return slug
 }
 
 export function fixEmphasis(markdown: string): string {
