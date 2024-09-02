@@ -80,7 +80,7 @@ export function NavBar() {
   }, [])
 
   return (
-    <div ref={navBarRef} className="sticky top-0 z-50">
+    <div ref={navBarRef} className="sticky top-0 z-50 font-display">
       <Popover>
         {({ open }) => (
           <>
