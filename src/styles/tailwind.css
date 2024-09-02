@@ -10,9 +10,9 @@
     :root {
       font-size: 70%;
     }
-    section a:not(:has(img))::after {
+    /* section a:not(:has(img))::after {
       content: ' (' attr(href) ')';
-    }
+    } */
     /* section {
       break-after: page;
     } */
