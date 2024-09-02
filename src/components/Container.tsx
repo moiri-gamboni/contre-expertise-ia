@@ -1,19 +1,13 @@
 import clsx from 'clsx'
 
-interface ContainerProps extends React.ComponentPropsWithoutRef<'div'> {
-  centered?: boolean;
-}
-
 export function Container({
   className,
-  centered = false,
   ...props
-}: ContainerProps) {
+}: React.ComponentPropsWithoutRef<'div'>) {
   return (
     <div
       className={clsx(
-        centered ? 'sm:mx-auto' : 'sm:mx-[12.5%]',
-        'px-4 lg:px-0 lg:max-w-[47.5%] print:ml-0 print:max-w-[62.5%] print:p-0',
+        'mx-auto px-4 sm:px-6 md:max-w-2xl md:px-4 lg:max-w-4xl lg:px-12 print:ml-0 print:p-0',
         className,
       )}
       {...props}

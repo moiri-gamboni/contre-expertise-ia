@@ -16,7 +16,7 @@ const metadataPath = path.join(
 )
 const resumePath = path.join(__dirname, 'src', 'contre-expertise', 'resume.mdx')
 
-const imports = `import { Sidenote } from '@/components/Sidenote'
+const imports = `import { Insert } from '@/components/Insert'
 import { ReportSection } from '@/components/ReportSection'
 
 `
@@ -60,11 +60,11 @@ function createSlug(title: string) {
   return slug
 }
 
-function processMarginNotes(content: string, noteCounter: number): string {
+function processInserts(content: string, noteCounter: number): string {
   const noteRegex = /\\\[Encart\\\]([\s\S]+?)\\\[Fin Encart\\\]/gm
 
   return content.replace(noteRegex, (match, p1) => {
-    const processedNote = `<Sidenote type="marginnote" id="${noteCounter}">\n${p1.trim()}\n</Sidenote>`
+    const processedNote = `<Insert>\n${p1.trim()}\n</Insert>`
     noteCounter++
     return processedNote
   })
@@ -132,8 +132,8 @@ try {
     //   '<table><tbody>$1</tbody></table>',
     // )
 
-    // Process margin notes
-    sectionContent = processMarginNotes(sectionContent, noteCounter)
+    // Process inserts
+    sectionContent = processInserts(sectionContent, noteCounter)
 
     processedContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
 ${sectionContent}
@@ -164,7 +164,7 @@ ${sectionContent}
   // console.log('Underline styles updated to JSX syntax.')
   // console.log('Line breaks added after opening table cell tags.')
   // console.log('Table contents wrapped with <tbody> tags.')
-  console.log('Margin notes processed and wrapped in Sidenote components.')
+  console.log('Inserts processed and wrapped in a component.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
