@@ -14,6 +14,7 @@ import {
   useInteractions,
   useMergeRefs,
   FloatingPortal,
+  safePolygon,
 } from '@floating-ui/react'
 import type { Placement } from '@floating-ui/react'
 
@@ -56,6 +57,7 @@ export function useTooltip({
   const hover = useHover(context, {
     move: false,
     enabled: controlledOpen == null,
+    handleClose: safePolygon(), // This allows the tooltip to stay open when moving from trigger to content
   })
   const focus = useFocus(context, {
     enabled: controlledOpen == null,
