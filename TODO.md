@@ -5,6 +5,7 @@ implement internal links
 implement footnoes
 implement TOC
 fix line breaks on pdf after reference
+improve image quality
 
 npmfootnotes:
 https://github.com/remarkjs/remark-gfm
