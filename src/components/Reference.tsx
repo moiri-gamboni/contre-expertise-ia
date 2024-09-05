@@ -1,27 +1,43 @@
-import * as React from 'react'
-import clsx from 'clsx'
-import { Tooltip, TooltipTrigger, TooltipContent } from '@/components/Tooltip'
+import React from 'react'
+import {
+  Tooltip,
+  TooltipTrigger,
+  TooltipContent,
+} from '@/components/Tooltip'
+import fs from 'fs/promises'
+import path from 'path'
+import { MDXRemote } from 'next-mdx-remote/rsc'
 
-// Higher-order component to style the Tooltip components
-function withReferenceStyles<T extends React.ElementType>(WrappedComponent: T) {
-  return React.forwardRef<
-    React.ElementRef<T>,
-    React.ComponentPropsWithoutRef<T> & { className?: string }
-  >(function ReferenceComponent({ className, ...props }, ref) {
-    return (
-      <WrappedComponent
-        ref={ref}
-        className={clsx(
-          'rounded-md border border-brand-600 px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] text-base font-bold tracking-tight text-brand-700 focus:outline-none w-min backdrop-blur-sm bg-white/80',
-          className,
-        )}
-        {...(props as any)}
-      />
-    )
-  })
+interface ReferenceProps {
+  sourceNumbers: number[]
+  children: React.ReactNode
 }
 
-// Reference Tooltip components
-export const Reference = Tooltip
-export const ReferenceTrigger = TooltipTrigger
-export const ReferenceContent = withReferenceStyles(TooltipContent)
+async function getMDXSource(num: number) {
+  const filePath = path.join(
+    process.cwd(),
+    'src',
+    'contre-expertise',
+    'bibliography',
+    `${num}.mdx`,
+  )
+  return await fs.readFile(filePath, 'utf8')
+}
+
+export async function Reference({ sourceNumbers, children }: ReferenceProps) {
+  const sources = await Promise.all(sourceNumbers.map(getMDXSource))
+
+  return (
+    <Tooltip placement="top-start">
+      <TooltipTrigger>{children}</TooltipTrigger>
+      <TooltipContent className="w-min rounded-md border border-brand-600 bg-white/80 px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] text-base font-bold tracking-tight text-brand-700 backdrop-blur-sm focus:outline-none">
+        {sources.map((source, index) => (
+          <React.Fragment key={sourceNumbers[index]}>
+            <MDXRemote source={source} />
+            {index < sources.length - 1 && <hr className="my-2" />}
+          </React.Fragment>
+        ))}
+      </TooltipContent>
+    </Tooltip>
+  )
+}
