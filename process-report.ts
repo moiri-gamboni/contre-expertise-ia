@@ -113,7 +113,7 @@ try {
 
   // TODO: extract footnotes as sidenotes
   // Remove the footnotes section
-  content = content.replace(/!\[\^\d+\]:  .+$/, '')
+  content = content.replace(/^\n\[\^\d+\]:  .+\n$/gm, '')
 
   // Extract the title (first heading) and remove it
   const reTitle = /^# (.+?)$/m
