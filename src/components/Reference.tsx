@@ -7,6 +7,7 @@ import {
 import fs from 'fs'
 import path from 'path'
 import { MDXRemote } from 'next-mdx-remote/rsc'
+import StyledLink from './StyledLink'
 
 interface ReferenceProps {
   children: string
@@ -31,6 +32,12 @@ function getMDXSource(num: number): string {
   return fs.readFileSync(filePath, 'utf8')
 }
 
+const components = {
+  a: ({ href = '#', ...props }) => (
+    <StyledLink className="[overflow-wrap:anywhere]" href={href} {...props} />
+  ),
+}
+
 export function Reference({ children }: ReferenceProps) {
   const sourceNumbers = parseReferenceNumbers(children)
   const sources = sourceNumbers.map(getMDXSource)
@@ -38,10 +45,10 @@ export function Reference({ children }: ReferenceProps) {
   return (
     <Tooltip placement='top-start'>
       <TooltipTrigger>{children}</TooltipTrigger>
-      <TooltipContent className="w-min rounded-md border border-brand-600 bg-white/80 px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] text-base font-bold tracking-tight text-brand-700 backdrop-blur-sm focus:outline-none">
+      <TooltipContent className="min-w-96 w-min rounded-md border border-brand-600 bg-white px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] tracking-tight text-slate-700 focus:outline-none">
         {sources.map((source, index) => (
           <React.Fragment key={sourceNumbers[index]}>
-            <MDXRemote source={source} />
+            <MDXRemote source={source} components={{ ...components }} />
             {index < sources.length - 1 && <hr className="my-2" />}
           </React.Fragment>
         ))}
