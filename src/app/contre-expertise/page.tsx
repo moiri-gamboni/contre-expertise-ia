@@ -14,7 +14,7 @@ export default function FullReport() {
         aria-label="Page de garde"
         className="cover flex h-screen items-center print:break-after-page"
       >
-        <Container className="text-center text-lg tracking-tight text-slate-700">
+        <Container className="text-center text-lg text-pretty tracking-tight text-slate-700">
           <h1 className="font-display text-6xl font-bold tracking-tight text-slate-900">
             {title}
           </h1>
