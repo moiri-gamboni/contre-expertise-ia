@@ -29,7 +29,12 @@ function getMDXSource(num: number): string {
     'bibliography',
     `${num}.mdx`,
   )
-  return fs.readFileSync(filePath, 'utf8')
+  try {
+    return fs.readFileSync(filePath, 'utf8')
+  } catch (error) {
+    console.error(`Error reading file for reference ${num}:`, error)
+    return `Reference ${num} not found.`
+  }
 }
 
 const components = {

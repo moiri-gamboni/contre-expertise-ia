@@ -1,7 +1,10 @@
-fix bold and headings
+fix bold and headings automatically
 implement experts
-replace paperpile links
-add sidenotes
+fix tooltip & navbar overlap
+implement internal links
+implement footnoes
+implement TOC
+fix line breaks on pdf after reference
 
 npmfootnotes:
 https://github.com/remarkjs/remark-gfm
