@@ -36,7 +36,7 @@ export function Reference({ children }: ReferenceProps) {
   const sources = sourceNumbers.map(getMDXSource)
 
   return (
-    <Tooltip>
+    <Tooltip placement='top-start'>
       <TooltipTrigger>{children}</TooltipTrigger>
       <TooltipContent className="w-min rounded-md border border-brand-600 bg-white/80 px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] text-base font-bold tracking-tight text-brand-700 backdrop-blur-sm focus:outline-none">
         {sources.map((source, index) => (
