@@ -15,8 +15,15 @@ const metadataPath = path.join(
   'metadata.json',
 )
 const resumePath = path.join(__dirname, 'src', 'contre-expertise', 'resume.mdx')
+const bibliographyDir = path.join(
+  __dirname,
+  'src',
+  'contre-expertise',
+  'bibliography',
+)
 
-const imports = `import { Insert } from '@/components/Insert'
+const imports = `import { Reference } from '@/components/Reference'
+import { Insert } from '@/components/Insert'
 import { ReportSection } from '@/components/ReportSection'
 
 `
@@ -70,9 +77,39 @@ function processInserts(content: string, noteCounter: number): string {
   })
 }
 
+function extractBibliography(content: string): string[] {
+  const bibliographyRegex =
+    /# Bibliographie {#bibliographie}\n([\s\S]*?)(?=\n\[|\n$)/
+  const bibliographyMatch = content.match(bibliographyRegex)
+
+  if (bibliographyMatch && bibliographyMatch[1]) {
+    return bibliographyMatch[1]
+      .trim()
+      .split('\n')
+      .filter((item) => item.trim() !== '')
+  }
+
+  return []
+}
+
+function createBibliographyFiles(items: string[]) {
+  if (!fs.existsSync(bibliographyDir)) {
+    fs.mkdirSync(bibliographyDir, { recursive: true })
+  }
+
+  items.forEach((item, index) => {
+    const filePath = path.join(bibliographyDir, `${index + 1}.mdx`)
+    fs.writeFileSync(filePath, item.trim())
+  })
+}
+
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
+
+  // Extract bibliography items
+  const bibliographyItems = extractBibliography(content)
+  createBibliographyFiles(bibliographyItems)
 
   // TODO: extract footnotes as sidenotes
   // Remove the footnotes section
@@ -165,6 +202,7 @@ ${sectionContent}
   // console.log('Line breaks added after opening table cell tags.')
   // console.log('Table contents wrapped with <tbody> tags.')
   console.log('Inserts processed and wrapped in a component.')
+  console.log('Bibliography items extracted and saved as separate MDX files.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
