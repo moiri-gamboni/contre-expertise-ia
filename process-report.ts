@@ -1,5 +1,7 @@
 import fs from 'fs'
 import path from 'path'
+import { regex } from 'regex'
+import { recursion } from 'regex-recursion'
 
 const inputPath = path.join(__dirname, 'src', 'contre-expertise', 'raw.md')
 const outputPath = path.join(
@@ -77,39 +79,55 @@ function processInserts(content: string, noteCounter: number): string {
   })
 }
 
-function extractBibliography(content: string): string[] {
-  const bibliographyRegex =
-    /# Bibliographie {#bibliographie}\n([\s\S]*?)(?=\n\[|\n$)/
-  const bibliographyMatch = content.match(bibliographyRegex)
-
-  if (bibliographyMatch && bibliographyMatch[1]) {
-    return bibliographyMatch[1]
-      .trim()
-      .split('\n')
-      .filter((item) => item.trim() !== '')
-  }
-
-  return []
+function processReferences(content: string, wrap: boolean): string {
+  const paperpileLinkRegex = regex({ flags: 'g', plugins: [recursion] })`
+    (?<text_group>                            # Named capture group 'text_group', for text inside square brackets
+      \[                                      # Match opening square bracket
+        (?>                                   # Atomic group to prevent backtracking
+          [^\[\]]+                            # Match any characters except '[' and ']'
+          | \g<text_group&R=10>               # Recursively match 'text_group' (up to 50 recursions for performance)
+        )*
+      \]                                      # Match closing square bracket
+    )
+    \(                                        # Match opening parenthesis
+      (?<url>https?:\/\/paperpile.com\/\S*?)  # Named capture group 'url' for non-whitespace characters (non-greedy)
+    \)                                        # Match closing parenthesis
+  `
+  return content.replace(paperpileLinkRegex, (match, p1) => {
+    const processedContent = p1.slice(1, -1)
+    if (wrap) {
+      return `<Reference>${processedContent}</Reference>`
+    } else {
+      return processedContent
+    }
+  })
 }
 
-function createBibliographyFiles(items: string[]) {
-  if (!fs.existsSync(bibliographyDir)) {
-    fs.mkdirSync(bibliographyDir, { recursive: true })
-  }
+function processBibliography(content: string): string {
 
-  items.forEach((item, index) => {
+  const processedEntries = content
+    .trim()
+    .split('\n')
+    .filter((entry: string) => entry.startsWith(`\\\[`))
+    .map((entry: string) => processReferences(entry, false))
+  
+  if (fs.existsSync(bibliographyDir)) {
+    fs.rmSync(bibliographyDir, { recursive: true })
+  }
+  fs.mkdirSync(bibliographyDir, { recursive: true })
+
+  processedEntries.forEach((item, index) => {
     const filePath = path.join(bibliographyDir, `${index + 1}.mdx`)
     fs.writeFileSync(filePath, item.trim())
   })
+
+  return `${processedEntries.join('\n')}`
 }
+
 
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
-
-  // Extract bibliography items
-  const bibliographyItems = extractBibliography(content)
-  createBibliographyFiles(bibliographyItems)
 
   // TODO: extract footnotes as sidenotes
   // Remove the footnotes section
@@ -137,7 +155,7 @@ try {
 
   // Process headings
   const sections = content.split(/^# (.+)$/gm).slice(1)
-  let processedContent = ''
+  let finalContent = ''
   const nav: NavItem[] = []
 
   let noteCounter = 1
@@ -154,25 +172,17 @@ try {
     const classNameProp = i === 0 ? "className='print:pt-0'" : ''
     const numberProp = number ? `number="${number}"` : ''
 
-    // // Replace HTML-style underline with JSX-style
-    // sectionContent = sectionContent.replace(
-    //   /<span style="text-decoration:underline;">/g,
-    //   '<span style={{textDecoration: "underline"}}>',
-    // )
-
-    // // Add line breaks after opening <td> tags
-    // sectionContent = sectionContent.replace(/<td>/g, '<td>\n')
-
-    // // Wrap table contents with <tbody>
-    // sectionContent = sectionContent.replace(
-    //   /<table>([\s\S]*?)<\/table>/g,
-    //   '<table><tbody>$1</tbody></table>',
-    // )
-
     // Process inserts
     sectionContent = processInserts(sectionContent, noteCounter)
 
-    processedContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
+    // Process references (only for non-bibliography sections)
+    if (title === 'Bibliographie') {
+      sectionContent = processBibliography(sectionContent)
+    } else {
+      sectionContent = processReferences(sectionContent, true)
+    }
+
+    finalContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
 ${sectionContent}
 </ReportSection>
 
@@ -189,20 +199,20 @@ ${sectionContent}
   fs.writeFileSync(resumePath, resume)
 
   // Add the import statements at the beginning of the file
-  content = imports + processedContent
+  finalContent = imports + finalContent
 
   // Write the processed contents to the processed.mdx file
-  fs.writeFileSync(outputPath, content)
+  fs.writeFileSync(outputPath, finalContent)
 
   console.log('Contre-expertise processed successfully!')
   console.log('Metadata extracted and saved.')
   console.log('Executive summary extracted and saved.')
   console.log('Sections processed and wrapped in ReportSection components.')
-  // console.log('Underline styles updated to JSX syntax.')
-  // console.log('Line breaks added after opening table cell tags.')
-  // console.log('Table contents wrapped with <tbody> tags.')
   console.log('Inserts processed and wrapped in a component.')
-  console.log('Bibliography items extracted and saved as separate MDX files.')
+  console.log(
+    'Bibliography items extracted, processed, and saved as separate MDX files.',
+  )
+  console.log('References processed and wrapped in Reference components.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
