@@ -96,7 +96,9 @@ function processReferences(content: string, wrap: boolean): string {
   return content.replace(paperpileLinkRegex, (match, p1) => {
     const processedContent = p1.slice(1, -1)
     if (wrap) {
-      return `<Reference>${processedContent}</Reference>`
+      const referenceRegex = /(?<=\\\[)\d+[^\\]*/g
+      const referenceMatch = processedContent.match(referenceRegex)
+      return `<Reference>\\\[${referenceMatch.join('\\\]</Reference>, <Reference>\\\[')}\\\]</Reference>`
     } else {
       return processedContent
     }
