@@ -21,7 +21,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
         {...props}
       />
     ),
-    p: (props) => <p className="mt-4" {...props} />,
+    p: (props) => <p className="mt-4 break-words" {...props} />,
     ul: (props) => (
       <ul
         role="list"

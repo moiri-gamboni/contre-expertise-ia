@@ -39,7 +39,7 @@ function getMDXSource(num: number): string {
 
 const components = {
   a: ({ href = '#', ...props }) => (
-    <StyledLink className="[overflow-wrap:anywhere]" href={href} {...props} />
+    <StyledLink className="break-words" href={href} {...props} />
   ),
 }
 

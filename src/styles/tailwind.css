@@ -3,9 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-  html {
-    overflow-x: hidden;
-  }
   @media print {
     :root {
       font-size: 70%;
