@@ -34,9 +34,11 @@ function MenuIcon({
 export function NavBar() {
   let navBarRef = useRef<React.ElementRef<'div'>>(null)
   let [activeIndex, setActiveIndex] = useState<number | null>(null)
+  let [isVisible, setIsVisible] = useState(false)
   let mobileActiveIndex = activeIndex === null ? 0 : activeIndex
 
   useEffect(() => {
+    console.log('useEffect')
     function updateActiveIndex() {
       if (!navBarRef.current) {
         return
@@ -48,6 +50,12 @@ export function NavBar() {
         .filter((el): el is HTMLElement => el !== null)
       let bodyRect = document.body.getBoundingClientRect()
       let offset = bodyRect.top + navBarRef.current.offsetHeight + 1
+
+
+      // Check if we've scrolled past the first title
+      const firstTitlePosition = elements[0].getBoundingClientRect().top
+      console.log(firstTitlePosition)
+      setIsVisible(window.scrollY > firstTitlePosition - offset)
 
       if (window.scrollY >= Math.floor(bodyRect.height) - window.innerHeight) {
         setActiveIndex(sections.length - 1)
@@ -80,7 +88,7 @@ export function NavBar() {
   }, [])
 
   return (
-    <div ref={navBarRef} className="sticky top-0 z-50 font-display">
+    <div ref={navBarRef} className={clsx(!isVisible ? "opacity-0" : "", "sticky top-0 z-50 font-display")}>
       <Popover>
         {({ open }) => (
           <>
