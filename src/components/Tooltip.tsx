@@ -65,14 +65,14 @@ export function useTooltip({
   const context = data.context
 
   const hover = useHover(context, {
-    move: false,
+    move: true,
     enabled: controlledOpen == null,
     handleClose: safePolygon(), // This allows the tooltip to stay open when moving from trigger to content
   })
   const focus = useFocus(context, {
     enabled: controlledOpen == null,
   })
-  const dismiss = useDismiss(context)
+  const dismiss = useDismiss(context, {ancestorScroll: true})
   const role = useRole(context, { role: 'tooltip' })
 
   const interactions = useInteractions([hover, focus, dismiss, role])
