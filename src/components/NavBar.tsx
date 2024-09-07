@@ -128,7 +128,7 @@ export function NavBar() {
                 <MenuIcon open={open} className="h-6 w-6 stroke-slate-700" />
               </PopoverButton>
             </div>
-            <PopoverPanel className="absolute inset-x-0 top-0 bg-white/95 py-3.5 shadow-sm [@supports(backdrop-filter:blur(0))]:bg-white/80 [@supports(backdrop-filter:blur(0))]:backdrop-blur">
+            <PopoverPanel className="absolute inset-x-0 top-0 bg-white/95 py-1.5 shadow-sm [@supports(backdrop-filter:blur(0))]:bg-white/80 [@supports(backdrop-filter:blur(0))]:backdrop-blur">
               {sections.map((section, sectionIndex) => (
                 <PopoverButton
                   as="a"
