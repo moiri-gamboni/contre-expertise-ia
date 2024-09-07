@@ -14,12 +14,10 @@ interface ReferenceProps {
   children: string
 }
 
-function parseReferenceNumbers(referenceText: string): number[] {
-  const regex = /\[(\d+)/g
-  const matches = [...referenceText.matchAll(regex)].map((match) =>
-    parseInt(match[1], 10),
-  )
-  return [...new Set(matches)]
+function parseReferenceNumbers(referenceText: string): number {
+  const regex = /\[(\d+)/
+  const match = referenceText.match(regex)?.[1] ?? ''
+  return Number.parseInt(match)
 }
 
 function getMDXSource(num: number): string {
@@ -46,9 +44,9 @@ const components: MDXComponents = {
   ),
 }
 
-export function Reference({ children }: ReferenceProps) {
-  const sourceNumbers = parseReferenceNumbers(children)
-  const sources = sourceNumbers.map(getMDXSource)
+export async function Reference({ children }: ReferenceProps) {
+  const sourceNumber = parseReferenceNumbers(children)
+  const source = getMDXSource(sourceNumber)
 
   return (
     <Tooltip placement="top-start">
@@ -56,12 +54,7 @@ export function Reference({ children }: ReferenceProps) {
         <TooltipTrigger >{children}</TooltipTrigger>
       </StyledLink>
       <TooltipContent className="max-w-[30%] rounded-md border border-brand-600 bg-white px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] tracking-tight text-slate-700 focus:outline-none">
-        {sources.map((source, index) => (
-          <React.Fragment key={sourceNumbers[index]}>
-            <MDXRemote source={source} components={{ ...components }} />
-            {index < sources.length - 1 && <hr className="my-2" />}
-          </React.Fragment>
-        ))}
+        <MDXRemote source={source} components={{ ...components }} />
       </TooltipContent>
     </Tooltip>
   )
