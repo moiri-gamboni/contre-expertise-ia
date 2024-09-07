@@ -138,7 +138,7 @@ export function NavBar() {
                 >
                   <span
                     aria-hidden="true"
-                    className="font-mono text-sm text-brand-700"
+                    className="font-mono text-base text-brand-700"
                   >
                     {(sectionIndex + 1).toString().padStart(2, '0')}
                   </span>
