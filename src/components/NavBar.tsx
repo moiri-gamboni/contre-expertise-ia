@@ -134,7 +134,7 @@ export function NavBar() {
                   as="a"
                   key={section.id}
                   href={`#${section.id}`}
-                  className="flex items-center px-4 py-1.5"
+                  className="flex items-baseline px-4 py-1.5"
                 >
                   <span
                     aria-hidden="true"
