@@ -17,6 +17,7 @@ import {
   safePolygon,
 } from '@floating-ui/react'
 import type { Placement } from '@floating-ui/react'
+import { PagedContext } from './PagedContext'
 
 interface TooltipOptions {
   initialOpen?: boolean
@@ -153,9 +154,11 @@ export const TooltipContent = React.forwardRef<
   HTMLDivElement,
   React.HTMLProps<HTMLDivElement>
 >(function TooltipContent({ style, ...props }, propRef) {
+  const isPaged = React.useContext(PagedContext)
   const context = useTooltipContext()
   const ref = useMergeRefs([context.refs.setFloating, propRef])
 
+  if (isPaged) return null
   if (!context.open) return null
 
   return (
