@@ -8,6 +8,7 @@ import fs from 'fs'
 import path from 'path'
 import { MDXRemote } from 'next-mdx-remote/rsc'
 import StyledLink from './StyledLink'
+import { MDXComponents } from 'mdx/types'
 
 interface ReferenceProps {
   children: string
@@ -37,9 +38,11 @@ function getMDXSource(num: number): string {
   }
 }
 
-const components = {
-  a: ({ href = '#', ...props }) => (
-    <StyledLink className="break-words" href={href} {...props} />
+const components: MDXComponents = {
+  a: ({ href = '#', children, ...props }) => (
+    <StyledLink className="break-words" href={href} {...props}>
+      {children}
+    </StyledLink>
   ),
 }
 
@@ -48,8 +51,10 @@ export function Reference({ children }: ReferenceProps) {
   const sources = sourceNumbers.map(getMDXSource)
 
   return (
-    <Tooltip placement='top-start'>
-      <TooltipTrigger>{children}</TooltipTrigger>
+    <Tooltip placement="top-start">
+      <StyledLink href="#"> 
+        <TooltipTrigger >{children}</TooltipTrigger>
+      </StyledLink>
       <TooltipContent className="max-w-[30%] rounded-md border border-brand-600 bg-white px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] tracking-tight text-slate-700 focus:outline-none">
         {sources.map((source, index) => (
           <React.Fragment key={sourceNumbers[index]}>
