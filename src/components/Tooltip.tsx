@@ -23,6 +23,13 @@ interface TooltipOptions {
   placement?: Placement
   open?: boolean
   onOpenChange?: (open: boolean) => void
+  navbarSelector?: string
+}
+
+const getNavbarHeight = (selector: string = '#navbar') => {
+  if (typeof window === 'undefined') return 0 // SSR safety
+  const navbar = document.querySelector(selector)
+  return navbar ? navbar.getBoundingClientRect().height : 0
 }
 
 export function useTooltip({
@@ -30,6 +37,7 @@ export function useTooltip({
   placement = 'top',
   open: controlledOpen,
   onOpenChange: setControlledOpen,
+  navbarSelector = '.sticky.top-0',
 }: TooltipOptions = {}) {
   const [uncontrolledOpen, setUncontrolledOpen] = React.useState(initialOpen)
 
@@ -46,7 +54,9 @@ export function useTooltip({
       flip({
         crossAxis: placement.includes('-'),
         fallbackAxisSideDirection: 'start',
-        padding: 5,
+        padding: {
+          top: getNavbarHeight(navbarSelector),
+        },
       }),
       shift({ padding: 5 }),
     ],
