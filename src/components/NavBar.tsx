@@ -103,11 +103,11 @@ export function NavBar() {
                 <>
                   <span
                     aria-hidden="true"
-                    className="font-mono text-sm text-brand-700"
+                    className="font-mono text-base md:text-lg lg:text-xl xl:text-2xl text-brand-700"
                   >
                     {(mobileActiveIndex + 1).toString().padStart(2, '0')}
                   </span>
-                  <span className="ml-4 text-base font-medium text-slate-900">
+                  <span className="ml-4 text-base md:text-lg lg:text-xl xl:text-2xl font-medium text-slate-900">
                     {sections[mobileActiveIndex].title}
                   </span>
                 </>

@@ -16,15 +16,15 @@ export function SectionHeading({
     >
       {number && (
         <>
-          <span className="font-mono text-4xl" aria-hidden="true">
+          <span className="font-mono text-2xl sm:text-3xl lg:text-4xl" aria-hidden="true">
             {number.padStart(2, '0')}
           </span>
-          <span className="ml-3 h-3.5 w-px bg-blue-600/20" />
+          <span className="ml-3 h-3.5 md:h-4 lg:h-5 w-px bg-blue-600/20" />
         </>
       )}
       <span
         className={clsx(
-          'text-4xl font-medium tracking-tight',
+          'text-2xl sm:text-3xl lg:text-4xl font-medium tracking-tight',
           number && 'ml-3',
         )}
       >
