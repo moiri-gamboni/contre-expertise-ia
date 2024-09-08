@@ -1,3 +1,12 @@
+footnotes print
+page de garde
+liens references
+tables des matieres
+liens internes
+formulaire
+
+
+
 fix bold and headings automatically
   see paperpile regex for balanced formatting
 implement internal links
