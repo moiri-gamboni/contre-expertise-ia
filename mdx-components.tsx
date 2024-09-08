@@ -37,7 +37,7 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
       />
     ),
     li: (props) => <li className="pl-4 marker:text-brand-700" {...props} />,
-    a: ({ href = '#', ...props }) => <StyledLink href={href} {...props} />,
+    a: ({ href = '#', children, ...props }) => <StyledLink href={href} {...props} >{children}</StyledLink>,
     blockquote: (props) => (
       <blockquote
         className="my-8 border-s-4 border-s-slate-200 ps-4 font-medium italic text-slate-900 print:break-inside-avoid [&_p:first-of-type]:before:content-[open-quote] [&_p:last-of-type]:after:content-[close-quote]"
