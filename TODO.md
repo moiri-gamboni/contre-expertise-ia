@@ -1,6 +1,4 @@
 fix bold and headings automatically
-implement experts
-fix tooltip & navbar overlap
 implement internal links
 implement footnoes
 implement TOC
