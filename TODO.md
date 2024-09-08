@@ -1,8 +1,11 @@
 fix bold and headings automatically
+  see paperpile regex for balanced formatting
 implement internal links
 implement footnoes
 implement TOC
 fix line breaks on pdf after reference
+improve image quality
+add support form
 
 npmfootnotes:
 https://github.com/remarkjs/remark-gfm
