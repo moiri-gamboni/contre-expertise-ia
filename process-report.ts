@@ -254,18 +254,22 @@ try {
     // Process references (only for non-bibliography sections)
     if (title === 'Bibliographie') {
       sectionContent = processBibliography(sectionContent)
-    } else {
-      sectionContent = processReferences(sectionContent, true)
-    }
-
-    // Process experts
-    sectionContent = processExperts(sectionContent)
-
-    finalContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
+      finalContent += `<ReportSection className="text-left" id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
 ${sectionContent}
 </ReportSection>
 
 `
+    } else {
+      sectionContent = processReferences(sectionContent, true)
+      // Process experts
+      sectionContent = processExperts(sectionContent)
+
+      finalContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
+${sectionContent}
+</ReportSection>
+
+`
+    }
   }
 
   // Create metadata object
