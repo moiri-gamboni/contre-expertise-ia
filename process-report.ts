@@ -190,7 +190,11 @@ try {
   // Extract the executive summary
   const reResume = /^# Résumé Exécutif {#résumé-exécutif}$([\s\S]+?)(?=^\n# )/m
   const resumeMatch = content.match(reResume)
-  const resume = resumeMatch?.[1] ?? ''
+  const resume = processReferences(
+    "import { Reference } from '@/components/Reference'" + resumeMatch?.[1] ??
+      '',
+    true,
+  )
   content = content.replace(reResume, '')
 
   // TODO: generate links automatically
