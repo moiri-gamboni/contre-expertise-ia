@@ -27,6 +27,7 @@ const bibliographyDir = path.join(
 const imports = `import { Reference } from '@/components/Reference'
 import { Insert } from '@/components/Insert'
 import { ReportSection } from '@/components/ReportSection'
+import { Experts, Expert } from '@/components/Experts'
 
 `
 
@@ -98,7 +99,7 @@ function processReferences(content: string, wrap: boolean): string {
     if (wrap) {
       const referenceRegex = /(?<=\\\[)\d+[^\\]*/g
       const referenceMatch = processedContent.match(referenceRegex)
-      return `<Reference>\\\[${referenceMatch.join('\\\]</Reference>, <Reference>\\\[')}\\\]</Reference>`
+      return `<Reference>\\\[${referenceMatch.join('\\]</Reference>, <Reference>\\[')}\\\]</Reference>`
     } else {
       return processedContent
     }
@@ -112,7 +113,7 @@ function processBibliography(content: string): string {
     .split('\n')
     .filter((entry: string) => entry.startsWith(`\\\[`))
     .map((entry: string) => processReferences(entry, false))
-  
+
   if (fs.existsSync(bibliographyDir)) {
     fs.rmSync(bibliographyDir, { recursive: true })
   }
@@ -126,6 +127,51 @@ function processBibliography(content: string): string {
   return `${processedEntries.join('\n')}`
 }
 
+function processExperts(content: string): string {
+  const expertListRegex =
+    /\*\*Liste des experts et leur niveau de soutien :\*\*\s*([\s\S]+?)(?=\n# |\n## |\n### |$)/
+  const expertListMatch = content.match(expertListRegex)
+
+  if (expertListMatch) {
+    const expertList = expertListMatch[1].trim()
+    const experts = expertList.split('\n\n')
+
+    const processedExperts = experts.map((expert) => {
+      const lines = expert.split('\n')
+      const name = lines[0].trim()
+      const roleLines = []
+      let type = ''
+      let comment = ''
+
+      for (let i = 1; i < lines.length; i++) {
+        const line = lines[i].trim()
+        if (line.startsWith('Validation') || line.startsWith('Soutien')) {
+          type = line
+          if (i + 1 < lines.length) {
+            comment = lines
+              .slice(i + 1)
+              .join('\n')
+              .trim()
+          }
+          break
+        } else {
+          roleLines.push(line)
+        }
+      }
+
+      const role = roleLines.join('\n').replace(/\n/g, '\\n')
+
+      return `<Expert name="${name}" role="${role}" ${comment ? `comment="${comment}"` : ''}>${type}</Expert>`
+    })
+
+    return content.replace(
+      expertListRegex,
+      `**Liste des experts et leur niveau de soutien :**\n\n<Experts>\n${processedExperts.join('\n')}\n</Experts>`,
+    )
+  }
+
+  return content
+}
 
 try {
   // Read the contents of the raw.md file
@@ -183,6 +229,9 @@ try {
     } else {
       sectionContent = processReferences(sectionContent, true)
     }
+
+    // Process experts
+    sectionContent = processExperts(sectionContent)
 
     finalContent += `<ReportSection id="${id}" ${numberProp} navTitle="${title}" ${classNameProp}>
 ${sectionContent}
