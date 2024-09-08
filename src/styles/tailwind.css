@@ -31,5 +31,8 @@
         content: none;
       }
     }
+    [data-align-last-split-element='justify'] {
+      text-align-last: auto;
+    }
   }
 }
