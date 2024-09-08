@@ -1,13 +1,28 @@
 import { type Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Bricolage_Grotesque, Chivo_Mono, Inter } from 'next/font/google'
 import clsx from 'clsx'
 
 import '@/styles/tailwind.css'
 
 const inter = Inter({
   subsets: ['latin'],
-  display: 'swap',
+  display: 'block',
   variable: '--font-inter',
+  preload: true,
+})
+
+const bricolage = Bricolage_Grotesque({
+  subsets: ['latin'],
+  display: 'block',
+  variable: '--font-bricolage',
+  preload: true,
+})
+
+const chivo = Chivo_Mono({
+  subsets: ['latin'],
+  display: 'block',
+  variable: '--font-chivo',
+  preload: true,
 })
 
 export const metadata: Metadata = {
@@ -27,16 +42,10 @@ export default function RootLayout({
       className={clsx(
         'h-full scroll-smooth bg-white antialiased',
         inter.variable,
+        bricolage.variable,
+        chivo.variable,
       )}
     >
-      <head>
-        <link rel="stylesheet" href="/api/fonts" />
-        <link
-          rel="preconnect"
-          href="https://cdn.fontshare.com"
-          crossOrigin="anonymous"
-        />
-      </head>
       <body className="flex min-h-full flex-col">{children}</body>
     </html>
   )

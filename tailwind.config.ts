@@ -32,8 +32,9 @@ export default {
         '6xl': '5rem',
       },
       fontFamily: {
-        sans: 'var(--font-inter)',
-        display: ['Cabinet Grotesk', ...defaultTheme.fontFamily.sans],
+        sans: ['var(--font-inter)', ...defaultTheme.fontFamily.sans],
+        display: ['var(--font-bricolage)', ...defaultTheme.fontFamily.serif],
+        mono: ['var(--font-chivo)', ...defaultTheme.fontFamily.mono],
       },
       colors: {
         // contrast > 3.0 (14pt bold text, 18pt normal text, graphical elements)
@@ -58,7 +59,7 @@ export default {
       },
       screens: {
         '3xl': '1920px',
-      }
+      },
     },
   },
   plugins: [],
