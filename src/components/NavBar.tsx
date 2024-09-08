@@ -38,7 +38,6 @@ export function NavBar() {
   let mobileActiveIndex = activeIndex === null ? 0 : activeIndex
 
   useEffect(() => {
-    console.log('useEffect')
     function updateActiveIndex() {
       if (!navBarRef.current) {
         return
@@ -54,7 +53,6 @@ export function NavBar() {
 
       // Check if we've scrolled past the first title
       const firstTitlePosition = elements[0].getBoundingClientRect().top
-      console.log(firstTitlePosition)
       setIsVisible(window.scrollY > firstTitlePosition - offset)
 
       if (window.scrollY >= Math.floor(bodyRect.height) - window.innerHeight) {
