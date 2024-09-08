@@ -12,7 +12,10 @@ export async function Footnote({ number, children }: FootnoteProps) {
   return (
     <Tooltip placement="top-start">
       <TooltipTrigger asChild>
-        <StyledLink className="no-underline pl-[0.2rem]" href="#">
+        <StyledLink
+          className="pl-[0.2rem] no-underline"
+          href="javascript:void(0);"
+        >
           <sup>{number}</sup>
         </StyledLink>
       </TooltipTrigger>
