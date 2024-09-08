@@ -28,6 +28,7 @@ const imports = `import { Reference } from '@/components/Reference'
 import { Insert } from '@/components/Insert'
 import { ReportSection } from '@/components/ReportSection'
 import { Experts, Expert } from '@/components/Experts'
+import { Footnote } from '@/components/Footnote'
 
 `
 
@@ -173,13 +174,36 @@ function processExperts(content: string): string {
   return content
 }
 
+function processFootnotes(content: string): string {
+  const footnoteRegex = /\[\^(\d+)\]/g
+  const footnoteContentRegex = /^\[\^(\d+)\]:\s*(.+)$/gm
+
+  // Extract footnote contents
+  const footnoteContents = new Map()
+  let match
+  while ((match = footnoteContentRegex.exec(content)) !== null) {
+    footnoteContents.set(match[1], match[2].trim())
+  }
+
+  // Replace footnote references with Footnote components
+  content = content.replace(footnoteRegex, (match, footnoteNumber) => {
+    const footnoteContent = footnoteContents.get(footnoteNumber)
+    if (footnoteContent) {
+      return `<Footnote number={${footnoteNumber}}>${footnoteContent}</Footnote>`
+    }
+    return match // If no corresponding footnote content is found, leave as is
+  })
+
+  // Remove footnote content from the end of the document
+  return content.replace(footnoteContentRegex, '')
+}
+
 try {
   // Read the contents of the raw.md file
   let content = fs.readFileSync(inputPath, 'utf-8')
 
-  // TODO: extract footnotes as sidenotes
-  // Remove the footnotes section
-  content = content.replace(/^\n\[\^\d+\]:  .+\n$/gm, '')
+  // Process footnotes
+  content = processFootnotes(content)
 
   // Extract the title (first heading) and remove it
   const reTitle = /^# (.+?)$/m
@@ -191,8 +215,8 @@ try {
   const reResume = /^# Résumé Exécutif {#résumé-exécutif}$([\s\S]+?)(?=^\n# )/m
   const resumeMatch = content.match(reResume)
   const resume = processReferences(
-    "import { Reference } from '@/components/Reference'" + resumeMatch?.[1] ??
-      '',
+    "import { Reference } from '@/components/Reference'" +
+      (resumeMatch?.[1] ?? ''),
     true,
   )
   content = content.replace(reResume, '')
@@ -268,6 +292,7 @@ ${sectionContent}
     'Bibliography items extracted, processed, and saved as separate MDX files.',
   )
   console.log('References processed and wrapped in Reference components.')
+  console.log('Footnotes processed and wrapped in Footnote components.')
 } catch (error) {
   console.error('Error processing contre-expertise:', error)
 }
