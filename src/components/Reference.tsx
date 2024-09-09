@@ -22,7 +22,7 @@ export function Reference({ children }: ReferenceProps) {
           {children}
         </FakeLink>
       </TooltipTrigger>
-      <TooltipContent className="max-w-[30%] rounded-md border border-brand-600 bg-white px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] tracking-tight text-slate-700 focus:outline-none">
+      <TooltipContent className="max-w-[90%] md:max-w-[30%] rounded-md border border-brand-600 bg-white px-[calc(theme(spacing.4)-1px)] py-[calc(theme(spacing.1)-1px)] tracking-tight text-slate-700 focus:outline-none">
         <ReferenceContent sourceNumber={sourceNumber} />
       </TooltipContent>
     </Tooltip>
