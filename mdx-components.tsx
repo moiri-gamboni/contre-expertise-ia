@@ -8,28 +8,16 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
     Image: ({ alt, ...props }) => (
       <Image alt={alt} {...props} className="print:break-inside-avoid" />
     ),
-    // Normalize headings
-    h1: (props) => (
-      <h2
-        className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900 print:break-after-avoid"
-        {...props}
-      />
-    ),
+    // MDX is already nested under h2, so we need to adjust h-level
     h2: (props) => (
       <h3
-        className="mt-8 font-display text-3xl font-bold tracking-tight text-slate-900 print:break-after-avoid"
+        className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900 print:break-after-avoid"
         {...props}
       />
     ),
     h3: (props) => (
       <h4
-        className="mt-6 font-display text-2xl font-bold tracking-tight text-slate-900 print:break-after-avoid"
-        {...props}
-      />
-    ),
-    h4: (props) => (
-      <h5
-        className="mt-6 font-display text-xl font-bold tracking-tight text-slate-900 print:break-after-avoid"
+        className="mt-6 font-display text-3xl font-bold tracking-tight text-slate-900 print:break-after-avoid"
         {...props}
       />
     ),
