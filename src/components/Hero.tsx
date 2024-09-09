@@ -56,7 +56,7 @@ export function Hero() {
           <Testimonial />
         </div>
         <div className="bg-white pt-16 lg:col-span-10 lg:bg-transparent lg:pl-16 lg:pt-0 xl:pl-20">
-          <div className="px-4 mx-auto lg:mx-0 sm:px-6 md:max-w-3xl md:px-4 lg:px-0">
+          <div className="mx-auto px-4 sm:px-6 md:max-w-3xl md:px-4 lg:mx-0 lg:px-0">
             <h1 className="font-display text-5xl font-extrabold text-slate-900 sm:text-6xl">
               Le rapport de la Commission de l'IA est trompeur.
             </h1>
@@ -70,7 +70,11 @@ export function Hero() {
               <Button href="#resume" color="brand">
                 Lire notre contre-expertise
               </Button>
-              <Button href="/contre-expertise" variant="outline" color="brand">
+              <Button
+                href="IA _ nos craintes pour la France.pdf"
+                variant="outline"
+                color="brand"
+              >
                 Télécharger la version PDF
               </Button>
             </div>

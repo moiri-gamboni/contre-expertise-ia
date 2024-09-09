@@ -1,34 +1,34 @@
-# Contre-expertise du Rapport de la Commission de l’IA
+# **IA : NOS CRAINTES POUR LA FRANCE** **Contre-expertise du Rapport de la Commission de l’IA**
 
-# Résumé Exécutif {#résumé-exécutif}
+# **Résumé Exécutif** {#résumé-exécutif}
 
-La Commission de l'intelligence artificielle [\[1\]](https://paperpile.com/c/Lj1YHA/njwm), créée par le gouvernement français et présidée par Anne Bouverot et Philippe Aghion, a pour mission de positionner la France en leader face aux enjeux de l’IA pour les années à venir. Son rapport final [\[2\]](https://paperpile.com/c/Lj1YHA/pQNq), publié le 13 mars 2024 et intitulé « IA: Notre ambition pour la France», s'avère être une occasion manquée d'engager une véritable réflexion sur les enjeux et les risques du développement et du déploiement de l'intelligence artificielle. La question revêt pourtant une importance croissante pour l'avenir technologique et économique de la France. Notre contre-expertise, soutenue par 14 experts et 5 organisations, a pour objectif de corriger cette trajectoire, en mettant en lumière les nombreuses lacunes et biais méthodologiques du rapport de la Commission.
+La Commission de l'intelligence artificielle [\[1\]](#bookmark=id.ymtdcwbirt3p), créée par le gouvernement français et présidée par Anne Bouverot et Philippe Aghion, a pour mission de positionner la France en leader face aux enjeux de l’IA pour les années à venir. Son rapport final [\[2\]](#bookmark=id.xbgql1ppmtcw), publié le 13 mars 2024 et intitulé « IA : Notre ambition pour la France», s'avère être une occasion manquée d'engager une véritable réflexion sur les enjeux et les risques du développement et du déploiement de l'intelligence artificielle. La question revêt pourtant une importance croissante pour l'avenir technologique et économique de la France. Notre contre-expertise, soutenue par 14 experts et 5 organisations, a pour objectif de corriger cette trajectoire, en mettant en lumière les nombreuses lacunes et biais méthodologiques du rapport de la Commission.
 
 Le rapport de la Commission incite à faire vivre un débat public. Dans cette perspective, notre analyse se concentre délibérément sur ses aspects les plus problématiques. Cette approche critique vise à combler les manques que nous avons identifiés, sans pour autant nier l'existence d'éléments pertinents dans le rapport original.
 
-**Au cœur de notre critique se trouve le non-respect des standards scientifiques par le rapport**, qui écarte sans justification l'avis d'une grande partie des experts en IA. Face à une situation où de nombreux chercheurs éminents, dont une majorité des experts en sécurité de l'IA, alertent sur des risques potentiellement catastrophiques à court et moyen terme, **la Commission fait le choix de les ignorer**. Cette approche compromet la capacité de la France à anticiper et gérer les défis majeurs posés par l'IA, mettant ainsi en péril la sécurité nationale et l'avenir de notre société.
+**Au cœur de notre critique se trouve le non-respect des standards scientifiques par le rapport**, qui écarte sans justification l'avis d'une grande partie des experts en IA. Face à une situation où de nombreux chercheurs éminents, dont une majorité des experts en sécurité de l'IA, alertent sur des risques actuels et potentiellement catastrophiques à court et moyen terme, **la Commission fait le choix de les ignorer**. Cette approche compromet la capacité de la France à anticiper et gérer les défis majeurs posés par l'IA, mettant ainsi en péril la sécurité nationale et l'avenir de notre société.
 
-Notre analyse révèle des défaillances systématiques dans le rapport, que nous pouvons résumer en sept critiques principales :
+Notre analyse révèle des défaillances systématiques dans le rapport, que nous pouvons résumer en sept critiques principales :
 
 1. Silence injustifié sur les avertissements des experts en IA et sur la littérature scientifique existante.  
 2. Aucune anticipation des développements futurs de l'IA, même à court terme.  
-3. Négligence de l'impact des IA de recommandation sur le déclin démocratique globalisé et du rôle qu'elles ont joué dans plusieurs massacres de masse [\[3\], \[4\], \[5\]](https://paperpile.com/c/Lj1YHA/UW6R+FcFU+bc3U).  
+3. Négligence de l'impact des IA de recommandation sur le déclin démocratique globalisé et du rôle qu'elles ont joué dans plusieurs massacres de masse [\[3\]](#bookmark=id.9ulpqtoajczs), [\[4\]](#bookmark=id.rk90y5bqster), [\[5\]](#bookmark=id.2ryfob1fesfj).  
 4. Omission des considérations principales sur la sécurité de l'IA.  
 5. Sélection des données et des faits pour soutenir une vision excessivement optimiste.  
 6. Minimisation systématique des risques identifiés, notamment en matière d'emploi et de cybersécurité.  
 7. Rigueur insuffisante par comparaison aux rapports similaires d'autres pays.
 
-Ces défaillances sont illustrées à de nombreuses reprises, dont voici quelques exemples :
+Ces défaillances sont illustrées à de nombreuses reprises, dont voici quelques exemples :
 
-- **Emploi :** Le rapport ne retient que les données impliquant un impact positif de l'IA. Dans un premier temps, il reconnaît que sa première approche n’est pas concluante, mais affirme quelques phrases plus loin qu'elle montre un « effet positif sur l'emploi ». Ensuite, il cite une étude prévoyant un risque de remplacement de 30 % du travail par l'IA, mais l'ignore immédiatement, pour conclure sans justification à un effet positif.  
-- **Cybersécurité :** Alors que GPT-4 surpasse déjà 88 % des pirates humains dans certaines compétitions, le rapport disqualifie ce risque en deux phrases, sans aucune référence.  
-- **Risques existentiels :** Le rapport tourne en dérision les avertissements sur les risques existentiels de l'IA sans aucune justification scientifique, tout en démontrant une méconnaissance du sujet en allant jusqu'à confondre la déclaration du Center for AI Safety [\[6\]](https://paperpile.com/c/Lj1YHA/ZHUVH) signée par des centaines d’experts de premier plan avec la lettre ouverte [\[7\]](https://paperpile.com/c/Lj1YHA/9alFH) d’une autre institution.  
-- **Création artistique :** Sans citer aucune source ni référence, le rapport affirme que « L'IA ne met pas en danger l'originalité de la création ». Cette déclaration ignore les rapports alarmants qui émergent sur l'impact de l'IA dans le domaine artistique, et occulte les transformations profondes qu’elle impose dès aujourd’hui à ce secteur.  
-- **Absence d'anticipation :** Le rapport évalue systématiquement les risques en se basant uniquement sur les capacités passées des IA, supposant implicitement un arrêt soudain du progrès technologique. Cette approche amplifie tous les problèmes précédents. Les risques déjà sous-estimés pour l'emploi, la cybersécurité et la création artistique sont décuplés si l'on considère l'évolution rapide et continue des capacités des IA.
+- **Emploi :** Le rapport ne retient que les données impliquant un impact positif de l'IA. Dans un premier temps, il reconnaît que sa première approche n’est pas concluante, mais affirme quelques phrases plus loin qu'elle montre un « effet positif sur l'emploi ». Ensuite, il cite une étude prévoyant un risque de remplacement de 30 % du travail par l'IA, mais l'ignore immédiatement, pour conclure sans justification à un effet positif.  
+- **Cybersécurité :** Alors que GPT-4 surpasse déjà 88 % des pirates humains dans certaines compétitions, le rapport disqualifie ce risque en deux phrases, sans aucune référence.  
+- **Risques existentiels :** Le rapport tourne en dérision les avertissements sur les risques existentiels de l'IA sans aucune justification scientifique, tout en démontrant une méconnaissance du sujet en allant jusqu'à confondre la déclaration du Center for AI Safety [\[6\]](#bookmark=id.qxc181851r8u) signée par des centaines d’experts de premier plan avec la lettre ouverte [\[7\]](#bookmark=id.ef1o8j4mla54) d’une autre institution.  
+- **Création artistique :** Sans citer aucune source ni référence, le rapport affirme que « L'IA ne met pas en danger l'originalité de la création ». Cette déclaration ignore les rapports alarmants qui émergent sur l'impact de l'IA dans le domaine artistique, et occulte les transformations profondes qu’elle impose dès aujourd’hui à ce secteur.  
+- **Absence d'anticipation :** Le rapport évalue systématiquement les risques en se basant uniquement sur les capacités passées des IA, supposant implicitement un arrêt soudain du progrès technologique. Cette approche amplifie tous les problèmes précédents. Les risques déjà sous-estimés pour l'emploi, la cybersécurité et la création artistique sont décuplés si l'on considère l'évolution rapide et continue des capacités des IA.
 
 Ces manquements s'expliquent en grande partie par la composition même de la Commission, marquée par **des conflits d'intérêts majeurs** et un **manque de diversité d'opinions et d'expertises.** La Commission ne compte aucun expert en sécurité de l'IA et est dominée par des représentants de l'industrie favorables à, et favorisés par, un développement accéléré et peu régulé de l'IA.
 
-Face à cette situation inquiétante, nous appelons à :
+Face à cette situation inquiétante, nous appelons à :
 
 1. Un remaniement de la Commission pour éliminer les conflits d'intérêts et garantir une diversité d’expertise.  
 2. La consultation urgente d'experts en sécurité de l'IA.  
@@ -39,167 +39,169 @@ L'accueil par la France du Sommet pour l'action sur l'IA début 2025 offre l'occ
 
 Cette contre-expertise se veut une réponse concrète à l'appel au débat public mentionné dans le rapport de la Commission (p. 7), initiant ainsi un dialogue critique et constructif sur l'avenir de l'IA.
 
-# Table des matières {#table-des-matières}
+# **Table des matières** {#table-des-matières}
 
-[**Résumé Exécutif	1**](\#résumé-exécutif)
+[**Résumé Exécutif	2**](#résumé-exécutif)
 
-[**Table des matières	3**](\#table-des-matières)
+[**Table des matières	5**](#table-des-matières)
 
-[**1 Introduction	4**](\#1-introduction)
+[**1 Introduction	7**](#1-introduction)
 
-[**2 Méthodologie et approche	5**](\#2-méthodologie-et-approche)
+[**2 Méthodologie et approche	9**](#2-méthodologie-et-approche)
 
-[**3 Analyse critique du rapport	7**](\#3-analyse-critique-du-rapport)
+[**3 Analyse critique du rapport	11**](#3-analyse-critique-du-rapport)
 
-[3.1 Vue d’ensemble	7](\#3.1-vue-d’ensemble)
+[3.1 Vue d’ensemble	11](#3.1-vue-d’ensemble)
 
-[3.2 Omissions Critiques	8](\#3.2-omissions-critiques)
+[3.2 Omissions Critiques	12](#3.2-omissions-critiques)
 
-[3.2.1 Absence totale de mention de la sécurité de l'IA	8](\#3.2.1-absence-totale-de-mention-de-la-sécurité-de-l'ia)
+[3.2.1 Absence totale de mention de la sécurité de l'IA	12](#3.2.1-absence-totale-de-mention-de-la-sécurité-de-l'ia)
 
-[3.2.2 Omission des avertissements de la communauté scientifique sur les risques systémiques et catastrophiques liés à l'IA	9](\#3.2.2-omission-des-avertissements-de-la-communauté-scientifique-sur-les-risques-systémiques-et-catastrophiques-liés-à-l'ia)
+[3.2.2 Omission des avertissements de la communauté scientifique sur les risques systémiques et catastrophiques liés à l'IA	14](#3.2.2-omission-des-avertissements-de-la-communauté-scientifique-sur-les-risques-systémiques-et-catastrophiques-liés-à-l'ia)
 
-[3.2.3 Aucune anticipation des développements de l'IA, même à court terme	10](\#3.2.3-aucune-anticipation-des-développements-de-l'ia,-même-à-court-terme)
+[3.2.3 Aucune anticipation des développements de l'IA, même à court terme	15](#3.2.3-aucune-anticipation-des-développements-de-l'ia,-même-à-court-terme)
 
-[3.2.4 Négligence de l’impact dévastateur des IA de recommandation	13](\#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)
+[3.2.4 Négligence de l’impact dévastateur des IA de recommandation	18](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)
 
-[3.3 Minimisation et déformation des risques	14](\#3.3-minimisation-et-déformation-des-risques)
+[3.3 Minimisation et déformation des risques	20](#3.3-minimisation-et-déformation-des-risques)
 
-[3.3.1 Déformation historique et contextuelle	15](\#3.3.1-déformation-historique-et-contextuelle)
+[3.3.1 Déformation historique et contextuelle	21](#3.3.1-déformation-historique-et-contextuelle)
 
-[3.3.2 Traitement biaisé des risques spécifiques	17](\#3.3.2-traitement-biaisé-des-risques-spécifiques)
+[3.3.2 Traitement biaisé des risques spécifiques	23](#3.3.2-traitement-biaisé-des-risques-spécifiques)
 
-[3.3.2.1 Emploi	17](\#3.3.2.1-emploi)
+[3.3.2.1 Emploi	23](#3.3.2.1-emploi)
 
-[3.3.2.2 Cybersécurité	18](\#3.3.2.2-cybersécurité)
+[3.3.2.2 Cybersécurité	25](#3.3.2.2-cybersécurité)
 
-[3.3.2.3 Open source	21](\#3.3.2.3-open-source)
+[3.3.2.3 Open source	27](#3.3.2.3-open-source)
 
-[3.3.2.4 Création artistique	22](\#3.3.2.4-création-artistique)
+[3.3.2.4 Création artistique	29](#3.3.2.4-création-artistique)
 
-[3.3.3 Utilisation stratégique du langage	24](\#3.3.3-utilisation-stratégique-du-langage)
+[3.3.3 Utilisation stratégique du langage	31](#3.3.3-utilisation-stratégique-du-langage)
 
-[3.4 Négligence des préoccupations citoyennes et approche non-démocratique	25](\#3.4-négligence-des-préoccupations-citoyennes-et-approche-non-démocratique)
+[3.4 Négligence des préoccupations citoyennes et approche non-démocratique	33](#3.4-négligence-des-préoccupations-citoyennes-et-approche-non-démocratique)
 
-[3.4.1 Perception publique de l'IA : un mélange de préoccupations et d'attentes	25](\#3.4.1-perception-publique-de-l'ia-:-un-mélange-de-préoccupations-et-d'attentes)
+[3.4.1 Perception publique de l'IA : un mélange de préoccupations et d'attentes	33](#3.4.1-perception-publique-de-l'ia :-un-mélange-de-préoccupations-et-d'attentes)
 
-[3.4.2 Décalage entre les préoccupations publiques et l'approche de la Commission	25](\#3.4.2-décalage-entre-les-préoccupations-publiques-et-l'approche-de-la-commission)
+[3.4.2 Décalage entre les préoccupations publiques et l'approche de la Commission	33](#3.4.2-décalage-entre-les-préoccupations-publiques-et-l'approche-de-la-commission)
 
-[3.4.3 Proposition controversée sur l'accès aux données	26](\#3.4.3-proposition-controversée-sur-l'accès-aux-données)
+[3.4.3 Proposition controversée sur l'accès aux données	35](#3.4.3-proposition-controversée-sur-l'accès-aux-données)
 
-[3.5 Analyse comparative	27](\#3.5-analyse-comparative)
+[3.5 Analyse comparative	36](#3.5-analyse-comparative)
 
-[3.5.1 Introduction	27](\#3.5.1-introduction)
+[3.5.1 Introduction	36](#3.5.1-introduction)
 
-[3.5.2 Les risques éludés par le rapport français	31](\#3.5.2-les-risques-éludés-par-le-rapport-français)
+[3.5.2 Les risques éludés par le rapport français	40](#3.5.2-les-risques-éludés-par-le-rapport-français)
 
-[3.5.2.1 Perte de contrôle des modèles d'IA avancés	31](\#3.5.2.1-perte-de-contrôle-des-modèles-d'ia-avancés)
+[3.5.2.1 Perte de contrôle des modèles d'IA avancés	40](#3.5.2.1-perte-de-contrôle-des-modèles-d'ia-avancés)
 
-[3.5.2.2 Biorisques et cybersécurité	31](\#3.5.2.2-biorisques-et-cybersécurité)
+[3.5.2.2 Biorisques et cybersécurité	40](#3.5.2.2-biorisques-et-cybersécurité)
 
-[3.5.2.3 Deepfakes et désinformation	32](\#3.5.2.3-deepfakes-et-désinformation)
+[3.5.2.3 Deepfakes et désinformation	40](#3.5.2.3-deepfakes-et-désinformation)
 
-[3.5.2.4 Confidentialité des données	32](\#3.5.2.4-confidentialité-des-données)
+[3.5.2.4 Confidentialité des données	41](#3.5.2.4-confidentialité-des-données)
 
-[3.5.2.5 Autres risques non traités	32](\#3.5.2.5-autres-risques-non-traités)
+[3.5.2.5 Autres risques non traités	41](#3.5.2.5-autres-risques-non-traités)
 
-[3.5.3 Les risques traités superficiellement	33](\#3.5.3-les-risques-traités-superficiellement)
+[3.5.3 Les risques traités superficiellement	42](#3.5.3-les-risques-traités-superficiellement)
 
-[3.5.3.1 Pertes d'emploi	33](\#3.5.3.1-pertes-d'emploi)
+[3.5.3.1 Pertes d'emploi	42](#3.5.3.1-pertes-d'emploi)
 
-[3.5.3.2 Impact environnemental	33](\#3.5.3.2-impact-environnemental)
+[3.5.3.2 Impact environnemental	42](#3.5.3.2-impact-environnemental)
 
-[3.5.4 Conclusion	34](\#3.5.4-conclusion)
+[3.5.4 Conclusion	43](#3.5.4-conclusion)
 
-[**4 Analyse de la composition de la Commission de l’IA	34**](\#4-analyse-de-la-composition-de-la-commission-de-l’ia)
+[**4 Analyse de la composition de la Commission de l’IA	44**](#4-analyse-de-la-composition-de-la-commission-de-l’ia)
 
-[4.1 Manque de diversité	35](\#4.1-manque-de-diversité)
+[4.1 Manque de diversité	44](#4.1-manque-de-diversité)
 
-[4.2 Conflits d’intérêts	37](\#4.2-conflits-d’intérêts)
+[4.2 Conflits d’intérêts	47](#4.2-conflits-d’intérêts)
 
-[4.2.1 Yann LeCun	38](\#4.2.1-yann-lecun)
+[4.2.1 Yann LeCun	48](#4.2.1-yann-lecun)
 
-[4.2.2 Arthur Mensch	39](\#4.2.2-arthur-mensch)
+[4.2.2 Arthur Mensch	51](#4.2.2-arthur-mensch)
 
-[4.2.3 Cédric O	40](\#4.2.3-cédric-o)
+[4.2.3 Cédric O	52](#4.2.3-cédric-o)
 
-[4.2.4 Joëlle Barral	40](\#4.2.4-joëlle-barral)
+[4.2.4 Joëlle Barral	52](#4.2.4-joëlle-barral)
 
-[4.3 Actions et opinions controversées	41](\#4.3-actions-et-opinions-controversées)
+[4.3 Actions et opinions controversées	53](#4.3-actions-et-opinions-controversées)
 
-[4.3.1 Lobbying de Cédric O	41](\#4.3.1-lobbying-de-cédric-o)
+[4.3.1 Lobbying de Cédric O	53](#4.3.1-lobbying-de-cédric-o)
 
-[4.3.1.1 Contexte	41](\#4.3.1.1-contexte)
+[4.3.1.1 Contexte	53](#4.3.1.1-contexte)
 
-[4.3.1.2 Actions controversées	41](\#4.3.1.2-actions-controversées)
+[4.3.1.2 Actions controversées	53](#4.3.1.2-actions-controversées)
 
-[4.3.1.3 Réactions et critiques	42](\#4.3.1.3-réactions-et-critiques)
+[4.3.1.3 Réactions et critiques	54](#4.3.1.3-réactions-et-critiques)
 
-[4.3.1.4 Implications	42](\#4.3.1.4-implications)
+[4.3.1.4 Implications	54](#4.3.1.4-implications)
 
-[4.3.2 Lettre au Sénat Américain	42](\#4.3.2-lettre-au-sénat-américain)
+[4.3.2 Lettre au Président des Etats-Unis	55](#4.3.2-lettre-au-président-des-etats-unis)
 
-[4.3.2.1 Contexte	42](\#4.3.2.1-contexte)
+[4.3.2.1 Contexte	55](#4.3.2.1-contexte)
 
-[4.3.2.2 Affirmation trompeuse	42](\#4.3.2.2-affirmation-trompeuse)
+[4.3.2.2 Affirmation trompeuse	55](#4.3.2.2-affirmation-trompeuse)
 
-[4.3.2.3 Réactions et critiques	43](\#4.3.2.3-réactions-et-critiques)
+[4.3.2.3 Réactions et critiques	56](#4.3.2.3-réactions-et-critiques)
 
-[4.3.2.4 Implications	43](\#4.3.2.4-implications)
+[4.3.2.4 Implications	56](#4.3.2.4-implications)
 
-[4.3.3 Arthur Mensch devant le Sénat	43](\#4.3.3-arthur-mensch-devant-le-sénat)
+[4.3.3 Arthur Mensch devant le Sénat	56](#4.3.3-arthur-mensch-devant-le-sénat)
 
-[4.3.3.1 Contexte	43](\#4.3.3.1-contexte)
+[4.3.3.1 Contexte	56](#4.3.3.1-contexte)
 
-[4.3.3.2 Déclarations controversées	44](\#4.3.3.2-déclarations-controversées)
+[4.3.3.2 Déclarations controversées	57](#4.3.3.2-déclarations-controversées)
 
-[4.3.3.3 Analyse critique	44](\#4.3.3.3-analyse-critique)
+[4.3.3.3 Analyse critique	57](#4.3.3.3-analyse-critique)
 
-[4.3.3.4 Implications	44](\#4.3.3.4-implications)
+[4.3.3.4 Implications	58](#4.3.3.4-implications)
 
-[4.4 Conclusion	45](\#4.4-conclusion)
+[4.4 Conclusion	58](#4.4-conclusion)
 
-[**5 Recommandations	45**](\#5-recommandations)
+[**5 Recommandations	60**](#5-recommandations)
 
-[**6 Conclusion	46**](\#6-conclusion)
+[**6 Conclusion	62**](#6-conclusion)
 
-[**Validation des experts	47**](\#validation-des-experts)
+[**Validation des experts	64**](#validation-des-experts)
 
-[**Soutien des associations	50**](\#soutien-des-associations)
+[**Soutien des associations	69**](#soutien-des-associations)
 
-[**À propos de Pause IA	51**](\#à-propos-de-pause-ia)
+[**À propos de Pause IA	70**](#à-propos-de-pause-ia)
 
-[**À propos des auteurs	51**](\#à-propos-des-auteurs)
+[**À propos des auteurs	71**](#à-propos-des-auteurs)
 
-[**Annexes	52**](\#annexes)
+[**Annexes	73**](#annexes)
 
-[A — Graphique Composition Commission	52](\#a-—-graphique-composition-commission)
+[A — Graphique Composition Commission	73](#a-—-graphique-composition-commission)
 
-[B — Postes des membres de la Commission	53](\#b-—-postes-des-membres-de-la-commission)
+[B — Postes des membres de la Commission	74](#b-—-postes-des-membres-de-la-commission)
 
-[C — L'apprentissage profond et ses origines	55](\#c-—-l'apprentissage-profond-et-ses-origines)
+[C — L'apprentissage profond et ses origines	76](#c-—-l'apprentissage-profond-et-ses-origines)
 
-[D — Les LLM	56](\#d-—-les-llm)
+[D — Les LLM	78](#d-—-les-llm)
 
-[E — La trajectoire actuelle de l’IA	57](\#e-—-la-trajectoire-actuelle-de-l’ia)
+[E — La trajectoire actuelle de l’IA	79](#e-—-la-trajectoire-actuelle-de-l’ia)
 
-[**Bibliographie	58**](\#bibliographie)
+[**Bibliographie	81**](#bibliographie)
 
-# 1 Introduction {#1-introduction}
+# 
 
-L'intelligence artificielle (IA) transforme rapidement notre société, avec des implications profondes pour l'avenir [\[8\], \[9\]](https://paperpile.com/c/Lj1YHA/bGJf5+JHeRt). Les décisions prises aujourd'hui en matière de développement et de régulation de l'IA auront des impacts concrets sur l'économie, la sécurité, la vie sociale et politique, l'influence internationale de la France, ainsi que sur son industrie, sa recherche scientifique, l'emploi et la vie privée des citoyens. Il est donc essentiel d'examiner attentivement les bases sur lesquelles ces décisions sont prises.
+# **1 Introduction** {#1-introduction}
 
-Prenant acte de l’importance de ces impacts, le gouvernement français crée en septembre 2023 le Comité — depuis devenu Commission [\[10\]](https://paperpile.com/c/Lj1YHA/n3TB) — de l’intelligence artificielle. La Commission est sommée, sous six mois, de produire un rapport censé guider les politiques nationales en matière d'IA pour les années à venir [\[11, p. 128\]](https://paperpile.com/c/Lj1YHA/RlZdK/?locator=128). Ce rapport [\[11\]](https://paperpile.com/c/Lj1YHA/RlZdK) est publié le 13 mars 2024 et intitulé *IA : Notre ambition pour la France*. 
+L'intelligence artificielle (IA) transforme rapidement notre société, avec des implications profondes pour l'avenir [\[8\]](#bookmark=id.ah65x11lkrbf), [\[9\]](#bookmark=id.amca4czds4sp). Les décisions prises aujourd'hui en matière de développement et de régulation de l'IA auront des impacts concrets sur l'économie, la sécurité, la vie sociale et politique, l'influence internationale de la France, ainsi que sur son industrie, sa recherche scientifique, l'emploi et la vie privée des citoyens. Il est donc essentiel d'examiner attentivement les bases sur lesquelles ces décisions sont prises.
 
-Le présent document propose une analyse critique approfondie du rapport de la Commission, s'inscrivant dans la lignée d'autres critiques notables, notamment celles exprimées par l’UGICT-CGT [\[12\]](https://paperpile.com/c/Lj1YHA/tJERX) et le Centre pour la Sécurité de l’IA [\[13\]](https://paperpile.com/c/Lj1YHA/E1ByA). Nous mettons en évidence des lacunes majeures et des conflits d'intérêts qui, s’ils restaient ignorés, pourraient avoir des implications considérables pour l'avenir de la France et de l'humanité. **Notre objectif principal est de créer les conditions d'un débat sain et équilibré autour de l'IA, qui ne soit plus capturé par des lobbys puissants et des intérêts privés et s’appuie sur les connaissances scientifiques les plus récentes en IA.**
+Prenant acte de l’importance de ces impacts, le gouvernement français crée en septembre 2023 le Comité — depuis devenu Commission [\[10\]](#bookmark=id.2vgmob3hnqdo) — de l’intelligence artificielle. La Commission est sommée, sous six mois, de produire un rapport censé guider les politiques nationales en matière d'IA pour les années à venir [\[11\]](#bookmark=id.c2lfdh3pgt1x). Ce rapport est publié le 13 mars 2024 et intitulé *IA : Notre ambition pour la France* [\[12\]](#bookmark=id.iq9trhxw10cc).
 
-Notre analyse se divise en trois parties principales :
+Le présent document propose une analyse critique approfondie du rapport de la Commission, s'inscrivant dans la lignée d'autres critiques notables, notamment celles exprimées par l’UGICT-CGT [\[13\]](#bookmark=id.rziee1vlrwsj) et le Centre pour la Sécurité de l’IA [\[14\]](#bookmark=id.3inxmdt71x52). Nous mettons en évidence des lacunes majeures et des conflits d'intérêts qui, s’ils restaient ignorés, pourraient avoir des implications considérables pour l'avenir de la France et de l'humanité. **Notre objectif principal est de créer les conditions d'un débat sain et équilibré autour de l'IA, qui ne soit plus capturé par des lobbys puissants et des intérêts privés et s’appuie sur les connaissances scientifiques les plus récentes en IA.**
+
+Notre analyse se divise en trois parties principales :
 
 1. Analyse critique du rapport de la Commission  
 2. Évaluation de la composition et du fonctionnement de la Commission  
 3. Recommandations pour adresser les lacunes identifiées
 
-Dans la première partie, nous examinerons en détail :
+Dans la première partie, nous examinerons en détail :
 
 1. Les omissions critiques du rapport  
 2. La minimisation et la distorsion des risques  
@@ -212,29 +214,31 @@ Enfin, nous proposerons des recommandations concrètes visant à combler les lac
 
 Cette contre-expertise se veut une contribution critique et constructive, et une réponse concrète à l’appel au débat public national mentionné dans le rapport de la Commission (p. 7). En mettant en lumière les faiblesses du rapport de la Commission et en proposant des pistes d'amélioration, nous cherchons à promouvoir une approche plus rigoureuse et transparente des enjeux de l'IA, dans l'intérêt à court, moyen et long terme de la société française.
 
-# 2 Méthodologie et approche {#2-méthodologie-et-approche}
+# 
+
+# **2 Méthodologie et approche** {#2-méthodologie-et-approche}
 
 Cette contre-expertise a été réalisée entièrement par un groupe de citoyens bénévoles possédant diverses expertises, sous la direction de Maxime Fournes, expert en Intelligence Artificielle. Notre approche a été principalement qualitative, axée sur une analyse critique approfondie du rapport de la Commission de l'IA.
 
-**Engagement bénévole :**
+**Engagement bénévole :**
 
-- Ce travail a été effectué intégralement par des bénévoles sur leur temps libre (voir [section « A propos des auteurs »](\#à-propos-des-auteurs)).  
+- Ce travail a été effectué intégralement par des bénévoles sur leur temps libre (voir [section « A propos des auteurs »](#à-propos-des-auteurs)).  
 - L'effort collectif représente environ 400 heures de travail, réparties sur plusieurs mois.  
 - Nous avons visé une date de publication suffisamment en amont du sommet de l'IA, afin de catalyser une réflexion et un débat éclairés.
 
-**Objectifs :**
+**Objectifs :**
 
 - Évaluer la rigueur scientifique et l'exhaustivité du rapport de la Commission.  
 - Identifier les lacunes et les biais potentiels.  
 - Proposer des recommandations pour une approche plus complète et équilibrée.
 
-**Sources et collecte de données :**
+**Sources et collecte de données :**
 
 - Analyse détaillée du rapport de la Commission de l'IA.  
 - Revue de la littérature scientifique pertinente sur la sécurité de l'IA.  
 - Consultation de chercheurs en sécurité de l'IA.
 
-**Processus d'analyse :**
+**Processus d'analyse :**
 
 1. Lecture critique du rapport de la Commission.  
 2. Identification des points clés et des lacunes potentielles.  
@@ -242,28 +246,30 @@ Cette contre-expertise a été réalisée entièrement par un groupe de citoyens
 4. Consultation d'experts pour valider nos observations.  
 5. Synthèse des résultats et formulation de recommandations.
 
-**Validation :**
+**Validation :**
 
 À l'issue de la rédaction initiale, le document a été soumis à 14 experts indépendants pour relecture et validation. **Le processus de validation s'est concentré sur la partie analytique du rapport, excluant les recommandations qui n'engagent que les auteurs principaux**.
 
-**Niveaux de participation :**
+**Niveaux de participation :**
 
-1. **Validation :** L'expert confirme l'exactitude et la pertinence de l'analyse présentée. Cette validation peut s'appliquer à l'ensemble du document ou à des sections spécifiques relevant de l'expertise de l'expert.  
-2. **Soutien :** L'expert approuve les principales conclusions de l'analyse, tout en exprimant des réserves sur certains points spécifiques. Le soutien peut concerner l'ensemble du document ou des sections spécifiques.
+1. **Validation :** L'expert confirme l'exactitude et la pertinence de l'analyse présentée. Cette validation peut s'appliquer à l'ensemble du document ou à des sections spécifiques relevant de l'expertise de l'expert.  
+2. **Soutien :** L'expert approuve les principales conclusions de l'analyse, tout en exprimant des réserves sur certains points spécifiques. Le soutien peut concerner l'ensemble du document ou des sections spécifiques.
 
 Les experts ont eu la possibilité de choisir les sections qu'ils souhaitaient examiner, en fonction de leur domaine d'expertise. Chaque expert a eu l'opportunité d'ajouter un bref commentaire personnel pour expliciter sa position ou ses éventuelles réserves.
 
-**Limitation :**
+**Limitation :**
 
 - Cette contre-expertise a été réalisée de manière indépendante, sans accès aux données brutes ou aux délibérations de la Commission de l'IA.
 
-# 3 Analyse critique du rapport {#3-analyse-critique-du-rapport}
+# 
 
-## 3.1 Vue d’ensemble {#3.1-vue-d’ensemble}
+# **3 Analyse critique du rapport** {#3-analyse-critique-du-rapport}
 
-Le rapport de la Commission de l'IA [\[11\]](https://paperpile.com/c/Lj1YHA/RlZdK) présente des lacunes profondes et multiples qui compromettent gravement sa crédibilité et sa pertinence en tant que document d'orientation stratégique pour la France. Notre analyse révèle une approche manquant de rigueur scientifique et ignorant certains risques majeurs liés au développement rapide de l'IA.
+## **3.1 Vue d’ensemble** {#3.1-vue-d’ensemble}
 
-Premièrement, le rapport souffre d'omissions critiques. Il passe sous silence le domaine scientifique de la sécurité de l'IA, établi depuis plus de quinze ans [\[14\]](https://paperpile.com/c/Lj1YHA/OHEaU). Il ignore les avertissements de très nombreux experts de premier plan concernant les risques existentiels, y compris ceux émis par des figures emblématiques comme Stuart Russell [\[15\]](https://paperpile.com/c/Lj1YHA/EkZ6a), Yoshua Bengio [\[16\], \[17\]](https://paperpile.com/c/Lj1YHA/iDjcd+4Q43v) et Geoffrey Hinton [\[18\]](https://paperpile.com/c/Lj1YHA/1PQbF). De plus, le rapport fait preuve d'un manque important d'anticipation, se concentrant principalement sur les impacts des technologies actuelles sans considérer sérieusement les défis potentiels posés par les innovations à venir. Enfin, le rapport néglige largement les risques liés aux technologies d'IA déjà déployées, comme les algorithmes de recommandation, pourtant déjà omniprésents et influents. Cette omission est particulièrement préoccupante étant donné l'impact profond de ces systèmes sur la formation de l'opinion publique, le fonctionnement de nos démocraties et la santé mentale des utilisateurs.
+Le rapport de la Commission de l'IA [\[15\]](#bookmark=id.6xqptswmt3m0) présente des lacunes profondes et multiples qui compromettent gravement sa crédibilité et sa pertinence en tant que document d'orientation stratégique pour la France. Notre analyse révèle une approche manquant de rigueur scientifique et ignorant certains risques majeurs liés au développement rapide de l'IA.
+
+Premièrement, le rapport souffre d'omissions critiques. Il passe sous silence le domaine scientifique de la sécurité de l'IA, établi depuis plus de quinze ans [\[16\]](#bookmark=id.1n3m958w9fsb). Il ignore les avertissements de très nombreux experts de premier plan concernant les risques existentiels, y compris ceux émis par des figures emblématiques comme Stuart Russell [\[17\]](#bookmark=id.bkzouucuwmvb), Yoshua Bengio [\[18\]](#bookmark=id.5rzimm34javi), [\[19\]](#bookmark=id.e5p3gssliv85) et Geoffrey Hinton [\[20\]](#bookmark=id.d0umlo2qjtri). De plus, le rapport fait preuve d'un manque important d'anticipation, se concentrant principalement sur les impacts des technologies actuelles sans considérer sérieusement les défis potentiels posés par les innovations à venir. Enfin, le rapport néglige largement les risques liés aux technologies d'IA déjà déployées, comme les algorithmes de recommandation, pourtant déjà omniprésents et influents. Cette omission est particulièrement préoccupante étant donné l'impact profond de ces systèmes sur la formation de l'opinion publique, le fonctionnement de nos démocraties et la santé mentale des utilisateurs.
 
 Deuxièmement, le rapport minimise systématiquement les risques qu'il aborde. Cette minimisation se manifeste à travers une déformation du contexte historique et actuel de l'IA, créant une fausse impression de continuité et de maîtrise technique. Le traitement des risques spécifiques, notamment en matière d'emploi et de cybersécurité, est particulièrement biaisé. Le rapport emploie des formulations orientées ou des arguments rhétoriques pour discréditer les scénarios les plus alarmants sans en adresser la substance, et façonne ainsi une perception des enjeux rassurante mais trompeuse.
 
@@ -271,100 +277,94 @@ Troisièmement, l'analyse comparative avec d'autres initiatives similaires met e
 
 Les lacunes identifiées ne sont pas de simples erreurs. Elles reflètent une défaillance systématique dans l'évaluation des risques et des opportunités liés à l'IA. Il est impératif que la France prenne la mesure réelle des défis posés par l'IA et adopte une approche rigoureuse, éthique et responsable pour guider son développement futur.
 
-## 3.2 Omissions Critiques {#3.2-omissions-critiques}
+## **3.2 Omissions Critiques** {#3.2-omissions-critiques}
 
 Le rapport de la Commission est marqué par des omissions récurrentes qui compromettent sa crédibilité et son utilité. Ces lacunes ne semblent pas être de simples oublis, mais plutôt s’inscrire dans une démarche cohérente visant à minimiser les dangers et les défis posés par l'IA.
 
-### 3.2.1 Absence totale de mention de la sécurité de l'IA {#3.2.1-absence-totale-de-mention-de-la-sécurité-de-l'ia}
+### **3.2.1 Absence totale de mention de la sécurité de l'IA** {#3.2.1-absence-totale-de-mention-de-la-sécurité-de-l'ia}
 
-Ce champ de recherche, établi il y a plus de quinze ans, se consacre spécifiquement à l'étude des risques liés au développement de l'IA, aux moyens de les atténuer, ainsi qu'aux questions fondamentales de compréhension et de contrôle des intelligences artificielles [\[14\]](https://paperpile.com/c/Lj1YHA/OHEaU). Des institutions renommées telles que le Centre for the Study of Existential Risk à Cambridge [\[19\]](https://paperpile.com/c/Lj1YHA/ACck5), le Center for AI Safety (CAIS) [\[20\]](https://paperpile.com/c/Lj1YHA/a5zmM), et le Center for Human-Compatible AI (CHAI) à Berkeley [\[21\]](https://paperpile.com/c/Lj1YHA/8z7wC) sont à l'avant-garde de ces recherches. De plus, les principaux laboratoires d'IA comme OpenAI [\[22\], \[23\]](https://paperpile.com/c/Lj1YHA/41Str+RA8ba), Google DeepMind [\[24\], \[25\], \[26\]](https://paperpile.com/c/Lj1YHA/OANrS+Pqb3O+nQoWs) et Anthropic [\[27\], \[28\]](https://paperpile.com/c/Lj1YHA/rYuw4+9Wk0X) ont constitué des équipes dédiées à la sécurité de l'IA, soulignant l'importance croissante de ce domaine. Cette discipline est désormais enseignée dans les universités à la pointe de l’intelligence artificielle à travers le monde, notamment à Stanford [\[29\]](https://paperpile.com/c/Lj1YHA/w7vcI), au MIT [\[30\]](https://paperpile.com/c/Lj1YHA/Q1Rnf), à Berkeley [\[31\]](https://paperpile.com/c/Lj1YHA/ebkar), et à l'ETH Zurich [\[32\]](https://paperpile.com/c/Lj1YHA/kefcN), ainsi que dans des écoles parmi les plus prestigieuses en France, telles que l'École Normale Supérieure [\[33\]](https://paperpile.com/c/Lj1YHA/pYJaM) et l'École Polytechnique [\[34\]](https://paperpile.com/c/Lj1YHA/vnZt4).
+Ce champ de recherche, établi il y a plus de quinze ans, se consacre spécifiquement à l'étude des risques liés au développement de l'IA, aux moyens de les atténuer, ainsi qu'aux questions fondamentales de compréhension et de contrôle des intelligences artificielles [\[16\]](#bookmark=id.1n3m958w9fsb). Des institutions renommées telles que le Centre for the Study of Existential Risk à Cambridge [\[21\]](#bookmark=id.gnosqbc4czv6), le Center for AI Safety (CAIS) [\[22\]](#bookmark=id.nnezb6vxjqcn), et le Center for Human-Compatible AI (CHAI) à Berkeley [\[23\]](#bookmark=id.skwk1o2rkhpr) sont à l'avant-garde de ces recherches. De plus, les principaux laboratoires d'IA comme OpenAI [\[24\]](#bookmark=id.tmdqmsjow5q3), [\[25\]](#bookmark=id.m8n2e1khylnu), Google DeepMind [\[26\]](#bookmark=id.wv9cvz8d2hq2), [\[27\]](#bookmark=id.wb5znv5p5pfh), [\[28\]](#bookmark=id.tk39psnbdqnt) et Anthropic [\[29\]](#bookmark=id.1dqdzkg6bwbm), [\[30\]](#bookmark=id.fy8wl2513jke) ont constitué des équipes dédiées à la sécurité de l'IA, soulignant l'importance croissante de ce domaine. Cette discipline est désormais enseignée dans les universités à la pointe de l’intelligence artificielle à travers le monde, notamment à Stanford [\[31\]](#bookmark=id.yd57to1itnpy), au MIT [\[32\]](#bookmark=id.n6rfvhmpelxe), à Berkeley [\[33\]](#bookmark=id.7o32ntk4f891), et à l'ETH Zurich [\[34\]](#bookmark=id.816krm88nto4), ainsi que dans des écoles parmi les plus prestigieuses en France, telles que l'École Normale Supérieure [\[35\]](#bookmark=id.g8iifv7jmuog) et l'École Polytechnique [\[36\]](#bookmark=id.23tfufmqlajr).
 
-Parmi les accomplissements majeurs de ce domaine, on peut citer :
+Parmi les accomplissements majeurs de ce domaine, on peut citer :
 
-1. L'identification et l'évaluation d'un large éventail de risques liés aux systèmes d'IA actuels et futurs [\[35\], \[36\]](https://paperpile.com/c/Lj1YHA/jAhIf+nrSUJ), [\[37\]](https://paperpile.com/c/Lj1YHA/lThe0). Ces analyses ont notamment mis en lumière :  
+1. L'identification et l'évaluation d'un large éventail de risques liés aux systèmes d'IA actuels et futurs [\[37\]](#bookmark=id.nzffio14mq22), [\[38\]](#bookmark=id.fybrzto7dxj6), [\[39\]](#bookmark=id.uzp94y6olupu). Ces analyses ont notamment mis en lumière :  
      
-1. Les vulnérabilités fondamentales des systèmes d'apprentissage, particulièrement pour les modèles de très grande dimension [\[38\], \[39\]](https://paperpile.com/c/Lj1YHA/kbkf+B1i0).  
-2. La susceptibilité à la manipulation par des données empoisonnées, un problème omniprésent notamment pour les IA de recommandation [\[40\], \[41\]](https://paperpile.com/c/Lj1YHA/neOV+zAJo).  
-3. La mémorisation non désirée de données sensibles ou protégées par des droits d'auteur [\[42\], \[43\]](https://paperpile.com/c/Lj1YHA/s84s+IxKS).  
-4. La vulnérabilité systématique au « *jailbreaking* », c'est-à-dire à des manières de prompter ses systèmes qui rendent leur comportement imprévisible, voire dangereux [\[44\], \[45\], \[46\]](https://paperpile.com/c/Lj1YHA/cvcT+fjeD+HF25).  
-5. L'identification de problèmes fondamentaux comme le « *reward hacking* » [\[47\]](https://paperpile.com/c/Lj1YHA/WJo1q), permettant de mieux comprendre les défis de l'alignement.  
-6. Les risques liés aux algorithmes de recommandation déjà déployés [\[48\], \[49\], \[50\]](https://paperpile.com/c/Lj1YHA/jbv1+ETao+4n95) (voir [section 3.2.](\#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)4).
+1. Les vulnérabilités fondamentales des systèmes d'apprentissage, particulièrement pour les modèles de très grande dimension [\[40\]](#bookmark=id.360cnptu833g), [\[41\]](#bookmark=id.bnc6t7maau6).  
+2. La susceptibilité à la manipulation par des données empoisonnées, un problème omniprésent notamment pour les IA de recommandation [\[42\]](#bookmark=id.24nruh1bbd0e), [\[43\]](#bookmark=id.tbsac57vnxet).  
+3. La mémorisation non désirée de données sensibles ou protégées par des droits d'auteur [\[44\]](#bookmark=id.6duppsowtls1), [\[45\]](#bookmark=id.w5gepi9wls1q).  
+4. La vulnérabilité systématique au « *jailbreaking »*, c'est-à-dire à des manières de prompter ses systèmes qui rendent leur comportement imprévisible, voire dangereux [\[46\]](#bookmark=id.kb8ewjhsgs7y), [\[47\]](#bookmark=id.bzlwrbtv3rvz), [\[48\]](#bookmark=id.y8u8re5xpv4p).  
+5. L'identification de problèmes fondamentaux comme le « *reward hacking* » [\[49\]](#bookmark=id.18kqj5ctfm23), permettant de mieux comprendre les défis de l'alignement.  
+6. Les risques liés aux algorithmes de recommandation déjà déployés [\[50\]](#bookmark=id.r59egdlt1l2z), [\[51\]](#bookmark=id.sb8kvki2gm9m), [\[52\]](#bookmark=id.6y22ntwpb61) (voir [section 3.2.4](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)).
 
-2. Le développement de techniques d'alignement du comportement sur les valeurs humaines, notamment :  
+2. Le développement de techniques d'alignement du comportement sur les valeurs humaines, notamment :  
      
-   1. La gouvernance collaborative algorithmique des IA [\[51\], \[52\], \[53\]](https://paperpile.com/c/Lj1YHA/AoT1+q00m+EiMQ).  
-   2. L'apprentissage par jugements comparatifs [\[54\], \[55\]](https://paperpile.com/c/Lj1YHA/602z+zGls).  
-   3. L'apprentissage par filtrage collaboratif [\[56\], \[57\]](https://paperpile.com/c/Lj1YHA/V0tq+vr6H).  
-   4. L'apprentissage par renforcement à partir de feedback humain (*RLHF*) [\[58\], \[59\]](https://paperpile.com/c/Lj1YHA/c1jSf+EVd5M), aujourd'hui un des mécanismes principaux permettant de rendre les grands modèles de langage utilisables et plus alignés avec les intentions humaines.
+   1. La gouvernance collaborative algorithmique des IA [\[53\]](#bookmark=id.x3be7wlls0w6), [\[54\]](#bookmark=id.lj9sn8xbaxni), [\[55\]](#bookmark=id.kwvtcu4bfce7).  
+   2. L'apprentissage par jugements comparatifs [\[56\]](#bookmark=id.3gy1v87x4rn1), [\[57\]](#bookmark=id.xx6x90ypmg75).  
+   3. L'apprentissage par filtrage collaboratif [\[58\]](#bookmark=id.f67d2xs9dm4b), [\[59\]](#bookmark=id.wk4ozu744uu).  
+   4. L'apprentissage par renforcement à partir de feedback humain (*RLHF*) [\[60\]](#bookmark=id.qd23rxsziq2n), [\[61\]](#bookmark=id.iyaj17bq26av), aujourd'hui un des mécanismes principaux permettant de rendre les grands modèles de langage utilisables et plus alignés avec les intentions humaines.
 
-3. Des avancées significatives dans l'interprétabilité mécanistique, ouvrant la voie à une compréhension plus profonde du fonctionnement interne des réseaux de neurones artificiels [\[60\], \[61\], \[62\]](https://paperpile.com/c/Lj1YHA/z1KPj+N6j1M+ol3n).
+3. Des avancées significatives dans l'interprétabilité mécanistique, ouvrant la voie à une compréhension plus profonde du fonctionnement interne des réseaux de neurones artificiels [\[62\]](#bookmark=id.2kczl14n5suv), [\[63\]](#bookmark=id.r5nij8adylyr), [\[64\]](#bookmark=id.nlp6lnp6s25j).
 
-Pour une vue d'ensemble plus complète sur la sécurité de l'IA, nous renvoyons le lecteur aux rapports du NIST [\[63\]](https://paperpile.com/c/Lj1YHA/X6DN) et de l'ANSSI [\[64\]](https://paperpile.com/c/Lj1YHA/SATz), ainsi que le site web du Centre pour la Sécurité de l’IA [\[65\]](https://paperpile.com/c/Lj1YHA/jCc4).
+Pour une vue d'ensemble plus complète sur la sécurité de l'IA, nous renvoyons le lecteur aux rapports du NIST [\[65\]](#bookmark=id.o3z1gu6s43rx) et de l'ANSSI [\[66\]](#bookmark=id.75tsdqbkx3sn), ainsi que le site web du Centre pour la Sécurité de l’IA [\[67\]](#bookmark=id.6dg6pthscg1w).
 
-Cependant, nous faisons les constats suivants :
+Cependant, nous faisons les constats suivants :
 
 1. Aucune mention n'est faite de ce domaine de recherche ni de ses conclusions.  
 2. Aucun des experts en sécurité de l'IA que nous avons consultés n'a été approché pour contribuer à ce rapport.
 
 Ces omissions constituent une lacune stratégique significative. En ne tenant pas compte de connaissances essentielles pour l'évaluation des risques liés à l'IA, le rapport compromet la pertinence de ses propres recommandations. Cette approche soulève des inquiétudes quant à l'exhaustivité de l'expertise mobilisée et suggère que la stratégie nationale en matière d'IA pourrait ne pas prendre en compte certains des risques les plus sérieux identifiés par la communauté scientifique spécialisée.
 
-### 3.2.2 Omission des avertissements de la communauté scientifique sur les risques systémiques et catastrophiques liés à l'IA {#3.2.2-omission-des-avertissements-de-la-communauté-scientifique-sur-les-risques-systémiques-et-catastrophiques-liés-à-l'ia}
+### **3.2.2 Omission des avertissements de la communauté scientifique sur les risques systémiques et catastrophiques liés à l'IA** {#3.2.2-omission-des-avertissements-de-la-communauté-scientifique-sur-les-risques-systémiques-et-catastrophiques-liés-à-l'ia}
 
-Sections du rapport concernées : 1.2
+Sections du rapport concernées : 1.2
 
-Malgré le silence du rapport à leur sujet, ces préoccupations ne sont pas marginales. Au contraire, des études récentes montrent qu'une part significative des experts du domaine considère que les IA présentent un risque réel d'extinction pour l'humanité [\[66\]](https://paperpile.com/c/Lj1YHA/gKMlA). Cette position est soutenue par des centaines de figures emblématiques du domaine [\[6\]](https://paperpile.com/c/Lj1YHA/ZHUVH) telles que Yoshua Bengio et Geoffrey Hinton, co-récipiendaires du prestigieux Prix Turing pour leurs travaux sur les réseaux de neurones profonds [\[67\], \[68\]](https://paperpile.com/c/Lj1YHA/MFz3B+Mnnqa).
+Malgré le silence du rapport à leur sujet, ces préoccupations ne sont pas marginales. Au contraire, des études récentes montrent qu'une part significative des experts du domaine considère que les IA présentent un risque réel d'extinction pour l'humanité [\[68\]](#bookmark=id.fvabcsmcmeuh). Cette position est soutenue par des centaines de figures emblématiques du domaine [\[6\]](#bookmark=id.qxc181851r8u) telles que Yoshua Bengio et Geoffrey Hinton, co-récipiendaires du prestigieux Prix Turing pour leurs travaux sur les réseaux de neurones profonds [\[69\]](#bookmark=id.xa4892da1kc2), [\[70\]](#bookmark=id.ue8fq779r9n5).
 
-\[Encart\]  
-**Les risques catastrophiques et existentiels**
+En mai 2023, le Center for AI Safety a publié une déclaration [\[6\]](#bookmark=id.qxc181851r8u), signée par plus de 350 experts de premier plan, affirmant que « l'atténuation du risque d'extinction par l'IA devrait être une priorité mondiale ». Cette déclaration a suivi une autre lettre ouverte, *Pause Giant AI Experiments* [\[7\]](#bookmark=id.ef1o8j4mla54), qui a recueilli plus de 33 000 signatures, entre autres d’experts en intelligence artificielle venant du milieu académique comme industriel, démontrant l'ampleur de ces préoccupations au sein de la communauté scientifique et au-delà.
 
-Les risques existentiels liés à l'IA sont des menaces potentielles qui pourraient conduire à l'extinction de l'humanité ou à des dommages catastrophiques à l'échelle mondiale. Ces risques comprennent la création involontaire de systèmes d'IA incontrôlables ou mal alignés avec les valeurs humaines, l'utilisation malveillante de l'IA pour concevoir des armes biologiques ou des cyberattaques dévastatrices, et l'escalade de conflits géopolitiques assistée par IA. Selon une enquête menée en 2022 par AI Impacts [\[66\]](https://paperpile.com/c/Lj1YHA/gKMlA), 48 % des experts interrogés estiment qu'il y a au moins 10 % de chance d'un résultat extrêmement négatif lié au développement de l'IA. Plusieurs éminents chercheurs en intelligence artificielle comme Geoffrey Hinton ou Yoshua Bengio ont fait part de craintes similaires. Geoffrey Hinton a récemment estimé le risque d'une catastrophe induite par l'IA à plus de 50 % [\[69\]](https://paperpile.com/c/Lj1YHA/RhFQ). Ces estimations alarmantes soulignent l'importance cruciale de la recherche en sécurité de l'IA et de la mise en place de garde-fous robustes pour guider le développement responsable de cette technologie.  
-\[Fin Encart\]
-
-En mai 2023, le Center for AI Safety a publié une déclaration [\[6\]](https://paperpile.com/c/Lj1YHA/ZHUVH), signée par plus de 350 experts de premier plan, affirmant que « l'atténuation du risque d'extinction par l'IA devrait être une priorité mondiale ». Cette déclaration a suivi une autre lettre ouverte, *Pause Giant AI Experiments* [\[7\]](https://paperpile.com/c/Lj1YHA/9alFH), qui a recueilli plus de 33 000 signatures, entre autres d’experts en intelligence artificielle venant du milieu académique comme industriel, démontrant l'ampleur de ces préoccupations au sein de la communauté scientifique et au-delà.
-
-La section « 1.2 Faut-il avoir peur de l'IA ? » (p. 31\) du rapport tourne en ridicule ces craintes sans aucune justification ou argument, et déforme les faits, confondant différentes lettres ouvertes et minimisant leur portée. Par exemple, le rapport fait référence à la déclaration du Center for AI Safety en affirmant qu'elle n'a recueilli que 60 signatures d'experts, tout en la confondant avec la lettre ouverte sur la pause des expérimentations géantes en IA (p. 33, note de bas de page numéro 9).
+La section « 1.2 Faut-il avoir peur de l'IA ? » (p. 31\) du rapport tourne en ridicule ces craintes sans aucune justification ou argument, et déforme les faits, confondant différentes lettres ouvertes et minimisant leur portée. Par exemple, le rapport fait référence à la déclaration du Center for AI Safety en affirmant qu'elle n'a recueilli que 60 signatures d'experts, tout en la confondant avec la lettre ouverte sur la pause des expérimentations géantes en IA (p. 33, note de bas de page numéro 9).
 
 Il est certes juste de noter qu'il existe également des scientifiques qui considèrent ces inquiétudes comme exagérées. Cependant, face à une telle controverse impliquant des risques potentiellement catastrophiques, il est important d'étudier explicitement et rigoureusement les deux positions. Le rapport, en ignorant complètement l'un des côtés du débat, ne permet pas une évaluation équilibrée et approfondie des enjeux.
 
-Cette représentation erronée et ce rejet des préoccupations légitimes de la communauté scientifique soulèvent une question fondamentale : comment un rapport censé guider la politique nationale en matière d'IA peut-il esquiver délibérément les avertissements sonores d’une grande partie des experts du domaine ? En écartant ces voix sans aucune justification valable, le rapport prive les décideurs et le public d'informations essentielles pour comprendre l'ampleur réelle des défis posés par l'IA avancée.
+Cette représentation erronée et ce rejet des préoccupations légitimes de la communauté scientifique soulèvent une question fondamentale : comment un rapport censé guider la politique nationale en matière d'IA peut-il esquiver délibérément les avertissements sonores d’une grande partie des experts du domaine ? En écartant ces voix sans aucune justification valable, le rapport prive les décideurs et le public d'informations essentielles pour comprendre l'ampleur réelle des défis posés par l'IA avancée.
 
-### 3.2.3 Aucune anticipation des développements de l'IA, même à court terme  {#3.2.3-aucune-anticipation-des-développements-de-l'ia,-même-à-court-terme}
+### **3.2.3 Aucune anticipation des développements de l'IA, même à court terme**  {#3.2.3-aucune-anticipation-des-développements-de-l'ia,-même-à-court-terme}
 
-Sections du rapport concernées : 1.4
+Sections du rapport concernées : 1.4
 
-Bien que la Commission reconnaisse que l'IA connaîtra « de nouvelles avancées rapides et de grande ampleur » (p. 12), son analyse se limite principalement aux impacts des technologies actuelles, négligeant ainsi les défis potentiels posés par les innovations à venir. Cette lacune, déjà pointée par le Centre pour la Sécurité de l'IA (CeSIA) dans une analyse détaillée [\[13\]](https://paperpile.com/c/Lj1YHA/E1ByA), n'a reçu aucune réponse de la part de la Commission.
+Bien que la Commission reconnaisse que l'IA connaîtra « de nouvelles avancées rapides et de grande ampleur » (p. 12), son analyse se limite principalement aux impacts des technologies actuelles, négligeant ainsi les défis potentiels posés par les innovations à venir. Cette lacune, déjà pointée par le Centre pour la Sécurité de l'IA (CeSIA) dans une analyse détaillée [\[14\]](#bookmark=id.3inxmdt71x52), n'a reçu aucune réponse de la part de la Commission.
 
 ![][image1]  
-*Performance des modèles d'IA sur divers benchmarks de 2000 à 2024, comprenant la vision par ordinateur (MNIST, ImageNet), la reconnaissance vocale (Switchboard), la compréhension du langage naturel (SQuAD 1.1, MNLU, GLUE), l'évaluation générale des modèles de langage (MMLU, Big Bench, et GPQA) et le raisonnement mathématique (MATH). De nombreux modèles dépassent le niveau de performance humaine (ligne noire solide). Kiela, D., Thrush, T., Ethayarajh, K., & Singh, A. (2023) « Plotting Progress in AI ».*
+*Performance des modèles d'IA sur divers benchmarks de 2000 à 2024, comprenant la vision par ordinateur (MNIST, ImageNet), la reconnaissance vocale (Switchboard), la compréhension du langage naturel (SQuAD 1.1, MNLU, GLUE), l'évaluation générale des modèles de langage (MMLU, Big Bench, et GPQA) et le raisonnement mathématique (MATH). De nombreux modèles dépassent le niveau de performance humaine (ligne noire solide). Kiela, D., Thrush, T., Ethayarajh, K., & Singh, A. (2023) « Plotting Progress in AI ».*
 
-L'IA évolue à une vitesse sans précédent [\[70\], \[71\]](https://paperpile.com/c/Lj1YHA/J1rha+SO7VM), et le rapport récent du UK AI Safety Institute [\[72\]](https://paperpile.com/c/Lj1YHA/l9prH) reconnaît la possibilité que cette progression « extrêmement rapide » (p. 9\) se poursuive dans un avenir proche. Ne pas adopter une approche prospective dans un tel contexte n'a aucun sens et compromet sérieusement la pertinence, même à court terme, des recommandations du rapport. Cette absence d'anticipation est particulièrement remarquable dans le cas du changement de paradigme vers des systèmes d'IA plus autonomes, un développement majeur que la Commission a omis de prendre en compte. Ces systèmes, capables d'exécuter de longues séries d'actions avec très peu de supervision humaine, soulèvent des questions d'ordre sociétal et des risques qualitativement différents des outils d'IA générative actuels [\[73\]](https://paperpile.com/c/Lj1YHA/4gTo0). Des projets comme AutoGPT [\[74\]](https://paperpile.com/c/Lj1YHA/0i8J7), Devin [\[75\]](https://paperpile.com/c/Lj1YHA/h9xmn), Genie [\[76\]](https://paperpile.com/c/Lj1YHA/Or9th) ou encore AI Scientist [\[77\]](https://paperpile.com/c/Lj1YHA/4niiz), qui étaient prévisibles depuis plus d'un an (c’est-à-dire bien avant la constitution même de la Commission), illustrent cette transformation fondamentale. Pour plus d'informations à ce sujet, nous invitons à consulter la note du CeSIA [\[13\]](https://paperpile.com/c/Lj1YHA/E1ByA).  
+L'IA évolue à une vitesse sans précédent [\[71\]](#bookmark=id.d9mwuf263xap), [\[72\]](#bookmark=id.5bgfwt8fsct6), et le rapport récent du UK AI Safety Institute [\[73\]](#bookmark=id.5rs4iovrts6c) reconnaît la possibilité que cette progression « extrêmement rapide » (p. 9\) se poursuive dans un avenir proche. Une étude menée en 2023 auprès de 1714 experts a cherché à déterminer quand des machines autonomes seraient capables d'accomplir toutes les tâches mieux et à moindre coût que des travailleurs humains. Les prévisions globales de cette étude estiment qu'il y a 50% de chances que cela se produise avant 2047 [\[74\]](#bookmark=id.sr4ir2rrzvno), soit 13 ans plus tôt que les prévisions d'une étude similaire réalisée en 2022 [\[75\]](#bookmark=id.o78j5cfsu1s7). Ne pas adopter une approche prospective dans un tel contexte n'a aucun sens et compromet sérieusement la pertinence, même à court terme, des recommandations du rapport. Cette absence d'anticipation est particulièrement remarquable dans le cas du changement de paradigme vers des systèmes d'IA plus autonomes, un développement majeur que la Commission a omis de prendre en compte. Ces systèmes, capables d'exécuter de longues séries d'actions avec très peu de supervision humaine, soulèvent des questions d'ordre sociétal et des risques qualitativement différents des outils d'IA générative actuels [\[76\]](#bookmark=id.xr4gebc4s8uy). Des projets comme AutoGPT [\[77\]](#bookmark=id.tc37centek7e), Devin [\[78\]](#bookmark=id.ml7ev9x7ehfs), Genie [\[79\]](#bookmark=id.a56qvu7zsswl) ou encore AI Scientist [\[80\]](#bookmark=id.p4fno3mxy8gk), qui étaient prévisibles depuis plus d'un an (c’est-à-dire bien avant la constitution même de la Commission), illustrent cette transformation fondamentale. Pour plus d'informations à ce sujet, nous invitons à consulter la note du CeSIA [\[14\]](#bookmark=id.3inxmdt71x52).  
 ![][image2]  
-*Figure illustrative extraite de l’article « Pour une IA française tournée vers l’avenir » du Centre pour la Sécurité de l’IA (CeSIA) [\[13\]](https://paperpile.com/c/Lj1YHA/E1ByA). Cette figure illustre le changement de paradigme actuel en IA, en comparant l'approche statique du rapport à l'évolution rapide des systèmes autonomes et leurs impacts systémiques potentiels, soulignant ainsi l'importance d'anticiper ces développements.*
+*Figure illustrative extraite de l’article « Pour une IA française tournée vers l’avenir » du Centre pour la Sécurité de l’IA (CeSIA) [\[14\]](#bookmark=id.3inxmdt71x52). Cette figure illustre le changement de paradigme actuel en IA, en comparant l'approche statique du rapport à l'évolution rapide des systèmes autonomes et leurs impacts systémiques potentiels, soulignant ainsi l'importance d'anticiper ces développements.*
 
-Notons que cette approche non prospective présente un intérêt stratégique : celui de minimiser les risques liés à l'IA par omission. En effet, tous les risques sont amplifiés par le développement des capacités des modèles. Si les avancées s'arrêtaient aujourd'hui, comme le suppose implicitement la Commission, alors les risques seraient effectivement bien moindres. Cependant, cette hypothèse est en contradiction avec la réalité du domaine [\[70\], \[71\]](https://paperpile.com/c/Lj1YHA/J1rha+SO7VM) et avec les propres déclarations de la Commission sur les « avancées rapides et de grande ampleur » (p. 12\) à venir.
+Notons que cette approche non prospective présente un intérêt stratégique : celui de minimiser les risques liés à l'IA par omission. En effet, tous les risques sont amplifiés par le développement des capacités des modèles. Si les avancées s'arrêtaient aujourd'hui, comme le suppose implicitement la Commission, alors les risques seraient effectivement bien moindres. Cependant, cette hypothèse est en contradiction avec la réalité du domaine [\[71\]](#bookmark=id.d9mwuf263xap), [\[72\]](#bookmark=id.5bgfwt8fsct6) et avec les propres déclarations de la Commission sur les « avancées rapides et de grande ampleur » (p. 12\) à venir.
 
-Cette absence d'anticipation se reflète particulièrement dans l'analyse des effets de l'IA sur l'emploi. La Commission cherche à anticiper ces effets en s'appuyant sur une enquête de l'INSEE [\[78\]](https://paperpile.com/c/Lj1YHA/tWnpW) comparant des entreprises ayant adopté l'IA à celles ne l'ayant pas fait entre 2016 et 2021\. Or, cette période précède l'explosion de popularité de l'IA générative, survenue en 2022 avec ChatGPT. Il est peu probable que l'adoption de l'IA générative par les entreprises engendre les mêmes conséquences que l'intégration des technologies d'IA dite « étroite » ces dernières années. De plus, l'impact de l'adoption de technologies d'IA encore plus avancées dans les années à venir pourrait être bien plus important.
+Cette absence d'anticipation se reflète particulièrement dans l'analyse des effets de l'IA sur l'emploi. La Commission cherche à anticiper ces effets en s'appuyant sur une enquête de l'INSEE [\[81\]](#bookmark=id.5d563eox582m) comparant des entreprises ayant adopté l'IA à celles ne l'ayant pas fait entre 2016 et 2021\. Or, cette période précède l'explosion de popularité de l'IA générative, survenue en 2022 avec ChatGPT. Il est peu probable que l'adoption de l'IA générative par les entreprises engendre les mêmes conséquences que l'intégration des technologies d'IA dite « étroite » ces dernières années. De plus, l'impact de l'adoption de technologies d'IA encore plus avancées dans les années à venir pourrait être bien plus important.
 
-Paradoxalement, bien que le rapport de la Commission souligne que les études sur l'impact de l'IA sur l'emploi « ne permettent pas encore de conclure à un effet sur un horizon de quelques années », elle affirme dans le même temps « un effet positif de l'IA sur l'emploi » (p. 44, 45). Cette conclusion hâtive, basée sur des données obsolètes et sans prise en compte des développements futurs, illustre clairement les dangers d'une approche non prospective dans un domaine en évolution aussi rapide que l'IA.
+Paradoxalement, bien que le rapport de la Commission souligne que les études sur l'impact de l'IA sur l'emploi « ne permettent pas encore de conclure à un effet sur un horizon de quelques années », elle affirme dans le même temps « un effet positif de l'IA sur l'emploi » (p. 44, 45). Cette conclusion hâtive, basée sur des données obsolètes et sans prise en compte des développements futurs, illustre clairement les dangers d'une approche non prospective dans un domaine en évolution aussi rapide que l'IA.
 
-### 3.2.4 Négligence de l’impact dévastateur des IA de recommandation {#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation}
+### **3.2.4 Négligence de l’impact dévastateur des IA de recommandation** {#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation}
 
-Sections du rapport concernées : 1.7
+Sections du rapport concernées : 1.7
 
 Le rapport de la Commission néglige largement les risques posés par les IA de recommandation, omniprésentes dans notre paysage numérique actuel. Ces systèmes, qui déterminent quels contenus sont présentés aux utilisateurs sur les plateformes sociales, les moteurs de recherche et les sites de streaming, ont un impact profond sur la formation de l'opinion publique, le fonctionnement de nos démocraties et la santé mentale des utilisateurs.
 
-Alors que le rapport se concentre principalement sur les IA génératives, il passe sous silence les dangers bien réels et immédiats des systèmes de recommandation. Cette omission est d'autant plus frappante que ces algorithmes sont déjà largement déployés et influencent quotidiennement plusieurs milliards d'utilisateurs. La section 1.7 du rapport, intitulée « L'IA peut-elle nuire à la qualité de l'information ? », effleure à peine la surface du problème, se concentrant principalement sur la création de fausses informations plutôt que sur la diffusion de propagande par des IA de recommandation.
+Alors que le rapport se concentre principalement sur les IA génératives, il passe sous silence les dangers bien réels et immédiats des systèmes de recommandation. Cette omission est d'autant plus frappante que ces algorithmes sont déjà largement déployés et influencent quotidiennement plusieurs milliards d'utilisateurs. La section 1.7 du rapport, intitulée « L'IA peut-elle nuire à la qualité de l'information ? », effleure à peine la surface du problème, se concentrant principalement sur la création de fausses informations plutôt que sur la diffusion de propagande par des IA de recommandation.
 
-Les impacts sociétaux de ces systèmes sont considérables et bien documentés :
+Les impacts sociétaux de ces systèmes sont considérables et bien documentés :
 
-* **Polarisation politique et radicalisation :** De nombreuses études [\[79\], \[80\], \[81\]](https://paperpile.com/c/Lj1YHA/9Fli5+daQNE+hCZpk) ont mis en évidence une corrélation entre l'usage intensif des réseaux sociaux et une augmentation de la polarisation politique. Les algorithmes de recommandation, en favorisant les contenus provocateurs et émotionnellement chargés, contribuent à créer des vagues de haine où les utilisateurs sont principalement exposés à des prises de position qui renforcent leur mépris pour les croyances opposées [\[81\], \[82\], \[83\]](https://paperpile.com/c/Lj1YHA/gZ06F+TC7VT+hCZpk).  
-* **Amplification des discours haineux :** Comme l'illustre tragiquement le cas du génocide des Rohingyas en Birmanie [\[84\]](https://paperpile.com/c/Lj1YHA/0uKTV) (voir [section 4.2.1](\#4.2.1-yann-lecun), encart « L’éthique contestable de Meta » ), les systèmes de recommandation peuvent amplifier dangereusement les discours haineux, les appels à la violence et les incitations au meurtre [\[85\], \[86\]](https://paperpile.com/c/Lj1YHA/DSChX+Jybtw). Le rapport ne mentionne ni ce risque pourtant avéré, ni ses conséquences potentiellement catastrophiques.  
-* **Désinformation et manipulation de l'opinion publique :** Les algorithmes de recommandation sont particulièrement vulnérables aux manipulations par des acteurs malveillants [\[87\], \[88\]](https://paperpile.com/c/Lj1YHA/zgneg+QZEm0). Le rapport ignore complètement le rôle de ces systèmes dans la propagation de la désinformation, notamment lors d'événements critiques comme les élections [\[80\]](https://paperpile.com/c/Lj1YHA/daQNE). Par exemple, lors des élections présidentielles américaines de 2016, une agence russe a pu obtenir une visibilité comparable à celle des candidats officiels en exploitant ces algorithmes, pour un coût mille fois moindre [\[89\], \[90\], \[91\]](https://paperpile.com/c/Lj1YHA/0TqLp+6bUip+dk30G).  
-* **Impacts sur la santé mentale :** Le rapport ne mentionne pas les effets néfastes de l'exposition prolongée aux contenus recommandés sur la santé mentale des utilisateurs, particulièrement chez les jeunes [\[92\]](https://paperpile.com/c/Lj1YHA/zfpzo). Les « Facebook Files », révélés par la lanceuse d'alerte Frances Haugen (voir [section 4.2.1](\#4.2.1-yann-lecun), encart « L'éthique contestable de Meta »), ont mis en lumière que Meta (anciennement Facebook) était conscient des effets néfastes d'Instagram sur la santé mentale des adolescentes, sans pour autant prendre des mesures significatives pour y remédier [\[93\]](https://paperpile.com/c/Lj1YHA/l9r5V).  
-* **Déclin démocratique :** Le V-Dem Institute et d'autres organismes indépendants ont observé un déclin global de la qualité des démocraties depuis l'avènement des réseaux sociaux [\[94\]](https://paperpile.com/c/Lj1YHA/YujCW). Bien que la causalité directe soit difficile à établir, l'influence des algorithmes de recommandation sur ce phénomène mérite une attention sérieuse que le rapport ne lui accorde pas.  
-* **Cybersécurité et manipulation à grande échelle :** Le rapport sous-estime gravement la vulnérabilité des systèmes de recommandation aux manipulations par le cybercrime [\[95\], \[96\]](https://paperpile.com/c/Lj1YHA/9DPPQ+I2rfA). L'utilisation de faux comptes et de bots [\[97\]](https://paperpile.com/c/Lj1YHA/LToRu) pour influencer ces algorithmes représente une menace sérieuse pour l'intégrité de l'information en ligne, un aspect essentiel de la sécurité nationale à l'ère numérique.
+* **Polarisation politique et radicalisation :** De nombreuses études [\[82\]](#bookmark=id.hf2k5utu4125), [\[83\]](#bookmark=id.4r15y4pmes09), [\[84\]](#bookmark=id.3zbw1477pdz3) ont mis en évidence une corrélation entre l'usage intensif des réseaux sociaux et une augmentation de la polarisation politique. Les algorithmes de recommandation, en favorisant les contenus provocateurs et émotionnellement chargés, contribuent à créer des vagues de haine où les utilisateurs sont principalement exposés à des prises de position qui renforcent leur mépris pour les croyances opposées [\[84\]](#bookmark=id.3zbw1477pdz3), [\[85\]](#bookmark=id.qughmo10t3jm), [\[86\]](#bookmark=id.bulilaw0gt5t).  
+* **Amplification des discours haineux :** Comme l'illustre tragiquement le cas du génocide des Rohingyas en Birmanie [\[87\]](#bookmark=id.nq66b517pi7y) (voir [section 4.2.1](#4.2.1-yann-lecun), encart « L’éthique contestable de Meta » ), les systèmes de recommandation peuvent amplifier dangereusement les discours haineux, les appels à la violence et les incitations au meurtre [\[88\]](#bookmark=id.4hdj2wkg5qyn), [\[89\]](#bookmark=id.br8rdd1qyh62). Le rapport ne mentionne ni ce risque pourtant avéré, ni ses conséquences potentiellement catastrophiques.  
+* **Désinformation et manipulation de l'opinion publique :** Les algorithmes de recommandation sont particulièrement vulnérables aux manipulations par des acteurs malveillants [\[90\]](#bookmark=id.avt43ubpvzqq), [\[91\]](#bookmark=id.ncqcygs9x18w). Le rapport ignore complètement le rôle de ces systèmes dans la propagation de la désinformation, notamment lors d'événements critiques comme les élections [\[83\]](#bookmark=id.4r15y4pmes09). Par exemple, lors des élections présidentielles américaines de 2016, une agence russe a pu obtenir une visibilité comparable à celle des candidats officiels en exploitant ces algorithmes, pour un coût mille fois moindre [\[92\]](#bookmark=id.f6dburcf8gpc), [\[93\]](#bookmark=id.uagh81msinhw), [\[94\]](#bookmark=id.rjyitnand70e).  
+* **Impacts sur la santé mentale :** Le rapport ne mentionne pas les effets néfastes de l'exposition prolongée aux contenus recommandés sur la santé mentale des utilisateurs, particulièrement chez les jeunes [\[95\]](#bookmark=id.ltehdqeezc2w). Les « Facebook Files », révélés par la lanceuse d'alerte Frances Haugen (voir [section 4.2.1](#4.2.1-yann-lecun), encart « L'éthique contestable de Meta »), ont mis en lumière que Meta (anciennement Facebook) était conscient des effets néfastes d'Instagram sur la santé mentale des adolescentes, sans pour autant prendre des mesures significatives pour y remédier [\[96\]](#bookmark=id.r9knrb6iilr8).  
+* **Déclin démocratique :** Le V-Dem Institute et d'autres organismes indépendants ont observé un déclin global de la qualité des démocraties depuis l'avènement des réseaux sociaux [\[97\]](#bookmark=id.1yjqlzimf9hr). Bien que la causalité directe soit difficile à établir, l'influence des algorithmes de recommandation sur ce phénomène mérite une attention sérieuse que le rapport ne lui accorde pas.  
+* **Cybersécurité et manipulation à grande échelle :** Le rapport sous-estime gravement la vulnérabilité des systèmes de recommandation aux manipulations par le cybercrime [\[98\]](#bookmark=id.8v0wqewsbl9k), [\[99\]](#bookmark=id.78if9jspl31h). L'utilisation de faux comptes et de bots [\[100\]](#bookmark=id.7rtgcrijnhho) pour influencer ces algorithmes représente une menace sérieuse pour l'intégrité de l'information en ligne, un aspect essentiel de la sécurité nationale à l'ère numérique.
 
-L'omission de ces risques dans le rapport est d'autant plus préoccupante que les algorithmes de recommandation sont déjà omniprésents et influents. « En 2017, YouTube estimait que, sur le milliard d’heures de vidéo que l’humanité consommait quotidiennement, 70 % était dû à des recommandations de son IA. 700 millions d’heures quotidiennement recommandées par l’IA de YouTube correspondent à la durée totale d’enseignement que dispenseraient 25 000 professeurs au cours de leur carrière » [\[98\]](https://paperpile.com/c/Lj1YHA/ao03). De plus, depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google, soulignant le rôle croissant de la recommandation par rapport à la recherche active d'information.
+L'omission de ces risques dans le rapport est d'autant plus préoccupante que les algorithmes de recommandation sont déjà omniprésents et influents. « En 2017, YouTube estimait que, sur le milliard d’heures de vidéo que l’humanité consommait quotidiennement, 70 % était dû à des recommandations de son IA. 700 millions d’heures quotidiennement recommandées par l’IA de YouTube correspondent à la durée totale d’enseignement que dispenseraient 25 000 professeurs au cours de leur carrière » [\[101\]](#bookmark=id.omkzpn1ayycu). De plus, depuis 2016, il y a plus de vues sur YouTube que de recherches sur Google, soulignant le rôle croissant de la recommandation par rapport à la recherche active d'information.
 
 Le rapport néglige également les implications géopolitiques de ces technologies. L'utilisation différenciée des algorithmes de recommandation par certains pays, comme la Chine avec ses plateformes TikTok et Douyin, soulève des questions cruciales sur la manipulation de l'opinion publique à l'échelle internationale que le rapport ignore complètement.
 
@@ -372,244 +372,227 @@ Notons par ailleurs que les risques liés aux algorithmes de recommandation exis
 
 En ne traitant pas adéquatement ces enjeux, le rapport de la Commission manque une opportunité d'alerter sur les risques immédiats et concrets posés par les algorithmes de recommandation, ainsi que sur leur potentielle amplification par les IA génératives. Cette lacune compromet la capacité de la France à élaborer une stratégie cohérente et complète face aux défis posés par l'IA dans toutes ses formes, actuelles et futures.
 
-## 3.3 Minimisation et déformation des risques {#3.3-minimisation-et-déformation-des-risques}
+## **3.3 Minimisation et déformation des risques** {#3.3-minimisation-et-déformation-des-risques}
 
-Le rapport de la Commission de l'IA ne se contente pas d'omettre des informations essentielles; il présente également une vision déformée et minimisée des risques qu'il traite. Cette section analyse en détail les différentes techniques employées pour sous-estimer l'ampleur et la gravité des défis posés par le développement rapide de l'IA. Nous examinerons d'abord comment le rapport déforme le contexte historique et actuel de l'IA, créant ainsi une fausse impression de continuité et de maîtrise. Ensuite, nous mettrons en lumière le traitement biaisé de risques spécifiques, notamment en matière d'emploi et de cybersécurité. Enfin, nous analyserons les techniques de rhétorique utilisées pour discréditer les scénarios les plus alarmants et façonner une perception rassurante mais trompeuse des enjeux.
+Le rapport de la Commission de l'IA ne se contente pas d'omettre des informations essentielles ; il présente également une vision déformée et minimisée des risques qu'il traite. Cette section analyse en détail les différentes techniques employées pour sous-estimer l'ampleur et la gravité des défis posés par le développement rapide de l'IA. Nous examinerons d'abord comment le rapport déforme le contexte historique et actuel de l'IA, créant ainsi une fausse impression de continuité et de maîtrise. Ensuite, nous mettrons en lumière le traitement biaisé de risques spécifiques, notamment en matière d'emploi et de cybersécurité. Enfin, nous analyserons les techniques de rhétorique utilisées pour discréditer les scénarios les plus alarmants et façonner une perception rassurante mais trompeuse des enjeux.
 
-### 3.3.1 Déformation historique et contextuelle {#3.3.1-déformation-historique-et-contextuelle}
+### **3.3.1 Déformation historique et contextuelle** {#3.3.1-déformation-historique-et-contextuelle}
 
-Sections du rapport concernées : Introduction p. 17
+Sections du rapport concernées : Introduction p. 17
 
 Le rapport de la Commission présente une perspective déformée de l'histoire et du contexte actuel de l'IA, ce qui conduit à une minimisation des risques et des défis posés par les développements récents.
 
 **Présentation orientée de l'histoire de l'IA**
 
-Le rapport décrit l'IA comme une technologie arrivée à maturité à l'issue d’une longue histoire, ce qui est trompeur. Cette perspective confond l'histoire du champ de recherche avec celle des technologies elles-mêmes. En réalité :
+Le rapport décrit l'IA comme une technologie arrivée à maturité à l'issue d’une longue histoire, ce qui est trompeur. Cette perspective confond l'histoire du champ de recherche avec celle des technologies elles-mêmes. En réalité :
 
-1. L'IA en tant que champ de recherche existe depuis les années 1950 [\[99\]](https://paperpile.com/c/Lj1YHA/fX74c).  
-2. Les paradigmes actuels, basés sur l'apprentissage profond et les grands modèles de langage (*LLM*), sont extrêmement récents — à peine plus d'une décennie pour le succès de l’apprentissage profond qui a provoqué un renouveau de la recherche en IA [\[100\]](https://paperpile.com/c/Lj1YHA/5r84m), et seulement quelques années pour les *LLM* [\[101\]](https://paperpile.com/c/Lj1YHA/IaTKu).  
+1. L'IA en tant que champ de recherche existe depuis les années 1950 [\[102\]](#bookmark=id.93gvlqamxjmo).  
+2. Les paradigmes actuels, basés sur l'apprentissage profond et les grands modèles de langage (*LLM*), sont extrêmement récents — à peine plus d'une décennie pour le succès de l’apprentissage profond qui a provoqué un renouveau de la recherche en IA [\[103\]](#bookmark=id.azz1854y2ce3), et seulement quelques années pour les *LLM* [\[104\]](#bookmark=id.imifhacq70lr).  
    
 
-\[Encart\]  
-***LLM***
+ 
 
-Les *Large Language Models* (*LLM*) sont des modèles d'intelligence artificielle entraînés à prédire le prochain élément dans un texte en fonction d'un contexte, générant ainsi du contenu cohérent. Ils utilisent des estimations probabilistes et sont capables de comprendre et de produire du langage humain, ce qui les rend particulièrement polyvalents pour diverses applications. Cependant, leur complexité et leur opacité posent des défis en termes de compréhension et de contrôle. Pour en savoir plus sur les *LLM*, consultez [l'annexe D](\#d-—-les-llm).  
-\[Fin Encart\] 
-
-Cette présentation biaisée minimise le tournant constitué par les développements actuels. Les modèles d'IA contemporains représentent une rupture fondamentale avec les paradigmes précédents :
+Cette présentation biaisée minimise le tournant constitué par les développements actuels. Les modèles d'IA contemporains représentent une rupture fondamentale avec les paradigmes précédents :
 
 - Ils reposent sur des approches radicalement différentes (apprentissage profond vs approches symboliques).  
-- Ils manifestent des capacités émergentes, c'est-à-dire des aptitudes qui n'ont pas été explicitement programmées ou entraînées [\[102\], \[103\]](https://paperpile.com/c/Lj1YHA/n5m4J+vf9I).  
-- Leur vitesse d'évolution et d'amélioration est incomparable avec les systèmes précédents [\[71\], \[104\]](https://paperpile.com/c/Lj1YHA/mtdMp+SO7VM).
+- Ils manifestent des capacités émergentes, c'est-à-dire des aptitudes qui n'ont pas été explicitement programmées ou entraînées [\[105\]](#bookmark=id.dri0hfrzw8i6), [\[106\]](#bookmark=id.j5b5kp52ep2w).  
+- Leur vitesse d'évolution et d'amélioration est incomparable avec les systèmes précédents [\[72\]](#bookmark=id.5bgfwt8fsct6), [\[107\]](#bookmark=id.nk7b66seams2).
 
 **Représentation trompeuse des modèles actuels**
 
-Le rapport sous-estime la complexité et l'imprévisibilité des modèles d'IA actuels, en particulier des *LLM*. Cette représentation trompeuse se manifeste de plusieurs façons :
+Le rapport sous-estime la complexité et l'imprévisibilité des modèles d'IA actuels, en particulier des *LLM*. Cette représentation trompeuse se manifeste de plusieurs façons :
 
-1. Surestimation de notre compréhension :  
+1. Surestimation de notre compréhension :  
      
-   * Les *LLM* sont fondamentalement opaques [\[105\]](https://paperpile.com/c/Lj1YHA/WKtGj). Les algorithmes menant d'une entrée à un résultat sont invisibles, **même pour leurs créateurs**.  
-   * Un nouveau champ de recherche, l'interprétabilité [\[60\], \[61\]](https://paperpile.com/c/Lj1YHA/N6j1M+z1KPj), a dû être créé pour tenter de comprendre le fonctionnement interne de ces modèles. L’interprétabilité n’en est qu’à ses balbutiements et les experts en interprétabilité mécanistique rappellent que leurs travaux encore exploratoires ne devraient pas être confondus avec une solution finie au problème de l’opacité [\[60\]](https://paperpile.com/c/Lj1YHA/z1KPj).  
+   * Les *LLM* sont fondamentalement opaques [\[108\]](#bookmark=id.182nf9nkngz9). Les algorithmes menant d'une entrée à un résultat sont invisibles, **même pour leurs créateurs**.  
+   * Un nouveau champ de recherche, l'interprétabilité [\[62\]](#bookmark=id.2kczl14n5suv), [\[63\]](#bookmark=id.r5nij8adylyr), a dû être créé pour tenter de comprendre le fonctionnement interne de ces modèles. L’interprétabilité n’en est qu’à ses balbutiements et les experts en interprétabilité mécanistique rappellent que leurs travaux encore exploratoires ne devraient pas être confondus avec une solution finie au problème de l’opacité [\[62\]](#bookmark=id.2kczl14n5suv).  
        
-2. Exagération de notre capacité de contrôle :  
+2. Exagération de notre capacité de contrôle :  
      
-   * Les *LLM* ne sont pas « programmés » au sens traditionnel, mais plutôt obtenus à la suite d’un processus d'entraînement sur d'énormes quantités de données. Contrairement à un logiciel classique où chaque fonction est explicitement codée, les comportements d'un *LLM* émergent de manière complexe et imprévisible à partir de son apprentissage [\[102\]](https://paperpile.com/c/Lj1YHA/n5m4J).  
-   * Ils développent des capacités émergentes souvent découvertes après leur mise à disposition au public [\[102\]](https://paperpile.com/c/Lj1YHA/n5m4J).  
-   * Certains comportements potentiellement dangereux et indésirables ont été observés, comme le mensonge [\[106\]](https://paperpile.com/c/Lj1YHA/YuahE), la manipulation [\[107\]](https://paperpile.com/c/Lj1YHA/38wE6), et le piratage informatique [\[108\], \[109\], \[110\], \[111\]](https://paperpile.com/c/Lj1YHA/SwqqR+1tNsr+22rVj+A1Vxq).  
+   * Les *LLM* ne sont pas « programmés » au sens traditionnel, mais plutôt obtenus à la suite d’un processus d'entraînement sur d'énormes quantités de données. Contrairement à un logiciel classique où chaque fonction est explicitement codée, les comportements d'un *LLM* émergent de manière complexe et imprévisible à partir de son apprentissage [\[105\]](#bookmark=id.dri0hfrzw8i6).  
+   * Ils développent des capacités émergentes souvent découvertes après leur mise à disposition au public [\[105\]](#bookmark=id.dri0hfrzw8i6).  
+   * Certains comportements potentiellement dangereux et indésirables ont été observés, comme le mensonge [\[109\]](#bookmark=id.2rkaxfuo2kll), la manipulation [\[110\]](#bookmark=id.5qzv3hq94tdi), et le piratage informatique [\[111\]](#bookmark=id.70osl9rlh103), [\[112\]](#bookmark=id.xhzgwrdb8nez), [\[113\]](#bookmark=id.d7278j8lznp5), [\[114\]](#bookmark=id.j0ludz9yhpoh).  
        
-3. Minimisation de la complexité et de l'imprévisibilité :  
+3. Minimisation de la complexité et de l'imprévisibilité :  
      
-   * Les capacités des *LLM* augmentent rapidement et de manière non linéaire [\[112\]](https://paperpile.com/c/Lj1YHA/oFYPj), menant vers des risques d’augmentation brusque et incontrôlée de leurs capacités.  
-   * Les expériences du passé éclairent peu sur les capacités futures de ces systèmes. Il est, d'une part, difficile d'anticiper quelles capacités émergentes vont survenir lors des prochaines générations de modèles. D'autre part, la continuité des *scaling laws [\[113\]](https://paperpile.com/c/Lj1YHA/6PPKO)*, les lois prédisant l'amélioration des *LLM* en fonction de leur taille et de la quantité de calcul investie pour leur entraînement, fiable jusqu'à présent, doit nous faire anticiper une amélioration des capacités des modèles plutôt qu'une stagnation [\[114\]](https://paperpile.com/c/Lj1YHA/WEhpX).  
-   * Les futures générations de *LLM* vont probablement déborder du paradigme initial en intégrant des méthodes de résolution de problème et de raisonnement développées dans d’autres branches de l’IA [\[115\]](https://paperpile.com/c/Lj1YHA/veKG). La fusion de méthodes fait croître la complexité. Elle réduit considérablement la prévisibilité.
+   * Les capacités des *LLM* augmentent rapidement et de manière non linéaire [\[115\]](#bookmark=id.sjdh6i23i52l), menant vers des risques d’augmentation brusque et incontrôlée de leurs capacités.  
+   * Les expériences du passé éclairent peu sur les capacités futures de ces systèmes. Il est, d'une part, difficile d'anticiper quelles capacités émergentes vont survenir lors des prochaines générations de modèles. D'autre part, la continuité des *scaling laws [\[116\]](#bookmark=id.d6em7alpkrim)*, les lois prédisant l'amélioration des *LLM* en fonction de leur taille et de la quantité de calcul investie pour leur entraînement, fiable jusqu'à présent, doit nous faire anticiper une amélioration des capacités des modèles plutôt qu'une stagnation [\[117\]](#bookmark=id.bcf6xnjqmncs).  
+   * Les futures générations de *LLM* vont probablement déborder du paradigme initial en intégrant des méthodes de résolution de problème et de raisonnement développées dans d’autres branches de l’IA [\[118\]](#bookmark=id.9qb4ue43vzk). La fusion de méthodes fait croître la complexité. Elle réduit considérablement la prévisibilité.
 
-Le rapport de la Commission présente les IA actuelles comme de simples « outils » utilisés depuis des décennies, alors qu'elles résultent d'un paradigme extrêmement récent, marqué par un effort sans précédent pour créer des machines cognitives autonomes, potentiellement capables de surpasser l'intelligence humaine [\[116\]](https://paperpile.com/c/Lj1YHA/d1wzT). Cette représentation trompeuse minimise les risques et les défis uniques posés par ces nouvelles technologies, dans un contexte de forte concurrence internationale qui fait peu de cas des dangers inhérents à l'intégration rapide de ces systèmes dans de nombreux aspects de la société.
+Le rapport de la Commission présente les IA actuelles comme de simples « outils » utilisés depuis des décennies, alors qu'elles résultent d'un paradigme extrêmement récent, marqué par un effort sans précédent pour créer des machines cognitives autonomes, potentiellement capables de surpasser l'intelligence humaine [\[119\]](#bookmark=id.ms0mm5lbmknc). Cette représentation trompeuse minimise les risques et les défis uniques posés par ces nouvelles technologies, dans un contexte de forte concurrence internationale qui fait peu de cas des dangers inhérents à l'intégration rapide de ces systèmes dans de nombreux aspects de la société.
 
-### 3.3.2 Traitement biaisé des risques spécifiques {#3.3.2-traitement-biaisé-des-risques-spécifiques}
+### **3.3.2 Traitement biaisé des risques spécifiques** {#3.3.2-traitement-biaisé-des-risques-spécifiques}
 
-#### 3.3.2.1 Emploi {#3.3.2.1-emploi}
+#### **3.3.2.1 Emploi** {#3.3.2.1-emploi}
 
-Sections du rapport concernées : 1.4
+Sections du rapport concernées : 1.4
 
-L'analyse des effets de l'IA sur l'emploi présentée dans le rapport de la Commission est fondamentalement erronée, au vu de deux problèmes majeurs :
+L'analyse des effets de l'IA sur l'emploi présentée dans le rapport de la Commission est fondamentalement erronée, au vu de deux problèmes majeurs :
 
 **Hypothèse erronée d'un arrêt du progrès technologique**
 
-Le rapport suppose implicitement que le progrès en IA s'arrêtera au niveau actuel, ne considérant pas l'impact de modèles plus avancés que GPT-4. Cette hypothèse conduit à une sous-estimation systématique des risques :
+Le rapport suppose implicitement que le progrès en IA s'arrêtera au niveau actuel, ne considérant pas l'impact de modèles plus avancés que GPT-4. Cette hypothèse conduit à une sous-estimation systématique des risques :
 
-* Elle ignore la rapidité des avancées en IA et les objectifs affichés des laboratoires de recherche, qui visent à créer une intelligence artificielle générale (*AGI*) [\[116\]](https://paperpile.com/c/Lj1YHA/d1wzT). Une *AGI*, par déduction d'après la définition d’OpenAI, aurait la capacité d’automatiser l’essentiel du travail humain, cognitif dans un premier temps, et manuel à terme.  
-* Bien qu'il n'y ait pas de consensus sur le calendrier de développement de l'*AGI*, certains experts avancent des estimations très rapprochées, allant jusqu'à évoquer un horizon de 3 ans [\[117\], \[118\]](https://paperpile.com/c/Lj1YHA/Bq7eq+gYxan). Si ces projections s'avéraient exactes, cela pourrait impliquer une automatisation massive et soudaine de l'emploi. Même en l'absence de consensus sur ces questions, l'existence de telles préoccupations parmi une partie des experts justifierait que le rapport traite explicitement de ces scénarios potentiels.  
+* Elle ignore la rapidité des avancées en IA et les objectifs affichés des laboratoires de recherche, qui visent à créer une intelligence artificielle générale (*AGI*) [\[119\]](#bookmark=id.ms0mm5lbmknc). Une *AGI*, par déduction d'après la définition d’OpenAI, aurait la capacité d’automatiser l’essentiel du travail humain, cognitif dans un premier temps, et manuel à terme.  
+* Bien qu'il n'y ait pas de consensus sur le calendrier de développement de l'*AGI*, certains experts avancent des estimations très rapprochées, allant jusqu'à évoquer un horizon de 3 ans [\[120\]](#bookmark=id.1xigvoz05v4h), [\[121\]](#bookmark=id.aztoihykhmfc). Si ces projections s'avéraient exactes, cela pourrait impliquer une automatisation massive et soudaine de l'emploi. Même en l'absence de consensus sur ces questions, l'existence de telles préoccupations parmi une partie des experts justifierait que le rapport traite explicitement de ces scénarios potentiels.  
 * Elle néglige l'effet multiplicateur des futures avancées sur l'automatisation des tâches et des emplois. Une IA légèrement plus avancée pourrait non seulement effectuer des tâches existantes plus efficacement, mais aussi combiner ces tâches de manière nouvelle et automatiser des processus entiers. Ainsi, une petite avancée technologique pourrait déclencher une vague d'automatisation bien plus importante que prévu.  
-* Le couplage en cours des *LLM* et des robots indique également la potentialité d’un saut important dans l’automatisation des activités industrielles [\[119\], \[120\]](https://paperpile.com/c/Lj1YHA/FFue+plDv).
+* Le couplage en cours des *LLM* et des robots indique également la potentialité d’un saut important dans l’automatisation des activités industrielles [\[122\]](#bookmark=id.kq2ttjfg24w6), [\[123\]](#bookmark=id.t3xnivcbd70b).
 
 
 Cette approche non prospective rend toutes les conclusions sur l’emploi excessivement optimistes.
 
 **Présentation orientée et sélection des données**
 
-En plus d'admettre sans fondement l'hypothèse d'un arrêt des progrès en IA, le rapport emploie des techniques rhétoriques et une sélection des données pour présenter une vision artificiellement positive :
+En plus d'admettre sans fondement l'hypothèse d'un arrêt des progrès en IA, le rapport emploie des techniques rhétoriques et une sélection des données pour présenter une vision artificiellement positive :
 
-* Il affirme en introduction, en gras : « Notre propre analyse empirique suggère un effet positif de l'IA sur l'emploi » (p. 41), puis « Dans 19 emplois sur 20, il existe des tâches que l’IA ne peut pas accomplir » (p. 41\) sans arguments ni sources. Cette conclusion est en contradiction avec les données présentées par la suite.  
-* En effet, la première approche, basée sur des études passées, présente des résultats mitigés et non concluants. Les auteurs remettent eux-mêmes en cause la validité à court terme des études en raison d'un manque de recul historique, particulièrement pour l'IA générative: « ces études ne permettent pas encore de conclure à un effet sur un horizon de quelques années » (p. 44). Pourtant, de manière surprenante et sans justification, le rapport affirme ensuite : « Comme la précédente, cette approche conduit à prédire un effet positif de l'IA sur l'emploi. » (p. 45). Cette conclusion est en contradiction avec la prudence et les nuances exprimées dans l'analyse des données.  
-* La seconde approche cite deux études aux résultats divergents : l'une suggère un potentiel de remplacement de 5,1 % des emplois [\[121\]](https://paperpile.com/c/Lj1YHA/w18eh), l'autre de 30 % [\[122\]](https://paperpile.com/c/Lj1YHA/GXYT8). Le rapport minimise cette disparité pourtant alarmante et conclut sans plus de justifications à un effet positif.  
+* Il affirme en introduction, en gras : « Notre propre analyse empirique suggère un effet positif de l'IA sur l'emploi » (p. 41), puis « Dans 19 emplois sur 20, il existe des tâches que l’IA ne peut pas accomplir » (p. 41\) sans arguments ni sources. Cette conclusion est en contradiction avec les données présentées par la suite.  
+* En effet, la première approche, basée sur des études passées, présente des résultats mitigés et non concluants. Les auteurs remettent eux-mêmes en cause la validité à court terme des études en raison d'un manque de recul historique, particulièrement pour l'IA générative : « ces études ne permettent pas encore de conclure à un effet sur un horizon de quelques années » (p. 44). Pourtant, de manière surprenante et sans justification, le rapport affirme ensuite : « Comme la précédente, cette approche conduit à prédire un effet positif de l'IA sur l'emploi. » (p. 45). Cette conclusion est en contradiction avec la prudence et les nuances exprimées dans l'analyse des données.  
+* La seconde approche cite deux études aux résultats divergents : l'une suggère un potentiel de remplacement de 5,1 % des emplois [\[124\]](#bookmark=id.8d6inqw5hbh2), l'autre de 30 % [\[125\]](#bookmark=id.obqinrdvypy). Le rapport minimise cette disparité pourtant alarmante et conclut sans plus de justifications à un effet positif.  
 * Face à cette incertitude et ces risques, le rapport n'évoque à aucun moment la nécessité d'appliquer un principe de précaution.
 
-L'analyse des effets de l'IA sur l'emploi présentée dans ce rapport est doublement biaisée : elle repose sur une hypothèse irréaliste d'un arrêt du progrès technologique, et même dans ce cadre favorable, elle déforme les données pour présenter une conclusion injustifiée et excessivement optimiste. Cette approche pourrait conduire à une dangereuse sous-estimation des risques de déstabilisation massive du marché du travail.
+L'analyse des effets de l'IA sur l'emploi présentée dans ce rapport est doublement biaisée : elle repose sur une hypothèse irréaliste d'un arrêt du progrès technologique, et même dans ce cadre favorable, elle déforme les données pour présenter une conclusion injustifiée et excessivement optimiste. Cette approche pourrait conduire à une dangereuse sous-estimation des risques de déstabilisation massive du marché du travail.
 
-#### 3.3.2.2 Cybersécurité {#3.3.2.2-cybersécurité}
+#### **3.3.2.2 Cybersécurité** {#3.3.2.2-cybersécurité}
 
-Sections du rapport concernées : 2 phrases p. 32 et 59
+Sections du rapport concernées : 2 phrases p. 32 et 59
 
-L'IA présente des défis nouveaux et significatifs en matière de cybersécurité, largement ignorés par le rapport de la Commission. De nombreuses études récentes [\[108\], \[110\], \[111\], \[123\]](https://paperpile.com/c/Lj1YHA/SwqqR+22rVj+Nq9fY+A1Vxq) mettent en évidence les risques de cybersécurité démultipliés par l'IA, ce qui aurait dû justifier un traitement approfondi de ces risques dans le rapport. Un état des lieux doit être effectué pour mesurer précisément l'ampleur de ces risques.
+L'IA présente des défis nouveaux et significatifs en matière de cybersécurité, largement ignorés par le rapport de la Commission. De nombreuses études récentes [\[111\]](#bookmark=id.70osl9rlh103), [\[113\]](#bookmark=id.d7278j8lznp5), [\[114\]](#bookmark=id.j0ludz9yhpoh), [\[126\]](#bookmark=id.2ovki3smz5ot) mettent en évidence les risques de cybersécurité démultipliés par l'IA, ce qui aurait dû justifier un traitement approfondi de ces risques dans le rapport. Un état des lieux doit être effectué pour mesurer précisément l'ampleur de ces risques.
 
 **État des lieux des risques de cybersécurité liés à l'IA**
 
-* Capacités d'attaque améliorées : L'IA permet le développement de techniques d'attaque plus sophistiquées, notamment de phishing personnalisé à grande échelle [\[124\]](https://paperpile.com/c/Lj1YHA/sqYKk), de *deepfakes* convaincants [\[125\]](https://paperpile.com/c/Lj1YHA/PXfFa), et de malwares adaptatifs.  
-* Surface d'attaque élargie : L'adoption généralisée des systèmes d'IA introduit de nouvelles vulnérabilités, comme les attaques adversariales [\[126\]](https://paperpile.com/c/Lj1YHA/dmEjb) ou l'extraction de données sensibles [\[127\]](https://paperpile.com/c/Lj1YHA/YjH7A).  
-* Automatisation et évolution rapide des menaces : D'après le NCSC [\[128\]](https://paperpile.com/c/Lj1YHA/Ov9qV), l'IA permet aux cybercriminels d'automatiser leurs opérations, notamment la reconnaissance, l'ingénierie sociale et le développement de logiciels malveillants, ce qui rend les attaques plus efficaces et plus rapides.  
-* Découverte et exploitation automatisées de vulnérabilités : Les systèmes d'IA avancés peuvent analyser le code, trouver des failles et les exploiter de manière autonome. GPT-4, par exemple, surpasse déjà 88 % des pirates humains dans certaines compétitions [\[111\]](https://paperpile.com/c/Lj1YHA/A1Vxq).  
+* Capacités d'attaque améliorées : L'IA permet le développement de techniques d'attaque plus sophistiquées, notamment de phishing personnalisé à grande échelle [\[127\]](#bookmark=id.1pgb1cexcv8c), de *deepfakes* convaincants [\[128\]](#bookmark=id.3c6yafjch2lb), et de malwares adaptatifs.  
+* Surface d'attaque élargie : L'adoption généralisée des systèmes d'IA introduit de nouvelles vulnérabilités, comme les attaques adversariales [\[129\]](#bookmark=id.35py5jp8mwhx) ou l'extraction de données sensibles [\[130\]](#bookmark=id.ht02fgcnh9ir).  
+* Automatisation et évolution rapide des menaces : D'après le NCSC [\[131\]](#bookmark=id.1adi266xrwvu), l'IA permet aux cybercriminels d'automatiser leurs opérations, notamment la reconnaissance, l'ingénierie sociale et le développement de logiciels malveillants, ce qui rend les attaques plus efficaces et plus rapides.  
+* Découverte et exploitation automatisées de vulnérabilités : Les systèmes d'IA avancés peuvent analyser le code, trouver des failles et les exploiter de manière autonome. GPT-4, par exemple, surpasse déjà 88 % des pirates humains dans certaines compétitions [\[114\]](#bookmark=id.j0ludz9yhpoh).  
 * Le NCSC prévoit avec une quasi-certitude une augmentation du volume et de l'impact des cyberattaques au cours des deux prochaines années.
 
 
-Ces risques sont pris très au sérieux par les experts du domaine. 93 % des professionnels en cybersécurité [\[129\]](https://paperpile.com/c/Lj1YHA/dP4bv) estiment qu'un « événement cyber catastrophique de grande ampleur est probable dans les deux prochaines années » et 97 % [\[130\]](https://paperpile.com/c/Lj1YHA/IAf9A) estiment que leur organisation va subir un incident de sécurité causé par une IA.
+Ces risques sont pris très au sérieux par les experts du domaine. 93 % des professionnels en cybersécurité [\[132\]](#bookmark=id.f2a70lx744dp) estiment qu'un « événement cyber catastrophique de grande ampleur est probable dans les deux prochaines années » et 97 % [\[133\]](#bookmark=id.ej17eps7mqru) estiment que leur organisation va subir un incident de sécurité causé par une IA.
 
 ![][image3]  
 *Cette figure montre l'évolution projetée du coût annuel mondial de la cybercriminalité, exprimé en trillions de dollars américains. Les données révèlent une croissance accélérée entre 2018 et 2023\. Les coûts devraient passer de 0,86 trillion USD en 2018 à 13,82 trillions USD en 2028\.*
 
 **Traitement de la cybersécurité dans le rapport**
 
-Le rapport de la Commission n'accorde qu'une attention minimale et biaisée à la question de l'impact de l'IA sur la cybersécurité, dont elle reconnaît pourtant l'existence. Le mot « cybersécurité » n'apparaît que deux fois dans les 130 pages du rapport :
+Le rapport de la Commission n'accorde qu'une attention minimale et biaisée à la question de l'impact de l'IA sur la cybersécurité, dont elle reconnaît pourtant l'existence. Le mot « cybersécurité » n'apparaît que deux fois dans les 130 pages du rapport :
 
-* « Rien n'indique toutefois que l'IA changera durablement le rapport de force entre cybercriminels et ceux chargés de nous protéger, à condition que ces derniers puissent s'emparer de ces technologies. » (p. 32\)  
-  Une étude du *Centre for the Governance of AI* (GovAI) [\[131\]](https://paperpile.com/c/Lj1YHA/vzlip) contredit cette affirmation, notant que « L'équilibre entre l'attaque et la défense risque de pencher davantage en faveur de l'attaque à mesure que les modèles de fondation deviennent de plus en plus performants. ». Il existe une asymétrie fondamentale entre l’attaque et la défense en cybersécurité [\[132\], \[133\]](https://paperpile.com/c/Lj1YHA/LN77Z+3F0C6) : un défenseur doit sécuriser l'ensemble des points vulnérables de son infrastructure, tandis qu’un attaquant n’a besoin de n'en exploiter qu'un seul pour réussir. À ce jour, aucun mécanisme ne permet d’utiliser l’IA pour corriger systématiquement toutes les failles potentielles à travers la multitude d'écosystèmes existants, bien qu’il existe des spéculations selon lesquelles l’IA pourrait être utilisée pour automatiser la réaction aux attaques [\[134\]](https://paperpile.com/c/Lj1YHA/KPVpm).  
-* « Pour les risques biologiques et cyber, rien n'indique que les modèles ouverts posent plus de risques que des modèles fermés. » (p. 59\)  
-  Cette assertion n'est étayée par aucune preuve ou référence dans le rapport, notamment en ce qui concerne les risques cyber. Bien au contraire, tout indique que les modèles ouverts posent plus de problèmes que les modèles fermés, comme nous le détaillons dans la [section 3.3.2.3 « Open source »](\#3.3.2.3-open-source). Alors que les modèles fermés peuvent encore être contrôlés par leurs développeurs pour prévenir des usages malveillants, les modèles open source échappent fondamentalement à tout contrôle, ce qui permet aujourd'hui déjà à des utilisateurs malintentionnés de les exploiter [\[135\]](https://paperpile.com/c/Lj1YHA/345H9).
+* « Rien n'indique toutefois que l'IA changera durablement le rapport de force entre cybercriminels et ceux chargés de nous protéger, à condition que ces derniers puissent s'emparer de ces technologies. » (p. 32\)  
+  Une étude du *Centre for the Governance of AI* (GovAI) [\[134\]](#bookmark=id.eexkrjem16dz) contredit cette affirmation, notant que « L'équilibre entre l'attaque et la défense risque de pencher davantage en faveur de l'attaque à mesure que les modèles de fondation deviennent de plus en plus performants. ». Il existe une asymétrie fondamentale entre l’attaque et la défense en cybersécurité [\[135\]](#bookmark=id.ji21ig6zmgwm), [\[136\]](#bookmark=id.bwzd201352mm) : un défenseur doit sécuriser l'ensemble des points vulnérables de son infrastructure, tandis qu’un attaquant n’a besoin de n'en exploiter qu'un seul pour réussir. À ce jour, aucun mécanisme ne permet d’utiliser l’IA pour corriger systématiquement toutes les failles potentielles à travers la multitude d'écosystèmes existants, bien qu’il existe des spéculations selon lesquelles l’IA pourrait être utilisée pour automatiser la réaction aux attaques [\[137\]](#bookmark=id.czd1ftp65nj0).  
+* « Pour les risques biologiques et cyber, rien n'indique que les modèles ouverts posent plus de risques que des modèles fermés. » (p. 59\)  
+  Cette assertion n'est étayée par aucune preuve ou référence dans le rapport, notamment en ce qui concerne les risques cyber. Bien au contraire, tout indique que les modèles ouverts posent plus de problèmes que les modèles fermés, comme nous le détaillons dans la [section 3.3.2.3 « Open source »](#3.3.2.3-open-source). Alors que les modèles fermés peuvent encore être contrôlés par leurs développeurs pour prévenir des usages malveillants, les modèles open source échappent fondamentalement à tout contrôle, ce qui permet aujourd'hui déjà à des utilisateurs malintentionnés de les exploiter [\[138\]](#bookmark=id.hklg8bd0kjuz).
 
 
 Le rapport ignore ainsi complètement l'ampleur et la complexité des menaces posées par l'IA dans le domaine de la cybersécurité et faillit à sa mission d'informer adéquatement les décideurs et le public sur les défis critiques auxquels nous sommes confrontés.
 
-#### 3.3.2.3 Open source {#3.3.2.3-open-source}
+#### **3.3.2.3 Open source** {#3.3.2.3-open-source}
 
-Sections du rapport concernées : 1.9
+Sections du rapport concernées : 1.9
 
 L'open source permet le partage libre et collaboratif de code, favorisant l'innovation et l'accessibilité technologique. Bien que bénéfique dans de nombreux domaines, cette approche peut poser des risques graves lorsqu'elle est appliquée à des technologies dangereuses. Dans un contexte où les experts du domaine alertent sur des risques potentiellement catastrophiques à court terme, la question de l'open source des modèles d'IA les plus avancés devient un enjeu majeur de sécurité nationale et internationale.
 
-Les risques liés à l'open source des modèles d'IA avancés sont particulièrement préoccupants, comme le souligne une étude approfondie de GovAI [\[131\]](https://paperpile.com/c/Lj1YHA/vzlip).
+Les risques liés à l'open source des modèles d'IA avancés sont particulièrement préoccupants, comme le souligne une étude approfondie de GovAI [\[134\]](#bookmark=id.eexkrjem16dz).
 
-* **Capacités dangereuses et menaces pour la sécurité** : L'open sourcing de modèles hautement compétents pourrait entraîner la diffusion de capacités dangereuses, susceptibles de causer des dommages physiques importants ou de perturber des fonctions sociétales essentielles. Des acteurs malveillants pourraient exploiter ces modèles pour faciliter la diffusion de désinformation à grande échelle et la surveillance coercitive de la population, lancer des cyberattaques contre des infrastructures critiques, ou encore faciliter le développement d’armes biologiques et chimiques [\[136\]](https://paperpile.com/c/Lj1YHA/0zEd7).  
-* **Désalignement rapide et perte de contrôle** : Une fois un modèle rendu public, il échappe au contrôle de ses créateurs, car il est rapidement modifié pour supprimer les restrictions de sécurité imposées. En moyenne, une version sans restrictions apparaît dans les quelques jours suivant la publication d'un modèle open source, rendant inefficace toute tentative de limiter ou contrôler son utilisation malveillante. Ce processus est accessible à tous et ne coûte qu'environ 200 dollars [\[135\]](https://paperpile.com/c/Lj1YHA/345H9).  
-* **Caractère irréversible de l'open sourcing** : Une fois un modèle rendu public, il devient impossible de l'éliminer ou de corriger des failles de sécurité découvertes ultérieurement, ce qui amplifie le risque d'exploitation malveillante de manière irréversible.
+* **Capacités dangereuses et menaces pour la sécurité** : L'open sourcing de modèles hautement compétents pourrait entraîner la diffusion de capacités dangereuses, susceptibles de causer des dommages physiques importants ou de perturber des fonctions sociétales essentielles. Des acteurs malveillants pourraient exploiter ces modèles pour faciliter la diffusion de désinformation à grande échelle et la surveillance coercitive de la population, lancer des cyberattaques contre des infrastructures critiques, ou encore faciliter le développement d’armes biologiques et chimiques [\[139\]](#bookmark=id.2uy0x6e829rz).  
+* **Désalignement rapide et perte de contrôle** : Une fois un modèle rendu public, il échappe au contrôle de ses créateurs, car il est rapidement modifié pour supprimer les restrictions de sécurité imposées. En moyenne, une version sans restrictions apparaît dans les quelques jours suivant la publication d'un modèle open source, rendant inefficace toute tentative de limiter ou contrôler son utilisation malveillante. Ce processus est accessible à tous et ne coûte qu'environ 200 dollars [\[138\]](#bookmark=id.hklg8bd0kjuz).  
+* **Caractère irréversible de l'open sourcing** : Une fois un modèle rendu public, il devient impossible de l'éliminer ou de corriger des failles de sécurité découvertes ultérieurement, ce qui amplifie le risque d'exploitation malveillante de manière irréversible.
 
-Face à ces préoccupations majeures, le traitement de la question de l'open source par la Commission de l'IA est alarmant par sa légèreté. Le rapport s’aligne sur la position promue par la société Mistral et le groupe Meta pour affirmer d'emblée que l'ouverture des modèles d'IA ne pose « pas de risque supplémentaire significatif » (p. 59), une conclusion en contradiction avec l'étude de GovAI. Cette position repose sur des hypothèses non justifiées et des omissions graves.
+Face à ces préoccupations majeures, le traitement de la question de l'open source par la Commission de l'IA est alarmant par sa légèreté. Le rapport s’aligne sur la position promue par la société Mistral et le groupe Meta pour affirmer d'emblée que l'ouverture des modèles d'IA ne pose « pas de risque supplémentaire significatif » (p. 59), une conclusion en contradiction avec l'étude de GovAI. Cette position repose sur des hypothèses non justifiées et des omissions graves.
 
 * La Commission ignore complètement les risques de cybersécurité liés à l'open source, se contentant d'affirmer leur inexistence sans aucune justification.  
-* Concernant les biorisques, le rapport se base sur une seule étude [\[137\]](https://paperpile.com/c/Lj1YHA/R6sjP) montrant l'absence de risque avec les modèles actuels, ignorant ainsi la possibilité de risques futurs. Comme nous l'avons montré plus haut, le rapport suppose implicitement un arrêt soudain des progrès en IA : voici un exemple clair montrant que cela donne lieu à une sous-estimation dangereuse des risques.  
-* Le rapport admet que les modèles open source réduisent de 70 % le coût de production de la désinformation, mais il minimise ce risque en le considérant comme déjà inévitable. Il justifie cette position en affirmant que ces modèles sont déjà disponibles en open source, sans considérer que l'amélioration continue de ces technologies va certainement amplifier ce problème. 
+* Concernant les biorisques, le rapport se base sur une seule étude [\[140\]](#bookmark=id.8zcr41bsfalp) montrant l'absence de risque avec les modèles actuels, ignorant ainsi la possibilité de risques futurs. Comme nous l'avons montré plus haut, le rapport suppose implicitement un arrêt soudain des progrès en IA : voici un exemple clair montrant que cela donne lieu à une sous-estimation dangereuse des risques.  
+* Le rapport admet que les modèles open source réduisent de 70 % le coût de production de la désinformation, mais il minimise ce risque en le considérant comme déjà inévitable. Il justifie cette position en affirmant que ces modèles sont déjà disponibles en open source, sans considérer que l'amélioration continue de ces technologies va certainement amplifier ce problème. 
 
 La Commission traite l'IA comme une technologie figée, sans danger significatif, et en conclut que l'open source ne présente pas de dangers supplémentaires. Cette approche est d'autant plus étonnante qu'elle ne serait certainement pas appliquée à d'autres technologies potentiellement dangereuses. On imagine mal, par exemple, des recommandations similaires pour rendre open source les plans de construction d'armes biologiques, nucléaires ou de virus informatiques.  
-Il est important de noter que cette analyse biaisée est certainement influencée par les conflits d'intérêts au sein de la Commission, de nombreux membres ayant des intérêts financiers directs dans le développement de l'IA open source que nous analysons en profondeur en [section 4.2](\#4.2-conflits-d’intérêts).
+Il est important de noter que cette analyse biaisée est certainement influencée par les conflits d'intérêts au sein de la Commission, de nombreux membres ayant des intérêts financiers directs dans le développement de l'IA open source que nous analysons en profondeur en [section 4.2](#4.2-conflits-d’intérêts).
 
-#### 3.3.2.4 Création artistique {#3.3.2.4-création-artistique}
+#### **3.3.2.4 Création artistique** {#3.3.2.4-création-artistique}
 
-Sections du rapport concernées : 1.6
+Sections du rapport concernées : 1.6
 
-L'impact de l'IA sur la création artistique est un sujet de préoccupation croissante dans le monde de l'art et de la culture. Des mouvements d'artistes en colère, tels que ArtistsHate [\[138\]](https://paperpile.com/c/Lj1YHA/n0sh5), émergent en réaction à la menace perçue de l'IA sur leurs métiers et leur créativité. Ces inquiétudes ne sont pas infondées, comme le montre une étude récente menée par CVL Economics [\[139\]](https://paperpile.com/c/Lj1YHA/8c32r) sur l'impact de l'IA générative dans l'industrie du divertissement.
-
-\[Encart\]  
-**État des lieux : une disruption massive en cours**
-
-L'étude *Future Unscripted* [\[139\]](https://paperpile.com/c/Lj1YHA/8c32r) révèle l'ampleur de la transformation en cours :
-
-* 72 % des entreprises du divertissement sont des adopteurs précoces de l'IA générative, contre seulement 3,9 % dans l'économie globale.  
-* 203 800 emplois américains dans le divertissement devraient être perturbés d'ici 2026, principalement par consolidation ou remplacement.  
-* L'industrie du film, de la télévision et de l'animation sera la plus touchée, avec 21,4 % de sa main-d'œuvre impactée.  
-* Le secteur du jeu vidéo affiche le taux d'adoption le plus élevé, près de 90 % des entreprises utilisant déjà l'IA générative.
-
-Ces chiffres préoccupants contrastent fortement avec le traitement superficiel et partial de la question par le rapport de la Commission de l'IA.  
-\[Fin Encart\] 
+L'impact de l'IA sur la création artistique est un sujet de préoccupation croissante dans le monde de l'art et de la culture. Des mouvements d'artistes en colère, tels que ArtistsHate [\[141\]](#bookmark=id.o4xfjyhvie8m), émergent en réaction à la menace perçue de l'IA sur leurs métiers et leur créativité. Ces inquiétudes ne sont pas infondées, comme le montre une étude récente menée par CVL Economics [\[142\]](#bookmark=id.2abl9hicte5e) sur l'impact de l'IA générative dans l'industrie du divertissement.
 
 **Une analyse déficiente et trompeuse**
 
-Le rapport de la Commission traite la question de l'impact de l'IA sur la création artistique de manière particulièrement problématique :
+Le rapport de la Commission traite la question de l'impact de l'IA sur la création artistique de manière particulièrement problématique :
 
-* Minimisation des impacts négatifs : Bien que le rapport reconnaisse brièvement les inquiétudes du secteur, il les balaie rapidement pour se concentrer sur les aspects positifs. Il n'y a aucune analyse approfondie des conséquences potentiellement dévastatrices pour certains métiers artistiques, en contradiction totale avec les données présentées dans l'étude de CVL Enonomics [\[139\]](https://paperpile.com/c/Lj1YHA/8c32r).  
-* Absence totale de données et d'études : Alors qu’une étude de Goldman Sachs [\[140\]](https://paperpile.com/c/Lj1YHA/cbMx3) prévoit une automatisation de 26 % des tâches dans le domaine artistique rien qu’avec les IA actuelles, le rapport de la Commission ne s'appuie sur aucune donnée chiffrée ni aucune étude pour soutenir ses affirmations. Cette absence de rigueur scientifique est particulièrement frappante et compromet sérieusement la crédibilité de l'analyse.  
-* Vision à court terme et hypothèse d'arrêt du progrès : Comme dans le reste du rapport (voir [section 3.2.3](\#3.2.3-aucune-anticipation-des-développements-de-l'ia,-même-à-court-terme)), l'analyse de la Commission souffre d'une vision à court terme qui suppose implicitement un arrêt brusque des progrès de l'IA. Cette approche ignore complètement la rapidité des avancées dans le domaine et les projections à moyen terme. Le rapport affirme par exemple que « L'IA ne met cependant pas en danger l'originalité de la création en elle-même et ses processus de sélection » (p. 53), sans aucune justification ni prise en compte des développements futurs potentiels de l'IA. Cette affirmation péremptoire contraste fortement avec les inquiétudes légitimes exprimées par de nombreux artistes.  
-* 
+* Minimisation des impacts négatifs : Bien que le rapport reconnaisse brièvement les inquiétudes du secteur, il les balaie rapidement pour se concentrer sur les aspects positifs. Il n'y a aucune analyse approfondie des conséquences potentiellement dévastatrices pour certains métiers artistiques, en contradiction totale avec les données présentées dans l'étude de CVL Enonomics [\[142\]](#bookmark=id.2abl9hicte5e).  
+* Absence totale de données et d'études : Alors qu’une étude de Goldman Sachs [\[143\]](#bookmark=id.bn0xvubyovkb) prévoit une automatisation de 26 % des tâches dans le domaine artistique rien qu’avec les IA actuelles, le rapport de la Commission ne s'appuie sur aucune donnée chiffrée ni aucune étude pour soutenir ses affirmations. Cette absence de rigueur scientifique est particulièrement frappante et compromet sérieusement la crédibilité de l'analyse.  
+* Vision à court terme et hypothèse d'arrêt du progrès : Comme dans le reste du rapport (voir [section 3.2.3](#3.2.3-aucune-anticipation-des-développements-de-l'ia,-même-à-court-terme)), l'analyse de la Commission souffre d'une vision à court terme qui suppose implicitement un arrêt brusque des progrès de l'IA. Cette approche ignore complètement la rapidité des avancées dans le domaine et les projections à moyen terme. Le rapport affirme par exemple que « L'IA ne met cependant pas en danger l'originalité de la création en elle-même et ses processus de sélection » (p. 53), sans aucune justification ni prise en compte des développements futurs potentiels de l'IA. Cette affirmation péremptoire contraste fortement avec les inquiétudes légitimes exprimées par de nombreux artistes.
 
-En conclusion, le traitement de la question de l'impact de l'IA sur la création artistique par la Commission est symptomatique des problèmes qui entachent l'ensemble du rapport : minimisation des risques, manque de rigueur scientifique et vision à court terme. Cette approche faillit gravement à la mission d'éclairer les décideurs et le public sur les défis réels posés par l'IA dans le domaine artistique et culturel, et pourrait conduire à une dangereuse sous-estimation des bouleversements à venir dans ce secteur crucial de notre société.
 
-### 3.3.3 Utilisation stratégique du langage {#3.3.3-utilisation-stratégique-du-langage}
+En conclusion, le traitement de la question de l'impact de l'IA sur la création artistique par la Commission est symptomatique des problèmes qui entachent l'ensemble du rapport : minimisation des risques, manque de rigueur scientifique et vision à court terme. Cette approche faillit gravement à la mission d'éclairer les décideurs et le public sur les défis réels posés par l'IA dans le domaine artistique et culturel, et pourrait conduire à une dangereuse sous-estimation des bouleversements à venir dans ce secteur crucial de notre société.
+
+### **3.3.3 Utilisation stratégique du langage** {#3.3.3-utilisation-stratégique-du-langage}
 
 Le rapport de la Commission de l'IA utilise des choix linguistiques qui orientent le lecteur pour minimiser les risques liés à l'IA générative et façonner une perception rassurante mais trompeuse des enjeux. Ces procédés rhétoriques se manifestent à travers les choix lexicaux, les connotations émotionnelles, la discréditation des scénarios catastrophiques et l'utilisation d'amalgames et de fausses analogies.
 
-Le choix des termes et des expressions tout au long du rapport révèle une volonté délibérée de désamorcer les inquiétudes et de favoriser la confiance du public. Le titre de la première partie, « Dédiaboliser l'IA, sans pour autant l'idéaliser », illustre parfaitement cette approche. Il suggère que les craintes liées à l'IA sont exagérées et doivent être tempérées, tout en prétendant adopter une position équilibrée.
+Le choix des termes et des expressions tout au long du rapport révèle une volonté délibérée de désamorcer les inquiétudes et de favoriser la confiance du public. Le titre de la première partie, « Dédiaboliser l'IA, sans pour autant l'idéaliser », illustre parfaitement cette approche. Il suggère que les craintes liées à l'IA sont exagérées et doivent être tempérées, tout en prétendant adopter une position équilibrée.
 
-La discréditation des scénarios critiques de l’IA est particulièrement apparente dans le traitement des avertissements émis par de nombreux scientifiques. Le rapport qualifie ces scénarios « d'épouvante », une expression chargée émotionnellement qui les assimilent à des fantasmes irrationnels plutôt qu'à des préoccupations légitimes basées sur des analyses scientifiques. Cette caractérisation contraste fortement avec les expressions plus neutres comme « effets indésirables » ou « actes malveillants » utilisées pour décrire les risques reconnus par la Commission. Cette disparité dans le choix des termes vise clairement à miner la crédibilité des préoccupations les plus graves.
+La discréditation des scénarios critiques de l’IA est particulièrement apparente dans le traitement des avertissements émis par de nombreux scientifiques. Le rapport qualifie ces scénarios « d'épouvante », une expression chargée émotionnellement qui les assimilent à des fantasmes irrationnels plutôt qu'à des préoccupations légitimes basées sur des analyses scientifiques. Cette caractérisation contraste fortement avec les expressions plus neutres comme « effets indésirables » ou « actes malveillants » utilisées pour décrire les risques reconnus par la Commission. Cette disparité dans le choix des termes vise clairement à miner la crédibilité des préoccupations les plus graves.
 
 Le rapport s'appuie sur une comparaison fallacieuse entre l'IA et l'électricité. Cette analogie, présentée sans justification approfondie, sert à banaliser les risques de l'IA en l'assimilant à une technologie familière et largement acceptée. Cependant, cette comparaison ignore les différences fondamentales entre ces deux technologies, notamment en termes de complexité, d'autonomie et d'impact sur la société. L'utilisation de cette fausse analogie révèle une tentative de simplification excessive des enjeux liés à l'IA.
 
-Le rapport fait également des amalgames et de fausses analogies pour banaliser les risques liés à l'IA. La formulation « Faut-il avoir peur de l'IA ? Non, mais il faut être vigilant comme avec tout outil » (p. 31\) est un exemple frappant de cette technique. En assimilant l'IA à « un simple outil », le rapport ignore la nature fondamentalement différente et potentiellement autonome des systèmes d'IA avancés, notamment les risques liés aux systèmes d'IA désalignés.
+Le rapport fait également des amalgames et de fausses analogies pour banaliser les risques liés à l'IA. La formulation « Faut-il avoir peur de l'IA ? Non, mais il faut être vigilant comme avec tout outil » (p. 31\) est un exemple frappant de cette technique. En assimilant l'IA à « un simple outil », le rapport ignore la nature fondamentalement différente et potentiellement autonome des systèmes d'IA avancés, notamment les risques liés aux systèmes d'IA désalignés.
 
-La structure même du rapport contribue à cette manipulation sémantique. Chaque chapitre commence par un scénario positif, créant d'emblée un cadre optimiste. Bien que le développement qui suit nuance parfois ce tableau, l'impression initiale positive persiste, influençant la perception globale du lecteur. Cette technique rhétorique est bien illustrée dans la partie traitant de la perte d'emploi. Alors que l'analyse présentée dans le corps du texte soulève des préoccupations sérieuses quant à l'impact de l'IA sur le marché du travail, le chapitre est encadré par des conclusions résolument optimistes. Il s'ouvre sur une vision positive des transformations à venir et se clôt sur des perspectives encourageantes, créant ainsi un effet de « sandwich optimiste » qui atténue la gravité des problèmes soulevés. Cette structure crée un décalage entre le contenu analytique, qui reconnaît des défis majeurs, et le message global véhiculé, qui minimise ces mêmes défis.
+La structure même du rapport contribue à cette manipulation sémantique. Chaque chapitre commence par un scénario positif, créant d'emblée un cadre optimiste. Bien que le développement qui suit nuance parfois ce tableau, l'impression initiale positive persiste, influençant la perception globale du lecteur. Cette technique rhétorique est bien illustrée dans la partie traitant de la perte d'emploi. Alors que l'analyse présentée dans le corps du texte soulève des préoccupations sérieuses quant à l'impact de l'IA sur le marché du travail, le chapitre est encadré par des conclusions résolument optimistes. Il s'ouvre sur une vision positive des transformations à venir et se clôt sur des perspectives encourageantes, créant ainsi un effet de « sandwich optimiste » qui atténue la gravité des problèmes soulevés. Cette structure crée un décalage entre le contenu analytique, qui reconnaît des défis majeurs, et le message global véhiculé, qui minimise ces mêmes défis.
 
 Cette approche linguistique révèle un biais d'optimisme prononcé et une volonté de traiter les enjeux de l'IA de manière superficielle. En minimisant systématiquement les risques à travers le langage utilisé, le rapport de la Commission échoue à fournir une analyse équilibrée et approfondie des défis posés par l'IA, compromettant ainsi sa crédibilité et sa pertinence en tant que document d'orientation stratégique.
 
-## 3.4 Négligence des préoccupations citoyennes et approche non-démocratique {#3.4-négligence-des-préoccupations-citoyennes-et-approche-non-démocratique}
+## **3.4 Négligence des préoccupations citoyennes et approche non-démocratique** {#3.4-négligence-des-préoccupations-citoyennes-et-approche-non-démocratique}
 
-### 3.4.1 Perception publique de l'IA : un mélange de préoccupations et d'attentes {#3.4.1-perception-publique-de-l'ia-:-un-mélange-de-préoccupations-et-d'attentes}
+### **3.4.1 Perception publique de l'IA : un mélange de préoccupations et d'attentes** {#3.4.1-perception-publique-de-l'ia :-un-mélange-de-préoccupations-et-d'attentes}
 
-Selon plusieurs sondages récents [\[141\], \[142\], \[143\]](https://paperpile.com/c/Lj1YHA/Gr8et+aBeX3+EH3Tb), les Français expriment des inquiétudes significatives concernant l'IA :
+Selon plusieurs sondages récents [\[144\]](#bookmark=id.rsnny724mwwy), [\[145\]](#bookmark=id.m5v27lgqffla), [\[146\]](#bookmark=id.72zyteqnxnyz), les Français expriment des inquiétudes significatives concernant l'IA :
 
-- 72 % sont préoccupés ou ambivalents vis-à-vis de l'IA, le taux le plus élevé parmi 21 pays sondés.  
-- 78 % s'inquiètent de la sécurité des données, de la vie privée et des droits d'auteur.  
-- 91 % se sentent mal informés des risques et implications de l'IA.  
-- 68 % sont favorables à l'établissement de règles contraignantes au niveau étatique.
+- 72 % sont préoccupés ou ambivalents vis-à-vis de l'IA, le taux le plus élevé parmi 21 pays sondés.  
+- 78 % s'inquiètent de la sécurité des données, de la vie privée et des droits d'auteur.  
+- 91 % se sentent mal informés des risques et implications de l'IA.  
+- 68 % sont favorables à l'établissement de règles contraignantes au niveau étatique.
 
 Parallèlement, les Français reconnaissent le potentiel positif de l'IA dans certains domaines comme la santé et la recherche, mais expriment une forte méfiance quant à son utilisation pour des décisions critiques (justice, transport, diagnostic médical).  
 D’autre part, l’utilisation des IA dans le contexte des réseaux sociaux est reconnue comme néfaste tant du point de vue de la santé des utilisateurs que de la désinformation et des chambres d’écho dans lesquelles ils se retrouvent enfermés. 
 
-### 3.4.2 Décalage entre les préoccupations publiques et l'approche de la Commission {#3.4.2-décalage-entre-les-préoccupations-publiques-et-l'approche-de-la-commission}
+### **3.4.2 Décalage entre les préoccupations publiques et l'approche de la Commission** {#3.4.2-décalage-entre-les-préoccupations-publiques-et-l'approche-de-la-commission}
 
 Le rapport de la Commission reconnaît l'existence d'une perception négative de l'IA par le public français. Cependant, au lieu d'explorer en profondeur les raisons de ces inquiétudes et d'envisager une possible divergence fondamentale entre les aspirations du public et la direction actuelle du développement de l'IA, la Commission semble privilégier une approche paternaliste, visant à modifier cette perception.
 
-Le rapport mentionne bien l'importance du débat public :
+Le rapport mentionne bien l'importance du débat public :
 
-« Nous recommandons de lancer immédiatement un plan de sensibilisation et de formation de la nation. Pour y parvenir, nous devons d'abord créer les conditions d'une appropriation collective de l'IA et de ses enjeux. Cela suppose d'animer en continu des débats publics dans notre société \[...\] » (p. 7\)
+« Nous recommandons de lancer immédiatement un plan de sensibilisation et de formation de la nation. Pour y parvenir, nous devons d'abord créer les conditions d'une appropriation collective de l'IA et de ses enjeux. Cela suppose d'animer en continu des débats publics dans notre société \[...\] » (p. 7\)
 
-Cependant, les propositions concrètes semblent davantage orientées vers la familiarisation et l'acceptation de l'IA que vers une consultation citoyenne sur les orientations à prendre :
+Cependant, les propositions concrètes semblent davantage orientées vers la familiarisation et l'acceptation de l'IA que vers une consultation citoyenne sur les orientations à prendre :
 
-« \[...\] susciter la création de lieux d'expérimentation et d'appropriation de la technologie (les « cafés IA »), de mettre à disposition un outil numérique d'information ou encore de lancer un concours de cas d'usages positifs de l'IA. » (p. 7\)
+« \[...\] susciter la création de lieux d'expérimentation et d'appropriation de la technologie (les « cafés IA »), de mettre à disposition un outil numérique d'information ou encore de lancer un concours de cas d'usages positifs de l'IA. » (p. 7\)
 
 Cette approche, bien qu'elle mentionne le dialogue, privilégie une vision de communication unilatérale descendante, de certains experts vers le public, où l'objectif principal est de former et de convaincre le public plutôt que de l'impliquer véritablement dans les décisions concernant le développement et le déploiement de l'IA.
 
-De plus, depuis la publication du rapport, l'accent semble avoir été mis principalement sur les « cafés IA », une initiative qui vise avant tout à réconcilier le public avec l'IA, plutôt que sur l'organisation de véritables débats démocratiques publics permettant d'aborder les préoccupations citoyennes de manière approfondie. Il est d’ailleurs à noter que l’occultation et la minimisation des dangers par le rapport (voir sections 3.2.2 et 3.3) contribue à un débat public mort dans l'œuf, car les citoyens seraient privés des informations nécessaires pour prendre des décisions éclairées. 
+De plus, depuis la publication du rapport, l'accent semble avoir été mis principalement sur les « cafés IA », une initiative qui vise avant tout à réconcilier le public avec l'IA, plutôt que sur l'organisation de véritables débats démocratiques publics permettant d'aborder les préoccupations citoyennes de manière approfondie. Il est d’ailleurs à noter que l’occultation et la minimisation des dangers par le rapport (voir sections 3.2.2 et 3.3) contribue à un débat public mort dans l'œuf, car les citoyens seraient privés des informations nécessaires pour prendre des décisions éclairées. 
 
 Dans un contexte de grande incertitude sur les risques et bénéfices potentiels de l’IA, il convient de garder l’esprit ouvert et de consulter la population française sur les principes qui guideront la recherche et le développement de l’IA, afin de respecter ses priorités sans chercher à imposer une vision de l’IA avant qu’un consensus scientifique et sociétal s’affermisse sur le sujet.
 
 Cette approche soulève des questions sur la légitimité démocratique des décisions recommandées par le rapport. Les inquiétudes du public et les avertissements des experts reflètent des appréhensions légitimes face à cette technologie en rapide évolution. En l’absence de consensus scientifique, il convient d’informer tant sur les risques que sur les bénéfices potentiels, et par respect des opinions citoyennes, une gouvernance plus inclusive de l’IA doit prendre en compte ces préoccupations pour assurer une gestion démocratique et éclairée de cette technologie.
 
-### 3.4.3 Proposition controversée sur l'accès aux données {#3.4.3-proposition-controversée-sur-l'accès-aux-données}
+### **3.4.3 Proposition controversée sur l'accès aux données** {#3.4.3-proposition-controversée-sur-l'accès-aux-données}
 
-Le rapport suggère de « faciliter l'accès aux données à caractère personnel » (p. 10\) pour l'entraînement des modèles d'IA, par exemple en supprimant les procédures d’autorisation préalable à l’accès des données (p. 101). Cette recommandation va à l'encontre des préoccupations majeures du public concernant la protection de la vie privée, mais soulève également de sérieuses préoccupations éthiques et pratiques.
+Le rapport suggère de « faciliter l'accès aux données à caractère personnel » (p. 10\) pour l'entraînement des modèles d'IA, par exemple en supprimant les procédures d’autorisation préalable à l’accès des données (p. 101). Cette recommandation va à l'encontre des préoccupations majeures du public concernant la protection de la vie privée, mais soulève également de sérieuses préoccupations éthiques et pratiques.
 
-L'intégration de données personnelles dans les modèles de langage (*LLM*) présente des risques significatifs souvent sous-estimés :
+L'intégration de données personnelles dans les modèles de langage (*LLM*) présente des risques significatifs souvent sous-estimés :
 
 - Les *LLM* ont tendance à mémoriser une grande partie des données sur lesquelles ils sont entraînés. Ces informations se retrouvent encodées dans les milliards de paramètres du modèle.  
-- Des techniques de *« jailbreaking* » peuvent potentiellement être utilisées pour extraire ces données personnelles du modèle. Cela signifie qu'un attaquant pourrait, en théorie, récupérer des informations privées qui n'auraient jamais dû être accessibles [\[144\]](https://paperpile.com/c/Lj1YHA/qL5Xl).  
+- Des techniques de *« jailbreaking »* peuvent potentiellement être utilisées pour extraire ces données personnelles du modèle. Cela signifie qu'un attaquant pourrait, en théorie, récupérer des informations privées qui n'auraient jamais dû être accessibles [\[147\]](#bookmark=id.32iuyrk7kzc4).  
 - L'utilisation de données personnelles pour l'entraînement de modèles d'IA soulève des questions importantes sur le consentement éclairé et la transparence envers les individus dont les données sont utilisées.
 
 Le rapport ne mentionne aucun des risques propres à l’IA pour les données personnelles. Cette approche révèle une propension inquiétante à privilégier le développement technologique au détriment des droits fondamentaux à la vie privée et à la protection des données personnelles. Elle nécessite un débat public approfondi et une évaluation rigoureuse des risques avant toute mise en œuvre.
 
 Face à ces lacunes dans l'approche de la Commission, **notre contre-expertise se positionne comme une réponse à l'appel au débat public mentionné dans le rapport**, tout en allant bien au-delà. Nous visons à initier un dialogue véritablement démocratique et inclusif sur l'IA, en fournissant une analyse critique approfondie et en encourageant la participation d'une diversité d'experts et de citoyens.
 
-## 3.5 Analyse comparative {#3.5-analyse-comparative}
+## **3.5 Analyse comparative** {#3.5-analyse-comparative}
 
-### 3.5.1 Introduction {#3.5.1-introduction}
+### **3.5.1 Introduction** {#3.5.1-introduction}
 
 L'essor spectaculaire des modèles de fondation en intelligence artificielle a incité de nombreux pays et organisations internationales à anticiper les bénéfices et les risques liés à leur développement et à leur déploiement.
 
-En novembre 2023, le gouvernement britannique a lancé une initiative pionnière de coordination internationale à Bletchley, près de Londres [\[145\]](https://paperpile.com/c/Lj1YHA/LCac5). Ce sommet a réuni des représentants de nombreux gouvernements et organisations, aboutissant à une déclaration conjointe, signée par la France, soulignant l'importance de développer des IA de manière sécurisée. Cette déclaration reconnaît, en particulier, le potentiel de dommages catastrophiques causés par des modèles de pointe en raison de leurs capacités avancées, citant les risques en biosécurité, cybersécurité et désinformation [\[146\]](https://paperpile.com/c/Lj1YHA/fYvhD).
+En novembre 2023, le gouvernement britannique a lancé une initiative pionnière de coordination internationale à Bletchley, près de Londres [\[148\]](#bookmark=id.8xkoshfnpfcr). Ce sommet a réuni des représentants de nombreux gouvernements et organisations, aboutissant à une déclaration conjointe, signée par la France, soulignant l'importance de développer des IA de manière sécurisée. Cette déclaration reconnaît, en particulier, le potentiel de dommages catastrophiques causés par des modèles de pointe en raison de leurs capacités avancées, citant les risques en biosécurité, cybersécurité et désinformation [\[149\]](#bookmark=id.md6d89n2muit).
 
 Depuis lors, plusieurs pays et groupes de réflexion ont mandaté des experts pour dresser un état des lieux de l'intelligence artificielle et anticiper ses trajectoires de développement potentielles. Cette démarche est cruciale pour éclairer les décisions futures dans ce domaine.
 
@@ -621,14 +604,14 @@ Des exemples de rapports plus complets et rigoureux existent pourtant. C'est pou
 
 Pour évaluer la qualité du rapport de la Commission française sur l'IA, nous l'avons comparée à quatre initiatives récentes, reconnues pour leur rigueur et leur influence dans le domaine de la gouvernance de l'IA avancée. Ces documents représentent diverses approches, allant de l'analyse scientifique approfondie à la législation concrète, et couvrent des régions géopolitiques clés.
 
-1. **Le *Gladstone Report*** *[\[147\]](https://paperpile.com/c/Lj1YHA/mHq4u)* : Commandé par le Département d'État américain, ce rapport offre une évaluation approfondie des risques liés à l'IA avancée. Il se distingue par son analyse détaillée des risques catastrophiques et propose un plan d'action gouvernemental inédit, structuré autour de cinq axes d'effort.  
-2. **L’*International Scientific Report on the Safety of Advanced AI* (*ISR*)** [\[148\]](https://paperpile.com/c/Lj1YHA/6KARY) : Cette initiative scientifique mondiale réunit des experts de 30 pays, de l'UE et de l'ONU. Ce rapport intérimaire se concentre sur les systèmes d'IA à usage général, comme les grands modèles de langage. Il examine en profondeur les capacités actuelles et futures de l'IA, les méthodologies d'évaluation, les risques et les approches techniques pour les atténuer.  
-3. **La loi européenne sur l’IA** [\[149\]](https://paperpile.com/c/Lj1YHA/canvC) : C'est la première réglementation complète sur l'intelligence artificielle proposée par un régulateur majeur. Initié par la Commission européenne, cet acte législatif vise à établir un cadre juridique pour le développement et l'utilisation de l'IA au sein de l'Union européenne. Il adopte une approche basée sur les risques, catégorisant les applications d'IA selon leur niveau de danger potentiel.  
-4. **L'*Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence* (*Executive Order*)** américain sur l'IA [\[150\]](https://paperpile.com/c/Lj1YHA/NzONS) : Signé par le président Joe Biden, ce décret exhaustif couvre un large éventail de domaines, de la sécurité nationale à la protection des consommateurs. Il établit des principes directeurs pour le développement responsable de l'IA, impose de nouvelles exigences aux entreprises développant des systèmes d'IA puissants, et mandate de nombreuses actions spécifiques des agences fédérales.
+1. **Le *Gladstone Report*** *[\[150\]](#bookmark=id.96vi3s9q66vw)* : Commandé par le Département d'État américain, ce rapport offre une évaluation approfondie des risques liés à l'IA avancée. Il se distingue par son analyse détaillée des risques catastrophiques et propose un plan d'action gouvernemental inédit, structuré autour de cinq axes d'effort.  
+2. **L’*International Scientific Report on the Safety of Advanced AI* (*ISR*)** [\[151\]](#bookmark=id.5oydoorpip6t) : Cette initiative scientifique mondiale réunit des experts de 30 pays, de l'UE et de l'ONU. Ce rapport intérimaire se concentre sur les systèmes d'IA à usage général, comme les grands modèles de langage. Il examine en profondeur les capacités actuelles et futures de l'IA, les méthodologies d'évaluation, les risques et les approches techniques pour les atténuer.  
+3. **La loi européenne sur l’IA** [\[152\]](#bookmark=id.k92wjcsi0jis) : C'est la première réglementation complète sur l'intelligence artificielle proposée par un régulateur majeur. Initié par la Commission européenne, cet acte législatif vise à établir un cadre juridique pour le développement et l'utilisation de l'IA au sein de l'Union européenne. Il adopte une approche basée sur les risques, catégorisant les applications d'IA selon leur niveau de danger potentiel.  
+4. **L'*Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence* (*Executive Order*)** américain sur l'IA [\[153\]](#bookmark=id.4wdpktlgul3f) : Signé par le président Joe Biden, ce décret exhaustif couvre un large éventail de domaines, de la sécurité nationale à la protection des consommateurs. Il établit des principes directeurs pour le développement responsable de l'IA, impose de nouvelles exigences aux entreprises développant des systèmes d'IA puissants, et mandate de nombreuses actions spécifiques des agences fédérales.
 
 Les deux rapports (*Gladstone Report* et *ISR*) abordent en profondeur de nombreux risques fondamentaux. Ils font appel à de nombreux spécialistes et à une littérature abondante, évaluent les arguments pour et contre différents scénarios, et **expriment leurs conclusions en partageant leurs degrés d'incertitude**. Les deux textes législatifs (loi européenne sur l’IA et *Executive Order*), quant à eux, font un effort d'anticipation des risques très important tout en cherchant à respecter la libre entreprise.
 
-La comparaison de ces textes avec le rapport de la Commission française montre que ce dernier ne remplit pas son rôle d'information concernant les différents risques majeurs d'un développement mal maîtrisé de l'IA. Notre évaluation est résumée dans la figure suivante.
+La comparaison de ces textes avec le rapport de la Commission française montre que ce dernier ne remplit pas son rôle d'information concernant les différents risques majeurs d'un développement mal maîtrisé de l'IA. Notre évaluation est résumée dans la figure suivant
 
 | Risque | Rapport français | *Gladstone Report* | *ISR* | *Loi européenne sur l’IA* | *Executive order* |
 | :---: | :---: | ----- | ----- | ----- | ----- |
@@ -652,35 +635,37 @@ La comparaison de ces textes avec le rapport de la Commission française montre 
 | Analyse modérée avec quelques références variées, mais potentiellement incomplète. Le rapport fournit une analyse substantielle, bien que certains aspects ou points de vue importants puissent être sous-représentés. |
 | Analyse approfondie avec des références solides et diverses, offrant une image équilibrée des débats ou controverses existants. Le rapport cite une variété de sources représentant différents points de vue sur le sujet. |
 
-### 3.5.2 Les risques éludés par le rapport français {#3.5.2-les-risques-éludés-par-le-rapport-français}
+### 
 
-#### 3.5.2.1 Perte de contrôle des modèles d'IA avancés {#3.5.2.1-perte-de-contrôle-des-modèles-d'ia-avancés}
+### **3.5.2 Les risques éludés par le rapport français** {#3.5.2-les-risques-éludés-par-le-rapport-français}
+
+#### **3.5.2.1 Perte de contrôle des modèles d'IA avancés** {#3.5.2.1-perte-de-contrôle-des-modèles-d'ia-avancés}
 
 Le *Gladstone Report (p. 24 et 36-37)* et *l'ISR (section 4.2.3)* examinent sérieusement la possibilité de perdre le contrôle d'IA de niveau humain ou supérieur tandis que la loi européenne sur l’IA (chapitre 3\) et l'*Executive Order* américain proposent des mesures concrètes pour évaluer ces risques et contrôler le développement des modèles.
 
-En revanche, le rapport de la Commission française se contente d'une phrase pour écarter ces préoccupations. Il utilise une longue analogie comparant l'IA à l'adoption de l'électricité, ce qui est trompeur car l'IA représente un changement bien plus fondamental et d’une toute autre nature (voir [section 3.3.3](\#3.3.3-utilisation-stratégique-du-langage)).
+En revanche, le rapport de la Commission française se contente d'une phrase pour écarter ces préoccupations. Il utilise une longue analogie comparant l'IA à l'adoption de l'électricité, ce qui est trompeur car l'IA représente un changement bien plus fondamental et d’une toute autre nature (voir [section 3.3.3](#3.3.3-utilisation-stratégique-du-langage)).
 
-#### 3.5.2.2 Biorisques et cybersécurité {#3.5.2.2-biorisques-et-cybersécurité}
+#### **3.5.2.2 Biorisques et cybersécurité** {#3.5.2.2-biorisques-et-cybersécurité}
 
-Le *Gladstone Report (p. 21\)* et *l'ISR (section 4.1.4)* décrivent des scénarios où un modèle de fondation futur serait utilisé pour transmettre des informations critiques dans la fabrication d'armes biologiques, voire d'automatiser leur production. Les risques de facilitation des cyberattaques sont également reconnus par l'*ISR*, qui reste serein concernant les modèles publiés au moment de la rédaction du rapport (4.1.3). Le *Gladstone Report* prend ce risque au sérieux (ex. p. 24\) et recommande la création d'institutions surveillant ces capacités, comme un Observatoire de l'IA (p. 51). La loi européenne sur l’IA classe ces modèles comme présentant des « risques systémiques » (*Recital* 110\) et exige des contrôles stricts. L'*Executive Order* reconnaît ces dangers et propose des mesures pour les évaluer et les atténuer.
+Le *Gladstone Report (p. 21\)* et *l'ISR (section 4.1.4)* décrivent des scénarios où un modèle de fondation futur serait utilisé pour transmettre des informations critiques dans la fabrication d'armes biologiques, voire d'automatiser leur production. Les risques de facilitation des cyberattaques sont également reconnus par l'*ISR*, qui reste serein concernant les modèles publiés au moment de la rédaction du rapport (4.1.3). Le *Gladstone Report* prend ce risque au sérieux (ex. p. 24\) et recommande la création d'institutions surveillant ces capacités, comme un Observatoire de l'IA (p. 51). La loi européenne sur l’IA classe ces modèles comme présentant des « risques systémiques » (*Recital* 110\) et exige des contrôles stricts. L'*Executive Order* reconnaît ces dangers et propose des mesures pour les évaluer et les atténuer.
 
-Le rapport français affirme simplement que « rien n'indique » que les modèles actuels soient particulièrement dangereux à cet égard. Cette affirmation est non seulement fausse concernant les cyberattaques (voir [section 3.3.2.2](\#3.3.2.2-cybersécurité)), mais elle ignore surtout la trajectoire rapide des progrès en IA.
+Le rapport français affirme simplement que « rien n'indique » que les modèles actuels soient particulièrement dangereux à cet égard. Cette affirmation est non seulement fausse concernant les cyberattaques (voir [section 3.3.2.2](#3.3.2.2-cybersécurité)), mais elle ignore surtout la trajectoire rapide des progrès en IA.
 
-#### 3.5.2.3 Deepfakes et désinformation {#3.5.2.3-deepfakes-et-désinformation}
+#### **3.5.2.3 Deepfakes et désinformation** {#3.5.2.3-deepfakes-et-désinformation}
 
 L'*ISR* reconnaît les risques liés aux *deepfakes* et à la désinformation (p. 41-43), précisant qu'aucune technique robuste n'existe pour les prévenir (p. 76-77, 82-83). Le *Gladstone Report* souligne l'inquiétude des chercheurs concernant la manipulation de l'opinion publique (p. 35, 43, Annexe F) et propose des systèmes de détection en amont (p. 273). La loi européenne sur l’IA interdit le déploiement de modèles d'IA utilisant des techniques de désinformation et reconnaît les risques liés aux *deepfakes* (*Recitals* 132 et 133).
 
-Le rapport français sous-estime ces risques. Sa principale solution, la labellisation des contenus générés par IA, est insuffisante et techniquement inachevée (ISR p. 77), alors même que les risques liés à la désinformation en ligne sont désormais bien documentés et pourraient se voir rapidement amplifiés avec l'IA générative (voir [section 3.2.4](\#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)).
+Le rapport français sous-estime ces risques. Sa principale solution, la labellisation des contenus générés par IA, est insuffisante et techniquement inachevée (ISR p. 77), alors même que les risques liés à la désinformation en ligne sont désormais bien documentés et pourraient se voir rapidement amplifiés avec l'IA générative (voir [section 3.2.4](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)).
 
-#### 3.5.2.4 Confidentialité des données {#3.5.2.4-confidentialité-des-données}
+#### **3.5.2.4 Confidentialité des données** {#3.5.2.4-confidentialité-des-données}
 
 L'*ISR* souligne que les modèles de langage actuels sont peu sécurisés et peuvent divulguer des informations confidentielles (p. 60-61), précisant qu'aucune technique n'est connue pour empêcher totalement ces fuites (p. 81-82). La loi européenne sur l’IA ordonne aux développeurs de rendre leurs modèles plus sûrs (Article 15).
 
-Le rapport français ne traite pas sérieusement cette question. Au contraire, il suggère d'adapter la CNIL pour permettre une utilisation plus large des données d'utilisateurs, sans reconnaître l'absence de solution technique pour garantir leur confidentialité (voir [section 3.4.3](\#3.4.3-proposition-controversée-sur-l'accès-aux-données)).
+Le rapport français ne traite pas sérieusement cette question. Au contraire, il suggère d'adapter la CNIL pour permettre une utilisation plus large des données d'utilisateurs, sans reconnaître l'absence de solution technique pour garantir leur confidentialité (voir [section 3.4.3](#3.4.3-proposition-controversée-sur-l'accès-aux-données)).
 
-#### 3.5.2.5 Autres risques non traités {#3.5.2.5-autres-risques-non-traités}
+#### **3.5.2.5 Autres risques non traités** {#3.5.2.5-autres-risques-non-traités}
 
-Le rapport français omet plusieurs risques importants :
+Le rapport français omet plusieurs risques importants :
 
 * L'escalade des conflits internationaux due à une course à l'armement en IA (*Gladstone Report* p. 19, 85).  
 * La création et la mise à disposition du public de capacités de création d'armes autonomes (*Gladstone Report* p. 84, *ISR* p. 12, 16).  
@@ -690,13 +675,13 @@ Le *Gladstone Report* préconise la mise en place d'une Agence Internationale de
 
 Cette comparaison montre que le rapport français ne traite pas de manière adéquate de nombreux risques liés au développement de l'IA, contrairement aux initiatives internationales qui adoptent une approche plus complète et prudente.
 
-### 3.5.3 Les risques traités superficiellement {#3.5.3-les-risques-traités-superficiellement}
+### **3.5.3 Les risques traités superficiellement** {#3.5.3-les-risques-traités-superficiellement}
 
 Le rapport de la Commission française n'aborde en profondeur que deux catégories de risques, non catastrophiques. Malgré leur importance, le traitement reste insuffisant comparé aux autres rapports internationaux.
 
-#### 3.5.3.1 Pertes d'emploi {#3.5.3.1-pertes-d'emploi}
+#### **3.5.3.1 Pertes d'emploi** {#3.5.3.1-pertes-d'emploi}
 
-Le rapport consacre 7 pages à la question de la perte d'emploi, en faisant le risque le plus discuté. Cependant, comme détaillé dans la [section 3.3.2.1](\#3.3.2.1-emploi), l'analyse présente plusieurs faiblesses :
+Le rapport consacre 7 pages à la question de la perte d'emploi, en faisant le risque le plus discuté. Cependant, comme détaillé dans la [section 3.3.2.1](#3.3.2.1-emploi), l'analyse présente plusieurs faiblesses :
 
 * Les données présentées suggèrent que peu d'études ont été réalisées.  
 * Les résultats sont mitigés et ne suggèrent pas un effet positif évident de l'IA sur l'emploi.  
@@ -707,20 +692,20 @@ En contraste, l'*ISR* adopte une approche plus prudente, notant l'incertitude et
 
 L'*Executive Order* américain va plus loin en demandant à son administration de préparer un rapport spécifique sur les conséquences de l'IA sur le marché du travail, et de proposer des solutions aux risques identifiés.
 
-#### 3.5.3.2 Impact environnemental {#3.5.3.2-impact-environnemental}
+#### **3.5.3.2 Impact environnemental** {#3.5.3.2-impact-environnemental}
 
 Malgré un effort réel d'estimation, le rapport de la Commission minimise l'impact environnemental de l'IA. Il adopte une approche qui manque de rigueur scientifique en considérant l'impact de l'IA comme nécessairement positif, ce qui lui permet de le comparer favorablement en regard de son coût environnemental.
 
-En revanche, l'*ISR* consacre deux pages à une discussion plus approfondie et arrive à une conclusion radicalement différente (p. 59-60) :
+En revanche, l'*ISR* consacre deux pages à une discussion plus approfondie et arrive à une conclusion radicalement différente (p. 59-60) :
 
 * Malgré les incitations à rendre les modèles plus économiques en énergie, l'augmentation de la demande excède largement les améliorations dans l'efficacité des entraînements.  
 * Les entraînements des modèles d'IA augmentent très rapidement en taille et en nombre, ce qui accroît leur impact environnemental.
 
 Il est important de souligner que si l'IA peut potentiellement offrir des solutions aux problèmes environnementaux dans le futur, ces bénéfices restent pour le moment purement spéculatifs, et ne pourront être obtenus que si l'on parvient à éviter les risques sous-estimés par le rapport de la Commission. En revanche, les coûts environnementaux actuels sont bien réels et considérables.
 
-Par exemple, l'entraînement de GPT-3 aurait consommé autant d'électricité que 100 foyers en un an [\[151\]](https://paperpile.com/c/Lj1YHA/UeWy). Le fonctionnement de ChatGPT nécessite autant d'énergie qu'une petite ville [\[152\]](https://paperpile.com/c/Lj1YHA/aMGb). Les centres de données qui hébergent ces modèles consomment des millions de litres d'eau par jour pour leur refroidissement, parfois au détriment des ressources en eau potable locales [\[153\]](https://paperpile.com/c/Lj1YHA/hOuv). De plus, la production et le remplacement fréquent du matériel informatique nécessaire impliquent l'utilisation de nombreux produits chimiques toxiques [\[154\], \[155\]](https://paperpile.com/c/Lj1YHA/h2qu+ztrX) et contribuent à l'épuisement des ressources naturelles.
+Par exemple, l'entraînement de GPT-3 aurait consommé autant d'électricité que 100 foyers en un an [\[154\]](#bookmark=id.3m3nudhas6q4). Le fonctionnement de ChatGPT nécessite autant d'énergie qu'une petite ville [\[155\]](#bookmark=id.hkv016xdmyxj). Les centres de données qui hébergent ces modèles consomment des millions de litres d'eau par jour pour leur refroidissement, parfois au détriment des ressources en eau potable locales [\[156\]](#bookmark=id.5i226h7xc2z5). De plus, la production et le remplacement fréquent du matériel informatique nécessaire impliquent l'utilisation de nombreux produits chimiques toxiques [\[157\]](#bookmark=id.94ft1zxi2j1w), [\[158\]](#bookmark=id.dg2ze0djxqcq) et contribuent à l'épuisement des ressources naturelles.
 
-### 3.5.4 Conclusion {#3.5.4-conclusion}
+### **3.5.4 Conclusion** {#3.5.4-conclusion}
 
 N'envisageant pas de scénarios crédibles et pluriels pour le développement de l'IA, la Commission ne propose logiquement pas de réponses concrètes pour faire face aux défis potentiels.
 
@@ -728,24 +713,26 @@ La mission confiée par le gouvernement à la Commission est cruciale et survien
 
 L'approche de la Commission contraste fortement avec les résolutions co-signées par la France lors du sommet de Bletchley, ce qui ne peut qu’affecter sa crédibilité internationale sur les questions d'IA. Cela réduit également nos chances d'anticiper et de prévenir les risques les plus importants liés au développement rapide de l'intelligence artificielle.
 
-# 4 Analyse de la composition de la Commission de l’IA {#4-analyse-de-la-composition-de-la-commission-de-l’ia}
+# 
+
+# **4 Analyse de la composition de la Commission de l’IA** {#4-analyse-de-la-composition-de-la-commission-de-l’ia}
 
 Dans un contexte où l'IA soulève des enjeux sociétaux majeurs, l'impartialité des instances guidant les politiques publiques est impérative. Comme nous l'avons montré dans la partie précédente, le rapport de la Commission de l'IA présente des omissions sur les risques et un enthousiasme marqué pour l'open source. Ces positions coïncident fortement avec les intérêts de certaines entreprises représentées au sein de la Commission, notamment Meta et Mistral, ce qui soulève des questions légitimes sur la composition de la Commission et son influence sur les recommandations produites.
 
 Cette section vise à mettre en lumière les dysfonctionnements dans la composition de la Commission qui pourraient expliquer les lacunes du rapport. Nous examinerons le manque de diversité, les conflits d'intérêts majeurs et les actions controversées de certains membres, soulignant l'importance d'une composition plus neutre pour des recommandations plus équilibrées.
 
-**Points clés à retenir :**
+**Points clés à retenir :**
 
 - Une surreprésentation significative de l'industrie par rapport aux experts indépendants, notamment en éthique et sécurité de l'IA.  
 - Des conflits d'intérêts majeurs chez plusieurs membres influents, liés à des géants technologiques américains et start-ups d'IA.  
 - Des actions de lobbying et des prises de position controversées remettant en question l'impartialité du processus.  
 - Ces éléments fournissent une explication potentielle aux lacunes identifiées dans le rapport de la Commission.
 
-## 4.1 Manque de diversité {#4.1-manque-de-diversité}
+## **4.1 Manque de diversité** {#4.1-manque-de-diversité}
 
 La composition d'une Commission chargée d'élaborer des recommandations sur l'IA influence directement la qualité et l'exhaustivité de ses conclusions. La présence d'experts en éthique et en sécurité de l'IA est particulièrement importante, car ces disciplines se penchent spécifiquement sur les impacts sociétaux et les risques liés à cette technologie.
 
-Pour analyser la composition de la Commission, nous avons choisi de nous concentrer sur des axes qui nous semblaient particulièrement pertinents : la représentation de l'industrie par rapport au monde académique, les représentants de la société civile, et la présence d'experts en éthique et en sécurité de l'IA. Cette catégorisation s'est basée sur les affiliations principales de chaque membre au moment de la Commission. Une description détaillée de la méthodologie est disponible en annexe.
+Pour analyser la composition de la Commission, nous avons choisi de nous concentrer sur des axes qui nous semblaient particulièrement pertinents : la représentation de l'industrie par rapport au monde académique, les représentants de la société civile, et la présence d'experts en éthique et en sécurité de l'IA. Cette catégorisation s'est basée sur les affiliations principales de chaque membre au moment de la Commission. Une description détaillée de la méthodologie est disponible en annexe.
 
 ![][image4]
 
@@ -753,19 +740,13 @@ Pour analyser la composition de la Commission, nous avons choisi de nous concent
 
 Ce graphique illustre clairement la surreprésentation du secteur privé par rapport au monde académique, ainsi que l'absence d'experts en sécurité de l'IA et la sous-représentation des spécialistes en éthique de l'IA.
 
-\[Encart\]  
-**Éthique et sécurité de l’IA**
-
-Bien que la distinction entre éthique et sécurité de l'IA soit parfois contestée, elle est utile pour notre analyse. Nous définissons l'éthique de l'IA comme la discipline examinant les implications morales et sociétales de l'IA, en établissant des principes pour son développement et son utilisation responsables, tandis que la sécurité de l’IA vise à développer des systèmes d'intelligence artificielle sûrs et fiables, en minimisant les risques de dommages non intentionnels.  
-\[Fin Encart\]
-
-Cette composition déséquilibrée a des implications directes sur les lacunes du rapport :
+Cette composition déséquilibrée a des implications directes sur les lacunes du rapport :
 
 1. L'absence totale d'experts en sécurité de l'IA explique en partie l'omission des risques les plus sévères et le manque d'anticipation des progrès futurs.  
 2. La sous-représentation des experts en éthique contribue à la minimisation des risques d’utilisations malveillantes.  
 3. La surreprésentation de l'industrie, dont les intérêts penchent vers moins de régulation, renforce ces tendances.
 
-Dans un entretien [\[156\]](https://paperpile.com/c/Lj1YHA/B6gi4), Anne Bouverot, co-présidente de la Commission, justifie la forte présence de l'industrie par le fait que la majorité de l'innovation en IA provient du secteur privé. Cependant, cet argument ne tient pas compte de la nature transversale de l'IA et de ses impacts sociétaux qui dépassent largement le cadre de l'innovation technologique.
+Dans un entretien [\[159\]](#bookmark=id.e1nnk7tt71ie), Anne Bouverot, co-présidente de la Commission, justifie la forte présence de l'industrie par le fait que la majorité de l'innovation en IA provient du secteur privé. Cependant, cet argument ne tient pas compte de la nature transversale de l'IA et de ses impacts sociétaux qui dépassent largement le cadre de l'innovation technologique.
 
 Nous déplorons également le manque de transparence de la Commission concernant les experts consultés durant le processus. Aucun des experts en sécurité de l'IA que nous avons nous-mêmes consultés n'avait été approché par la Commission.
 
@@ -773,7 +754,7 @@ Pour une Commission plus équilibrée et à même de produire des recommandation
 
 L'absence de certains types d'experts (spécialistes de l'alignement, chercheurs en sécurité de l'IA) est particulièrement préoccupante. Bien que la présence de figures éminentes de l'industrie comme Yann LeCun soit compréhensible, il est essentiel d'assurer un équilibre des perspectives. Par analogie, une Commission sur l'énergie incluant des représentants de l'industrie pétrolière devrait également intégrer des experts en environnement et en énergies renouvelables. De même, une Commission sur l'IA devrait inclure des experts en sécurité et en éthique de l'IA pour contrebalancer les perspectives de l'industrie.
 
-## 4.2 Conflits d’intérêts {#4.2-conflits-d’intérêts}
+## **4.2 Conflits d’intérêts** {#4.2-conflits-d’intérêts}
 
 Les conflits d'intérêts au sein d'une Commission chargée de guider les politiques publiques sont toujours préoccupants, mais ils prennent une dimension particulière dans le domaine de l'intelligence artificielle. Un conflit d'intérêts survient lorsqu'un individu est en position d'exploiter sa capacité professionnelle ou officielle d'une manière qui pourrait bénéficier à ses intérêts personnels ou corporatifs au détriment de l'intérêt général.
 
@@ -781,82 +762,65 @@ L'IA, en tant que technologie transversale, impacte un large éventail de secteu
 
 Notre analyse se concentre sur les conflits les plus prononcés, impliquant les représentants des entreprises créatrices de modèles d'IA, qui seraient les plus directement impactés par d'éventuelles régulations. Nous avons également considéré les efforts de lobbying anti-régulation, notamment de Meta, Microsoft, Google et Mistral, pour identifier les cas où les intérêts personnels ou corporatifs pourraient influencer les recommandations de la Commission.
 
-Activités de lobbying des entreprises concernées :
+Activités de lobbying des entreprises concernées :
 
-1. Meta (anciennement Facebook) déploie des efforts massifs et une stratégie coordonnée pour influencer la régulation de l'IA. En 2023, l'entreprise a investi 14,6 millions de dollars en lobbying direct auprès du Congrès américain et de l'administration Biden sur l'IA [\[157\]](https://paperpile.com/c/Lj1YHA/ftanT). Meta finance l'American Edge Project, un groupe de pression qualifié de « chien d'attaque anti-réglementaire de Facebook » [\[158\]](https://paperpile.com/c/Lj1YHA/ndi0m), qui a reçu 85,5 millions de dollars entre 2019 et 2022\. Ce groupe a dépensé plus de 150 000 dollars en publicités Facebook contre la régulation de l'IA entre février et juin 2024 [\[159\]](https://paperpile.com/c/Lj1YHA/iNmFA).  
-2. Google investit des ressources considérables dans le lobbying contre la régulation de l'IA. En 2023, l'entreprise a dépensé 9,2 millions de dollars en lobbying auprès des législateurs américains sur des questions liées à l'IA et à la propriété intellectuelle [\[157\]](https://paperpile.com/c/Lj1YHA/ftanT). L'entreprise soutient que la doctrine du « *fair use* » protège l'IA des infractions au droit d'auteur. Google s'oppose activement à la proposition de loi californienne SB 1047 visant à réguler l'IA [\[160\]](https://paperpile.com/c/Lj1YHA/tpjc7), tout comme d'autres géants technologiques.   
-3. Mistral AI a joué un rôle crucial dans le lobbying contre la loi européenne sur l’IA [\[161\]](https://paperpile.com/c/Lj1YHA/RWuwK). L'entreprise a rapidement obtenu un accès privilégié aux plus hauts niveaux de décision, notamment grâce à Cédric O, son principal lobbyiste et membre de la Commission de l'IA. Ancien secrétaire d'État au Numérique, O a activement fait pression pour diluer les exigences sur les développeurs d'IA à usage général. Ce lobbying intensif a eu pour effet de faire changer la position française au sujet de l'AI Act. (Pour plus de détails sur ce sujet, voir la [section 4.3.1](\#4.3.1-lobbying-de-cédric-o))
+1. Meta (anciennement Facebook) déploie des efforts massifs et une stratégie coordonnée pour influencer la régulation de l'IA. En 2023, l'entreprise a investi 14,6 millions de dollars en lobbying direct auprès du Congrès américain et de l'administration Biden sur l'IA [\[160\]](#bookmark=id.4wmoiha90uz5). Meta finance l'American Edge Project, un groupe de pression qualifié de « chien d'attaque anti-réglementaire de Facebook » [\[161\]](#bookmark=id.wov649x6k9vu), qui a reçu 85,5 millions de dollars entre 2019 et 2022\. Ce groupe a dépensé plus de 150 000 dollars en publicités Facebook contre la régulation de l'IA entre février et juin 2024 [\[162\]](#bookmark=id.eeofywprz16s).  
+2. Google investit des ressources considérables dans le lobbying contre la régulation de l'IA. En 2023, l'entreprise a dépensé 9,2 millions de dollars en lobbying auprès des législateurs américains sur des questions liées à l'IA et à la propriété intellectuelle [\[160\]](#bookmark=id.4wmoiha90uz5). L'entreprise soutient que la doctrine du « *fair use* » protège l'IA des infractions au droit d'auteur. Google s'oppose activement à la proposition de loi californienne SB 1047 visant à réguler l'IA [\[163\]](#bookmark=id.qbmrbrgcx74f), tout comme d'autres géants technologiques.   
+3. Mistral AI a joué un rôle crucial dans le lobbying contre la loi européenne sur l’IA [\[164\]](#bookmark=id.w6vvc88941rm). L'entreprise a rapidement obtenu un accès privilégié aux plus hauts niveaux de décision, notamment grâce à Cédric O, son principal lobbyiste et membre de la Commission de l'IA. Ancien secrétaire d'État au Numérique, O a activement fait pression pour diluer les exigences sur les développeurs d'IA à usage général. Ce lobbying intensif a eu pour effet de faire changer la position française au sujet de l'AI Act. (Pour plus de détails sur ce sujet, voir la [section 4.3.1](#4.3.1-lobbying-de-cédric-o))
 
-Sur cette base, nous avons identifié les personnes suivantes pour une analyse approfondie de leurs potentiels conflits d'intérêts : Yann LeCun (Meta), Arthur Mensch (Mistral), Cédric O (Mistral), Joelle Barral (Google).
+Sur cette base, nous avons identifié les personnes suivantes pour une analyse approfondie de leurs potentiels conflits d'intérêts : Yann LeCun (Meta), Arthur Mensch (Mistral), Cédric O (Mistral), Joelle Barral (Google).
 
 Dans les sections suivantes, nous examinerons en détail les conflits d'intérêts potentiels de ces membres de la Commission, en analysant comment leur affiliation à ces entreprises pourrait influencer leurs positions et recommandations. Nous considérons uniquement les conflits d'intérêts pendant la durée d’exercice de la commission, c'est-à-dire entre septembre 2023 et mars 2024\.
 
 *Une liste complète des activités professionnelles de tous les membres de la Commission est disponible en annexe.*
 
-### 4.2.1 Yann LeCun {#4.2.1-yann-lecun}
+### **4.2.1 Yann LeCun** {#4.2.1-yann-lecun}
 
-* Vice président & scientifique en chef de l'IA chez Meta (anciennement Facebook).  
+* Vice-président & scientifique en chef de l'IA chez Meta (anciennement Facebook).  
 * Cofondateur, conseiller à Element Inc. Entreprise R\&D de reconnaissance biométrique qui s'associe à des institutions financières, des gouvernements et des organismes de santé pour transformer la manière dont ils fournissent des services.
 
-Yann LeCun est une figure emblématique dans le domaine de l'intelligence artificielle. Lauréat du prestigieux prix Turing en 2018, souvent considéré comme un équivalent du prix Nobel en informatique, il est également membre de l'Académie des sciences française [\[162\]](https://paperpile.com/c/Lj1YHA/gf3in) et Chevalier de la Légion d'honneur [\[163\]](https://paperpile.com/c/Lj1YHA/tkQdm). Ces distinctions témoignent de l'importance de ses contributions scientifiques et de sa reconnaissance au plus haut niveau de la communauté scientifique et de l'État français.
+Yann LeCun est une figure emblématique dans le domaine de l'intelligence artificielle. Lauréat du prestigieux prix Turing en 2018, souvent considéré comme un équivalent du prix Nobel en informatique, il est également membre de l'Académie des sciences française [\[165\]](#bookmark=id.lg407pannmzc) et Chevalier de la Légion d'honneur [\[166\]](#bookmark=id.nyz7ixwsjj99). Ces distinctions témoignent de l'importance de ses contributions scientifiques et de sa reconnaissance au plus haut niveau de la communauté scientifique et de l'État français.
 
-L'influence de LeCun s'étend bien au-delà du monde académique. Avec plus de 800 000 *followers* sur Twitter [\[164\]](https://paperpile.com/c/Lj1YHA/g5AVP) et 782 000 sur LinkedIn [\[165\]](https://paperpile.com/c/Lj1YHA/F5vQ3), sa voix est prédominante dans le débat public sur l'IA. Sa présence médiatique est considérable, avec des centaines d'apparitions et mentions dans les médias en 2023\. Cette influence a été reconnue par le magazine TIME, qui l'a inclus dans sa liste « Time 100 AI » [\[166\]](https://paperpile.com/c/Lj1YHA/acMlG) des personnes les plus influentes dans le monde de l'IA. Son rayonnement atteint les sphères politiques et économiques les plus élevées, comme en témoignent ses rencontres avec le Président Emmanuel Macron [\[167\]](https://paperpile.com/c/Lj1YHA/k8zoF) et sa participation au Forum économique mondial de Davos [\[168\]](https://paperpile.com/c/Lj1YHA/HnbpL). Cette stature exceptionnelle dans les milieux scientifiques, médiatiques et politiques suggère que les opinions de LeCun pourraient avoir un poids significatif au sein de la Commission.
+L'influence de LeCun s'étend bien au-delà du monde académique. Avec plus de 800 000 *followers* sur Twitter [\[167\]](#bookmark=id.jmokngge9d2x) et 782 000 sur LinkedIn [\[168\]](#bookmark=id.cuirakg6puxq), sa voix est prédominante dans le débat public sur l'IA. Sa présence médiatique est considérable, avec des centaines d'apparitions et mentions dans les médias en 2023\. Cette influence a été reconnue par le magazine TIME, qui l'a inclus dans sa liste « Time 100 AI » [\[169\]](#bookmark=id.8vn3a7jrk5kl) des personnes les plus influentes dans le monde de l'IA. Son rayonnement atteint les sphères politiques et économiques les plus élevées, comme en témoignent ses rencontres avec le Président Emmanuel Macron [\[170\]](#bookmark=id.u0epm5ckaph) et sa participation au Forum économique mondial de Davos [\[171\]](#bookmark=id.s4p37bnyos3h). Cette stature exceptionnelle dans les milieux scientifiques, médiatiques et politiques suggère que les opinions de LeCun pourraient avoir un poids significatif au sein de la Commission.
 
 Malgré son expertise incontestable, la présence de Yann LeCun au sein de la Commission soulève des questions importantes quant aux conflits d'intérêts potentiels. En effet, LeCun occupe actuellement le poste de Vice-Président et Directeur Scientifique en IA chez Meta (anciennement Facebook), une entreprise américaine qui a été au cœur de nombreux scandales éthiques majeurs ces dernières années. 
 
-\[Encart\]  
-**L'éthique contestable de Meta**
+Il décrit lui-même son rôle comme étant « focalisé sur la direction scientifique, la stratégie IA, et l'évangélisation externe » [\[172\]](#bookmark=id.1otru3b2xh56). Or, Meta développe activement des modèles d'IA à la frontière technologique, précisément le type de modèles dont le développement rapide est considéré comme risqué par de nombreux experts. De plus, Meta promeut l'approche open source pour ses modèles d'IA, une stratégie qui soulève des inquiétudes en termes de sécurité et de contrôle (voir [section 3.3.2.3](#3.3.2.3-open-source)). LeCun est également cofondateur et conseiller d'Element Inc., une entreprise spécialisée dans la reconnaissance biométrique, ce qui ajoute une couche supplémentaire de conflit potentiel, notamment sur les questions de protection de la vie privée et d'éthique liées à ces technologies.
 
-Meta (anciennement Facebook) a été au cœur de plusieurs scandales éthiques majeurs :
+Il est également important de noter que LeCun est connu pour ses opinions controversées sur les risques liés à l'IA et pour sa tendance à recourir à des attaques *ad hominem* envers ses opposants. Il a notamment qualifié de membres d'une « secte apocalyptique » [\[173\]](#bookmark=id.t6fh2njz21x0) ceux qui ne partagent pas sa vision optimiste des dangers de l'IA, y compris ses co-lauréats du prix Turing, Yoshua Bengio et Geoffrey Hinton. Cette attitude soulève des questions quant à sa capacité à considérer objectivement les risques de l'IA dans le cadre de son rôle au sein de la Commission.
 
-1. Le scandale Cambridge Analytica (2018) [\[169\]](https://paperpile.com/c/Lj1YHA/3fZhR) a révélé l'exploitation massive de données personnelles de millions d'utilisateurs à des fins de manipulation politique.  
-2. Les « *Facebook Files* » (2021) [\[170\]](https://paperpile.com/c/Lj1YHA/HDudm), une enquête du Wall Street Journal basée sur des documents internes, ont exposé de nombreuses pratiques antisociales de l'entreprise, notamment :  
-   1. L'amplification algorithmique de contenus toxiques et de désinformation.  
-   2. L'aggravation des problèmes de santé mentale, particulièrement chez les adolescents.  
-   3. Le laxisme face au trafic de drogue, au trafic d'êtres humains et aux activités mafieuses sur ses plateformes.  
-3. Amnesty International a accusé Meta d'avoir contribué au génocide des Rohingyas en Birmanie [\[84\]](https://paperpile.com/c/Lj1YHA/0uKTV) et à la violence ethnique en Éthiopie [\[171\]](https://paperpile.com/c/Lj1YHA/oCtVe), en amplifiant massivement des appels à la violence sur ses plateformes.
-
-Ces révélations suggèrent que Meta a souvent privilégié la croissance et les profits au détriment de la sécurité des utilisateurs [\[172\]](https://paperpile.com/c/Lj1YHA/hqNLu). Dans le contexte de l'IA, Meta, disposant d'immenses bases de données et de ressources informatiques, a un intérêt évident à limiter la régulation.
-
-Yann LeCun, occupant un poste de direction stratégique durant ces scandales, a systématiquement défendu l'entreprise [\[172\], \[173\], \[174\]](https://paperpile.com/c/Lj1YHA/eA6y4+LqltH+hqNLu), soulevant des questions sur sa capacité à évaluer objectivement les risques éthiques de l'IA au sein de la Commission.  
-\[Fin Encart\] 
-
-Il décrit lui-même son rôle comme étant « focalisé sur la direction scientifique, la stratégie IA, et l'évangélisation externe » [\[175\]](https://paperpile.com/c/Lj1YHA/dmWzq). Or, Meta développe activement des modèles d'IA à la frontière technologique, précisément le type de modèles dont le développement rapide est considéré comme risqué par de nombreux experts. De plus, Meta promeut l'approche open source pour ses modèles d'IA, une stratégie qui soulève des inquiétudes en termes de sécurité et de contrôle (voir [section 3.3.2.3](\#3.3.2.3-open-source)). LeCun est également cofondateur et conseiller d'Element Inc., une entreprise spécialisée dans la reconnaissance biométrique, ce qui ajoute une couche supplémentaire de conflit potentiel, notamment sur les questions de protection de la vie privée et d'éthique liées à ces technologies.
-
-Il est également important de noter que LeCun est connu pour ses opinions controversées sur les risques liés à l'IA et pour sa tendance à recourir à des attaques *ad hominem* envers ses opposants. Il a notamment qualifié de membres d'une « secte apocalyptique » [\[176\]](https://paperpile.com/c/Lj1YHA/DaAbQ) ceux qui ne partagent pas sa vision optimiste des dangers de l'IA, y compris ses co-lauréats du prix Turing, Yoshua Bengio et Geoffrey Hinton. Cette attitude soulève des questions quant à sa capacité à considérer objectivement les risques de l'IA dans le cadre de son rôle au sein de la Commission.
-
-### 4.2.2 Arthur Mensch {#4.2.2-arthur-mensch}
+### **4.2.2 Arthur Mensch** {#4.2.2-arthur-mensch}
 
 * Cofondateur et PDG de Mistral AI.
 
 
-Arthur Mensch est cofondateur et PDG de Mistral AI [\[177\]](https://paperpile.com/c/Lj1YHA/bU4DA), une start-up française devenue en peu de temps un leader dans le développement de modèles d'intelligence artificielle générative, notamment open source. En juin 2024, Mistral AI était valorisée à 6 milliards d'euros [\[178\]](https://paperpile.com/c/Lj1YHA/XoKJM), la positionnant comme une « pépite » française face aux géants technologiques américains.
+Arthur Mensch est cofondateur et PDG de Mistral AI [\[174\]](#bookmark=id.ian4c4a0f0w), une start-up française devenue en peu de temps un leader dans le développement de modèles d'intelligence artificielle générative, notamment open source. En juin 2024, Mistral AI était valorisée à 6 milliards d'euros [\[175\]](#bookmark=id.qkx49vo221s), la positionnant comme une « pépite » française face aux géants technologiques américains.
 
-Le conflit d'intérêts de Mensch au sein de la Commission de l'IA est évident :
+Le conflit d'intérêts de Mensch au sein de la Commission de l'IA est évident :
 
 - En tant que PDG, Mensch a un intérêt direct à minimiser la régulation de l'IA pour favoriser le développement rapide de sa start-up.  
-- Mistral AI, sous la direction de Mensch, a activement fait pression contre certaines dispositions de la loi européenne sur l’IA, notamment celles concernant la régulation des modèles de fondation (voir [section 4.3.3](\#4.3.3-arthur-mensch-devant-le-sénat)).  
-- Lors d'une audition au Sénat, Mensch a tenu des propos trompeurs minimisant les risques liés à l'IA et remettant en question la nécessité d'une régulation stricte (voir [section 4.3.3](\#4.3.3-arthur-mensch-devant-le-sénat)).  
+- Mistral AI, sous la direction de Mensch, a activement fait pression contre certaines dispositions de la loi européenne sur l’IA, notamment celles concernant la régulation des modèles de fondation (voir [section 4.3.3](#4.3.3-arthur-mensch-devant-le-sénat)).  
+- Lors d'une audition au Sénat, Mensch a tenu des propos trompeurs minimisant les risques liés à l'IA et remettant en question la nécessité d'une régulation stricte (voir [section 4.3.3](#4.3.3-arthur-mensch-devant-le-sénat)).  
 - Le récent accord avec Microsoft, un acteur majeur de l'IA, soulève des questions sur l'indépendance de Mistral et ses positions futures en matière de régulation.
 
 La présence de Mensch dans la Commission, combinée à ses intérêts commerciaux directs et ses positions publiques, crée un risque significatif que les recommandations de la Commission soient influencées en faveur d'une régulation minimale de l'IA, potentiellement au détriment de considérations éthiques et de sécurité plus larges.
 
-### 4.2.3 Cédric O {#4.2.3-cédric-o}
+### **4.2.3 Cédric O** {#4.2.3-cédric-o}
 
 * Conseiller cofondateur de Mistral AI.  
 * Membre du conseil d'administration d'Artefact.
 
 
-Cédric O, ancien secrétaire d'État au Numérique, présente des conflits d'intérêts significatifs :
+Cédric O, ancien secrétaire d'État au Numérique, présente des conflits d'intérêts significatifs :
 
-1. Rôle chez Mistral AI : Conseiller, cofondateur et principal lobbyiste de Mistral AI. Selon Capital [\[179\]](https://paperpile.com/c/Lj1YHA/U6Q1i), O aurait investi dans Mistral AI via son agence de conseil, un investissement valorisé à 23 millions d'euros en décembre 2023\.  
-2. Changement radical de position : Après avoir défendu des réglementations strictes en tant que secrétaire d'État, O plaide désormais pour une dérégulation de l'IA, alignant ses positions sur les intérêts de Mistral AI.  
-3. O a été au cœur d'un scandale de lobbying contre la loi européenne sur l’IA (voir [section 4.3.1](\#4.3.1-lobbying-de-cédric-o)).  
+1. Rôle chez Mistral AI : Conseiller, cofondateur et principal lobbyiste de Mistral AI. Selon Capital [\[176\]](#bookmark=id.n9poj54v5580), O aurait investi dans Mistral AI via son agence de conseil, un investissement valorisé à 23 millions d'euros en décembre 2023\.  
+2. Changement radical de position : Après avoir défendu des réglementations strictes en tant que secrétaire d'État, O plaide désormais pour une dérégulation de l'IA, alignant ses positions sur les intérêts de Mistral AI.  
+3. O a été au cœur d'un scandale de lobbying contre la loi européenne sur l’IA (voir [section 4.3.1](#4.3.1-lobbying-de-cédric-o)).  
 4. Membre du conseil d'administration d'Artefact, une société de conseil dédiée à l'accélération de l'adoption de l'IA, renforçant son intérêt pour une régulation minimale.
 
-La gravité de ces conflits d'intérêts est soulignée par la décision de la Haute Autorité pour la Transparence de la Vie Publique, **qui a interdit à O, pour une durée de trois ans, de faire du lobbying auprès du gouvernement** ou de détenir des actions dans des entreprises technologiques [\[180\]](https://paperpile.com/c/Lj1YHA/H5hyT)*.*
+La gravité de ces conflits d'intérêts est soulignée par la décision de la Haute Autorité pour la Transparence de la Vie Publique, **qui a interdit à O, pour une durée de trois ans, de faire du lobbying auprès du gouvernement** ou de détenir des actions dans des entreprises technologiques [\[177\]](#bookmark=id.41ez9xxsv1ax)*.*
 
-### 4.2.4 Joëlle Barral {#4.2.4-joëlle-barral}
+### **4.2.4 Joëlle Barral** {#4.2.4-joëlle-barral}
 
 * Directrice principale de la recherche et de l'ingénierie chez Google DeepMind.  
 * Directrice de l'ingénierie chez Google.
@@ -865,108 +829,110 @@ Google DeepMind, filiale de Google, est l'un des leaders mondiaux dans le dével
 
 Les positions de Barral soulèvent des questions de conflits d'intérêts potentiels. En tant que représentante de Google et DeepMind, elle pourrait être incitée à favoriser des politiques bénéficiant à ces entreprises. Étant donné les efforts de lobbying de Google contre la régulation de l'IA, sa présence dans la Commission pourrait influencer les recommandations dans un sens favorable à l'industrie. Son double rôle pourrait ainsi compromettre son impartialité dans l'évaluation des risques et bénéfices de l'IA avancée.
 
-## 4.3 Actions et opinions controversées {#4.3-actions-et-opinions-controversées}
+## **4.3 Actions et opinions controversées** {#4.3-actions-et-opinions-controversées}
 
 Certains membres de la Commission ont été impliqués dans des actions ou ont exprimé des opinions qui soulèvent des questions quant à leur impartialité et leur capacité à évaluer objectivement les enjeux liés à l'IA. Ces controverses, détaillées ci-dessous, mettent en lumière des positions potentiellement biaisées en faveur d'un développement peu régulé de l'IA, au détriment d'une approche plus prudente prenant en compte les risques.
 
-Les actions et opinions controversées que nous avons retenues incluent :
+Les actions et opinions controversées que nous avons retenues incluent :
 
-1. **Lobbying de Cédric O :** L'ancien secrétaire d'État au Numérique, devenu conseiller de Mistral AI, a été accusé de conflit d'intérêts dans son opposition à la loi européenne sur l’IA.  
-2. **Lettre au Sénat Américain :** Yann LeCun et Arthur Mensch ont signé une lettre faisant la promotion de l'open source et contenant des affirmations scientifiquement erronées.  
-3. **Déclarations d'Arthur Mensch devant le Sénat :** Lors d'une audition, le cofondateur de Mistral AI a tenu des propos trompeurs sur le contrôle des modèles d'IA et la régulation du secteur.
+1. **Lobbying de Cédric O :** L'ancien secrétaire d'État au Numérique, devenu conseiller de Mistral AI, a été accusé de conflit d'intérêts dans son opposition à la loi européenne sur l’IA.  
+2. **Lettre au Sénat Américain :** Yann LeCun et Arthur Mensch ont signé une lettre faisant la promotion de l'open source et contenant des affirmations scientifiquement erronées.  
+3. **Déclarations d'Arthur Mensch devant le Sénat :** Lors d'une audition, le cofondateur de Mistral AI a tenu des propos trompeurs sur le contrôle des modèles d'IA et la régulation du secteur.
 
-### 4.3.1 Lobbying de Cédric O {#4.3.1-lobbying-de-cédric-o}
+### **4.3.1 Lobbying de Cédric O** {#4.3.1-lobbying-de-cédric-o}
 
-#### 4.3.1.1 Contexte {#4.3.1.1-contexte}
+#### **4.3.1.1 Contexte** {#4.3.1.1-contexte}
 
 Cédric O, ancien secrétaire d'État au Numérique et membre de la Commission de l'IA, a joué un rôle clé dans l'élaboration de réglementations européennes rigoureuses comme le Digital Services Act et le Digital Markets Act. Après son mandat, il est devenu conseiller, cofondateur et principal lobbyiste de Mistral AI, une start-up française d'intelligence artificielle.
 
-#### 4.3.1.2 Actions controversées {#4.3.1.2-actions-controversées}
+#### **4.3.1.2 Actions controversées** {#4.3.1.2-actions-controversées}
 
-Depuis son arrivée chez Mistral AI, O a radicalement changé de position, plaidant pour une dérégulation de l'intelligence artificielle. En octobre 2023, il affirme [\[181\]](https://paperpile.com/c/Lj1YHA/PxyG8) que la loi européenne sur l’IA pourrait « tuer » son entreprise. Selon Médiapart, il aurait réussi à influencer le gouvernement pour qu'il adopte cette nouvelle approche [\[182\], \[183\], \[184\]](https://paperpile.com/c/Lj1YHA/6IKUx+OO4Rb+rZCYl). Il est considéré comme l'architecte principal de l'opposition française à la loi européenne sur l’IA [\[185\], \[186\], \[187\]](https://paperpile.com/c/Lj1YHA/GnZjX+74936+ntOaI).
+Depuis son arrivée chez Mistral AI, O a radicalement changé de position, plaidant pour une dérégulation de l'intelligence artificielle. En octobre 2023, il affirme [\[178\]](#bookmark=id.t2kubzn7nrk2) que la loi européenne sur l’IA pourrait « tuer » son entreprise. Selon Médiapart, il aurait réussi à influencer le gouvernement pour qu'il adopte cette nouvelle approche [\[179\]](#bookmark=id.50y5l8trwoea), [\[180\]](#bookmark=id.5tqic6cgytv8), [\[181\]](#bookmark=id.6mnihophzfkg). Il est considéré comme l'architecte principal de l'opposition française à la loi européenne sur l’IA [\[182\]](#bookmark=id.esprnfc0hmzq), [\[183\]](#bookmark=id.tmmfrgpyjljx), [\[184\]](#bookmark=id.3tewdxqgg5gt).
 
-O a notamment organisé une lettre ouverte [\[188\]](https://paperpile.com/c/Lj1YHA/qHtyl) signée par plus de 150 dirigeants d'entreprises, dont plusieurs membres de la Commission de l'IA, mettant en garde contre une réglementation trop stricte des modèles de fondation. Avec l'appui de l'Allemagne et de l'Italie, la France s'est opposée à toute règle contraignante pour les fournisseurs de modèles de fondation [\[189\]](https://paperpile.com/c/Lj1YHA/sRr9O).
+O a notamment organisé une lettre ouverte [\[185\]](#bookmark=id.kk5fj3gvojv0) signée par plus de 150 dirigeants d'entreprises, dont plusieurs membres de la Commission de l'IA, mettant en garde contre une réglementation trop stricte des modèles de fondation. Avec l'appui de l'Allemagne et de l'Italie, la France s'est opposée à toute règle contraignante pour les fournisseurs de modèles de fondation [\[186\]](#bookmark=id.6pfjugg5fo2u).
 
-Catherine Morin-Desailly, vice-présidente de la Commission des Affaires Européennes, a déclaré : « O n'a pas déclaré Mistral auprès de la Haute Autorité pour la Transparence de la Vie Publique, qui l'avait déjà mis en garde de ne pas se faire embaucher par Atos ou toutes autres sociétés technologiques. » [\[187\]](https://paperpile.com/c/Lj1YHA/ntOaI)
+Catherine Morin-Desailly, vice-présidente de la Commission des Affaires Européennes, a déclaré : « O n'a pas déclaré Mistral auprès de la Haute Autorité pour la Transparence de la Vie Publique, qui l'avait déjà mis en garde de ne pas se faire embaucher par Atos ou toutes autres sociétés technologiques. » [\[184\]](#bookmark=id.3tewdxqgg5gt)
 
-#### 4.3.1.3 Réactions et critiques {#4.3.1.3-réactions-et-critiques}
+#### **4.3.1.3 Réactions et critiques** {#4.3.1.3-réactions-et-critiques}
 
-Ce revirement a suscité de vives critiques. Le député Philippe Latombe a exprimé ses inquiétudes : « Le fait que la Haute Autorité ait demandé à Cédric O de déclarer toutes ses prises de participations dans le secteur de la tech soulève des questions sur son actionnariat au sein de Mistral et, par conséquent, au sein du Comité pour l'intelligence artificielle générative. » [\[187\]](https://paperpile.com/c/Lj1YHA/ntOaI)
+Ce revirement a suscité de vives critiques. Le député Philippe Latombe a exprimé ses inquiétudes : « Le fait que la Haute Autorité ait demandé à Cédric O de déclarer toutes ses prises de participations dans le secteur de la tech soulève des questions sur son actionnariat au sein de Mistral et, par conséquent, au sein du Comité pour l'intelligence artificielle générative. » [\[184\]](#bookmark=id.3tewdxqgg5gt)
 
-Le commissaire européen Thierry Breton a également critiqué cette position, déclarant que Cédric O défendait « tout sauf l'intérêt général » [\[190\]](https://paperpile.com/c/Lj1YHA/pTkWF).
+Le commissaire européen Thierry Breton a également critiqué cette position, déclarant que Cédric O défendait « tout sauf l'intérêt général » [\[187\]](#bookmark=id.m96w9h369bw6).
 
-Face à ces accusations, O s'est défendu dans une réponse publique en affirmant : « Je n'ai pas changé de position depuis mes précédentes fonctions » [\[191\]](https://paperpile.com/c/Lj1YHA/awW9Z). Cependant, la Haute Autorité pour la Transparence de la Vie Publique lui a interdit [\[180\]](https://paperpile.com/c/Lj1YHA/H5hyT), pour trois ans, de faire du lobbying auprès du gouvernement ou de détenir des actions dans des entreprises technologiques.
+Face à ces accusations, O s'est défendu dans une réponse publique en affirmant : « Je n'ai pas changé de position depuis mes précédentes fonctions » [\[188\]](#bookmark=id.bfre8md2wisj). Cependant, la Haute Autorité pour la Transparence de la Vie Publique lui a interdit [\[177\]](#bookmark=id.41ez9xxsv1ax), pour trois ans, de faire du lobbying auprès du gouvernement ou de détenir des actions dans des entreprises technologiques.
 
-#### 4.3.1.4 Implications {#4.3.1.4-implications}
+#### **4.3.1.4 Implications** {#4.3.1.4-implications}
 
-Ces controverses soulèvent des questions importantes sur l'impartialité de la Commission de l'IA. Le double rôle de Cédric O, à la fois membre de la Commission et lobbyiste pour une entreprise d'IA, ainsi que son investissement personnel dans Mistral AI (valorisé à 23 millions d'euros en décembre 2023 [\[179\]](https://paperpile.com/c/Lj1YHA/U6Q1i)), créent un conflit d'intérêts très prononcé.
+Ces controverses soulèvent des questions importantes sur l'impartialité de la Commission de l'IA. Le double rôle de Cédric O, à la fois membre de la Commission et lobbyiste pour une entreprise d'IA, ainsi que son investissement personnel dans Mistral AI (valorisé à 23 millions d'euros en décembre 2023 [\[176\]](#bookmark=id.n9poj54v5580)), créent un conflit d'intérêts très prononcé.
 
-### 4.3.2 Lettre au Sénat Américain {#4.3.2-lettre-au-sénat-américain}
+### **4.3.2 Lettre au Président des Etats-Unis** {#4.3.2-lettre-au-président-des-etats-unis}
 
-#### 4.3.2.1 Contexte {#4.3.2.1-contexte}
+#### **4.3.2.1 Contexte** {#4.3.2.1-contexte}
 
-Yann LeCun et Arthur Mensch, membres de la Commission de l'IA, ont co-signé une lettre adressée au Sénat américain et à la Chambre des Lords britannique [\[192\]](https://paperpile.com/c/Lj1YHA/A0EeN), faisant la promotion de l'open source dans le développement de l'IA.
+Yann LeCun et Arthur Mensch, membres de la Commission de l'IA, ont cosigné une lettre adressée au Président Américain Joe Biden au sujet de son *Executive Order* sur l'IA [\[189\]](#bookmark=id.otbs0a3k4lko), faisant la promotion de l'open source dans le développement de l'IA.
 
-#### 4.3.2.2 Affirmation trompeuse {#4.3.2.2-affirmation-trompeuse}
+#### **4.3.2.2 Affirmation trompeuse** {#4.3.2.2-affirmation-trompeuse}
 
-La lettre contient une déclaration scientifiquement erronée :  
-« *Although advocates for AI safety guidelines often allude to the “black box” nature of AI models, where the logic behind their conclusions is not transparent, recent advancements in the AI sector have resolved this issue, thereby ensuring the integrity of open-source code models*. »  
-(« Bien que des partisans de recommandations en sécurité de l’IA fassent souvent allusion à la nature « boîte noire » des modèles en IA, où la logique derrière leurs conclusions n’est pas transparente, des avancées récentes dans le secteur de l’IA ont résolu ce problème, garantissant ainsi l’intégrité des modèles de code en open source. »)
+La lettre contient une déclaration scientifiquement erronée :
 
-Cette affirmation est en contradiction directe avec le consensus scientifique actuel [\[193\], \[194\], \[195\]](https://paperpile.com/c/Lj1YHA/I0Yrf+9wc1E+lXi8c). Bien que notre capacité à analyser certains aspects des modèles d'IA s'améliore, il est incorrect de dire que la question de la nature de « boîte noire » de l'IA a été résolue, même partiellement. Les réseaux de neurones profonds, notamment les modèles de langage, restent opaques, même avec un accès libre à leurs paramètres. Ces modèles, comportant souvent des milliards de paramètres, présentent des interactions complexes non interprétables par les experts. Les outils d'interprétabilité, comme les cadres d'IA explicable, ont permis des avancées, mais nous n'en sommes qu'aux balbutiements de cette discipline. De plus, les récents progrès en IA, en rendant les modèles plus grands et plus complexes, exacerbent ce problème.
+« *Although advocates for AI safety guidelines often allude to the “black box” nature of AI models, where the logic behind their conclusions is not transparent, recent advancements in the AI sector have resolved this issue, thereby ensuring the integrity of open-source code models*. » [\[189\]](#bookmark=id.otbs0a3k4lko).
+
+(« Bien que des partisans de recommandations en sécurité de l’IA fassent souvent allusion à la nature « boîte noire » des modèles en IA, où la logique derrière leurs conclusions n’est pas transparente, des avancées récentes dans le secteur de l’IA ont résolu ce problème, garantissant ainsi l’intégrité des modèles de code en open source. »)
+
+Cette affirmation est également présente, pratiquement au mot près, dans une lettre adressée par le groupe Andreessen Horowitz (a16z), une société de capital-risque à la Chambre des Lords britannique [\[190\]](#bookmark=id.5dql86atttda) et dans une autre lettre de Martin Casado, partenaire de Andreessen Horowitz, adressée au Sénat américain [\[191\]](#bookmark=id.oi69qtl27wnc). Elle est en contradiction directe avec le consensus scientifique actuel [\[192\]](#bookmark=id.d89zke3cstmr), [\[193\]](#bookmark=id.roqll5ckxgoq), [\[194\]](#bookmark=id.sbnf9scfik3r). Bien que notre capacité à analyser certains aspects des modèles d'IA s'améliore, il est incorrect de dire que la question de la nature de « boîte noire » de l'IA a été résolue, même partiellement. Les réseaux de neurones profonds, notamment les modèles de langage, restent opaques, même avec un accès libre à leurs paramètres. Ces modèles, comportant souvent des milliards de paramètres, présentent des interactions complexes non interprétables par les experts. Les outils d'interprétabilité, comme les cadres d'IA explicable, ont permis des avancées, mais nous n'en sommes qu'aux balbutiements de cette discipline. De plus, les récents progrès en IA, en rendant les modèles plus grands et plus complexes, exacerbent ce problème.
 
 Cette déclaration erronée est utilisée pour soutenir l'idée que les modèles open source sont sans danger, une position qui favorise les intérêts des entreprises impliquées.
 
-#### 4.3.2.3 Réactions et critiques {#4.3.2.3-réactions-et-critiques}
+#### **4.3.2.3 Réactions et critiques** {#4.3.2.3-réactions-et-critiques}
 
-De nombreux chercheurs et experts en interprétabilité ont vivement critiqué cette affirmation [\[196\]](https://paperpile.com/c/Lj1YHA/Cbbud). Voici quelques exemples :
+De nombreux chercheurs et experts en interprétabilité ont vivement critiqué cette affirmation [\[195\]](#bookmark=id.jnyr3yb2kk7u). Voici quelques exemples :
 
-* Neel Nanda (Google Deepmind) [\[197\]](https://paperpile.com/c/Lj1YHA/ZC2ss) : « *WTF?\! This is massively against the scientific consensus*. » (« Pardon ?\! C’est absolument contraire au consensus scientifique \! »)  
-* Max Kesin (Meta) : « *it's either deep stupidity/ignorance or more likely a blatant lie in service of their thesis* » (« c’est soit de la stupidité/de l’ignorance, soit plus probablement un mensonge éhonté pour servir leur argumentaire »)  
-* Darren McKee : « *No. And how odd.* » (« Faux. Et comme c’est bizarre \[de dire ça\]. »)
+* Neel Nanda (Google Deepmind) [\[196\]](#bookmark=id.7jy97mqo1nak) : « *WTF?\! This is massively against the scientific consensus*. » (« Pardon ?\! C’est absolument contraire au consensus scientifique \! »)  
+* Max Kesin (Meta) : « *it's either deep stupidity/ignorance or more likely a blatant lie in service of their thesis* » (« c’est soit de la stupidité/de l’ignorance, soit plus probablement un mensonge éhonté pour servir leur argumentaire »)  
+* Darren McKee : « *No. And how odd.* » (« Faux. Et comme c’est bizarre \[de dire ça\]. »)
 
-Martin Casado, l'auteur de la lettre, s'est excusé pour cette déclaration, admettant qu'elle était incorrecte [\[198\]](https://paperpile.com/c/Lj1YHA/goF7W). John Carmack, un des signataires, a reconnu que l'affirmation était « clairement incorrecte » [\[199\]](https://paperpile.com/c/Lj1YHA/2IIps).
+Martin Casado, l'auteur de la lettre, s'est excusé pour cette déclaration, admettant qu'elle était incorrecte [\[197\]](#bookmark=id.2dhk0t9osz22). John Carmack, un des signataires, a reconnu que l'affirmation était « clairement incorrecte » [\[198\]](#bookmark=id.qkn6nm2tls4s).
 
 Cependant, Arthur Mensch et Yann LeCun n'ont pas présenté de réponse ou de rétractation.
 
-#### 4.3.2.4 Implications {#4.3.2.4-implications}
+#### **4.3.2.4 Implications** {#4.3.2.4-implications}
 
-Le fait que ces membres influents de la Commission aient signé une lettre adressée à des instances législatives majeures contenant des affirmations scientifiquement erronées, sans les corriger par la suite, remet en question :
+Le fait que ces membres influents de la Commission aient signé une lettre adressée au président des Etats-Unis contenant des affirmations scientifiquement erronées, sans les corriger par la suite, remet en question :
 
 * La rigueur scientifique des membres de la Commission de l'IA.  
 * Leur capacité à fournir des recommandations éclairées et impartiales.
 
-### 4.3.3 Arthur Mensch devant le Sénat {#4.3.3-arthur-mensch-devant-le-sénat}
+### **4.3.3 Arthur Mensch devant le Sénat** {#4.3.3-arthur-mensch-devant-le-sénat}
 
-#### 4.3.3.1 Contexte {#4.3.3.1-contexte}
+#### **4.3.3.1 Contexte** {#4.3.3.1-contexte}
 
 Le 14 juin 2024, Arthur Mensch, cofondateur et directeur général de Mistral AI, a été auditionné par la Commission des affaires économiques du Sénat, présidée par Dominique Estrosi Sassone. Cette audition visait à mieux comprendre les implications de l'IA pour l'écosystème français et les enjeux de régulation.
 
-#### 4.3.3.2 Déclarations controversées {#4.3.3.2-déclarations-controversées}
+#### **4.3.3.2 Déclarations controversées** {#4.3.3.2-déclarations-controversées}
 
-Au cours de cette audition, Mensch a fait plusieurs déclarations qui soulèvent des questions quant à leur exactitude scientifique et leur honnêteté intellectuelle [\[200\]](https://paperpile.com/c/Lj1YHA/gjOTv) :
+Au cours de cette audition, Mensch a fait plusieurs déclarations qui soulèvent des questions quant à leur exactitude scientifique et leur honnêteté intellectuelle [\[199\]](#bookmark=id.2ty6uuw1tsb9) :
 
-1. « On parle de logiciel, y a pas de changement, c'est un langage de programmation, personne ne se fait contrôler par son langage de programmation ».  
-2. « Il y a rien d'autonome, c'est un logiciel. Quand on écrit ce genre de logiciel, on contrôle toujours ce qu'il va passer et l'ensemble des sorties que le logiciel peut avoir. Il n'y a pas de changement de paradigme ».  
-3. « On donne les outils pour que les développeurs contrôlent bien les applications qu'ils déploient ».
+1. « On parle de logiciel, y a pas de changement, c'est un langage de programmation, personne ne se fait contrôler par son langage de programmation ».  
+2. « Il y a rien d'autonome, c'est un logiciel. Quand on écrit ce genre de logiciel, on contrôle toujours ce qu'il va passer et l'ensemble des sorties que le logiciel peut avoir. Il n'y a pas de changement de paradigme ».  
+3. « On donne les outils pour que les développeurs contrôlent bien les applications qu'ils déploient ».
 
-#### 4.3.3.3 Analyse critique {#4.3.3.3-analyse-critique}
+#### **4.3.3.3 Analyse critique** {#4.3.3.3-analyse-critique}
 
-Ces déclarations sont trompeuses pour plusieurs raisons (voir aussi [section 3.3.1](\#3.3.1-déformation-historique-et-contextuelle)) :
+Ces déclarations sont trompeuses pour plusieurs raisons (voir aussi [section 3.3.1](#3.3.1-déformation-historique-et-contextuelle)) :
 
-1. Assimilation erronée à un langage de programmation : Les modèles d'IA, en particulier les grands modèles de langage (*LLM*), ne sont pas des langages de programmation et ne fonctionnent pas comme des logiciels traditionnels. Ils génèrent des réponses basées sur des probabilités calculées à partir de vastes ensembles de données, ce qui les rend fondamentalement différents des logiciels classiques. Par exemple, les *LLM* sont capables de persuader des humains [\[201\]](https://paperpile.com/c/Lj1YHA/c3Uyd). Les langages de programmation ne le sont pas.   
-2. Illusion de contrôle total : Contrairement à ce qu'affirme Mensch, les créateurs de modèles d'IA ne contrôlent pas directement chaque sortie possible. La complexité rend impossible la prédiction exacte de toutes les sorties sans exécuter le modèle [\[202\]](https://paperpile.com/c/Lj1YHA/yMwI2). De plus, étant donné que les sorties de ces modèles sont du langage naturel humain, leur contrôle automatique est extrêmement complexe [\[193\], \[194\], \[195\]](https://paperpile.com/c/Lj1YHA/I0Yrf+9wc1E+lXi8c).   
-3. Surestimation des outils de contrôle : Les méthodes proposées par Mistral [\[203\]](https://paperpile.com/c/Lj1YHA/hcyZD) pour contrôler les applications, basées sur quelques lignes d’instructions ajoutées au prompt, ne fournissent aucune garantie solide [\[204\]](https://paperpile.com/c/Lj1YHA/Rwwzt). Même les laboratoires les plus avancés peinent à assurer l'intégrité éthique de leurs modèles [\[205\], \[206\], \[207\]](https://paperpile.com/c/Lj1YHA/8Hw06+1g6E1+dreno). Nous recommandons notamment la partie 3.2 de « *Foundational Challenges in Assuring Alignment and Safety of Large Language Models* » [\[208\]](https://paperpile.com/c/Lj1YHA/Uy3c).
+1. Assimilation erronée à un langage de programmation : Les modèles d'IA, en particulier les grands modèles de langage (*LLM*), ne sont pas des langages de programmation et ne fonctionnent pas comme des logiciels traditionnels. Ils génèrent des réponses basées sur des probabilités calculées à partir de vastes ensembles de données, ce qui les rend fondamentalement différents des logiciels classiques. Par exemple, les *LLM* sont capables de persuader des humains [\[200\]](#bookmark=id.43r2w7gosuzc). Les langages de programmation ne le sont pas.   
+2. Illusion de contrôle total : Contrairement à ce qu'affirme Mensch, les créateurs de modèles d'IA ne contrôlent pas directement chaque sortie possible. La complexité rend impossible la prédiction exacte de toutes les sorties sans exécuter le modèle [\[201\]](#bookmark=id.sml20ak0zlj5). De plus, étant donné que les sorties de ces modèles sont du langage naturel humain, leur contrôle automatique est extrêmement complexe [\[192\]](#bookmark=id.d89zke3cstmr), [\[193\]](#bookmark=id.roqll5ckxgoq), [\[194\]](#bookmark=id.sbnf9scfik3r).   
+3. Surestimation des outils de contrôle : Les méthodes proposées par Mistral [\[202\]](#bookmark=id.edwdj9awlo5p) pour contrôler les applications, basées sur quelques lignes d’instructions ajoutées au prompt, ne fournissent aucune garantie solide [\[203\]](#bookmark=id.wlcqxiy3hjep). Même les laboratoires les plus avancés peinent à assurer l'intégrité éthique de leurs modèles [\[204\]](#bookmark=id.a684wia4xnbl), [\[205\]](#bookmark=id.lwiyute7zrzo), [\[206\]](#bookmark=id.3q47956xtdei). Nous recommandons notamment la partie 3.2 de « *Foundational Challenges in Assuring Alignment and Safety of Large Language Models* » [\[207\]](#bookmark=id.ezcs3oh590oy).
 
-#### 4.3.3.4 Implications {#4.3.3.4-implications}
+#### **4.3.3.4 Implications** {#4.3.3.4-implications}
 
 Ces déclarations minimisent la complexité et les défis posés par les avancées récentes en IA. Elles présentent une vision simpliste qui pourrait induire en erreur les législateurs sur la nature réelle des technologies d'IA et les risques associés. Cette approche pourrait compromettre l'élaboration de réglementations appropriées et efficaces.
 
 Le fait qu'un membre influent de la Commission de l'IA tienne de tels propos devant une instance législative majeure soulève des inquiétudes quant à la qualité des conseils fournis aux décideurs politiques et remet en question la capacité de la Commission à guider efficacement la politique française en matière d'IA.
 
-## 4.4 Conclusion {#4.4-conclusion}
+## **4.4 Conclusion** {#4.4-conclusion}
 
-L'analyse approfondie de la composition de la Commission de l'IA a mis en lumière plusieurs problèmes préoccupants :
+L'analyse approfondie de la composition de la Commission de l'IA a mis en lumière plusieurs problèmes préoccupants :
 
 1. Un déséquilibre marqué dans la représentation, avec une prédominance du secteur privé et une absence d'experts en sécurité de l'IA.  
 2. Des conflits d'intérêts significatifs chez des membres clés, notamment liés à des entreprises comme Meta et Mistral AI, qui ont un intérêt direct dans une régulation minimale de l'IA.  
@@ -978,9 +944,9 @@ La crédibilité du rapport final de la Commission s'en trouve sérieusement com
 
 Cette situation souligne la nécessité et l’urgence de repenser la manière dont est constituée une Commission chargée de guider les politiques publiques sur des sujets aussi cruciaux et complexes que l'IA. Sans une réforme significative de ce processus, il est à craindre que les recommandations produites ne servent pas pleinement l'intérêt général et ne préparent pas adéquatement la France aux défis futurs de l'IA.
 
-# 5 Recommandations {#5-recommandations}
+# **5 Recommandations** {#5-recommandations}
 
-Notre analyse a mis en évidence des lacunes graves dans le rapport de la Commission de l'IA, compromettant potentiellement la stratégie de la France en matière d'intelligence artificielle. Ces défaillances semblent découler d'un manque de diversité d'expertise et de conflits d'intérêts au sein de la Commission. Pour remédier à cette situation et assurer une approche plus équilibrée et rigoureuse, nous proposons les recommandations suivantes :
+Notre analyse a mis en évidence des lacunes graves dans le rapport de la Commission de l'IA, compromettant potentiellement la stratégie de la France en matière d'intelligence artificielle. Ces défaillances semblent découler d'un manque de diversité d'expertise et de conflits d'intérêts au sein de la Commission. Pour remédier à cette situation et assurer une approche plus équilibrée et rigoureuse, nous proposons les recommandations suivantes :
 
 **1\. Remaniement de la Commission de l'IA**
 
@@ -1000,7 +966,9 @@ Lancer une convention citoyenne pour inaugurer la nécessaire délibération dé
 
 La mise en œuvre de ces recommandations devrait permettre d'établir une stratégie nationale en matière d'IA qui soit à la fois ambitieuse et responsable, tenant compte des opportunités mais aussi des risques de cette technologie transformative, en remédiant aux manquements du rapport actuel.
 
-# 6 Conclusion {#6-conclusion}
+# 
+
+# **6 Conclusion** {#6-conclusion}
 
 L'analyse approfondie du rapport de la Commission de l'IA révèle des lacunes qui compromettent sa crédibilité et son utilité en tant que document d'orientation stratégique pour la France. Les omissions critiques concernant les risques existentiels et la sécurité de l'IA, la minimisation systématique des risques, et le manque d'anticipation des développements futurs témoignent d'une approche dangereusement biaisée et myope.
 
@@ -1010,7 +978,7 @@ Les implications de ces manquements sont potentiellement catastrophiques pour la
 
 Il est impératif d'adopter une approche plus équilibrée et rigoureuse, intégrant une diversité de perspectives et accordant une attention particulière aux questions de sécurité et d'éthique. Seule une évaluation objective et exhaustive des risques et des opportunités permettra d'élaborer une stratégie nationale à la hauteur des enjeux.
 
-Face à cette situation critique, nous appelons à :
+Face à cette situation critique, nous appelons à :
 
 1. Un remaniement immédiat de la Commission, éliminant les conflits d'intérêts et intégrant une véritable diversité d'expertise.  
 2. La consultation d'experts en sécurité de l'IA.  
@@ -1019,195 +987,216 @@ Face à cette situation critique, nous appelons à :
 
 Notre contre-expertise se veut le début d'un véritable débat public sur l'IA en France, répondant ainsi à l'appel de la Commission tout en allant au-delà de ses propositions initiales. Nous invitons les experts, les décideurs et les citoyens à s'engager dans ce dialogue crucial pour façonner l'avenir de l'IA dans notre pays.
 
-L'enjeu dépasse largement le cadre national : il s'agit de l'avenir de notre société et, potentiellement, de l'humanité elle-même. Le sommet sur l'IA prévu en 2025 offre à la France une opportunité unique de prendre une position de leadership sur ces questions de premier plan. Il est temps pour notre pays de prendre la pleine mesure des défis et des dangers que pose cette technologie révolutionnaire, et d'agir en conséquence avec lucidité, responsabilité et ambition.
+L'enjeu dépasse largement le cadre national : il s'agit de l'avenir de notre société et, potentiellement, de l'humanité elle-même. Le sommet sur l'IA prévu en 2025 offre à la France une opportunité unique de prendre une position de leadership sur ces questions de premier plan. Il est temps pour notre pays de prendre la pleine mesure des défis et des dangers que pose cette technologie révolutionnaire, et d'agir en conséquence avec lucidité, responsabilité et ambition.
 
-# Validation des experts {#validation-des-experts}
+# 
+
+# **Validation des experts** {#validation-des-experts}
 
 Cette section présente les experts qui ont validé notre analyse, ainsi que leur niveau de soutien. **Les recommandations n'engagent que les auteurs principaux et n'ont pas fait l'objet d'une validation par les experts.**
 
-**Définition d'expert et domaines d'expertise :**
+**Définition d'expert et domaines d'expertise :**
 
-Dans le cadre de cette contre-expertise, nous considérons comme « expert » toute personne possédant une expertise reconnue dans un ou plusieurs domaines pertinents pour l'analyse de l'IA et de ses impacts. Ces domaines incluent, sans s'y limiter : l'intelligence artificielle, l'éthique de l'IA, la sécurité de l'IA, la cybersécurité, l'informatique, l'apprentissage automatique, la politique publique, l'économie de l'innovation, le droit du numérique, la sociologie du travail, la psychologie cognitive, la philosophie des sciences, la bioéthique, l'environnement, les relations internationales, la santé publique, les sciences de l'information et la gestion des risques.
+Dans le cadre de cette contre-expertise, nous considérons comme « expert » toute personne possédant une expertise reconnue dans un ou plusieurs domaines pertinents pour l'analyse de l'IA et de ses impacts. Ces domaines incluent, sans s'y limiter : l'intelligence artificielle, l'éthique de l'IA, la sécurité de l'IA, la cybersécurité, l'informatique, l'apprentissage automatique, la politique publique, l'économie de l'innovation, le droit du numérique, la sociologie du travail, la psychologie cognitive, la philosophie des sciences, la bioéthique, l'environnement, les relations internationales, la santé publique, les sciences de l'information et la gestion des risques.
 
 Les experts ont eu la possibilité de valider spécifiquement les sections relevant de leur domaine d'expertise. Cette approche permet une validation ciblée et précise, reflétant la nature interdisciplinaire des enjeux liés à l'IA.
 
-**Niveaux de soutien :**
+**Niveaux de soutien :**
 
-1. **Validation :** L'expert confirme l'exactitude et la pertinence de l'analyse présentée pour l'ensemble du document ou pour des sections spécifiques.
+1. **Validation :** L'expert confirme l'exactitude et la pertinence de l'analyse présentée pour l'ensemble du document ou pour des sections spécifiques.
 
-2. **Soutien :** L'expert approuve les principales conclusions de l'analyse, tout en pouvant avoir des réserves sur certains points spécifiques, pour l'ensemble du document ou pour des sections spécifiques.
+2. **Soutien :** L'expert approuve les principales conclusions de l'analyse, tout en pouvant avoir des réserves sur certains points spécifiques, pour l'ensemble du document ou pour des sections spécifiques.
 
-**Liste des experts et leur niveau de soutien :**
+**Liste des experts et leur niveau de soutien :**
 
-ALBERT Patrick  
+**ALBERT Patrick**  
 Fondateur de Hub France IA  
-Validation  
-Il nous faut remercier Pause IA pour son analyse rigoureuse des conclusions de la Commission IA mandatée par E. Macron. Les conflits d'intérêts manifestes dans sa composition sont confirmés par les parti pris qui minent la crédibilité des recommandations, qui évacuent la plus nécessaire, la convocation urgente, d'un authentique débat démocratique sur une industrie qui ne propose rien de moins que de déclencher une mutation anthropologique majeure.
+*Validation*
 
-COUILLET Romain  
+« Il nous faut remercier Pause IA pour son analyse rigoureuse des conclusions de la Commission IA mandatée par E. Macron. Les conflits d'intérêts manifestes dans sa composition sont confirmés par les parti pris qui minent la crédibilité des recommandations, et évacuent la plus nécessaire : la convocation urgente d'un authentique débat démocratique sur une industrie qui ne propose rien de moins que de déclencher une mutation anthropologique majeure. »
+
+**COUILLET Romain**  
 Professeur des Universités à l'Université Grenoble-Alpes (membre du Laboratoire d'Informatique de Grenoble)  
 Mathématiques appliquées, intelligence artificielle, analyse systémique du numérique  
-Validation  
-En sus de l’analyse de la contre-expertise, il me paraît urgent de rappeler que l’IA ouvre à la possibilité déjà actée sur le terrain (\!) de produire des armes de guerres incontrôlables (cibles filtrées par IA, essaims de drones autonomes) et que l’IA renforce le verrou de dépendance à un numérique en proie aux pénuries à venir (métaux, pétrole).
+*Validation*
 
-PERRET Jeremy  
+« En sus de l’analyse de la contre-expertise, il me paraît urgent de rappeler que l’IA ouvre à la possibilité déjà actée sur le terrain (\!) de produire des armes de guerres incontrôlables (cibles filtrées par IA, essaims de drones autonomes) et que l’IA renforce le verrou de dépendance à un numérique en proie aux pénuries à venir (métaux, pétrole). »
+
+**PERRET Jérémy**  
 Suboptimal IA  
 Docteur et ingénieur en Intelligence artificielle  
-Validation  
-Très regrettable qu'un tel groupe d'experts néglige à ce point les enjeux de sécurité de l'IA. En remettant à un futur organisme d'évaluation la tâche d'« anticiper l'apparition de nouveaux risques », le rapport ignore l'ensemble des travaux déjà réalisés sur le sujet. Ceci trahit l'approche responsable à laquelle prétend la Commission. 
+*Validation*
 
-BILLION Arnaud  
+« Très regrettable qu'un tel groupe d'experts néglige à ce point les enjeux de sécurité de l'IA. En remettant à un futur organisme d'évaluation la tâche d'« anticiper l'apparition de nouveaux risques », le rapport ignore l'ensemble des travaux déjà réalisés sur le sujet. Ceci trahit l'approche responsable à laquelle prétend la Commission. »
+
+**BILLION Arnaud**  
 Docteur en droit, directeur de recherche chez Themis 5.0  
 Spécialiste en droit de l'informatique, propriété intellectuelle, et en informatique juridique  
-Validation  
-Il ne faut pas sous-estimer le problème de la dette technique logicielle. IA signifie transformation et création de données non structurées ni signifiantes. Cette data devra être calculée, en intrant des nouveaux modèles d'IA, menant à des problèmes considérables de montée en charge, d'administration et de stockage. Il faut pouvoir absorber toute cette nouvelle dette logicielle (donc énergétique)
+*Validation*
 
-AMARSY Stéphane  
+« Il ne faut pas sous-estimer le problème de la dette technique logicielle. IA signifie transformation et création de données non structurées ni signifiantes. Cette data devra être calculée, en intrant des nouveaux modèles d'IA, menant à des problèmes considérables de montée en charge, d'administration et de stockage. Il faut pouvoir absorber toute cette nouvelle dette logicielle (donc énergétique). »
+
+**AMARSY Stéphane**  
 PDG The Next Mind  
 Intelligence artificielle  
-Soutien  
-Notre avenir mérite mieux qu'une étude d'opportunité parcellaire. Les entreprises et chaque citoyen doivent pouvoir avoir accès à des IA servant le collectif. Je milite pour une Commission ouverte à tous les acteurs.
+*Soutien*
 
-GIBERT Martin  
+« Notre avenir mérite mieux qu'une étude d'opportunité parcellaire. Les entreprises et chaque citoyen doivent pouvoir avoir accès à des IA servant le collectif. Je milite pour une Commission ouverte à tous les acteurs. »
+
+**GIBERT Martin**  
 Centre de Recherche en Éthique, à l'Université de Montréal  
 Philosophe et chercheur en éthique de l'IA  
-Soutien  
-Je n'ai vu dans le rapport de la Commission de l'IA publié le 13 mars 2024 qu'un reflet très partiel des préoccupations des chercheurs et des chercheuses en éthique de l'IA. Les risques existentiels et les enjeux de cybersécurité en particulier y sont traités de façon cavalière. Quant à la question fondamentale de l'éthique des systèmes de recommandations, elle est absente. Ce n'est pas comme ça qu'on assure l'avenir d'une communauté.
+*Soutien*
 
-DE LA HIGUERA Colin  
+« Je n'ai vu dans le rapport de la Commission de l'IA publié le 13 mars 2024 qu'un reflet très partiel des préoccupations des chercheurs et des chercheuses en éthique de l'IA. Les risques existentiels et les enjeux de cybersécurité en particulier y sont traités de façon cavalière. Quant à la question fondamentale de l'éthique des systèmes de recommandations, elle est absente. Ce n'est pas comme ça qu'on assure l'avenir d'une communauté. »
+
+**DE LA HIGUERA Colin**  
 Professeur en Informatique à Nantes Université et Titulaire de la Chaire Unesco en Ressources Educatives Libres et Intelligence Artificielle  
 Apprentissage Automatique, Machine Learning, IA et Education  
-Soutien \+ Validation de la [section 3.2.2](\#3.2.2-omission-des-avertissements-de-la-communauté-scientifique-sur-les-risques-systémiques-et-catastrophiques-liés-à-l'ia)  
-Je soutiens l'analyse qui me paraît à la fois juste et importante. Elle est juste parce qu'effectivement, les risques existentiels sont très sous-estimés, voire ignorés dans le rapport. Or ceux-ci donnent lieu à des mises en garde de personnalités éminentes. À titre d'exemple, deux des trois lauréats du prix Turing 2018 pour les travaux fondamentaux sur l'apprentissage profond ont mis en garde. Le troisième est membre de la Commission. Elle est importante parce qu'elle émane de la jeunesse qui aura à gérer les erreurs que nous pourrions commettre demain.
+*Soutien \+ Validation de la [section 3.2.2](#3.2.2-omission-des-avertissements-de-la-communauté-scientifique-sur-les-risques-systémiques-et-catastrophiques-liés-à-l'ia)*
 
-BOULLIER Dominique  
+« Je soutiens l'analyse qui me paraît à la fois juste et importante. Elle est juste parce qu'effectivement, les risques existentiels sont très sous-estimés, voire ignorés dans le rapport. Or ceux-ci donnent lieu à des mises en garde de personnalités éminentes. À titre d'exemple, deux des trois lauréats du prix Turing 2018 pour les travaux fondamentaux sur l'apprentissage profond ont mis en garde. Le troisième est membre de la Commission. Elle est importante parce qu'elle émane de la jeunesse qui aura à gérer les erreurs que nous pourrions commettre demain. »
+
+**BOULLIER Dominique**  
 Professeur des universités émérite à Sciences Po Paris  
 Sociologue et linguiste, spécialiste des technologies cognitives et des stratégies des plateformes numériques (réseaux sociaux notamment)  
-Soutien
+*Soutien*
 
-SEGERIE Charbel-Raphael  
+**SEGERIE Charbel-Raphaël**  
 Directeur Exécutif du Centre pour la Sécurité de l’IA, Enseignant au Master MVA de l’ENS Paris-Saclay  
 General Purpose AI System, AI Safety, interpretability, alignment techniques  
-Soutien
+*Soutien*
 
-DERIAN Maxime  
+**DERIAN Maxime**  
 Fondateur de Heruka-AI Consulting, membre du collectif ANR CulturIA (CNRS, Université de la Sorbonne), collaborateur avec Everyone.AI (Californie, USA)   
 Innovation en IA, éthique et régulation, technoréalisme   
-Soutien
+*Soutien*
 
-BRETTEL Alexandre  
-Doctorant contractuel en éthique de l'intelligence artificielle à l'Université Grenoble Alpes Responsabilité de l'IA, philosophie de la technique, éthique de l'innovation Soutien    
-Soutien
+**BRETTEL Alexandre**  
+Doctorant contractuel en éthique de l'intelligence artificielle à l'Université Grenoble Alpes Responsabilité de l'IA, philosophie de la technique, éthique de l'innovation   
+*Soutien [section 3](#3-analyse-critique-du-rapport)*
 
-DUMAS Clément  
+« Par rapport à la responsabilité, celle-ci est quelques fois évoquée dans le rapport, mais elle n'est que très superficiellement traitée. Il conviendrait par exemple de leur conseiller de se référer aux travaux relatifs à la responsabilité en éthique et en droit de l'IA. L'éthique est une discipline distincte du droit et la réglementation ne saurait servir de seule méthode de régulation. »
+
+**DUMAS Clément**  
 École Normale Supérieure de Paris-Saclay  
 Recherche en Mechanistic Interpretability  
-Soutien  
-Sans nécessairement prôner une pause dans le développement de l'IA, j'estime qu'il est crucial de reconnaître et d'affronter les défis complexes liés à la création d'une IA puissante, éthique et sûre. La France ne peut se permettre d'ignorer ces enjeux fondamentaux pour son avenir technologique et sociétal.
+*Soutien*
 
-NGUYEN HOANG Lê  
+« Sans nécessairement prôner une pause dans le développement de l'IA, j'estime qu'il est crucial de reconnaître et d'affronter les défis complexes liés à la création d'une IA puissante, éthique et sûre. La France ne peut se permettre d'ignorer ces enjeux fondamentaux pour son avenir technologique et sociétal. »
+
+**NGUYEN HOANG Lê**  
 PDG de Calicarpa, Président de Tournesol et Membre du Conseil d'Éthique d'Orange  
 Chercheur en sécurité et en gouvernance des systèmes d'intelligence artificielle  
-Validation [section 3.2.4](\#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)
+*Validation [section 3.2.4](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)*
 
-FOURQUET Jean-Lou  
-Co-auteur de "La dictature des algorithmes", membre de l'association Tournesol, fondateur de la chaîne ApresLaBiere, ancien chroniqueur pour Arrêt sur Images   
+**FOURQUET Jean-Lou**  
+Co-auteur de « La dictature des algorithmes », membre de l'association Tournesol, fondateur de la chaîne ApresLaBiere, ancien chroniqueur pour Arrêt sur Images   
 Numérique, vulgarisation, IA, transition énergétique    
-Validation [section 3.2.4](\#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)
+*Validation [section 3.2.4](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)*
 
-# Soutien des associations {#soutien-des-associations}
+# **Soutien des associations** {#soutien-des-associations}
 
 Cette section présente les associations qui soutiennent notre contre-expertise. Le soutien d'une association n'implique pas nécessairement l'accord de tous ses membres avec chaque détail du rapport, mais indique un alignement général avec ses conclusions principales.
 
-**Types de soutien :**
+**Types de soutien :**
 
-- **Soutien global :** L'association approuve l'ensemble de l'analyse et des conclusions principales du rapport.  
-- **Soutien partiel :** L'association soutient certaines parties spécifiques du rapport, qui sont explicitement mentionnées.
+- **Soutien global :** L'association approuve l'ensemble de l'analyse et des conclusions principales du rapport.  
+- **Soutien partiel :** L'association soutient certaines parties spécifiques du rapport, qui sont explicitement mentionnées.
 
-Liste des associations soutenant le rapport :
+Liste des associations soutenant le rapport :
 
-Centre pour la Sécurité de l’IA  
-Soutien global
+**Centre pour la Sécurité de l’IA** \- *Soutien global*
 
-Technoréalisme  
-Soutien global
+**Technoréalisme** \- *Soutien global*
 
-Technologos  
-Soutien global
+**Technologos** \- *Soutien global*
 
-Tournesol  
-Soutien à la [section 3.2.4](\#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)
+**Tournesol** \- *Soutien à la [section 3.2.4](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)*
 
-A.R.T.S.  
-Soutien Global
+**A.R.T.S.** \- *Soutien Global*
 
-# À propos de Pause IA {#à-propos-de-pause-ia}
+# 
+
+# **À propos de Pause IA** {#à-propos-de-pause-ia}
 
 Pause IA est une association dédiée à la promotion d'un développement responsable et éthique de l'intelligence artificielle. Branche française du mouvement international *Pause AI,* Pause IA réunit une communauté de volontaires visant à réduire les risques de dommages catastrophiques liés au développement de l’intelligence artificielle. Nous cherchons à convaincre les gouvernements et les citoyens d’intervenir pour instaurer une pause indéfinie dans le développement des modèles les plus dangereux jusqu’à ce que des solutions techniques et sociétales soient trouvées. Pause IA n’est pas pour autant anti-technologie, ni même anti-IA, en particulier lorsqu’il s’agit d’IA spécialisée et dans la mesure où l’on peut garantir sa sécurité.
 
 Cette contre-expertise a été réalisée sous l'égide de Pause IA, reflétant l'engagement de l'association pour un débat public éclairé sur les enjeux de l'IA.
 
-Plus d'informations sur Pause IA : https://www.pauseia.fr
+Plus d'informations sur Pause IA : [https://www.pauseia.fr](https://www.pauseia.fr)
 
-# À propos des auteurs {#à-propos-des-auteurs}
+# 
+
+# **À propos des auteurs** {#à-propos-des-auteurs}
 
 Cette contre-expertise est le fruit d'un travail collectif bénévole, réalisé par un groupe diversifié d'experts et de citoyens engagés. Nos contributeurs partagent une préoccupation commune pour les enjeux de l'IA et un désir de promouvoir un débat public éclairé sur ce sujet crucial.
 
-**Auteurs principaux :**
+**Auteurs principaux :**
 
-Maxime Fournes  
+*Maxime Fournes*  
 Président, Pause IA  
-\[Brève description de l'expertise pertinente, 1-2 phrases\]
+Expert en Machine Learning et Deep Learning
 
-Pierre Lamotte  
+*Pierre Lamotte*  
 Archéologue et forgeron
 
-Éloïse Benito-Rodriguez  
+*Éloïse Benito-Rodriguez*  
 Chercheuse indépendante en sécurité de l'IA
 
-Gilles Bréda  
-Musicien professionnel  
-Cofondateur, Pause IA
+*Gilles Bréda*  
+Cofondateur, Pause IA  
+Musicien professionnel
 
-**Contributeurs :**
+**Contributeurs :**
 
-Amaury Lorin
+*Amaury Lorin*
 
-Aurelia Jauffret
+*Aurélia Jauffret*
 
-Matthieu Bourrier
+*Mathieu Bourrier*
 
-**Direction du projet :**
+**Site web et mise en page :**
 
-Maxime Fournes
+*Moïri Gamboni*
+
+**Illustrations :**
+
+*Elizabeth Richards*
+
+**Direction du projet :**
+
+*Maxime Fournes*
 
 Nous tenons à souligner que tous les auteurs et contributeurs ont participé à ce projet sur leur temps personnel, sans aucune rémunération. Ce travail représente un effort collectif d'environ 400 heures.
 
-**Conflits d'intérêts :**  
+**Conflits d'intérêts :**  
 Les auteurs déclarent n'avoir aucun conflit d'intérêt en relation avec le sujet de cette contre-expertise. Aucun financement externe n'a été reçu pour la réalisation de ce travail.
 
-Pour toute question ou commentaire concernant ce document, veuillez contacter : Maxime Fournes [maxime@pauseia.fr](mailto:maxime@pauseia.fr) ou Gilles Bréda [gilles@pauseia.fr](mailto:gilles@pauseia.fr).
+Pour toute question ou commentaire concernant ce document, veuillez contacter : Maxime Fournes [maxime@pauseia.fr](mailto:maxime@pauseia.fr) ou Gilles Bréda [gilles@pauseia.fr](mailto:gilles@pauseia.fr).
 
-# Annexes {#annexes}
+# 
 
-## A — Graphique Composition Commission {#a-—-graphique-composition-commission}
+# **Annexes** {#annexes}
 
-Se réfère au graphique [section 4.1](\#4.1-manque-de-diversité)
+## **A — Graphique Composition Commission** {#a-—-graphique-composition-commission}
 
-Dans la catégorie « Industrie », nous avons inclus les entrepreneurs et les chercheurs dans le domaine privé. Cela comprend :
+Se réfère au graphique [section 4.1](#4.1-manque-de-diversité)
+
+Dans la catégorie « Industrie », nous avons inclus les entrepreneurs et les chercheurs dans le domaine privé. Cela comprend :
 
 Gilles Babinet (entrepreneur), Anne Bouverot (entrepreneuse), Bernard Charlès (PDG de Dassault Systèmes), Cédric O (lobbyiste), Arthur Mensch (entrepreneur et chercheur en IA dans le privé), Yann Lecun (chercheur en IA dans le privé), Joëlle Barral (chercheuse en IA dans le privé), Luc Julia (chercheur en IA  dans le privé). Nozha Boujemaa (chercheuse en IA dans le privé).
 
-Dans la catégorie « Académie », nous avons inclus les chercheurs exclusivement dans le domaine public. Cela comprend : Isabelle Ryl (chercheuse en IA), Gaël Varoquaux (chercheur en IA), Philippe Aghion (économiste), Alexandra Bensamoun (chercheuse en droit).
+Dans la catégorie « Académie », nous avons inclus les chercheurs exclusivement dans le domaine public. Cela comprend : Isabelle Ryl (chercheuse en IA), Gaël Varoquaux (chercheur en IA), Philippe Aghion (économiste), Alexandra Bensamoun (chercheuse en droit).
 
-Dans la catégorie « Société civile », nous avons inclus les représentants d'organisations non gouvernementales, de syndicats, d'organisations caritatives, et de fondations privées.. Cela comprend : Franca Salis-Madinier (secrétaire nationale CFDT Cadres), et Martin Tisné ((co)fondateur de nombreuses organisations, notamment sur la transparence fiscale et le droit des données).
+Dans la catégorie « Société civile », nous avons inclus les représentants d'organisations non gouvernementales, de syndicats, d'organisations caritatives, et de fondations privées.. Cela comprend : Franca Salis-Madinier (secrétaire nationale CFDT Cadres), et Martin Tisné ((co)fondateur de nombreuses organisations, notamment sur la transparence fiscale et le droit des données).
 
-L’Éthique de l’IA examine les implications morales et sociétales de l'IA, en établissant des principes pour son développement et son utilisation responsables. Nous avons inclus dans cette catégorie :  
+L’Éthique de l’IA examine les implications morales et sociétales de l'IA, en établissant des principes pour son développement et son utilisation responsables. Nous avons inclus dans cette catégorie :  
 Martin Tisné (PDG de AI Collaborative), Anne Bouverot (cofondatrice de la Fondation Abeona), Franca Salis-Madinier (étudie l’impact de l’IA sur le travail).
 
 La sécurité de l’IA vise à développer des systèmes d'intelligence artificielle sûrs et fiables, en minimisant les risques de dommages intentionnels ou non. Aucun membre de la  Commission ne travaille dans ce domaine.
 
-## B — Postes des membres de la Commission {#b-—-postes-des-membres-de-la-commission}
+## **B — Postes des membres de la Commission** {#b-—-postes-des-membres-de-la-commission}
 
 **Anne Bouverot, co-présidente de la Commission**
 
@@ -1246,7 +1235,7 @@ La sécurité de l’IA vise à développer des systèmes d'intelligence artific
 **Franca Salis-Madinier**
 
 * Secrétaire nationale CFDT Cadres.  
-* Vice-présidente « workers group » au Comité Économique et Social Européen.  
+* Vice-présidente « workers group » au Comité Économique et Social Européen.  
 * Salariée d’Orange.
 
 **Christophe Ravier**
@@ -1262,7 +1251,7 @@ La sécurité de l’IA vise à développer des systèmes d'intelligence artific
 **Gaël Varoquaux**
 
 * Cofondateur de Therapixel, éditeur de logiciels d’IA appliquée à l'imagerie médicale.  
-* Cofondateur et conseiller scientifique de « :probabl », développeur de logiciels.  
+* Cofondateur et conseiller scientifique de « :probabl », développeur de logiciels.  
 * Directeur de recherche à Inria.  
 * Cofondateur de scikit-learn, logiciel de modèle d’IA.
 
@@ -1290,303 +1279,536 @@ La sécurité de l’IA vise à développer des systèmes d'intelligence artific
 * Membre du conseil d’administration de Partnership on AI, coalition œuvrant à une utilisation responsable de l'IA.
 
 **Yann LeCun**  
-Voir [section 4.2.1](\#4.2.1-yann-lecun)
+Voir [section 4.2.1](#4.2.1-yann-lecun)
 
-**Cedric O**  
-Voir [section 4.2.3](\#4.2.3-cédric-o)
+**Cédric O**  
+Voir [section 4.2.3](#4.2.3-cédric-o)
 
 **Arthur Mensch**  
-Voir [section 4.2.2](\#4.2.2-arthur-mensch)
+Voir [section 4.2.2](#4.2.2-arthur-mensch)
 
 **Joëlle Barral**  
-Voir [section 4.2.4](\#4.2.4-joëlle-barral)
+Voir [section 4.2.4](#4.2.4-joëlle-barral)
 
-## C — L'apprentissage profond et ses origines {#c-—-l'apprentissage-profond-et-ses-origines}
+## **C — L'apprentissage profond et ses origines** {#c-—-l'apprentissage-profond-et-ses-origines}
 
 Afin de corriger l’image présentée par le rapport d’une technologie mature, dont le fonctionnement et les implications sont compris depuis longtemps, et qui se place dans la stricte continuité des paradigmes précédents, rappelons l’histoire de l’IA moderne[^1].
 
-Un changement de paradigme commence à s’opérer dans l'histoire de l'IA au milieu des années 1990 avec l’adoption du paradigme connexionniste[^2] [\[209, p. 25\], \[210, p. 424\]](https://paperpile.com/c/Lj1YHA/cOlw+UxXP/?locator=25,424). Les approches symboliques en IA, qui dominaient le champ jusqu'alors, sont remplacées par des méthodes permettant aux systèmes de s'adapter à la complexité des données issues du monde réel sans nécessiter la programmation de règles préétablies [\[209, p. 24\], \[211\]](https://paperpile.com/c/Lj1YHA/cOlw+QiYp/?locator=24,).
+Un changement de paradigme commence à s’opérer dans l'histoire de l'IA au milieu des années 1990 avec l’adoption du paradigme connexionniste[^2] [\[208, p. 25\]](#bookmark=id.at29a5r4zygi), [\[209, p. 424\]](#bookmark=id.shuu0311ujnx). Les approches symboliques en IA, qui dominaient le champ jusqu'alors, sont remplacées par des méthodes permettant aux systèmes de s'adapter à la complexité des données issues du monde réel sans nécessiter la programmation de règles préétablies [\[208, p. 24\]](#bookmark=id.at29a5r4zygi), [\[210\]](#bookmark=id.821myli34klz).
 
-Ce paradigme comprend différentes architectures de réseaux neuronaux, les réseaux bayésiens, et d'autres méthodes statistiques comme les *HMM*[^3]. Ils sont capables d’analyser de vastes ensembles de données pour identifier des régularités, mais dépendent encore de l'ajustement manuel de leurs paramètres et de la qualité des données. Souvent de taille modeste, ils sont réputés pour leur transparence et leur interprétabilité, permettant une compréhension claire des processus décisionnels qu'ils emploient [\[212\]](https://paperpile.com/c/Lj1YHA/TtUV).
+Ce paradigme comprend différentes architectures de réseaux neuronaux, les réseaux bayésiens, et d'autres méthodes statistiques comme les *HMM*[^3]. Ils sont capables d’analyser de vastes ensembles de données pour identifier des régularités, mais dépendent encore de l'ajustement manuel de leurs paramètres et de la qualité des données. Souvent de taille modeste, ils sont réputés pour leur transparence et leur interprétabilité, permettant une compréhension claire des processus décisionnels qu'ils emploient [\[211\]](#bookmark=id.4t6lb5vt0kq0).
 
-Les réseaux neuronaux apparaissent encore jusqu'à la fin des années 2000 comme une voie parmi d'autres, même s'ils prennent une importance grandissante dans la recherche en IA [\[209\], \[210\]](https://paperpile.com/c/Lj1YHA/cOlw+UxXP). C’est véritablement avec l'apprentissage profond que ce paradigme prend son plein essor, montrant une efficacité remarquable. La démonstration d'AlexNet en particulier, un modèle de reconnaissance d’images qui, en 2012, remporte la compétition internationale ImageNet, fait date [\[209, p. 25\], \[211\]](https://paperpile.com/c/Lj1YHA/cOlw+QiYp/?locator=25,).
+Les réseaux neuronaux apparaissent encore jusqu'à la fin des années 2000 comme une voie parmi d'autres, même s'ils prennent une importance grandissante dans la recherche en IA [\[208\]](#bookmark=id.at29a5r4zygi), [\[209\]](#bookmark=id.shuu0311ujnx). C’est véritablement avec l'apprentissage profond que ce paradigme prend son plein essor, montrant une efficacité remarquable. La démonstration d'AlexNet en particulier, un modèle de reconnaissance d’images qui, en 2012, remporte la compétition internationale ImageNet, fait date [\[208, p. 25\]](#bookmark=id.at29a5r4zygi), [\[210\]](#bookmark=id.821myli34klz).
 
-Les réussites de l’apprentissage profond se multiplient par la suite, avec la création de modèles spécialisés dans toutes sortes de domaines, notamment dans des jeux de plus en plus complexes, ce qui est devenu apparent avec la victoire écrasante d’AlphaGo, un modèle de Google Deepmind, contre Lee Sedol, un des meilleurs joueurs mondiaux de go en 2016 [\[213\]](https://paperpile.com/c/Lj1YHA/07Kq). En 2017, il bat le champion du monde Ke Jie [\[214\]](https://paperpile.com/c/Lj1YHA/aH9t). On parle désormais de « révolution du *deep learning* » [\[209, p. 28\], \[215\]](https://paperpile.com/c/Lj1YHA/hKsZ+cOlw/?locator=,28).
+Les réussites de l’apprentissage profond se multiplient par la suite, avec la création de modèles spécialisés dans toutes sortes de domaines, notamment dans des jeux de plus en plus complexes, ce qui est devenu apparent avec la victoire écrasante d’AlphaGo, un modèle de Google Deepmind, contre Lee Sedol, un des meilleurs joueurs mondiaux de go en 2016 [\[212\]](#bookmark=id.t39qtziqqoth). En 2017, il bat le champion du monde Ke Jie [\[213\]](#bookmark=id.olbevrqi9j1t). On parle désormais de « révolution du *deep learning* » [\[208, p. 28\]](#bookmark=id.at29a5r4zygi), [\[214\]](#bookmark=id.erd76p8pvpci).
 
 Ce sont cependant les avancées dans la génération de texte par des grands modèles de langage (*LLM*) qui constituent le tournant majeur des modèles généralistes comme ChatGPT.
 
-## D — Les *LLM* {#d-—-les-llm}
+## **D — Les *LLM*** {#d-—-les-llm}
 
-Les *LLM* (*Large Language Model* — Grand modèle de langage) sont entraînés à prédire l'élément suivant dans un texte en fonction d’un contexte, utilisant des estimations probabilistes pour générer du contenu cohérent [\[216\]](https://paperpile.com/c/Lj1YHA/ll9g). Cet entraînement produit une matrice vectorielle de très grande taille, contenant toutes les relations observées entre les *tokens* (ou lexèmes, qui sont des séries de caractères) sur lesquels le modèle est entraîné. Ces *tokens*, générés par un autre modèle d’intelligence artificielle, peuvent être des mots, des portions de mots ou des phrases [\[217\]](https://paperpile.com/c/Lj1YHA/BOPS).
+Les *LLM* (*Large Language Model* — Grand modèle de langage) sont entraînés à prédire l'élément suivant dans un texte en fonction d’un contexte, utilisant des estimations probabilistes pour générer du contenu cohérent [\[215\]](#bookmark=id.euhmalwu6u31). Cet entraînement produit une matrice vectorielle de très grande taille, contenant toutes les relations observées entre les *tokens* (ou lexèmes, qui sont des séries de caractères) sur lesquels le modèle est entraîné. Ces *tokens*, générés par un autre modèle d’intelligence artificielle, peuvent être des mots, des portions de mots ou des phrases [\[216\]](#bookmark=id.534qjotlv8w6).
 
-Les modèles d’apprentissage profond sont d’autant plus efficaces qu’ils sont massifs, ce qui augmente également leur complexité et leur opacité. Les algorithmes, s’ils existent, menant d’une entrée (un *prompt*) à un résultat (un texte) sont invisibles aux « programmeurs » de l’IA, tout comme ils le sont pour l’IA elle-même. En réalité, un modèle d’apprentissage profond n’est pas « programmé » au sens traditionnel en informatique : ce que l’on programme, c’est sa structure et son algorithme d’apprentissage. Le modèle est ensuite entraîné et découvre des moyens de traiter l’information reçue par lui-même, sous l’effet des contraintes et des données fournies. En ce sens, ces modèles sont moins « programmés » que « cultivés »[^4] [\[218\]](https://paperpile.com/c/Lj1YHA/mUcD).
+Les modèles d’apprentissage profond sont d’autant plus efficaces qu’ils sont massifs, ce qui augmente également leur complexité et leur opacité. Les algorithmes, s’ils existent, menant d’une entrée (un *prompt*) à un résultat (un texte) sont invisibles aux « programmeurs » de l’IA, tout comme ils le sont pour l’IA elle-même. En réalité, un modèle d’apprentissage profond n’est pas « programmé » au sens traditionnel en informatique : ce que l’on programme, c’est sa structure et son algorithme d’apprentissage. Le modèle est ensuite entraîné et découvre des moyens de traiter l’information reçue par lui-même, sous l’effet des contraintes et des données fournies. En ce sens, ces modèles sont moins « programmés » que « cultivés »[^4] [\[217\]](#bookmark=id.j6wgn6br583o), [\[218\]](#bookmark=id.hlbdlt3f680g).
 
-Cette opacité est telle qu’elle a conduit à la création d’un nouveau champ des sciences informatiques, l’interprétabilité, destiné à sonder et comprendre le contenu des modèles [\[219\]](https://paperpile.com/c/Lj1YHA/RtMG).
+Cette opacité est telle qu’elle a conduit à la création d’un nouveau champ des sciences informatiques, l’interprétabilité, destiné à sonder et comprendre le contenu des modèles [\[219\]](#bookmark=id.yz713439ds2).
 
-Les *LLM* sont particuliers car ils sont entraînés sur le langage humain, qui contient de nombreuses connaissances et modélisations du monde. Cela leur permet de développer des capacités de compréhension générale bien plus étendues que les modèles spécialisés en classification d’images ou reconnaissance d’objets [\[216\]](https://paperpile.com/c/Lj1YHA/ll9g). Cette compréhension du monde, et le fait qu’il soit possible de spécialiser des *LLM* par « réglage fin » (*fine tuning*) sur des données plus restreintes, conduit à les utiliser comme « modèles de fondation » à la base de toutes sortes d’applications spécialisées [\[220\]](https://paperpile.com/c/Lj1YHA/yguO).
+Les *LLM* sont particuliers car ils sont entraînés sur le langage humain, qui contient de nombreuses connaissances et modélisations du monde. Cela leur permet de développer des capacités de compréhension générale bien plus étendues que les modèles spécialisés en classification d’images ou reconnaissance d’objets [\[215\]](#bookmark=id.euhmalwu6u31). Cette compréhension du monde, et le fait qu’il soit possible de spécialiser des *LLM* par « réglage fin » (*fine tuning*) sur des données plus restreintes, conduit à les utiliser comme « modèles de fondation » à la base de toutes sortes d’applications spécialisées [\[220\]](#bookmark=id.jw7mx09diaqy).
 
-Les *LLM* ont montré des capacités émergentes remarquables au fil des générations, comme la programmation de code informatique, la compréhension et la production de textes longs, la traduction multilingue, et l'explication de concepts complexes dans divers domaines. Cependant, certains comportements potentiellement dangereux ont été observés, comme le mensonge, la manipulation, et le piratage informatique [\[216\]](https://paperpile.com/c/Lj1YHA/ll9g).
+Les *LLM* ont montré des capacités émergentes remarquables au fil des générations, comme la programmation de code informatique, la compréhension et la production de textes longs, la traduction multilingue, et l'explication de concepts complexes dans divers domaines. Cependant, certains comportements potentiellement dangereux ont été observés, comme le mensonge, la manipulation, et le piratage informatique [\[215\]](#bookmark=id.euhmalwu6u31).
 
-Ces capacités sont souvent découvertes après la mise à disposition des modèles au grand public. En plus de leurs capacités intrinsèques, il est possible d’améliorer l’efficacité des modèles de fondation grâce au *scaffolding* ou « enrobage », qui consiste à les intégrer dans des environnements informatiques permettant l’exécution de fonctions, comme faire appel à un autre modèle, ou à les faire réfléchir en suivant des étapes précises [\[221\]](https://paperpile.com/c/Lj1YHA/vMId). Les améliorations possibles sont difficiles à prédire.
+Ces capacités sont souvent découvertes après la mise à disposition des modèles au grand public. En plus de leurs capacités intrinsèques, il est possible d’améliorer l’efficacité des modèles de fondation grâce au *scaffolding* ou « enrobage », qui consiste à les intégrer dans des environnements informatiques permettant l’exécution de fonctions, comme faire appel à un autre modèle, ou à les faire réfléchir en suivant des étapes précises [\[221\]](#bookmark=id.y2a89sk6hjh0). Les améliorations possibles sont difficiles à prédire.
 
-Les IA actuelles sont en rupture totale avec les paradigmes précédents : opaques, « cultivées » plus que programmées, étonnantes dans leurs réussites comme dans leurs erreurs, elles se rapprochent plus que jamais de l’objectif du champ de recherche en IA, qui est de créer des machines qui pensent. Le paradigme, et les capacités qui l’accompagnent, sont tout jeunes – à peine plus d’une décennie pour l’apprentissage profond, la moitié d’une décennie pour les *LLM*. Les capacités de ces modèles de langage s'étendent rapidement, et si les expériences du passé éclairent peu sur les capacités futures, rien pour le moment ne vient contredire cette tendance. La trajectoire du développement de ces modèles nous mène vers des risques d’augmentation brusque et incontrôlée de leurs capacités.
+Les IA actuelles sont en rupture totale avec les paradigmes précédents : opaques, « cultivées » plus que programmées, étonnantes dans leurs réussites comme dans leurs erreurs, elles se rapprochent plus que jamais de l’objectif du champ de recherche en IA, qui est de créer des machines qui pensent. Le paradigme, et les capacités qui l’accompagnent, sont tout jeunes – à peine plus d’une décennie pour l’apprentissage profond, la moitié d’une décennie pour les *LLM*. Les capacités de ces modèles de langage s'étendent rapidement, et si les expériences du passé éclairent peu sur les capacités futures, rien pour le moment ne vient contredire cette tendance. La trajectoire du développement de ces modèles nous mène vers des risques d’augmentation brusque et incontrôlée de leurs capacités.
 
-## E — La trajectoire actuelle de l’IA {#e-—-la-trajectoire-actuelle-de-l’ia}
+## **E — La trajectoire actuelle de l’IA** {#e-—-la-trajectoire-actuelle-de-l’ia}
 
-Le premier facteur influençant la trajectoire actuelle de l'IA est la possibilité d'anticiper l'amélioration des modèles grâce aux « *scaling laws* », ou lois d'échelle, qui stipulent que l’efficacité des modèles de langage augmente logarithmiquement en fonction de leur taille, c’est-à-dire de la quantité de données et de calcul utilisée pour leur entraînement [\[222\]](https://paperpile.com/c/Lj1YHA/j7wd). Depuis leur découverte récente, ces lois de scalabilité ont fait l'objet de nombreuses critiques, plusieurs chercheurs prédisant leur obsolescence à courte échéance. Malgré ces mises à l'épreuve, l'augmentation spectaculaire de la taille des modèles, qui s'est étendue sur plusieurs ordres de grandeur, a plusieurs fois réaffirmé leur validité et leur pertinence. Les entreprises développant ces modèles parient en partie sur leur continuité [\[223\]](https://paperpile.com/c/Lj1YHA/jhmY), cherchant à obtenir plus de données et de capacités de calcul, par exemple en générant artificiellement des données avec d’autres IA [\[224\]](https://paperpile.com/c/Lj1YHA/MN3d) et en construisant de nombreux « *GPU clusters* », à l’instar de Microsoft, qui projette même la construction d’une centrale nucléaire pour leur alimentation en électricité [\[225\]](https://paperpile.com/c/Lj1YHA/uQb0).
+Le premier facteur influençant la trajectoire actuelle de l'IA est la possibilité d'anticiper l'amélioration des modèles grâce aux « *scaling laws* », ou lois d'échelle, qui stipulent que l’efficacité des modèles de langage augmente logarithmiquement en fonction de leur taille, c’est-à-dire de la quantité de données et de calcul utilisée pour leur entraînement [\[222\]](#bookmark=id.vvkn7aolx406). Depuis leur découverte récente, ces lois de scalabilité ont fait l'objet de nombreuses critiques, plusieurs chercheurs prédisant leur obsolescence à courte échéance. Malgré ces mises à l'épreuve, l'augmentation spectaculaire de la taille des modèles, qui s'est étendue sur plusieurs ordres de grandeur, a plusieurs fois réaffirmé leur validité et leur pertinence. Les entreprises développant ces modèles parient en partie sur leur continuité [\[223\]](#bookmark=id.iuxjosry8oko), cherchant à obtenir plus de données et de capacités de calcul, par exemple en générant artificiellement des données avec d’autres IA [\[224\]](#bookmark=id.szij4ytutteo) et en construisant de nombreux « *GPU clusters* », à l’instar de Microsoft, qui projette même la construction d’une centrale nucléaire pour leur alimentation en électricité [\[225\]](#bookmark=id.ibrjzn9uzdrg).
 
-Des efforts considérables sont consacrés à la création de nouvelles puces et au développement de processeurs plus puissants. Par exemple, Sam Altman, PDG d’OpenAI, a récemment annoncé un projet de plusieurs milliers de milliards de dollars avec les Émirats Arabes Unis pour la construction de nouvelles puces destinées à l’entraînement des modèles [\[226\]](https://paperpile.com/c/Lj1YHA/BLf1).
+Des efforts considérables sont consacrés à la création de nouvelles puces et au développement de processeurs plus puissants. Par exemple, Sam Altman, PDG d’OpenAI, a récemment annoncé un projet de plusieurs milliers de milliards de dollars avec les Émirats Arabes Unis pour la construction de nouvelles puces destinées à l’entraînement des modèles [\[226\]](#bookmark=id.a6ldop1k84ae).
 
-Cette course à la puissance de calcul est désormais internationale et prend une tournure géopolitique (p. ex. [\[227\]](https://paperpile.com/c/Lj1YHA/9Rz1)). Les capacités de calcul actuelles sont déjà potentiellement supérieures à celles strictement nécessaires à la création de modèles aussi capables, voire plus, qu'un être humain dans la majorité des tâches. Ce phénomène, appelé « *compute overhang* », désigne une situation où une amélioration des modèles pourrait survenir de manière brusque avec la découverte d’algorithmes plus efficaces, multipliant soudainement la valeur des capacités de calcul déjà existantes.
+Cette course à la puissance de calcul est désormais internationale et prend une tournure géopolitique (p. ex. [\[227\]](#bookmark=id.d7q2h28t7x8k)). Les capacités de calcul actuelles sont déjà potentiellement supérieures à celles strictement nécessaires à la création de modèles aussi capables, voire plus, qu'un être humain dans la majorité des tâches. Ce phénomène, appelé « *compute overhang* », désigne une situation où une amélioration des modèles pourrait survenir de manière brusque avec la découverte d’algorithmes plus efficaces, multipliant soudainement la valeur des capacités de calcul déjà existantes.
 
-Les jeux de données utilisés pour l'entraînement connaissent également des transformations profondes. La qualité des données joue un rôle crucial dans la performance du modèle, et des efforts importants sont faits pour leur collecte [\[228\]](https://paperpile.com/c/Lj1YHA/NJv1) et leur curation. Une innovation particulièrement notable des années 2023 et 2024 est la multimodalité des modèles, entraînés sur des images, des vidéos et du son en plus du texte [\[229\], \[230\]](https://paperpile.com/c/Lj1YHA/gyNZ+9o8S). Les premiers modèles nativement multimodaux sont en développement, et ils pourraient combiner l'efficacité des modèles spécialisés avec la généralité des *LLM*.
+Les jeux de données utilisés pour l'entraînement connaissent également des transformations profondes. La qualité des données joue un rôle crucial dans la performance du modèle, et des efforts importants sont faits pour leur collecte [\[228\]](#bookmark=id.1t49h96n45em) et leur curation. Une innovation particulièrement notable des années 2023 et 2024 est la multimodalité des modèles, entraînés sur des images, des vidéos et du son en plus du texte [\[229\]](#bookmark=id.e1gny3afxnz3), [\[230\]](#bookmark=id.okkcq9f8zrfe). Les premiers modèles nativement multimodaux sont en développement, et ils pourraient combiner l'efficacité des modèles spécialisés avec la généralité des *LLM*.
 
-Le *scaffolding* (ou « enrobage », voir *annexe D*) des modèles multimodaux sera probablement un élément clé des systèmes destinés à améliorer leurs compétences. Enfin, les paradigmes précédents de l’histoire l'IA ne sont pas oubliés et un effort important est fourni pour tenter de les appliquer aux modèles actuels, produisant des phénomènes de « pollinisation croisée » dont on peut craindre qu'ils débouchent rapidement sur la création de superintelligences (p. ex. [\[231\]](https://paperpile.com/c/Lj1YHA/6tnG)).
+Le *scaffolding* (ou « enrobage », voir *annexe D*) des modèles multimodaux sera probablement un élément clé des systèmes destinés à améliorer leurs compétences. Enfin, les paradigmes précédents de l’histoire l'IA ne sont pas oubliés et un effort important est fourni pour tenter de les appliquer aux modèles actuels, produisant des phénomènes de « pollinisation croisée » dont on peut craindre qu'ils débouchent rapidement sur la création de superintelligences (p. ex. [\[231\]](#bookmark=id.3ol70fps30ii)).
 
-Une prochaine étape de l’histoire de l’IA aujourd'hui largement discutée est celle des agents autonomes (p. ex. [\[232\]](https://paperpile.com/c/Lj1YHA/cJol)). On peut s'attendre à ce que l’essentiel de la valeur ajoutée de l’intelligence artificielle tienne dans sa capacité à exécuter des tâches complexes à la place des humains, simultanément, efficacement, rapidement et à grande échelle. Pour ce faire, les IA doivent pouvoir choisir un plan d'action, définir des étapes et sous-tâches, et mettre en œuvre ce plan de manière autonome. Plus les modèles sont capables et autonomes, plus ils peuvent agir dans le monde. Plus ils peuvent agir dans le monde, plus ils sont utiles.
+Une prochaine étape de l’histoire de l’IA aujourd'hui largement discutée est celle des agents autonomes (p. ex. [\[232\]](#bookmark=id.dll4gdql88df)). On peut s'attendre à ce que l’essentiel de la valeur ajoutée de l’intelligence artificielle tienne dans sa capacité à exécuter des tâches complexes à la place des humains, simultanément, efficacement, rapidement et à grande échelle. Pour ce faire, les IA doivent pouvoir choisir un plan d'action, définir des étapes et sous-tâches, et mettre en œuvre ce plan de manière autonome. Plus les modèles sont capables et autonomes, plus ils peuvent agir dans le monde. Plus ils peuvent agir dans le monde, plus ils sont utiles.
 
-# Bibliographie {#bibliographie}
+# 
 
-\[1\]	[“Comité de l’intelligence artificielle générative,” *info.gouv.fr*. Available:](http://paperpile.com/b/Lj1YHA/njwm) [https://www.info.gouv.fr/communique/comite-de-lintelligence-artificielle](https://www.info.gouv.fr/communique/comite-de-lintelligence-artificielle)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/njwm)  
-\[2\]	[“Le rapport IA : notre ambition pour la France.” Available:](http://paperpile.com/b/Lj1YHA/pQNq) [https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/pQNq)  
-\[3\]	[“Myanmar: The social atrocity: Meta and the right to remedy for the Rohingya,” *Amnesty International*, Sep. 28, 2022\. Available:](http://paperpile.com/b/Lj1YHA/UW6R) [https://www.amnesty.org/en/documents/ASA16/5933/2022/en/](https://www.amnesty.org/en/documents/ASA16/5933/2022/en/)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/UW6R)  
-\[4\]	[Amnesty International UK, “Ethiopia: Facebook algorithms contributed to human rights abuses against Tigrayans during conflict \- New Report,” *Amnesty International UK*, Oct. 30, 2023\. Available:](http://paperpile.com/b/Lj1YHA/FcFU) [https://www.amnesty.org.uk/press-releases/ethiopia-facebook-algorithms-contributed-human-rights-abuses-against-tigrayans](https://www.amnesty.org.uk/press-releases/ethiopia-facebook-algorithms-contributed-human-rights-abuses-against-tigrayans)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/FcFU)  
-\[5\]	[R. Manuvie, I. Mony, A. Kahle, and M. N. Khan, “Preachers of Hate: Documenting Hate Speech on Facebook India.” Available:](http://paperpile.com/b/Lj1YHA/bc3U) [https://research.rug.nl/en/publications/preachers-of-hate-documenting-hate-speech-on-facebook-india](https://research.rug.nl/en/publications/preachers-of-hate-documenting-hate-speech-on-facebook-india)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/bc3U)  
-\[6\]	[Center for AI Safety, “Statement on AI risk,” *CAIS | Center for AI Safety*. Available:](http://paperpile.com/b/Lj1YHA/ZHUVH) [https://www.safe.ai/work/statement-on-ai-risk](https://www.safe.ai/work/statement-on-ai-risk)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/ZHUVH)  
-\[7\]	[“Pause giant AI experiments: An open letter,” *Future of Life Institute*, Mar. 22, 2023\. Available:](http://paperpile.com/b/Lj1YHA/9alFH) [https://futureoflife.org/open-letter/pause-giant-ai-experiments/](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/9alFH)  
-\[8\]	[K. Bryant, “How AI Is Impacting Society And Shaping The Future,” *Forbes Magazine*, Dec. 13, 2023\. Available:](http://paperpile.com/b/Lj1YHA/bGJf5) [https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/](https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/bGJf5)  
-\[9\]	[A. Jindal and A. Sharma, “THE IMPACT OF ARTIFICIAL INTELLIGENCE ON SOCIETY,” Mar. 18, 2024\. doi:](http://paperpile.com/b/Lj1YHA/JHeRt) [10.13140/RG.2.2.18522.96968.](http://dx.doi.org/10.13140/RG.2.2.18522.96968.) [Available:](http://paperpile.com/b/Lj1YHA/JHeRt) [https://www.researchgate.net/publication/379038753\_THE\_IMPACT\_OF\_ARTIFICIAL\_INTELLIGENCE\_ON\_SOCIETY](https://www.researchgate.net/publication/379038753\_THE\_IMPACT\_OF\_ARTIFICIAL\_INTELLIGENCE\_ON\_SOCIETY)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/JHeRt)  
-\[10\]	[“Mission d’appui du CGE à la Commission de l'intelligence artificielle.” Available:](http://paperpile.com/b/Lj1YHA/n3TB) [https://www.economie.gouv.fr/cge/commission-ia](https://www.economie.gouv.fr/cge/commission-ia)[. \[Accessed: Sep. 03, 2024\]](http://paperpile.com/b/Lj1YHA/n3TB)  
-\[11\]	[P. Aghion and A. Bouverot, *IA : notre ambition pour la France*. Odile Jacob, 2024\.](http://paperpile.com/b/Lj1YHA/RlZdK)  
-\[12\]	[C. Blanchot, “« Il est inconcevable que le déploiement de l’intelligence artificielle se fasse sans débat public et sans évaluation de son impact sur notre travail »,” *Le Monde*, Le Monde, May 16, 2024\. Available:](http://paperpile.com/b/Lj1YHA/tJERX) [https://www.lemonde.fr/idees/article/2024/05/16/il-est-inconcevable-que-le-deploiement-de-l-intelligence-artificielle-se-fasse-sans-debat-public-et-sans-evaluation-de-son-impact-sur-notre-travail\_6233566\_3232.html](https://www.lemonde.fr/idees/article/2024/05/16/il-est-inconcevable-que-le-deploiement-de-l-intelligence-artificielle-se-fasse-sans-debat-public-et-sans-evaluation-de-son-impact-sur-notre-travail\_6233566\_3232.html)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/tJERX)  
-\[13\]	[“Pour une IA française tournée vers l’avenir.” Available:](http://paperpile.com/b/Lj1YHA/E1ByA) [https://www.securite-ia.fr/post/pour-une-ia-francaise-tournee-vers-lavenir](https://www.securite-ia.fr/post/pour-une-ia-francaise-tournee-vers-lavenir)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/E1ByA)  
-\[14\]	[Wikipedia contributors, “AI safety,” *Wikipedia, The Free Encyclopedia*, Aug. 11, 2024\. Available:](http://paperpile.com/b/Lj1YHA/OHEaU) [https://en.wikipedia.org/w/index.php?title=AI\_safety\&oldid=1239791378](https://en.wikipedia.org/w/index.php?title=AI\_safety\&oldid=1239791378)  
-\[15\]	[S. Russell, *Human Compatible: AI and the Problem of Control*. Penguin UK, 2019\.](http://paperpile.com/b/Lj1YHA/EkZ6a)  
-\[16\]	[J. Mecklin, “‘AI Godfather’ Yoshua Bengio: We need a humanity defense organization,” *Bulletin of the Atomic Scientists*, Oct. 17, 2023\. Available:](http://paperpile.com/b/Lj1YHA/iDjcd) [https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/iDjcd)  
-\[17\]	[“Reasoning through arguments against taking AI safety seriously,” *Yoshua Bengio*, Jul. 09, 2024\. Available:](http://paperpile.com/b/Lj1YHA/4Q43v) [https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/](https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/4Q43v)  
-\[18\]	[“Video: Geoffrey Hinton talks about the ‘existential threat’ of AI,” *MIT Technology Review*, May 03, 2023\. Available:](http://paperpile.com/b/Lj1YHA/1PQbF) [https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/](https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/1PQbF)  
-\[19\]	[S. Cave, “Risks from Artificial Intelligence.” Available:](http://paperpile.com/b/Lj1YHA/ACck5) [https://www.cser.ac.uk/research/risks-from-artificial-intelligence](https://www.cser.ac.uk/research/risks-from-artificial-intelligence)[. \[Accessed: Aug. 19, 2024\]](http://paperpile.com/b/Lj1YHA/ACck5)  
-\[20\]	[“Center for AI safety (CAIS).” Available:](http://paperpile.com/b/Lj1YHA/a5zmM) [https://www.safe.ai/](https://www.safe.ai/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/a5zmM)  
-\[21\]	[“Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity.” Available:](http://paperpile.com/b/Lj1YHA/8z7wC) [https://humancompatible.ai/](https://humancompatible.ai/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/8z7wC)  
-\[22\]	[F. Gustafsson, “Automotive safety systems,” *IEEE Signal Process. Mag.*, vol. 26, no. 4, pp. 32–47, Jul. 2009\.](http://paperpile.com/b/Lj1YHA/41Str)  
-\[23\]	[“Introducing Superalignment.” Available:](http://paperpile.com/b/Lj1YHA/RA8ba) [https://openai.com/index/introducing-superalignment/](https://openai.com/index/introducing-superalignment/)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/RA8ba)  
-\[24\]	[K. Wiggers, “Google DeepMind forms a new org focused on AI safety,” *TechCrunch*, Feb. 21, 2024\. Available:](http://paperpile.com/b/Lj1YHA/OANrS) [https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/](https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/OANrS)  
-\[25\]	[“Anca Dragan named Head of AI Safety and Alignment at Google DeepMind,” *EECS at Berkeley*, Mar. 28, 2024\. Available:](http://paperpile.com/b/Lj1YHA/Pqb3O) [https://eecs.berkeley.edu/news/anca-dragan-named-head-of-ai-safety-and-alignment-at-google-deepmind](https://eecs.berkeley.edu/news/anca-dragan-named-head-of-ai-safety-and-alignment-at-google-deepmind)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/Pqb3O)  
-\[26\]	[“Responsibility & safety,” *Google DeepMind*. Available:](http://paperpile.com/b/Lj1YHA/nQoWs) [https://deepmind.google/about/responsibility-safety/](https://deepmind.google/about/responsibility-safety/)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/nQoWs)  
-\[27\]	[K. Wiggers, “Anthropic hires former OpenAI safety lead to head up new team,” *TechCrunch*, May 28, 2024\. Available:](http://paperpile.com/b/Lj1YHA/rYuw4) [https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/rYuw4)  
-\[28\]	[“Research.” Available:](http://paperpile.com/b/Lj1YHA/9Wk0X) [https://www.anthropic.com/research](https://www.anthropic.com/research)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/9Wk0X)  
-\[29\]	[“Stanford AI safety.” Available:](http://paperpile.com/b/Lj1YHA/w7vcI) [https://aisafety.stanford.edu/](https://aisafety.stanford.edu/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/w7vcI)  
-\[30\]	[“MIT AI alignment,” *MIT AI Alignment*. Available:](http://paperpile.com/b/Lj1YHA/Q1Rnf) [https://www.mitalignment.org/](https://www.mitalignment.org/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/Q1Rnf)  
-\[31\]	[“DeCal.” Available:](http://paperpile.com/b/Lj1YHA/ebkar) [https://decal.studentorg.berkeley.edu/courses/7142](https://decal.studentorg.berkeley.edu/courses/7142)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/ebkar)  
-\[32\]	[“SafeAI: Safe Artificial Intelligence.” Available:](http://paperpile.com/b/Lj1YHA/kefcN) [https://safeai.ethz.ch/](https://safeai.ethz.ch/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/kefcN)  
-\[33\]	[“Turing seminar – an introduction to AGI safety – master MVA.” Available:](http://paperpile.com/b/Lj1YHA/pYJaM) [https://www.master-mva.com/cours/seminaire-turing/](https://www.master-mva.com/cours/seminaire-turing/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/pYJaM)  
-\[34\]	[“Inauguration de la Chaire « Intelligence artificielle de confiance et responsable »,” *École polytechnique, école d’ingénieur*. Available:](http://paperpile.com/b/Lj1YHA/vnZt4) [https://www.polytechnique.edu/actualites/inauguration-de-la-chaire-intelligence-artificielle-de-confiance-et-responsable](https://www.polytechnique.edu/actualites/inauguration-de-la-chaire-intelligence-artificielle-de-confiance-et-responsable)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/vnZt4)  
-\[35\]	[D. Hendrycks, M. Mazeika, and T. Woodside, “An Overview of Catastrophic AI Risks,” *arXiv \[cs.CY\]*, Jun. 21, 2023\. Available:](http://paperpile.com/b/Lj1YHA/jAhIf) [http://arxiv.org/abs/2306.12001](http://arxiv.org/abs/2306.12001)  
-\[36\]	[L. Weidinger *et al.*, “Ethical and social risks of harm from Language Models,” *arXiv \[cs.CL\]*, Dec. 08, 2021\. Available:](http://paperpile.com/b/Lj1YHA/nrSUJ) [http://arxiv.org/abs/2112.04359](http://arxiv.org/abs/2112.04359)  
-\[37\]	[“Panorama,” *Kardiologe*, vol. 3, no. 3, pp. 192–193, Jun. 2009\.](http://paperpile.com/b/Lj1YHA/lThe0)  
-\[38\]	[P. Blanchard, E. M. El Mhamdi, R. Guerraoui, and J. Stainer, “Machine learning with adversaries: Byzantine tolerant gradient descent,” *Adv. Neural Inf. Process. Syst.*, pp. 119–129, Dec. 2017\.](http://paperpile.com/b/Lj1YHA/kbkf)  
-\[39\]	[E.-M. El-Mhamdi *et al.*, “On the Impossible Safety of Large AI Models,” *arXiv \[cs.LG\]*, Sep. 30, 2022\. Available:](http://paperpile.com/b/Lj1YHA/B1i0) [http://arxiv.org/abs/2209.15259](http://arxiv.org/abs/2209.15259)  
-\[40\]	[B. Biggio, B. Nelson, and P. Laskov, “Poisoning Attacks against Support Vector Machines,” *arXiv \[cs.LG\]*, Jun. 27, 2012\. Available:](http://paperpile.com/b/Lj1YHA/neOV) [http://arxiv.org/abs/1206.6389](http://arxiv.org/abs/1206.6389)  
-\[41\]	[F. Tramèr *et al.*, “Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets,” in *Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security*, in CCS ’22. New York, NY, USA: Association for Computing Machinery, Nov. 2022, pp. 2779–2792.](http://paperpile.com/b/Lj1YHA/zAJo)  
-\[42\]	[N. Carlini *et al.*, “Are aligned neural networks adversarially aligned?,” *Adv. Neural Inf. Process. Syst.*, vol. 36, 2024, Available:](http://paperpile.com/b/Lj1YHA/s84s) [https://proceedings.neurips.cc/paper\_files/paper/2023/hash/c1f0b856a35986348ab3414177266f75-Abstract-Conference.html](https://proceedings.neurips.cc/paper\_files/paper/2023/hash/c1f0b856a35986348ab3414177266f75-Abstract-Conference.html)  
-\[43\]	[E. Debenedetti *et al.*, “Privacy Side Channels in Machine Learning Systems,” *arXiv \[cs.CR\]*, Sep. 11, 2023\. Available:](http://paperpile.com/b/Lj1YHA/IxKS) [http://arxiv.org/abs/2309.05610](http://arxiv.org/abs/2309.05610)  
-\[44\]	[Y. Huang, S. Gupta, M. Xia, K. Li, and D. Chen, “Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation,” *arXiv \[cs.CL\]*, Oct. 10, 2023\. Available:](http://paperpile.com/b/Lj1YHA/cvcT) [http://arxiv.org/abs/2310.06987](http://arxiv.org/abs/2310.06987)  
-\[45\]	[X. Liu, N. Xu, M. Chen, and C. Xiao, “AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models,” *arXiv \[cs.CL\]*, Oct. 03, 2023\. Available:](http://paperpile.com/b/Lj1YHA/fjeD) [http://arxiv.org/abs/2310.04451](http://arxiv.org/abs/2310.04451)  
-\[46\]	[J. Rando and F. Tramèr, “Universal Jailbreak Backdoors from Poisoned Human Feedback,” *arXiv \[cs.AI\]*, Nov. 24, 2023\. Available:](http://paperpile.com/b/Lj1YHA/HF25) [http://arxiv.org/abs/2311.14455](http://arxiv.org/abs/2311.14455)  
-\[47\]	[“Specification gaming: the flip side of AI ingenuity,” *Google DeepMind*. Available:](http://paperpile.com/b/Lj1YHA/WJo1q) [https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/](https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/WJo1q)  
-\[48\]	[Z. Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protest*. Yale University Press, 2017\.](http://paperpile.com/b/Lj1YHA/jbv1)  
-\[49\]	[S. Aral, *The Hype Machine: How Social Media Disrupts Our Elections, Our Economy and Our Health – and How We Must Adapt*. HarperCollins, 2020\.](http://paperpile.com/b/Lj1YHA/ETao)  
-\[50\]	[L. N. Hoang, “Science Communication Desperately Needs More Aligned Recommendation Algorithms,” *Frontiers in Communication*, vol. 5, 2020, doi:](http://paperpile.com/b/Lj1YHA/4n95) [10.3389/fcomm.2020.598454.](http://dx.doi.org/10.3389/fcomm.2020.598454.) [Available:](http://paperpile.com/b/Lj1YHA/4n95) [https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2020.598454](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2020.598454)  
-\[51\]	[M. K. Lee *et al.*, “WeBuildAI: Participatory Framework for Algorithmic Governance,” *Proc. ACM Hum.-Comput. Interact.*, vol. 3, no. CSCW, pp. 1–35, Nov. 2019\.](http://paperpile.com/b/Lj1YHA/AoT1)  
-\[52\]	[R. Noothigattu *et al.*, “A Voting-Based System for Ethical Decision Making,” *AAAI*, vol. 32, no. 1, Apr. 2018, doi:](http://paperpile.com/b/Lj1YHA/q00m) [10.1609/aaai.v32i1.11512.](http://dx.doi.org/10.1609/aaai.v32i1.11512.) [Available:](http://paperpile.com/b/Lj1YHA/q00m) [https://ojs.aaai.org/index.php/AAAI/article/view/11512](https://ojs.aaai.org/index.php/AAAI/article/view/11512)[. \[Accessed: Aug. 30, 2024\]](http://paperpile.com/b/Lj1YHA/q00m)  
-\[53\]	[L. N. Hoang *et al.*, “Tournesol: Permissionless Collaborative Algorithmic Governance with Security Guarantees,” *arXiv \[cs.SI\]*, Oct. 30, 2022\. Available:](http://paperpile.com/b/Lj1YHA/EiMQ) [http://arxiv.org/abs/2211.01179](http://arxiv.org/abs/2211.01179)  
-\[54\]	[R. A. Bradley and M. E. Terry, “Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons,” *Biometrika*, vol. 39, no. 3/4, pp. 324–345, 1952\.](http://paperpile.com/b/Lj1YHA/602z)  
-\[55\]	[J. Fageot, S. Farhadkhani, L.-N. Hoang, and O. Villemaud, “Generalized Bradley-Terry Models for Score Estimation from Paired Comparisons,” *AAAI*, vol. 38, no. 18, pp. 20379–20386, Mar. 2024\.](http://paperpile.com/b/Lj1YHA/zGls)  
-\[56\]	[H. T. Pham, K. N. Nguyen, V. H. Phun, and T. K. Dang, “Secure Recommender System based on Neural Collaborative Filtering and Federated Learning,” in *2022 International Conference on Advanced Computing and Analytics (ACOMPA)*, IEEE, Nov. 2022, pp. 1–11.](http://paperpile.com/b/Lj1YHA/V0tq)  
-\[57\]	[J. Ding, Y. Quan, Q. Yao, Y. Li, and D. Jin, “Simplify and robustify negative sampling for implicit collaborative filtering,” *Adv. Neural Inf. Process. Syst.*, vol. abs/2009.03376, Sep. 2020, Available:](http://paperpile.com/b/Lj1YHA/vr6H) [https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html](https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html)  
-\[58\]	[Wikipedia contributors, “Reinforcement learning from human feedback,” *Wikipedia, The Free Encyclopedia*, Jul. 13, 2024\. Available:](http://paperpile.com/b/Lj1YHA/c1jSf) [https://en.wikipedia.org/w/index.php?title=Reinforcement\_learning\_from\_human\_feedback\&oldid=1234302797](https://en.wikipedia.org/w/index.php?title=Reinforcement\_learning\_from\_human\_feedback\&oldid=1234302797)  
-\[59\]	[P. Christiano, J. Leike, T. B. Brown, M. Martic, S. Legg, and D. Amodei, “Deep reinforcement learning from human preferences,” *arXiv \[stat.ML\]*, Jun. 12, 2017\. Available:](http://paperpile.com/b/Lj1YHA/EVd5M) [http://arxiv.org/abs/1706.03741](http://arxiv.org/abs/1706.03741)  
-\[60\]	[N. Nanda, “A comprehensive mechanistic interpretability explainer & glossary,” *Neel Nanda*, Dec. 21, 2022\. Available:](http://paperpile.com/b/Lj1YHA/z1KPj) [https://www.neelnanda.io/mechanistic-interpretability/glossary](https://www.neelnanda.io/mechanistic-interpretability/glossary)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/z1KPj)  
-\[61\]	[L. Bereska and E. Gavves, “Mechanistic Interpretability for AI Safety \-- A Review,” *arXiv \[cs.AI\]*, Apr. 22, 2024\. Available:](http://paperpile.com/b/Lj1YHA/N6j1M) [http://arxiv.org/abs/2404.14082](http://arxiv.org/abs/2404.14082)  
-\[62\]	[D. Rai, Y. Zhou, S. Feng, A. Saparov, and Z. Yao, “A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models,” *arXiv \[cs.AI\]*, Jul. 02, 2024\. Available:](http://paperpile.com/b/Lj1YHA/ol3n) [http://arxiv.org/abs/2407.02646](http://arxiv.org/abs/2407.02646)  
-\[63\]	[“Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations,” *NIST*. Available:](http://paperpile.com/b/Lj1YHA/X6DN) [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/X6DN)  
-\[64\]	[“\[No title\].” Available:](http://paperpile.com/b/Lj1YHA/SATz) [https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/SATz)  
-\[65\]	[“Centre pour la Sécurité de l’IA.” Available:](http://paperpile.com/b/Lj1YHA/jCc4) [https://www.securite-ia.fr](https://www.securite-ia.fr)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/jCc4)  
-\[66\]	[“2022 expert survey on progress in AI,” *AI Impacts*, Aug. 04, 2022\. Available:](http://paperpile.com/b/Lj1YHA/gKMlA) [https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/gKMlA)  
-\[67\]	[“Yoshua Bengio.” Available:](http://paperpile.com/b/Lj1YHA/MFz3B) [https://amturing.acm.org/award\_winners/bengio\_3406375.cfm](https://amturing.acm.org/award\_winners/bengio\_3406375.cfm)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/MFz3B)  
-\[68\]	[“Geoffrey E. Hinton,” in *Talking Nets*, The MIT Press, 2000\.](http://paperpile.com/b/Lj1YHA/Mnnqa)  
-\[69\]	[METR (Model Evaluation & Threat Research), “Q\&A with Geoffrey Hinton,” Jun. 27, 2024\. Available:](http://paperpile.com/b/Lj1YHA/RhFQ) [https://www.youtube.com/watch?v=PTF5Up1hMhw](https://www.youtube.com/watch?v=PTF5Up1hMhw)[. \[Accessed: Sep. 04, 2024\]](http://paperpile.com/b/Lj1YHA/RhFQ)  
-\[70\]	[“4 Charts That Show Why AI Progress Is Unlikely to Slow Down,” *Time*. Available:](http://paperpile.com/b/Lj1YHA/J1rha) [https://time.com/6300942/ai-progress-charts/](https://time.com/6300942/ai-progress-charts/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/J1rha)  
-\[71\]	[“AI index report 2024 – artificial intelligence index.” Available:](http://paperpile.com/b/Lj1YHA/SO7VM) [https://aiindex.stanford.edu/report/](https://aiindex.stanford.edu/report/)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/SO7VM)  
-\[72\]	[“International scientific report on the safety of advanced AI,” *GOV.UK*, May 17, 2024\. Available:](http://paperpile.com/b/Lj1YHA/l9prH) [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/l9prH)  
-\[73\]	[M. K. Cohen, N. Kolt, Y. Bengio, G. K. Hadfield, and S. Russell, “Regulating advanced artificial agents,” *Science*, vol. 384, no. 6691, pp. 36–38, Apr. 2024\.](http://paperpile.com/b/Lj1YHA/4gTo0)  
-\[74\]	[*AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters*. Github. Available:](http://paperpile.com/b/Lj1YHA/0i8J7) [https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/0i8J7)  
-\[75\]	[“Cognition.” Available:](http://paperpile.com/b/Lj1YHA/h9xmn) [https://www.cognition.ai/blog/introducing-devin](https://www.cognition.ai/blog/introducing-devin)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/h9xmn)  
-\[76\]	[“Genie: SOTA Software engineering model.” Available:](http://paperpile.com/b/Lj1YHA/Or9th) [https://cosine.sh/genie](https://cosine.sh/genie)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/Or9th)  
-\[77\]	[C. Lu, C. Lu, R. T. Lange, J. Foerster, J. Clune, and D. Ha, “The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery,” *arXiv \[cs.AI\]*, Aug. 12, 2024\. Available:](http://paperpile.com/b/Lj1YHA/4niiz) [http://arxiv.org/abs/2408.06292](http://arxiv.org/abs/2408.06292)  
-\[78\]	[“Capital industriel moderne, demande de travail et dynamique des marchés de produits : le cas de la France.” Available:](http://paperpile.com/b/Lj1YHA/tWnpW) [https://www.insee.fr/fr/statistiques/7613948](https://www.insee.fr/fr/statistiques/7613948)[. \[Accessed: Aug. 11, 2024\]](http://paperpile.com/b/Lj1YHA/tWnpW)  
-\[79\]	[L. Odot, “Are online recommendation algorithms polarising users’ views?,” *Polytechnique Insights*, Jan. 24, 2024\. Available:](http://paperpile.com/b/Lj1YHA/9Fli5) [https://www.polytechnique-insights.com/en/columns/digital/are-recommendation-algorithms-a-source-of-polarization/](https://www.polytechnique-insights.com/en/columns/digital/are-recommendation-algorithms-a-source-of-polarization/)[. \[Accessed: Aug. 25, 2024\]](http://paperpile.com/b/Lj1YHA/9Fli5)  
-\[80\]	[Y. Shi, “How Social Media and Embedded Recommender Algorithm Fostered Political Issues,” Clark University, 2021\. Available:](http://paperpile.com/b/Lj1YHA/daQNE) [https://commons.clarku.edu/sps\_masters\_papers/91/](https://commons.clarku.edu/sps\_masters\_papers/91/)[. \[Accessed: Aug. 25, 2024\]](http://paperpile.com/b/Lj1YHA/daQNE)  
-\[81\]	[P. Törnberg, “How digital media drive affective polarization through partisan sorting,” *Proc. Natl. Acad. Sci. U. S. A.*, vol. 119, no. 42, p. e2207159119, Oct. 2022\.](http://paperpile.com/b/Lj1YHA/hCZpk)  
-\[82\]	[K. Duskin, J. S. Schafer, J. D. West, and E. S. Spiro, “Echo Chambers in the Age of Algorithms: An Audit of Twitter’s Friend Recommender System,” *arXiv \[cs.SI\]*, Apr. 09, 2024\. Available:](http://paperpile.com/b/Lj1YHA/gZ06F) [http://arxiv.org/abs/2404.06422](http://arxiv.org/abs/2404.06422)  
-\[83\]	[Y. Gao, F. Liu, and L. Gao, “Echo chamber effects on short video platforms,” *Sci. Rep.*, vol. 13, no. 1, p. 6282, Apr. 2023\.](http://paperpile.com/b/Lj1YHA/TC7VT)  
-\[84\]	[“Myanmar: Time for Meta to pay reparations to Rohingya for role in ethnic cleansing,” *Amnesty International*, Aug. 25, 2023\. Available:](http://paperpile.com/b/Lj1YHA/0uKTV) [https://www.amnesty.org/en/latest/news/2023/08/myanmar-time-for-meta-to-pay-reparations-to-rohingya-for-role-in-ethnic-cleansing/](https://www.amnesty.org/en/latest/news/2023/08/myanmar-time-for-meta-to-pay-reparations-to-rohingya-for-role-in-ethnic-cleansing/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/0uKTV)  
-\[85\]	[J. Whittaker, S. Looney, A. Reed, and F. Votta, “Recommender systems and the amplification of extremist content,” *Internet Pol. Rev.*, vol. 10, no. 2, Jun. 2021, doi:](http://paperpile.com/b/Lj1YHA/DSChX) [10.14763/2021.2.1565.](http://dx.doi.org/10.14763/2021.2.1565.) [Available:](http://paperpile.com/b/Lj1YHA/DSChX) [https://policyreview.info/articles/analysis/recommender-systems-and-amplification-extremist-content](https://policyreview.info/articles/analysis/recommender-systems-and-amplification-extremist-content)  
-\[86\]	[R. Bellanova, K. Irion, K. Lindskov Jacobsen, F. Ragazzi, R. Saugmann, and L. Suchman, “Toward a Critique of Algorithmic Violence,” *Int Polit Sociol*, vol. 15, no. 1, pp. 121–150, Mar. 2021\.](http://paperpile.com/b/Lj1YHA/Jybtw)  
-\[87\]	[T. T. Nguyen *et al.*, “Manipulating Recommender Systems: A Survey of Poisoning Attacks and Countermeasures,” *arXiv \[cs.CR\]*, Apr. 23, 2024\. Available:](http://paperpile.com/b/Lj1YHA/zgneg) [http://arxiv.org/abs/2404.14942](http://arxiv.org/abs/2404.14942)  
-\[88\]	[Z. Zhu *et al.*, “Understanding or Manipulation: Rethinking Online Performance Gains of Modern Recommender Systems,” *ACM Trans. Inf. Syst. Secur.*, vol. 42, no. 4, pp. 1–32, Feb. 2024\.](http://paperpile.com/b/Lj1YHA/QZEm0)  
-\[89\]	[Wikipedia contributors, “Russian interference in the 2016 United States elections,” *Wikipedia, The Free Encyclopedia*, Aug. 18, 2024\. Available:](http://paperpile.com/b/Lj1YHA/0TqLp) [https://en.wikipedia.org/w/index.php?title=Russian\_interference\_in\_the\_2016\_United\_States\_elections\&oldid=1240980413](https://en.wikipedia.org/w/index.php?title=Russian\_interference\_in\_the\_2016\_United\_States\_elections\&oldid=1240980413)  
-\[90\]	[K. Dilanian, “Russian trolls who interfered in 2016 U.S. election also made ad money, report says,” *NBC News*, Jun. 05, 2019\. Available:](http://paperpile.com/b/Lj1YHA/6bUip) [https://www.nbcnews.com/politics/national-security/russian-trolls-who-interfered-2016-u-s-election-also-made-n1013811](https://www.nbcnews.com/politics/national-security/russian-trolls-who-interfered-2016-u-s-election-also-made-n1013811)[. \[Accessed: Aug. 25, 2024\]](http://paperpile.com/b/Lj1YHA/6bUip)  
-\[91\]	[“Here’s What We Know So Far About Russia’s 2016 Meddling,” *Time*. Available:](http://paperpile.com/b/Lj1YHA/dk30G) [https://time.com/5565991/russia-influence-2016-election/](https://time.com/5565991/russia-influence-2016-election/)[. \[Accessed: Aug. 25, 2024\]](http://paperpile.com/b/Lj1YHA/dk30G)  
-\[92\]	[A. M. Khalaf, A. A. Alubied, A. M. Khalaf, and A. A. Rifaey, “The Impact of Social Media on the Mental Health of Adolescents and Young Adults: A Systematic Review,” *Cureus*, vol. 15, no. 8, p. e42990, Aug. 2023\.](http://paperpile.com/b/Lj1YHA/zfpzo)  
-\[93\]	[“Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show,” *archive.ph*, Sep. 14, 2021\. Available:](http://paperpile.com/b/Lj1YHA/l9r5V) [https://archive.ph/uX95E](https://archive.ph/uX95E)[. \[Accessed: Aug. 25, 2024\]](http://paperpile.com/b/Lj1YHA/l9r5V)  
-\[94\]	[M. Chan and J. Yi, “Social Media Use and Political Engagement in Polarized Times. Examining the Contextual Roles of Issue and Affective Polarization in Developed Democracies,” *Political Communication*, pp. 1–20.](http://paperpile.com/b/Lj1YHA/YujCW)  
-\[95\]	[A. P. Sundar, F. Li, X. Zou, T. Gao, and E. D. Russomanno, “Understanding shilling attacks and their detection traits: A comprehensive survey,” *IEEE Access*, vol. 8, pp. 171703–171715, 2020\.](http://paperpile.com/b/Lj1YHA/9DPPQ)  
-\[96\]	[I. Gunes, C. Kaleli, A. Bilge, and H. Polat, “Shilling attacks against recommender systems: a comprehensive survey,” *Artificial Intelligence Review*, vol. 42, no. 4, pp. 767–799, Dec. 2014\.](http://paperpile.com/b/Lj1YHA/I2rfA)  
-\[97\]	[“Facebook fake account deletion per quarter 2023,” *Statista*. Available:](http://paperpile.com/b/Lj1YHA/LToRu) [https://www.statista.com/statistics/1013474/facebook-fake-account-removal-quarter/](https://www.statista.com/statistics/1013474/facebook-fake-account-removal-quarter/)[. \[Accessed: Aug. 27, 2024\]](http://paperpile.com/b/Lj1YHA/LToRu)  
-\[98\]	[“La Dictature des Algorithmes,” *Éditions Tallandier*, Feb. 21, 2024\. Available:](http://paperpile.com/b/Lj1YHA/ao03) [https://www.tallandier.com/livre/la-dictature-des-algorithmes/](https://www.tallandier.com/livre/la-dictature-des-algorithmes/)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/ao03)  
-\[99\]	[Wikipedia contributors, “Intelligence artificielle,” *Wikipedia, The Free Encyclopedia*. Available:](http://paperpile.com/b/Lj1YHA/fX74c) [https://fr.wikipedia.org/w/index.php?title=Intelligence\_artificielle\&oldid=217518957](https://fr.wikipedia.org/w/index.php?title=Intelligence\_artificielle\&oldid=217518957)  
-\[100\]	[Wikipedia contributors, “Deep learning,” *Wikipedia, The Free Encyclopedia*, Aug. 12, 2024\. Available:](http://paperpile.com/b/Lj1YHA/5r84m) [https://en.wikipedia.org/w/index.php?title=Deep\_learning\&oldid=1239902356](https://en.wikipedia.org/w/index.php?title=Deep\_learning\&oldid=1239902356)  
-\[101\]	[Wikipedia contributors, “Large language model,” *Wikipedia, The Free Encyclopedia*, Aug. 12, 2024\. Available:](http://paperpile.com/b/Lj1YHA/IaTKu) [https://en.wikipedia.org/w/index.php?title=Large\_language\_model\&oldid=1239909148](https://en.wikipedia.org/w/index.php?title=Large\_language\_model\&oldid=1239909148)  
-\[102\]	[J. Wei *et al.*, “Emergent Abilities of Large Language Models,” *arXiv \[cs.CL\]*, Jun. 15, 2022\. Available:](http://paperpile.com/b/Lj1YHA/n5m4J) [http://arxiv.org/abs/2206.07682](http://arxiv.org/abs/2206.07682)  
-\[103\]	[S. Bubeck *et al.*, “Sparks of Artificial General Intelligence: Early experiments with GPT-4,” *arXiv \[cs.CL\]*, Mar. 22, 2023\. Available:](http://paperpile.com/b/Lj1YHA/vf9I) [http://arxiv.org/abs/2303.12712](http://arxiv.org/abs/2303.12712)  
-\[104\]	[R. Ngo, “Visualizing the deep learning revolution \- Richard Ngo,” *Medium*, Jan. 05, 2023\. Available:](http://paperpile.com/b/Lj1YHA/mtdMp) [https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/mtdMp)  
-\[105\]	[J. E. Dobson, “On reading and interpreting black box deep neural networks,” *International Journal of Digital Humanities*, vol. 5, no. 2, pp. 431–449, Nov. 2023\.](http://paperpile.com/b/Lj1YHA/WKtGj)  
-\[106\]	[T. Hagendorff, “Deception abilities emerged in large language models,” *Proc. Natl. Acad. Sci. U. S. A.*, vol. 121, no. 24, p. e2317967121, Jun. 2024\.](http://paperpile.com/b/Lj1YHA/YuahE)  
-\[107\]	[J. Vincent, “Microsoft’s Bing is an emotionally manipulative liar, and people love it,” *The Verge*, Feb. 15, 2023\. Available:](http://paperpile.com/b/Lj1YHA/38wE6) [https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/38wE6)  
-\[108\]	[R. Fang, R. Bindu, A. Gupta, Q. Zhan, and D. Kang, “LLM Agents can Autonomously Hack Websites,” *arXiv \[cs.CR\]*, Feb. 06, 2024\. Available:](http://paperpile.com/b/Lj1YHA/SwqqR) [http://arxiv.org/abs/2402.06664](http://arxiv.org/abs/2402.06664)  
-\[109\]	[R. Fang, R. Bindu, A. Gupta, Q. Zhan, and D. Kang, “Teams of LLM Agents can Exploit Zero-Day Vulnerabilities,” *arXiv \[cs.MA\]*, Jun. 02, 2024\. Available:](http://paperpile.com/b/Lj1YHA/1tNsr) [http://arxiv.org/abs/2406.01637](http://arxiv.org/abs/2406.01637)  
-\[110\]	[R. Fang, R. Bindu, A. Gupta, and D. Kang, “LLM Agents can Autonomously Exploit One-day Vulnerabilities,” *arXiv \[cs.CR\]*, Apr. 11, 2024\. Available:](http://paperpile.com/b/Lj1YHA/22rVj) [http://arxiv.org/abs/2404.08144](http://arxiv.org/abs/2404.08144)  
-\[111\]	[M. Shao *et al.*, “An Empirical Evaluation of LLMs for Solving Offensive Security Challenges,” *arXiv \[cs.CR\]*, Feb. 19, 2024\. Available:](http://paperpile.com/b/Lj1YHA/A1Vxq) [http://arxiv.org/abs/2402.11814](http://arxiv.org/abs/2402.11814)  
-\[112\]	[D. Kiela, “Plotting progress in AI,” *Contextual AI*, Jul. 31, 2023\. Available:](http://paperpile.com/b/Lj1YHA/oFYPj) [https://contextual.ai/news/plotting-progress-in-ai/](https://contextual.ai/news/plotting-progress-in-ai/)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/oFYPj)  
-\[113\]	[J. Kaplan *et al.*, “Scaling Laws for Neural Language Models,” *arXiv \[cs.LG\]*, Jan. 23, 2020\. Available:](http://paperpile.com/b/Lj1YHA/6PPKO) [http://arxiv.org/abs/2001.08361](http://arxiv.org/abs/2001.08361)  
-\[114\]	[“Large-scale AI models,” *Epoch AI*, Jun. 19, 2024\. Available:](http://paperpile.com/b/Lj1YHA/WEhpX) [https://epochai.org/data/large-scale-ai-models](https://epochai.org/data/large-scale-ai-models)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/WEhpX)  
-\[115\]	[“Exclusive: OpenAI working on new reasoning technology under code name ‘Strawberry,’” *Reuters*, Jul. 12, 2024\. Available:](http://paperpile.com/b/Lj1YHA/veKG) [https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/](https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/)[. \[Accessed: Sep. 08, 2024\]](http://paperpile.com/b/Lj1YHA/veKG)  
-\[116\]	[“OpenAI Charter.” Available:](http://paperpile.com/b/Lj1YHA/d1wzT) [https://openai.com/charter/](https://openai.com/charter/)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/d1wzT)  
-\[117\]	[“SITUATIONAL AWARENESS: The decade ahead,” *SITUATIONAL AWARENESS \- The Decade Ahead*, May 29, 2024\. Available:](http://paperpile.com/b/Lj1YHA/Bq7eq) [https://situational-awareness.ai/](https://situational-awareness.ai/)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/Bq7eq)  
-\[118\]	[“When Might AI Outsmart Us? It Depends Who You Ask,” *Time*. Available:](http://paperpile.com/b/Lj1YHA/gYxan) [https://time.com/6556168/when-ai-outsmart-humans/](https://time.com/6556168/when-ai-outsmart-humans/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/gYxan)  
-\[119\]	[W. Yu *et al.*, “Language to Rewards for Robotic Skill Synthesis,” *arXiv \[cs.RO\]*, Jun. 14, 2023\. doi:](http://paperpile.com/b/Lj1YHA/FFue) [10.48550/ARXIV.2306.08647.](http://dx.doi.org/10.48550/ARXIV.2306.08647.) [Available:](http://paperpile.com/b/Lj1YHA/FFue) [http://arxiv.org/abs/2306.08647](http://arxiv.org/abs/2306.08647)  
-\[120\]	[Figure, “Figure Status Update \- OpenAI Speech-to-Speech Reasoning,” Mar. 13, 2024\. Available:](http://paperpile.com/b/Lj1YHA/plDv) [https://www.youtube.com/watch?v=Sq1QZB5baNw](https://www.youtube.com/watch?v=Sq1QZB5baNw)[. \[Accessed: Sep. 09, 2024\]](http://paperpile.com/b/Lj1YHA/plDv)  
-\[121\]	[P. Gmyrek, J. Berg, and D. Bescond, “Generative AI and jobs: A global analysis of potential effects on job quantity and quality,” *SSRN Electron. J.*, Aug. 2023, doi:](http://paperpile.com/b/Lj1YHA/w18eh) [10.2139/ssrn.4584219.](http://dx.doi.org/10.2139/ssrn.4584219.) [Available:](http://paperpile.com/b/Lj1YHA/w18eh) [https://www.ilo.org/publications/generative-ai-and-jobs-global-analysis-potential-effects-job-quantity-and](https://www.ilo.org/publications/generative-ai-and-jobs-global-analysis-potential-effects-job-quantity-and)[. \[Accessed: Aug. 13, 2024\]](http://paperpile.com/b/Lj1YHA/w18eh)  
-\[122\]	[C. Pizzinelli, A. J. Panton, M. M. M. Tavares, M. Cazzaniga, and L. Li, *Labor Market Exposure to AI: Cross-country Differences and Distributional Implications*. International Monetary Fund, 2023\.](http://paperpile.com/b/Lj1YHA/GXYT8)  
-\[123\]	[“The state of phishing 2024,” *SlashNext | Complete Generative AI Security for Email, Mobile, and Browser*, May 17, 2024\. Available:](http://paperpile.com/b/Lj1YHA/Nq9fY) [https://slashnext.com/the-state-of-phishing-2024/](https://slashnext.com/the-state-of-phishing-2024/)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/Nq9fY)  
-\[124\]	[J. Hazell, “Spear Phishing With Large Language Models,” *arXiv \[cs.CY\]*, May 11, 2023\. Available:](http://paperpile.com/b/Lj1YHA/sqYKk) [http://arxiv.org/abs/2305.06972](http://arxiv.org/abs/2305.06972)  
-\[125\]	[D. Milmo, “Company worker in Hong Kong pays out £20m in deepfake video call scam,” *The Guardian*, The Guardian, Feb. 05, 2024\. Available:](http://paperpile.com/b/Lj1YHA/PXfFa) [https://www.theguardian.com/world/2024/feb/05/hong-kong-company-deepfake-video-conference-call-scam](https://www.theguardian.com/world/2024/feb/05/hong-kong-company-deepfake-video-conference-call-scam)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/PXfFa)  
-\[126\]	[G. Boesch, “What Is Adversarial Machine Learning? Attack Methods in 2024,” *viso.ai*, Dec. 01, 2023\. Available:](http://paperpile.com/b/Lj1YHA/dmEjb) [https://viso.ai/deep-learning/adversarial-machine-learning/](https://viso.ai/deep-learning/adversarial-machine-learning/)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/dmEjb)  
-\[127\]	[“Training data extraction attacks.” Available:](http://paperpile.com/b/Lj1YHA/YjH7A) [https://www.nightfall.ai/ai-security-101/training-data-extraction-attacks](https://www.nightfall.ai/ai-security-101/training-data-extraction-attacks)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/YjH7A)  
-\[128\]	[“The near-term impact of AI on the cyber threat.” Available:](http://paperpile.com/b/Lj1YHA/Ov9qV) [https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat](https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/Ov9qV)  
-\[129\]	[“World Economic Forum,” *World Economic Forum*, Jan. 18, 2023\. Available:](http://paperpile.com/b/Lj1YHA/dP4bv) [https://www.weforum.org/publications/global-cybersecurity-outlook-2023/](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/dP4bv)  
-\[130\]	[“Voice of SecOps reports,” *Deep Instinct*, May 12, 2022\. Available:](http://paperpile.com/b/Lj1YHA/IAf9A) [https://www.deepinstinct.com/voice-of-secops-reports](https://www.deepinstinct.com/voice-of-secops-reports)[. \[Accessed: Aug. 12, 2024\]](http://paperpile.com/b/Lj1YHA/IAf9A)  
-\[131\]	[“Open-sourcing highly capable foundation models.” Available:](http://paperpile.com/b/Lj1YHA/vzlip) [https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)[. \[Accessed: Aug. 13, 2024\]](http://paperpile.com/b/Lj1YHA/vzlip)  
-\[132\]	[R. Slayton, “Conceptions, Causes, and Assessment,” *Int. Secur.*, vol. 41, no. 3, pp. 72–109, 2016\.](http://paperpile.com/b/Lj1YHA/LN77Z)  
-\[133\]	[*Defending a New Domain: The Pentagon’s Cyberstrategy*. Defense Technical Information Center, 2010\.](http://paperpile.com/b/Lj1YHA/3F0C6)  
-\[134\]	[P. Venables and C. Snyder, “Cloud CISO Perspectives: Building better cyber defenses with AI,” *Google Cloud Blog*, Feb. 29, 2024\. Available:](http://paperpile.com/b/Lj1YHA/KPVpm) [https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-building-better-cyber-defenses-with-ai/](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-building-better-cyber-defenses-with-ai/)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/KPVpm)  
-\[135\]	[P. Gade, S. Lermen, C. Rogers-Smith, and J. Ladish, “BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B,” *arXiv \[cs.CL\]*, Oct. 31, 2023\. Available:](http://paperpile.com/b/Lj1YHA/345H9) [http://arxiv.org/abs/2311.00117](http://arxiv.org/abs/2311.00117)  
-\[136\]	[“Disrupting deceptive uses of AI by covert influence operations.” Available:](http://paperpile.com/b/Lj1YHA/0zEd7) [https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/0zEd7)  
-\[137\]	[C. Mouton, C. Lucas, and E. Guest, *The Operational Risks of AI in Large-Scale Biological Attacks*. RAND Corporation, 2024\.](http://paperpile.com/b/Lj1YHA/R6sjP)  
-\[138\]	[“Reddit \- Dive into anything.” Available:](http://paperpile.com/b/Lj1YHA/n0sh5) [https://www.reddit.com/r/ArtistHate/](https://www.reddit.com/r/ArtistHate/)[. \[Accessed: Aug. 13, 2024\]](http://paperpile.com/b/Lj1YHA/n0sh5)  
-\[139\]	[J. Wolters, “The animation guild: Future unscripted: The Impact of Generative AI on entertainment industry jobs,” *INDAC*, Feb. 01, 2024\. Available:](http://paperpile.com/b/Lj1YHA/8c32r) [https://indac.org/blog/the-animation-guild-future-unscripted-the-impact-of-generative-ai-on-entertainment-industry-jobs/](https://indac.org/blog/the-animation-guild-future-unscripted-the-impact-of-generative-ai-on-entertainment-industry-jobs/)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/8c32r)  
-\[140\]	[“The potentially large effects of artificial intelligence on economic growth (Briggs/kodnani).” Available:](http://paperpile.com/b/Lj1YHA/cbMx3) [https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html](https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html)[. \[Accessed: Aug. 13, 2024\]](http://paperpile.com/b/Lj1YHA/cbMx3)  
-\[141\]	[“Sondage Ifop \- Talan : les Français et les IA génératives,” May 11, 2023\. Available:](http://paperpile.com/b/Lj1YHA/Gr8et) [https://www.talan.com/actualites/detail-actualites/news/sondage-ifop-talan-les-francais-et-les-ia-generatives/](https://www.talan.com/actualites/detail-actualites/news/sondage-ifop-talan-les-francais-et-les-ia-generatives/)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/Gr8et)  
-\[142\]	[“OpinionWay pour Universcience \- Barometre de l’esprit critique 2024 \- Mars 2024.” Available:](http://paperpile.com/b/Lj1YHA/aBeX3) [https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/opinion-societe/opinionway-pour-universcience-barometre-de-l-esprit-critique-2024-mars-2024.html](https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/opinion-societe/opinionway-pour-universcience-barometre-de-l-esprit-critique-2024-mars-2024.html)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/aBeX3)  
-\[143\]	[“Intelligence artificielle : un Français sur deux inquiet,” *BCG Global*. Available:](http://paperpile.com/b/Lj1YHA/EH3Tb) [https://www.bcg.com/press/26april2024-intelligence-artificielle-un-francais-sur-deux-inquiet](https://www.bcg.com/press/26april2024-intelligence-artificielle-un-francais-sur-deux-inquiet)[. \[Accessed: Aug. 14, 2024\]](http://paperpile.com/b/Lj1YHA/EH3Tb)  
-\[144\]	[Y. Yao, J. Duan, K. Xu, Y. Cai, Z. Sun, and Y. Zhang, “A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly,” *arXiv \[cs.CR\]*, Dec. 04, 2023\. Available:](http://paperpile.com/b/Lj1YHA/qL5Xl) [http://arxiv.org/abs/2312.02003](http://arxiv.org/abs/2312.02003)  
-\[145\]	[“AI Safety Summit,” *AISS 2023*, Sep. 27, 2023\. Available:](http://paperpile.com/b/Lj1YHA/LCac5) [https://www.aisafetysummit.gov.uk/](https://www.aisafetysummit.gov.uk/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/LCac5)  
-\[146\]	[“The bletchley declaration by countries attending the AI safety summit, 1-2 November 2023,” *GOV.UK*, Nov. 01, 2023\. Available:](http://paperpile.com/b/Lj1YHA/fYvhD) [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/fYvhD)  
-\[147\]	[“Action Plan to increase the safety and security of advanced AI.” Available:](http://paperpile.com/b/Lj1YHA/mHq4u) [https://www.gladstone.ai/action-plan](https://www.gladstone.ai/action-plan)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/mHq4u)  
-\[148\]	[“International scientific report on the safety of advanced AI,” *GOV.UK*, May 17, 2024\. Available:](http://paperpile.com/b/Lj1YHA/6KARY) [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/6KARY)  
-\[149\]	[R. J. Neuwirth, *The EU artificial intelligence act: Regulating subliminal AI systems*. in Routledge Research in the Law of Emerging Technologies. London, England: Routledge, 2022\. Available:](http://paperpile.com/b/Lj1YHA/canvC) [https://artificialintelligenceact.eu/](https://artificialintelligenceact.eu/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/canvC)  
-\[150\]	[The White House, “Executive order on the safe, secure, and trustworthy development and use of artificial intelligence,” *The White House*, Oct. 30, 2023\. Available:](http://paperpile.com/b/Lj1YHA/NzONS) [https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/NzONS)  
-\[151\]	[D. Patterson *et al.*, “Carbon Emissions and Large Neural Network Training,” *arXiv \[cs.LG\]*, Apr. 21, 2021\. Available:](http://paperpile.com/b/Lj1YHA/UeWy) [http://arxiv.org/abs/2104.10350](http://arxiv.org/abs/2104.10350)  
-\[152\]	[J. Saul and D. Bass, “Artificial Intelligence Is Booming—So Is Its Carbon Footprint,” *Bloomberg News*, Mar. 09, 2023\. Available:](http://paperpile.com/b/Lj1YHA/aMGb) [https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure](https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure)[. \[Accessed: Sep. 02, 2024\]](http://paperpile.com/b/Lj1YHA/aMGb)  
-\[153\]	[G. Livingstone, “‘It’s pillage’: thirsty Uruguayans decry Google’s plan to exploit water supply,” *The Guardian*, The Guardian, Jul. 11, 2023\. Available:](http://paperpile.com/b/Lj1YHA/hOuv) [https://www.theguardian.com/world/2023/jul/11/uruguay-drought-water-google-data-center](https://www.theguardian.com/world/2023/jul/11/uruguay-drought-water-google-data-center)[. \[Accessed: Sep. 02, 2024\]](http://paperpile.com/b/Lj1YHA/hOuv)  
-\[154\]	[S. Kim *et al.*, “Chemical use in the semiconductor manufacturing industry,” *Int. J. Occup. Environ. Health*, vol. 24, no. 3–4, pp. 109–118, Oct. 2018\.](http://paperpile.com/b/Lj1YHA/h2qu)  
-\[155\]	[C. Simpson, “American Chipmakers Had a Toxic Problem. Then They Outsourced It,” *Bloomberg News*, Jun. 15, 2017\. Available:](http://paperpile.com/b/Lj1YHA/ztrX) [https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it](https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it)[. \[Accessed: Sep. 02, 2024\]](http://paperpile.com/b/Lj1YHA/ztrX)  
-\[156\]	[T. Tech, “Anne Bouverot : La France, capitale européenne de l’iA ?,” Jul. 10, 2024\. Available:](http://paperpile.com/b/Lj1YHA/B6gi4) [https://www.youtube.com/watch?v=oQJhqxnDsjo](https://www.youtube.com/watch?v=oQJhqxnDsjo)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/B6gi4)  
-\[157\]	[F. Brewster, “Big Tech is lobbying hard to keep copyright law favorable to AI.” Available:](http://paperpile.com/b/Lj1YHA/ftanT) [https://jacobin.com/2023/11/artificial-intelligence-big-tech-lobbying-copyright-infringement-regulation/](https://jacobin.com/2023/11/artificial-intelligence-big-tech-lobbying-copyright-infringement-regulation/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/ftanT)  
-\[158\]	[“TTP \- funding the fight against antitrust: How Facebook’s antiregulatory attack dog spends its millions.” Available:](http://paperpile.com/b/Lj1YHA/ndi0m) [https://www.techtransparencyproject.org/articles/funding-fight-against-antitrust-how-facebooks-antiregulatory-attack-dog-spends-its-millions](https://www.techtransparencyproject.org/articles/funding-fight-against-antitrust-how-facebooks-antiregulatory-attack-dog-spends-its-millions)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/ndi0m)  
-\[159\]	[S. Hashim, “Meta-funded group floods Facebook with anti-AI regulation ads,” *Transformer*, Jul. 15, 2024\. Available:](http://paperpile.com/b/Lj1YHA/iNmFA) [https://www.transformernews.ai/p/american-edge-meta-ai-regulation-lobbying](https://www.transformernews.ai/p/american-edge-meta-ai-regulation-lobbying)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/iNmFA)  
-\[160\]	[S. Hashim, “Tech companies are trying to kill California’s AI regulation bill,” *Transformer*, Jul. 10, 2024\. Available:](http://paperpile.com/b/Lj1YHA/tpjc7) [https://www.transformernews.ai/p/a16z-y-combinator-big-tech-sb1047-lobbying](https://www.transformernews.ai/p/a16z-y-combinator-big-tech-sb1047-lobbying)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/tpjc7)  
-\[161\]	[“Trojan horses: how European startups teamed up with Big Tech to gut the AI Act.” Available:](http://paperpile.com/b/Lj1YHA/RWuwK) [https://corporateeurope.org/en/2024/03/trojan-horses-how-european-startups-teamed-big-tech-gut-ai-act](https://corporateeurope.org/en/2024/03/trojan-horses-how-european-startups-teamed-big-tech-gut-ai-act)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/RWuwK)  
-\[162\]	[S. User, “Yann Le Cun.” Available:](http://paperpile.com/b/Lj1YHA/gf3in) [https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-L/yann-le-cun.html](https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-L/yann-le-cun.html)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/gf3in)  
-\[163\]	[O. LinkedIn, “About linkedin,” *LinkedIn Corporation*, 2022, Available:](http://paperpile.com/b/Lj1YHA/tkQdm) [https://www.linkedin.com/posts/yann-lecun\_today-i-was-made-a-chevalier-de-la-l%C3%A9gion-activity-7138326352776056832-GQFp/](https://www.linkedin.com/posts/yann-lecun\_today-i-was-made-a-chevalier-de-la-l%C3%A9gion-activity-7138326352776056832-GQFp/)  
-\[164\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/g5AVP) [https://x.com/ylecun](https://x.com/ylecun)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/g5AVP)  
-\[165\]	[“LinkedIn.” Available:](http://paperpile.com/b/Lj1YHA/F5vQ3) [https://www.linkedin.com/in/yann-lecun/](https://www.linkedin.com/in/yann-lecun/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/F5vQ3)  
-\[166\]	[A. R. Chow, “Yann LeCun,” *Time*, Sep. 07, 2023\. Available:](http://paperpile.com/b/Lj1YHA/acMlG) [https://time.com/collection/time100-ai/6309052/yann-lecun/](https://time.com/collection/time100-ai/6309052/yann-lecun/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/acMlG)  
-\[167\]	[“LinkedIn.” Available:](http://paperpile.com/b/Lj1YHA/k8zoF) [https://www.linkedin.com/posts/yann-lecun\_current-and-former-colleagues-of-the-french-activity-7200524405267988480-NyaA/](https://www.linkedin.com/posts/yann-lecun\_current-and-former-colleagues-of-the-french-activity-7200524405267988480-NyaA/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/k8zoF)  
-\[168\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/HnbpL) [https://x.com/ylecun/status/1747714991292399763](https://x.com/ylecun/status/1747714991292399763)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/HnbpL)  
-\[169\]	[N. Confessore, “Cambridge Analytica and Facebook: The Scandal and the Fallout So Far,” *New York Times*, Apr. 04, 2018\. Available:](http://paperpile.com/b/Lj1YHA/3fZhR) [https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html)  
-\[170\]	[“The Facebook Files,” *Wall Street Journal*. Available:](http://paperpile.com/b/Lj1YHA/HDudm) [https://www.wsj.com/articles/the-facebook-files-11631713039](https://www.wsj.com/articles/the-facebook-files-11631713039)  
-\[171\]	[“Ethiopia: Meta’s failures contributed to abuses against Tigrayan community during conflict in northern Ethiopia,” *Amnesty International*, Oct. 31, 2023\. Available:](http://paperpile.com/b/Lj1YHA/oCtVe) [https://www.amnesty.org/en/latest/news/2023/10/meta-failure-contributed-to-abuses-against-tigray-ethiopia/](https://www.amnesty.org/en/latest/news/2023/10/meta-failure-contributed-to-abuses-against-tigray-ethiopia/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/oCtVe)  
-\[172\]	[D. Lauer, “Facebook’s ethical failures are not accidental; they are part of the business model,” *AI Ethics*, vol. 1, no. 4, pp. 395–403, Jun. 2021\.](http://paperpile.com/b/Lj1YHA/hqNLu)  
-\[173\]	[I. A. Hamilton, “‘You just have the wrong idea about Facebook’: Facebook’s chief AI scientist defends the company over Black Lives Matter uproar,” *Business Insider*, Jun. 09, 2020\. Available:](http://paperpile.com/b/Lj1YHA/eA6y4) [https://www.businessinsider.com/facebook-chief-ai-scientist-yann-lecun-blm-defence-2020-6](https://www.businessinsider.com/facebook-chief-ai-scientist-yann-lecun-blm-defence-2020-6)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/eA6y4)  
-\[174\]	[T. Greene, “Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content,” *The Next Web*, Mar. 12, 2021\. Available:](http://paperpile.com/b/Lj1YHA/LqltH) [https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content](https://thenextweb.com/news/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/LqltH)  
-\[175\]	[“Yann LeCun \- Our CTO, Mike Schroepfer, gives the details of the.” Available:](http://paperpile.com/b/Lj1YHA/dmWzq) [https://www.facebook.com/yann.lecun/posts/10155043225132143](https://www.facebook.com/yann.lecun/posts/10155043225132143)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/dmWzq)  
-\[176\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/DaAbQ) [https://x.com/ylecun/status/1688140941079498752](https://x.com/ylecun/status/1688140941079498752)[. \[Accessed: Aug. 18, 2024\]](http://paperpile.com/b/Lj1YHA/DaAbQ)  
-\[177\]	[A. I. Mistral, “Mistral AI.” Available:](http://paperpile.com/b/Lj1YHA/bU4DA) [https://mistral.ai/](https://mistral.ai/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/bU4DA)  
-\[178\]	[K.D, “IA: la start-up française Mistral AI valorisée 6 milliards d’euros après une nouvelle levée de fonds,” *Tech\&Co*, Jun. 11, 2024\. Available:](http://paperpile.com/b/Lj1YHA/XoKJM) [https://www.bfmtv.com/tech/intelligence-artificielle/ia-la-startup-francaise-mistral-ai-valorisee-6-milliards-d-euros-apres-une-nouvelle-levee-de-fonds\_AD-202406110709.html](https://www.bfmtv.com/tech/intelligence-artificielle/ia-la-startup-francaise-mistral-ai-valorisee-6-milliards-d-euros-apres-une-nouvelle-levee-de-fonds\_AD-202406110709.html)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/XoKJM)  
-\[179\]	[S. Pommier, “L’ex-ministre Cédric 0 pourrait empocher 23 millions d'euros après avoir investi 176 euros dans Mistral AI,” *Capital.fr*, Dec. 12, 2023\. Available:](http://paperpile.com/b/Lj1YHA/U6Q1i) [https://www.capital.fr/economie-politique/mistral-ai-la-bonne-affaire-du-conseiller-fondateur-cedric-o-1488506](https://www.capital.fr/economie-politique/mistral-ai-la-bonne-affaire-du-conseiller-fondateur-cedric-o-1488506)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/U6Q1i)  
-\[180\]	[H. A. P. la T. de la Vie Publique, “Délibération n° 2022-189 du 14 juin 2022 relative au projet de reconversion professionnelle de Monsieur Cédric O,” Jun. 2022\. Available:](http://paperpile.com/b/Lj1YHA/H5hyT) [https://www.hatvp.fr/wordpress/wp-content/uploads/2022/07/2022-189-Cedric-O.pdf](https://www.hatvp.fr/wordpress/wp-content/uploads/2022/07/2022-189-Cedric-O.pdf)  
-\[181\]	[Z. Wanat, “‘EU’s AI act could kill our company,’ says Mistral’s Cédric O,” *Sifted*, Aug. 06, 2024\. Available:](http://paperpile.com/b/Lj1YHA/PxyG8) [https://sifted.eu/articles/eu-ai-act-kill-mistral-cedric-o](https://sifted.eu/articles/eu-ai-act-kill-mistral-cedric-o)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/PxyG8)  
-\[182\]	[C. Axiotes, “Lobbying for loopholes: The battle over foundation models in the EU AI act,” *EURACTIV*, Nov. 24, 2023\. Available:](http://paperpile.com/b/Lj1YHA/6IKUx) [https://www.euractiv.com/section/digital/opinion/lobbying-for-loopholes-the-battle-over-foundation-models-in-the-eu-ai-act/](https://www.euractiv.com/section/digital/opinion/lobbying-for-loopholes-the-battle-over-foundation-models-in-the-eu-ai-act/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/6IKUx)  
-\[183\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/OO4Rb) [https://x.com/tegmark/status/1728851164291059948](https://x.com/tegmark/status/1728851164291059948)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/OO4Rb)  
-\[184\]	[I. Ramdani, “Intelligence artificielle : comment un ministre devenu lobbyiste a retourné le gouvernement,” *Mediapart*, Dec. 01, 2023\. Available:](http://paperpile.com/b/Lj1YHA/rZCYl) [https://www.mediapart.fr/journal/france/011223/intelligence-artificielle-comment-un-ministre-devenu-lobbyiste-retourne-le-gouvernement](https://www.mediapart.fr/journal/france/011223/intelligence-artificielle-comment-un-ministre-devenu-lobbyiste-retourne-le-gouvernement)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/rZCYl)  
-\[185\]	[S. Pommier and S. Barge, “Régulation de l’IA : l'ex-secrétaire d'Etat Cédric O jongle entre ses intérêts et ceux de la France,” *Capital.fr*, Feb. 07, 2024\. Available:](http://paperpile.com/b/Lj1YHA/GnZjX) [https://www.capital.fr/economie-politique/regulation-de-lia-lex-secretaire-detat-cedric-o-jongle-entre-ses-interets-et-ceux-de-la-france-1491749](https://www.capital.fr/economie-politique/regulation-de-lia-lex-secretaire-detat-cedric-o-jongle-entre-ses-interets-et-ceux-de-la-france-1491749)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/GnZjX)  
-\[186\]	[T. Hartmann, “Les coulisses de l’opposition de la France à la réglementation des modèles d’IA,” *EURACTIV*, Nov. 29, 2023\. Available:](http://paperpile.com/b/Lj1YHA/74936) [https://www.euractiv.fr/section/intelligence-artificielle/news/les-coulisses-de-lopposition-de-la-fance-a-la-reglementation-des-modeles-dia/](https://www.euractiv.fr/section/intelligence-artificielle/news/les-coulisses-de-lopposition-de-la-fance-a-la-reglementation-des-modeles-dia/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/74936)  
-\[187\]	[T. Hartmann, “AI Act : le gouvernement accusé d’avoir été influencé par un lobbyiste en situation de conflit d’intérêts,” *EURACTIV*, Dec. 21, 2023\. Available:](http://paperpile.com/b/Lj1YHA/ntOaI) [https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-le-gouvernement-accuse-davoir-ete-influence-par-un-lobbyiste-en-situation-de-conflit-dinterets/](https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-le-gouvernement-accuse-davoir-ete-influence-par-un-lobbyiste-en-situation-de-conflit-dinterets/)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/ntOaI)  
-\[188\]	[“Open letter EU AI act and signatories.Pdf,” *Google Docs*. Available:](http://paperpile.com/b/Lj1YHA/qHtyl) [https://drive.google.com/file/d/1wrtxfvcD9FwfNfWGDL37Q6Nd8wBKXCkn/view](https://drive.google.com/file/d/1wrtxfvcD9FwfNfWGDL37Q6Nd8wBKXCkn/view)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/qHtyl)  
-\[189\]	[L. Bertuzzi, “AI Act : négociations bloquées à cause de divergences sur les modèles de fondation,” *EURACTIV*, Nov. 13, 2023\. Available:](http://paperpile.com/b/Lj1YHA/sRr9O) [https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-negociations-bloquees-a-cause-de-divergences-sur-les-modeles-de-fondation/?\_ga=2.50197092.31701998.1701074244-1669050714.1683052757](https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-negociations-bloquees-a-cause-de-divergences-sur-les-modeles-de-fondation/?\_ga=2.50197092.31701998.1701074244-1669050714.1683052757)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/sRr9O)  
-\[190\]	[Propos recueillis par Philippe Mabille et Sylvain Rolland au Forum AIM Marseille, “Intelligence artificielle : « Les Gafam et la startup Mistral ne défendent pas l’intérêt général » (Thierry Breton),” *La Tribune*, Nov. 24, 2023\. Available:](http://paperpile.com/b/Lj1YHA/pTkWF) [https://www.latribune.fr/technos-medias/informatique/intelligence-artificielle-les-gafam-et-la-startup-mistral-ne-defendent-pas-l-interet-general-thierry-breton-984046.html](https://www.latribune.fr/technos-medias/informatique/intelligence-artificielle-les-gafam-et-la-startup-mistral-ne-defendent-pas-l-interet-general-thierry-breton-984046.html)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/pTkWF)  
-\[191\]	[O. Cédric, “This is worth some clarification. Before I do, Mr @tegmark, I shall say how pathetic I find your original tweet. You can obviously deeply disagree with my point of view, but the way you phrased it on a personal attack on my probity is to me epitomizes the decay of public debate.…,” *Twitter*, Nov. 26, 2023\. Available:](http://paperpile.com/b/Lj1YHA/awW9Z) [https://twitter.com/cedric\_o/status/1728724005459235052](https://twitter.com/cedric\_o/status/1728724005459235052)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/awW9Z)  
-\[192\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/A0EeN) [https://x.com/a16z/status/1720524920596128012](https://x.com/a16z/status/1720524920596128012)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/A0EeN)  
-\[193\]	[V. Hassija *et al.*, “Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence,” *Cognit. Comput.*, vol. 16, no. 1, pp. 45–74, Jan. 2024\.](http://paperpile.com/b/Lj1YHA/I0Yrf)  
-\[194\]	[A. Chaszczewicz, “Is Task-Agnostic Explainable AI a Myth?,” *arXiv \[cs.AI\]*, Jul. 13, 2023\. Available:](http://paperpile.com/b/Lj1YHA/9wc1E) [http://arxiv.org/abs/2307.06963](http://arxiv.org/abs/2307.06963)  
-\[195\]	[A. Barredo Arrieta *et al.*, “Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI,” *Inf. Fusion*, vol. 58, pp. 82–115, Jun. 2020\.](http://paperpile.com/b/Lj1YHA/lXi8c)  
-\[196\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/Cbbud) [https://x.com/edardaman/status/1744453999695176046](https://x.com/edardaman/status/1744453999695176046)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/Cbbud)  
-\[197\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/ZC2ss) [https://x.com/NeelNanda5/status/1799203292066558403](https://x.com/NeelNanda5/status/1799203292066558403)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/ZC2ss)  
-\[198\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/goF7W) [https://x.com/m\_bourgon/status/1798863250173657312](https://x.com/m\_bourgon/status/1798863250173657312)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/goF7W)  
-\[199\]	[“\[No title\],” *X (formerly Twitter)*. Available:](http://paperpile.com/b/Lj1YHA/2IIps) [https://x.com/ID\_AA\_Carmack/status/1799147185793348006](https://x.com/ID\_AA\_Carmack/status/1799147185793348006)[. \[Accessed: Aug. 15, 2024\]](http://paperpile.com/b/Lj1YHA/2IIps)  
-\[200\]	[Sénat, “Intelligence artificielle : la France en pointe ?,” May 22, 2024\. Available:](http://paperpile.com/b/Lj1YHA/gjOTv) [https://www.youtube.com/watch?v=tWXuGuOHMhk](https://www.youtube.com/watch?v=tWXuGuOHMhk)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/gjOTv)  
-\[201\]	[T. Petersen, “AI’s new power of persuasion: it can change your mind,” Apr. 2024, Available:](http://paperpile.com/b/Lj1YHA/c3Uyd) [https://actu.epfl.ch/news/ai-s-new-power-of-persuasion-it-can-change-your-mi/](https://actu.epfl.ch/news/ai-s-new-power-of-persuasion-it-can-change-your-mi/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/c3Uyd)  
-\[202\]	[F. Xu, H. Uszkoreit, Y. Du, W. Fan, D. Zhao, and J. Zhu, “Explainable AI: A Brief Survey on History, Research Areas, Approaches and Challenges,” in *Natural Language Processing and Chinese Computing*, Springer International Publishing, 2019, pp. 563–574.](http://paperpile.com/b/Lj1YHA/yMwI2)  
-\[203\]	[“Guardrailing.” Available:](http://paperpile.com/b/Lj1YHA/hcyZD) [https://docs.mistral.ai/capabilities/guardrailing/](https://docs.mistral.ai/capabilities/guardrailing/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/hcyZD)  
-\[204\]	[Y. Wolf, N. Wies, O. Avnery, Y. Levine, and A. Shashua, “Fundamental Limitations of Alignment in Large Language Models,” *arXiv \[cs.CL\]*, Apr. 19, 2023\. Available:](http://paperpile.com/b/Lj1YHA/Rwwzt) [http://arxiv.org/abs/2304.11082](http://arxiv.org/abs/2304.11082)  
-\[205\]	[“Aligning language models to follow instructions.” Available:](http://paperpile.com/b/Lj1YHA/8Hw06) [https://openai.com/index/instruction-following/](https://openai.com/index/instruction-following/)[. \[Accessed: Aug. 16, 2024\]](http://paperpile.com/b/Lj1YHA/8Hw06)  
-\[206\]	[J. Ji *et al.*, “Language Models Resist Alignment,” *arXiv \[cs.CL\]*, Jun. 10, 2024\. Available:](http://paperpile.com/b/Lj1YHA/1g6E1) [http://arxiv.org/abs/2406.06144](http://arxiv.org/abs/2406.06144)  
-\[207\]	[Z. Kenton, T. Everitt, L. Weidinger, I. Gabriel, V. Mikulik, and G. Irving, “Alignment of Language Agents,” *arXiv \[cs.AI\]*, Mar. 26, 2021\. Available:](http://paperpile.com/b/Lj1YHA/dreno) [http://arxiv.org/abs/2103.14659](http://arxiv.org/abs/2103.14659)  
-\[208\]	[U. Anwar *et al.*, “Foundational Challenges in Assuring Alignment and Safety of Large Language Models,” *arXiv \[cs.LG\]*, Apr. 15, 2024\. Available:](http://paperpile.com/b/Lj1YHA/Uy3c) [http://arxiv.org/abs/2404.09932](http://arxiv.org/abs/2404.09932)  
-\[209\]	[“Artificial Intelligence: A Modern Approach, 4th US ed.” Available:](http://paperpile.com/b/Lj1YHA/cOlw) [https://aima.cs.berkeley.edu](https://aima.cs.berkeley.edu)[. \[Accessed: Sep. 02, 2024\]](http://paperpile.com/b/Lj1YHA/cOlw)  
-\[210\]	[N. J. Nilsson, *The Quest for Artificial Intelligence*. Cambridge University Press, 2009\.](http://paperpile.com/b/Lj1YHA/UxXP)  
-\[211\]	[“NEW SAVANNA.” Available:](http://paperpile.com/b/Lj1YHA/QiYp) [https://new-savanna.blogspot.com/2023/11/a-dialectical-view-of-history-of-ai.html](https://new-savanna.blogspot.com/2023/11/a-dialectical-view-of-history-of-ai.html)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/QiYp)  
-\[212\]	[“A brief history: 70 years of machine learning.” Available:](http://paperpile.com/b/Lj1YHA/TtUV) [https://www.inveniam.fr/blog-brief-history-70-years-of-machine-learning](https://www.inveniam.fr/blog-brief-history-70-years-of-machine-learning)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/TtUV)  
-\[213\]	[“AlphaGo,” *Google DeepMind*. Available:](http://paperpile.com/b/Lj1YHA/07Kq) [https://deepmind.google/technologies/alphago/](https://deepmind.google/technologies/alphago/)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/07Kq)  
-\[214\]	[“AlphaGo versus Ke Jie.” Available:](http://paperpile.com/b/Lj1YHA/aH9t) [https://www.wikiwand.com/en/articles/AlphaGo\_versus\_Ke\_Jie](https://www.wikiwand.com/en/articles/AlphaGo\_versus\_Ke\_Jie)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/aH9t)  
-\[215\]	[“Terrence J. sejnowski,” *MIT Press*, Dec. 07, 2021\. Available:](http://paperpile.com/b/Lj1YHA/hKsZ) [https://mitpress.mit.edu/author/terrence-j-sejnowski-2310](https://mitpress.mit.edu/author/terrence-j-sejnowski-2310)[. \[Accessed: Sep. 05, 2024\]](http://paperpile.com/b/Lj1YHA/hKsZ)  
-\[216\]	[“Grand modèle de langage.” Available:](http://paperpile.com/b/Lj1YHA/ll9g) [https://www.wikiwand.com/fr/articles/Grand\_mod%C3%A8le\_de\_langage](https://www.wikiwand.com/fr/articles/Grand\_mod%C3%A8le\_de\_langage)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/ll9g)  
-\[217\]	[“Analyse lexicale.” Available:](http://paperpile.com/b/Lj1YHA/BOPS) [https://www.wikiwand.com/fr/articles/Analyse\_lexicale](https://www.wikiwand.com/fr/articles/Analyse\_lexicale)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/BOPS)  
-\[218\]	[F. C. Oettl, J. F. Oeding, and K. Samuelsson, “Explainable artificial intelligence in orthopedic surgery,” *J Exp Orthop*, vol. 11, no. 3, p. e12103, Jul. 2024\.](http://paperpile.com/b/Lj1YHA/mUcD)  
-\[219\]	[A. Jones, “Introduction to mechanistic Interpretability,” *BlueDot Impact*, Aug. 19, 2024\. Available:](http://paperpile.com/b/Lj1YHA/RtMG) [https://aisafetyfundamentals.com/blog/introduction-to-mechanistic-interpretability/](https://aisafetyfundamentals.com/blog/introduction-to-mechanistic-interpretability/)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/RtMG)  
-\[220\]	[“Modèle de fondation.” Available:](http://paperpile.com/b/Lj1YHA/yguO) [https://www.wikiwand.com/fr/articles/Mod%C3%A8le\_de\_fondation](https://www.wikiwand.com/fr/articles/Mod%C3%A8le\_de\_fondation)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/yguO)  
-\[221\]	[“Deployment.” Available:](http://paperpile.com/b/Lj1YHA/vMId) [https://ailabwatch.org/categories/deployment/](https://ailabwatch.org/categories/deployment/)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/vMId)  
-\[222\]	[P. Villalobos, “Scaling laws literature review,” *Epoch AI*, Jan. 26, 2023\. Available:](http://paperpile.com/b/Lj1YHA/j7wd) [https://epochai.org/blog/scaling-laws-literature-review](https://epochai.org/blog/scaling-laws-literature-review)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/j7wd)  
-\[223\]	[S. Capital, “Microsoft CTO Kevin Scott on How Far Scaling Laws Will Extend | Training Data,” Jul. 09, 2024\. Available:](http://paperpile.com/b/Lj1YHA/jhmY) [https://www.youtube.com/watch?v=aTQWymHp0n0](https://www.youtube.com/watch?v=aTQWymHp0n0)[. \[Accessed: Sep. 08, 2024\]](http://paperpile.com/b/Lj1YHA/jhmY)  
-\[224\]	[A. Patel, “NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models,” *NVIDIA Blog*, Jun. 14, 2024\. Available:](http://paperpile.com/b/Lj1YHA/MN3d) [https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/MN3d)  
-\[225\]	[J. Calma, “Microsoft is going nuclear to power its AI ambitions,” *The Verge*, Sep. 26, 2023\. Available:](http://paperpile.com/b/Lj1YHA/uQb0) [https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/uQb0)  
-\[226\]	[K. Hagey and A. Fitch, “Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI,” *The Wall Street Journal*, The Wall Street Journal, Feb. 09, 2024\. Available:](http://paperpile.com/b/Lj1YHA/BLf1) [https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/BLf1)  
-\[227\]	[D. Leprince-Ringuet, “AI startups need more data centres. France wants to build them,” *Sifted*, Oct. 18, 2023\. Available:](http://paperpile.com/b/Lj1YHA/9Rz1) [https://sifted.eu/articles/ai-startups-infrastructure-europe](https://sifted.eu/articles/ai-startups-infrastructure-europe)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/9Rz1)  
-\[228\]	[“OpenAI Data Partnerships.” Available:](http://paperpile.com/b/Lj1YHA/NJv1) [https://openai.com/index/data-partnerships/](https://openai.com/index/data-partnerships/)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/NJv1)  
-\[229\]	[“Introducing GPT-4o and more tools to ChatGPT free users.” Available:](http://paperpile.com/b/Lj1YHA/gyNZ) [https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/gyNZ)  
-\[230\]	[“Claude 3.5 Sonnet.” Available:](http://paperpile.com/b/Lj1YHA/9o8S) [https://www.anthropic.com/news/claude-3-5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/9o8S)  
-\[231\]	[E. Woo, S. Palazzolo, and A. Efrati, “OpenAI Races to Launch ‘Strawberry’ Reasoning AI to Boost Chatbot Business,” *The Information*, Aug. 27, 2024\. Available:](http://paperpile.com/b/Lj1YHA/6tnG) [https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business](https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/6tnG)  
-\[232\]	[J. O’Donnell, “Sam Altman says helpful agents are poised to become AI’s killer function,” *MIT Technology Review*, May 01, 2024\. Available:](http://paperpile.com/b/Lj1YHA/cJol) [https://www.technologyreview.com/2024/05/01/1091979/sam-altman-says-helpful-agents-are-poised-to-become-ais-killer-function/](https://www.technologyreview.com/2024/05/01/1091979/sam-altman-says-helpful-agents-are-poised-to-become-ais-killer-function/)[. \[Accessed: Sep. 01, 2024\]](http://paperpile.com/b/Lj1YHA/cJol)
+# **Bibliographie** {#bibliographie}
 
-[^1]:  Notons d'emblée que cette histoire n'est pas le fruit d'un travail d'historiens professionnels mais d'acteurs du domaine, ayant vécu ces développements « de l'intérieur », depuis leur position particulière. Ainsi par exemple, les auteurs placent parfois les articulations importantes de cette histoire technique à des moments différents.
+\[1\]		« Comité de l’intelligence artificielle générative », info.gouv.fr. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.info.gouv.fr/communique/comite-de-lintelligence-artificielle](https://www.info.gouv.fr/communique/comite-de-lintelligence-artificielle)
 
-[^2]:  Les innovations techniques à l'origine du connexionnisme apparaissent dans les années 1970 (ex. *backpropagation*) et 1980 (ex. *CNN*s), mais on ne peut pas parler de changement de paradigme à proprement parler avant le milieu des années 1990 [\[209\], \[210\]](https://paperpile.com/c/Lj1YHA/cOlw+UxXP).
+\[2\]		« Le rapport IA : notre ambition pour la France ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france)
+
+\[3\]		« Myanmar: The social atrocity: Meta and the right to remedy for the Rohingya », Amnesty International. Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.amnesty.org/en/documents/ASA16/5933/2022/en/](https://www.amnesty.org/en/documents/ASA16/5933/2022/en/)
+
+\[4\]		Amnesty International UK, « Ethiopia: Facebook algorithms contributed to human rights abuses against Tigrayans during conflict \- New Report », Amnesty International UK. Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.amnesty.org.uk/press-releases/ethiopia-facebook-algorithms-contributed-human-rights-abuses-against-tigrayans](https://www.amnesty.org.uk/press-releases/ethiopia-facebook-algorithms-contributed-human-rights-abuses-against-tigrayans)
+
+\[5\]		R. Manuvie, I. Mony, A. Kahle, et M. N. Khan, « Preachers of Hate: Documenting Hate Speech on Facebook India ». Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://research.rug.nl/en/publications/preachers-of-hate-documenting-hate-speech-on-facebook-india](https://research.rug.nl/en/publications/preachers-of-hate-documenting-hate-speech-on-facebook-india)
+
+\[6\]		Center for AI Safety, « Statement on AI risk », CAIS | Center for AI Safety. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.safe.ai/work/statement-on-ai-risk](https://www.safe.ai/work/statement-on-ai-risk)
+
+\[7\]		« Pause giant AI experiments: An open letter », Future of Life Institute. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://futureoflife.org/open-letter/pause-giant-ai-experiments/](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+
+\[8\]		K. Bryant, « How AI Is Impacting Society And Shaping The Future », *Forbes Magazine*, 13 décembre 2023\. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/](https://www.forbes.com/sites/kalinabryant/2023/12/13/how-ai-is-impacting-society-and-shaping-the-future/)
+
+\[9\]		A. Jindal et A. Sharma, « THE IMPACT OF ARTIFICIAL INTELLIGENCE ON SOCIETY », 18 mars 2024\. doi: [10.13140/RG.2.2.18522.96968.](http://dx.doi.org/10.13140/RG.2.2.18522.96968.)
+
+\[10\]		« Mission d’appui du CGE à la Commission de l'intelligence artificielle ». Consulté le: 3 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.economie.gouv.fr/cge/commission-ia](https://www.economie.gouv.fr/cge/commission-ia)
+
+\[11\]		« Le rapport IA : notre ambition pour la France ». Consulté le: 9 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france](https://www.bercynumerique.finances.gouv.fr/le-rapport-ia-notre-ambition-pour-la-france)
+
+\[12\]		Commission de l’intelligence artificielle, « IA : Notre ambition pour la France », mars 2024\. Consulté le: 9 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.info.gouv.fr/upload/media/content/0001/09/4d3cc456dd2f5b9d79ee75feea63b47f10d75158.pdf\&sa=D\&source=docs\&ust=1725897993856594\&usg=AOvVaw3e6zrU8MYf2OzNepwSzbUH](https://www.info.gouv.fr/upload/media/content/0001/09/4d3cc456dd2f5b9d79ee75feea63b47f10d75158.pdf&sa=D&source=docs&ust=1725897993856594&usg=AOvVaw3e6zrU8MYf2OzNepwSzbUH)
+
+\[13\]		C. Blanchot, « « Il est inconcevable que le déploiement de l’intelligence artificielle se fasse sans débat public et sans évaluation de son impact sur notre travail » », *Le Monde*, Le Monde, 16 mai 2024\. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.lemonde.fr/idees/article/2024/05/16/il-est-inconcevable-que-le-deploiement-de-l-intelligence-artificielle-se-fasse-sans-debat-public-et-sans-evaluation-de-son-impact-sur-notre-travail\_6233566\_3232.html](https://www.lemonde.fr/idees/article/2024/05/16/il-est-inconcevable-que-le-deploiement-de-l-intelligence-artificielle-se-fasse-sans-debat-public-et-sans-evaluation-de-son-impact-sur-notre-travail_6233566_3232.html)
+
+\[14\]		« Pour une IA française tournée vers l’avenir ». Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.securite-ia.fr/post/pour-une-ia-francaise-tournee-vers-lavenir](https://www.securite-ia.fr/post/pour-une-ia-francaise-tournee-vers-lavenir)
+
+\[15\]		P. Aghion et A. Bouverot, *IA : notre ambition pour la France*. Odile Jacob, 2024\.
+
+\[16\]		Wikipedia contributors, « AI safety », Wikipedia, The Free Encyclopedia. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/w/index.php?title=AI\_safety\&oldid=1239791378](https://en.wikipedia.org/w/index.php?title=AI_safety&oldid=1239791378)
+
+\[17\]		S. Russell, *Human Compatible: AI and the Problem of Control*. Penguin UK, 2019\.
+
+\[18\]		J. Mecklin, « ‘AI Godfather’ Yoshua Bengio: We need a humanity defense organization », Bulletin of the Atomic Scientists. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/](https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/)
+
+\[19\]		« Reasoning through arguments against taking AI safety seriously », Yoshua Bengio. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/](https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/)
+
+\[20\]		« Video: Geoffrey Hinton talks about the “existential threat” of AI », *MIT Technology Review*, 3 mai 2023\. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/](https://www.technologyreview.com/2023/05/03/1072589/video-geoffrey-hinton-google-ai-risk-ethics/)
+
+\[21\]		S. Cave, « Risks from Artificial Intelligence ». Consulté le: 19 août 2024\. \[En ligne\]. Disponible sur: [https://www.cser.ac.uk/research/risks-from-artificial-intelligence](https://www.cser.ac.uk/research/risks-from-artificial-intelligence)
+
+\[22\]		« Center for AI safety (CAIS) ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.safe.ai/](https://www.safe.ai/)
+
+\[23\]		« Center for Human-Compatible Artificial Intelligence – Center for Human-Compatible AI is building exceptional AI for humanity ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://humancompatible.ai/](https://humancompatible.ai/)
+
+\[24\]		F. Gustafsson, « Automotive safety systems », *IEEE Signal Process. Mag.*, vol. 26, no 4, p. 32‑47, juill. 2009\.
+
+\[25\]		« Introducing Superalignment ». Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://openai.com/index/introducing-superalignment/](https://openai.com/index/introducing-superalignment/)
+
+\[26\]		K. Wiggers, « Google DeepMind forms a new org focused on AI safety », *TechCrunch*, 21 février 2024\. Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/](https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/)
+
+\[27\]		« Anca Dragan named Head of AI Safety and Alignment at Google DeepMind », EECS at Berkeley. Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://eecs.berkeley.edu/news/anca-dragan-named-head-of-ai-safety-and-alignment-at-google-deepmind](https://eecs.berkeley.edu/news/anca-dragan-named-head-of-ai-safety-and-alignment-at-google-deepmind)
+
+\[28\]		« Responsibility & safety », Google DeepMind. Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://deepmind.google/about/responsibility-safety/](https://deepmind.google/about/responsibility-safety/)
+
+\[29\]		K. Wiggers, « Anthropic hires former OpenAI safety lead to head up new team », *TechCrunch*, 28 mai 2024\. Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/)
+
+\[30\]		« Research ». Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://www.anthropic.com/research](https://www.anthropic.com/research)
+
+\[31\]		« Stanford AI safety ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://aisafety.stanford.edu/](https://aisafety.stanford.edu/)
+
+\[32\]		« MIT AI alignment », MIT AI Alignment. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.mitalignment.org/](https://www.mitalignment.org/)
+
+\[33\]		« DeCal ». Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://decal.studentorg.berkeley.edu/courses/7142](https://decal.studentorg.berkeley.edu/courses/7142)
+
+\[34\]	« SafeAI: Safe Artificial Intelligence ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://safeai.ethz.ch/](https://safeai.ethz.ch/)
+
+\[35\]		« Turing seminar – an introduction to AGI safety – master MVA ». Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.master-mva.com/cours/seminaire-turing/](https://www.master-mva.com/cours/seminaire-turing/)
+
+\[36\]		« Inauguration de la Chaire « Intelligence artificielle de confiance et responsable » », École polytechnique, école d’ingénieur. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.polytechnique.edu/actualites/inauguration-de-la-chaire-intelligence-artificielle-de-confiance-et-responsable](https://www.polytechnique.edu/actualites/inauguration-de-la-chaire-intelligence-artificielle-de-confiance-et-responsable)
+
+\[37\]		D. Hendrycks, M. Mazeika, et T. Woodside, « An Overview of Catastrophic AI Risks », *arXiv \[cs.CY\]*, 21 juin 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2306.12001](http://arxiv.org/abs/2306.12001)
+
+\[38\]		L. Weidinger *et al.*, « Ethical and social risks of harm from Language Models », *arXiv \[cs.CL\]*, 8 décembre 2021\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2112.04359](http://arxiv.org/abs/2112.04359)
+
+\[39\]		« Panorama », *Kardiologe*, vol. 3, no 3, p. 192‑193, juin 2009\.
+
+\[40\]	P. Blanchard, E. M. El Mhamdi, R. Guerraoui, et J. Stainer, « Machine learning with adversaries: Byzantine tolerant gradient descent », *Adv. Neural Inf. Process. Syst.*, p. 119‑129, déc. 2017\.
+
+\[41\]		E.-M. El-Mhamdi *et al.*, « On the Impossible Safety of Large AI Models », *arXiv \[cs.LG\]*, 30 septembre 2022\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2209.15259](http://arxiv.org/abs/2209.15259)
+
+\[42\]	B. Biggio, B. Nelson, et P. Laskov, « Poisoning Attacks against Support Vector Machines », *arXiv \[cs.LG\]*, 27 juin 2012\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/1206.6389](http://arxiv.org/abs/1206.6389)
+
+\[43\]	F. Tramèr *et al.*, « Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets », in *Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security*, in CCS ’22. New York, NY, USA: Association for Computing Machinery, nov. 2022, p. 2779‑2792.
+
+\[44\]	N. Carlini *et al.*, « Are aligned neural networks adversarially aligned? », *Adv. Neural Inf. Process. Syst.*, vol. 36, 2024, \[En ligne\]. Disponible sur: [https://proceedings.neurips.cc/paper\_files/paper/2023/hash/c1f0b856a35986348ab3414177266f75-Abstract-Conference.html](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c1f0b856a35986348ab3414177266f75-Abstract-Conference.html)
+
+\[45\]		E. Debenedetti *et al.*, « Privacy Side Channels in Machine Learning Systems », *arXiv \[cs.CR\]*, 11 septembre 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2309.05610](http://arxiv.org/abs/2309.05610)
+
+\[46\]	Y. Huang, S. Gupta, M. Xia, K. Li, et D. Chen, « Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation », *arXiv \[cs.CL\]*, 10 octobre 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2310.06987](http://arxiv.org/abs/2310.06987)
+
+\[47\]		X. Liu, N. Xu, M. Chen, et C. Xiao, « AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models », *arXiv \[cs.CL\]*, 3 octobre 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2310.04451](http://arxiv.org/abs/2310.04451)
+
+\[48\]	J. Rando et F. Tramèr, « Universal Jailbreak Backdoors from Poisoned Human Feedback », *arXiv \[cs.AI\]*, 24 novembre 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2311.14455](http://arxiv.org/abs/2311.14455)
+
+\[49\]	« Specification gaming: the flip side of AI ingenuity », Google DeepMind. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/](https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/)
+
+\[50\]		Z. Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protest*. Yale University Press, 2017\.
+
+\[51\]		S. Aral, *The Hype Machine: How Social Media Disrupts Our Elections, Our Economy and Our Health – and How We Must Adapt*. HarperCollins, 2020\.
+
+\[52\]		L. N. Hoang, « Science Communication Desperately Needs More Aligned Recommendation Algorithms », *Frontiers in Communication*, vol. 5, 2020, doi: [10.3389/fcomm.2020.598454.](http://dx.doi.org/10.3389/fcomm.2020.598454.)
+
+\[53\]		M. K. Lee *et al.*, « WeBuildAI: Participatory Framework for Algorithmic Governance », *Proc. ACM Hum.-Comput. Interact.*, vol. 3, no CSCW, p. 1‑35, nov. 2019\.
+
+\[54\]		R. Noothigattu *et al.*, « A Voting-Based System for Ethical Decision Making », *AAAI*, vol. 32, no 1, avr. 2018, doi: [10.1609/aaai.v32i1.11512.](http://dx.doi.org/10.1609/aaai.v32i1.11512.)
+
+\[55\]		L. N. Hoang *et al.*, « Tournesol: Permissionless Collaborative Algorithmic Governance with Security Guarantees », *arXiv \[cs.SI\]*, 30 octobre 2022\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2211.01179](http://arxiv.org/abs/2211.01179)
+
+\[56\]		R. A. Bradley et M. E. Terry, « Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons », *Biometrika*, vol. 39, no 3/4, p. 324‑345, 1952\.
+
+\[57\]		J. Fageot, S. Farhadkhani, L.-N. Hoang, et O. Villemaud, « Generalized Bradley-Terry Models for Score Estimation from Paired Comparisons », *AAAI*, vol. 38, no 18, p. 20379‑20386, mars 2024\.
+
+\[58\]		H. T. Pham, K. N. Nguyen, V. H. Phun, et T. K. Dang, « Secure Recommender System based on Neural Collaborative Filtering and Federated Learning », in *2022 International Conference on Advanced Computing and Analytics (ACOMPA)*, IEEE, nov. 2022, p. 1‑11.
+
+\[59\]		J. Ding, Y. Quan, Q. Yao, Y. Li, et D. Jin, « Simplify and robustify negative sampling for implicit collaborative filtering », *Adv. Neural Inf. Process. Syst.*, vol. abs/2009.03376, sept. 2020, \[En ligne\]. Disponible sur: [https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html](https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html)
+
+\[60\]	Wikipedia contributors, « Reinforcement learning from human feedback », Wikipedia, The Free Encyclopedia. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/w/index.php?title=Reinforcement\_learning\_from\_human\_feedback\&oldid=1234302797](https://en.wikipedia.org/w/index.php?title=Reinforcement_learning_from_human_feedback&oldid=1234302797)
+
+\[61\]		P. Christiano, J. Leike, T. B. Brown, M. Martic, S. Legg, et D. Amodei, « Deep reinforcement learning from human preferences », *arXiv \[stat.ML\]*, 12 juin 2017\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/1706.03741](http://arxiv.org/abs/1706.03741)
+
+\[62\]		N. Nanda, « A comprehensive mechanistic interpretability explainer & glossary », Neel Nanda. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://www.neelnanda.io/mechanistic-interpretability/glossary](https://www.neelnanda.io/mechanistic-interpretability/glossary)
+
+\[63\]		L. Bereska et E. Gavves, « Mechanistic Interpretability for AI Safety \-- A Review », *arXiv \[cs.AI\]*, 22 avril 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2404.14082](http://arxiv.org/abs/2404.14082)
+
+\[64\]	D. Rai, Y. Zhou, S. Feng, A. Saparov, et Z. Yao, « A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models », *arXiv \[cs.AI\]*, 2 juillet 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2407.02646](http://arxiv.org/abs/2407.02646)
+
+\[65\]		« Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations », NIST. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+
+\[66\]		« \[No title\] ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative](https://cyber.gouv.fr/publications/recommandations-de-securite-pour-un-systeme-dia-generative)
+
+\[67\]		« Centre pour la Sécurité de l’IA ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.securite-ia.fr](https://www.securite-ia.fr)
+
+\[68\]		« 2022 expert survey on progress in AI », AI Impacts. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)
+
+\[69\]		« Yoshua Bengio ». Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://amturing.acm.org/award\_winners/bengio\_3406375.cfm](https://amturing.acm.org/award_winners/bengio_3406375.cfm)
+
+\[70\]		« Geoffrey E. Hinton », in *Talking Nets*, The MIT Press, 2000\.
+
+\[71\]		« 4 Charts That Show Why AI Progress Is Unlikely to Slow Down », *Time*. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://time.com/6300942/ai-progress-charts/](https://time.com/6300942/ai-progress-charts/)
+
+\[72\]		« AI index report 2024 – artificial intelligence index ». Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://aiindex.stanford.edu/report/](https://aiindex.stanford.edu/report/)
+
+\[73\]		« International scientific report on the safety of advanced AI », GOV.UK. Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)
+
+\[74\]		K. Grace, H. Stewart, J. F. Sandkühler, S. Thomas, B. Weinstein-Raun, et J. Brauner, « Thousands of AI Authors on the Future of AI », *arXiv \[cs.CY\]*, 5 janvier 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2401.02843](http://arxiv.org/abs/2401.02843)
+
+\[75\]		K. Grace, J. F. Sandkühler, H. Stewart, S. Thomas, B. Weinstein-Raun, et J. Brauner, « 2022 expert survey on progress in AI », AI Impacts Wiki. Consulté le: 9 septembre 2024\. \[En ligne\]. Disponible sur: [https://wiki.aiimpacts.org/doku.php?id=ai\_timelines:predictions\_of\_human-level\_ai\_timelines:ai\_timeline\_surveys:2022\_expert\_survey\_on\_progress\_in\_ai.](https://wiki.aiimpacts.org/doku.php?id=ai_timelines:predictions_of_human-level_ai_timelines:ai_timeline_surveys:2022_expert_survey_on_progress_in_ai.)
+
+\[76\]		M. K. Cohen, N. Kolt, Y. Bengio, G. K. Hadfield, et S. Russell, « Regulating advanced artificial agents », *Science*, vol. 384, no 6691, p. 36‑38, avr. 2024\.
+
+\[77\]		*AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters*. Github. Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+\[78\]		« Cognition ». Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.cognition.ai/blog/introducing-devin](https://www.cognition.ai/blog/introducing-devin)
+
+\[79\]		« Genie: SOTA Software engineering model ». Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://cosine.sh/genie](https://cosine.sh/genie)
+
+\[80\]	C. Lu, C. Lu, R. T. Lange, J. Foerster, J. Clune, et D. Ha, « The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery », *arXiv \[cs.AI\]*, 12 août 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2408.06292](http://arxiv.org/abs/2408.06292)
+
+\[81\]		« Capital industriel moderne, demande de travail et dynamique des marchés de produits : le cas de la France ». Consulté le: 11 août 2024\. \[En ligne\]. Disponible sur: [https://www.insee.fr/fr/statistiques/7613948](https://www.insee.fr/fr/statistiques/7613948)
+
+\[82\]		L. Odot, « Are online recommendation algorithms polarising users’ views? », Polytechnique Insights. Consulté le: 25 août 2024\. \[En ligne\]. Disponible sur: [https://www.polytechnique-insights.com/en/columns/digital/are-recommendation-algorithms-a-source-of-polarization/](https://www.polytechnique-insights.com/en/columns/digital/are-recommendation-algorithms-a-source-of-polarization/)
+
+\[83\]		Y. Shi, « How Social Media and Embedded Recommender Algorithm Fostered Political Issues », Clark University, 2021\. Consulté le: 25 août 2024\. \[En ligne\]. Disponible sur: [https://commons.clarku.edu/sps\_masters\_papers/91/](https://commons.clarku.edu/sps_masters_papers/91/)
+
+\[84\]	P. Törnberg, « How digital media drive affective polarization through partisan sorting », *Proc. Natl. Acad. Sci. U. S. A.*, vol. 119, no 42, p. e2207159119, oct. 2022\.
+
+\[85\]		K. Duskin, J. S. Schafer, J. D. West, et E. S. Spiro, « Echo Chambers in the Age of Algorithms: An Audit of Twitter’s Friend Recommender System », *arXiv \[cs.SI\]*, 9 avril 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2404.06422](http://arxiv.org/abs/2404.06422)
+
+\[86\]		Y. Gao, F. Liu, et L. Gao, « Echo chamber effects on short video platforms », *Sci. Rep.*, vol. 13, no 1, p. 6282, avr. 2023\.
+
+\[87\]		« Myanmar: Time for Meta to pay reparations to Rohingya for role in ethnic cleansing », Amnesty International. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.amnesty.org/en/latest/news/2023/08/myanmar-time-for-meta-to-pay-reparations-to-rohingya-for-role-in-ethnic-cleansing/](https://www.amnesty.org/en/latest/news/2023/08/myanmar-time-for-meta-to-pay-reparations-to-rohingya-for-role-in-ethnic-cleansing/)
+
+\[88\]		J. Whittaker, S. Looney, A. Reed, et F. Votta, « Recommender systems and the amplification of extremist content », *Internet Pol. Rev.*, vol. 10, no 2, juin 2021, doi: [10.14763/2021.2.1565.](http://dx.doi.org/10.14763/2021.2.1565.)
+
+\[89\]		R. Bellanova, K. Irion, K. Lindskov Jacobsen, F. Ragazzi, R. Saugmann, et L. Suchman, « Toward a Critique of Algorithmic Violence », *Int Polit Sociol*, vol. 15, no 1, p. 121‑150, mars 2021\.
+
+\[90\]	T. T. Nguyen *et al.*, « Manipulating Recommender Systems: A Survey of Poisoning Attacks and Countermeasures », *arXiv \[cs.CR\]*, 23 avril 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2404.14942](http://arxiv.org/abs/2404.14942)
+
+\[91\]		Z. Zhu *et al.*, « Understanding or Manipulation: Rethinking Online Performance Gains of Modern Recommender Systems », *ACM Trans. Inf. Syst. Secur.*, vol. 42, no 4, p. 1‑32, févr. 2024\.
+
+\[92\]		Wikipedia contributors, « Russian interference in the 2016 United States elections », Wikipedia, The Free Encyclopedia. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/w/index.php?title=Russian\_interference\_in\_the\_2016\_United\_States\_elections\&oldid=1240980413](https://en.wikipedia.org/w/index.php?title=Russian_interference_in_the_2016_United_States_elections&oldid=1240980413)
+
+\[93\]		K. Dilanian, « Russian trolls who interfered in 2016 U.S. election also made ad money, report says », NBC News. Consulté le: 25 août 2024\. \[En ligne\]. Disponible sur: [https://www.nbcnews.com/politics/national-security/russian-trolls-who-interfered-2016-u-s-election-also-made-n1013811](https://www.nbcnews.com/politics/national-security/russian-trolls-who-interfered-2016-u-s-election-also-made-n1013811)
+
+\[94\]	« Here’s What We Know So Far About Russia’s 2016 Meddling », *Time*. Consulté le: 25 août 2024\. \[En ligne\]. Disponible sur: [https://time.com/5565991/russia-influence-2016-election/](https://time.com/5565991/russia-influence-2016-election/)
+
+\[95\]		A. M. Khalaf, A. A. Alubied, A. M. Khalaf, et A. A. Rifaey, « The Impact of Social Media on the Mental Health of Adolescents and Young Adults: A Systematic Review », *Cureus*, vol. 15, no 8, p. e42990, août 2023\.
+
+\[96\]		« Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show », archive.ph. Consulté le: 25 août 2024\. \[En ligne\]. Disponible sur: [https://archive.ph/uX95E](https://archive.ph/uX95E)
+
+\[97\]		M. Chan et J. Yi, « Social Media Use and Political Engagement in Polarized Times. Examining the Contextual Roles of Issue and Affective Polarization in Developed Democracies », *Political Communication*, p. 1‑20.
+
+\[98\]		A. P. Sundar, F. Li, X. Zou, T. Gao, et E. D. Russomanno, « Understanding shilling attacks and their detection traits: A comprehensive survey », *IEEE Access*, vol. 8, p. 171703‑171715, 2020\.
+
+\[99\]		I. Gunes, C. Kaleli, A. Bilge, et H. Polat, « Shilling attacks against recommender systems: a comprehensive survey », *Artificial Intelligence Review*, vol. 42, no 4, p. 767‑799, déc. 2014\.
+
+\[100\]	« Facebook fake account deletion per quarter 2023 », Statista. Consulté le: 27 août 2024\. \[En ligne\]. Disponible sur: [https://www.statista.com/statistics/1013474/facebook-fake-account-removal-quarter/](https://www.statista.com/statistics/1013474/facebook-fake-account-removal-quarter/)
+
+\[101\]	« La Dictature des Algorithmes », Éditions Tallandier. Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.tallandier.com/livre/la-dictature-des-algorithmes/](https://www.tallandier.com/livre/la-dictature-des-algorithmes/)
+
+\[102\]	Wikipedia contributors, « Intelligence artificielle », Wikipedia, The Free Encyclopedia. \[En ligne\]. Disponible sur: [https://fr.wikipedia.org/w/index.php?title=Intelligence\_artificielle\&oldid=217518957](https://fr.wikipedia.org/w/index.php?title=Intelligence_artificielle&oldid=217518957)
+
+\[103\]	Wikipedia contributors, « Deep learning », Wikipedia, The Free Encyclopedia. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/w/index.php?title=Deep\_learning\&oldid=1239902356](https://en.wikipedia.org/w/index.php?title=Deep_learning&oldid=1239902356)
+
+\[104\]	Wikipedia contributors, « Large language model », Wikipedia, The Free Encyclopedia. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/w/index.php?title=Large\_language\_model\&oldid=1239909148](https://en.wikipedia.org/w/index.php?title=Large_language_model&oldid=1239909148)
+
+\[105\]	J. Wei *et al.*, « Emergent Abilities of Large Language Models », *arXiv \[cs.CL\]*, 15 juin 2022\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2206.07682](http://arxiv.org/abs/2206.07682)
+
+\[106\]	S. Bubeck *et al.*, « Sparks of Artificial General Intelligence: Early experiments with GPT-4 », *arXiv \[cs.CL\]*, 22 mars 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2303.12712](http://arxiv.org/abs/2303.12712)
+
+\[107\]	R. Ngo, « Visualizing the deep learning revolution \- Richard Ngo », Medium. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5)
+
+\[108\]	J. E. Dobson, « On reading and interpreting black box deep neural networks », *International Journal of Digital Humanities*, vol. 5, no 2, p. 431‑449, nov. 2023\.
+
+\[109\]	T. Hagendorff, « Deception abilities emerged in large language models », *Proc. Natl. Acad. Sci. U. S. A.*, vol. 121, no 24, p. e2317967121, juin 2024\.
+
+\[110\]	J. Vincent, « Microsoft’s Bing is an emotionally manipulative liar, and people love it », The Verge. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
+
+\[111\]		R. Fang, R. Bindu, A. Gupta, Q. Zhan, et D. Kang, « LLM Agents can Autonomously Hack Websites », *arXiv \[cs.CR\]*, 6 février 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2402.06664](http://arxiv.org/abs/2402.06664)
+
+\[112\]	R. Fang, R. Bindu, A. Gupta, Q. Zhan, et D. Kang, « Teams of LLM Agents can Exploit Zero-Day Vulnerabilities », *arXiv \[cs.MA\]*, 2 juin 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2406.01637](http://arxiv.org/abs/2406.01637)
+
+\[113\]	R. Fang, R. Bindu, A. Gupta, et D. Kang, « LLM Agents can Autonomously Exploit One-day Vulnerabilities », *arXiv \[cs.CR\]*, 11 avril 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2404.08144](http://arxiv.org/abs/2404.08144)
+
+\[114\]	M. Shao *et al.*, « An Empirical Evaluation of LLMs for Solving Offensive Security Challenges », *arXiv \[cs.CR\]*, 19 février 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2402.11814](http://arxiv.org/abs/2402.11814)
+
+\[115\]	D. Kiela, « Plotting progress in AI », Contextual AI. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://contextual.ai/news/plotting-progress-in-ai/](https://contextual.ai/news/plotting-progress-in-ai/)
+
+\[116\]	J. Kaplan *et al.*, « Scaling Laws for Neural Language Models », *arXiv \[cs.LG\]*, 23 janvier 2020\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2001.08361](http://arxiv.org/abs/2001.08361)
+
+\[117\]	« Large-scale AI models », Epoch AI. Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://epochai.org/data/large-scale-ai-models](https://epochai.org/data/large-scale-ai-models)
+
+\[118\]	« Exclusive: OpenAI working on new reasoning technology under code name ‘Strawberry’ », *Reuters*, 12 juillet 2024\. Consulté le: 8 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/](https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/)
+
+\[119\]	« OpenAI Charter ». Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://openai.com/charter/](https://openai.com/charter/)
+
+\[120\]	« SITUATIONAL AWARENESS: The decade ahead », SITUATIONAL AWARENESS \- The Decade Ahead. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://situational-awareness.ai/](https://situational-awareness.ai/)
+
+\[121\]	« When Might AI Outsmart Us? It Depends Who You Ask », *Time*. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://time.com/6556168/when-ai-outsmart-humans/](https://time.com/6556168/when-ai-outsmart-humans/)
+
+\[122\]	W. Yu *et al.*, « Language to Rewards for Robotic Skill Synthesis », *arXiv \[cs.RO\]*, 14 juin 2023\. doi: [10.48550/ARXIV.2306.08647.](http://dx.doi.org/10.48550/ARXIV.2306.08647.)
+
+\[123\]	Figure, « Figure Status Update \- OpenAI Speech-to-Speech Reasoning ». Consulté le: 9 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.youtube.com/watch?v=Sq1QZB5baNw](https://www.youtube.com/watch?v=Sq1QZB5baNw)
+
+\[124\]	P. Gmyrek, J. Berg, et D. Bescond, « Generative AI and jobs: A global analysis of potential effects on job quantity and quality », *SSRN Electron. J.*, août 2023, doi: [10.2139/ssrn.4584219.](http://dx.doi.org/10.2139/ssrn.4584219.)
+
+\[125\]	C. Pizzinelli, A. J. Panton, M. M. Tavares, M. Cazzaniga, et L. Li, *Labor Market Exposure to AI: Cross-country Differences and Distributional Implications*. International Monetary Fund, 2023\.
+
+\[126\]	« The state of phishing 2024 », SlashNext | Complete Generative AI Security for Email, Mobile, and Browser. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://slashnext.com/the-state-of-phishing-2024/](https://slashnext.com/the-state-of-phishing-2024/)
+
+\[127\]	J. Hazell, « Spear Phishing With Large Language Models », *arXiv \[cs.CY\]*, 11 mai 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2305.06972](http://arxiv.org/abs/2305.06972)
+
+\[128\]	D. Milmo, « Company worker in Hong Kong pays out £20m in deepfake video call scam », *The Guardian*, The Guardian, 5 février 2024\. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://www.theguardian.com/world/2024/feb/05/hong-kong-company-deepfake-video-conference-call-scam](https://www.theguardian.com/world/2024/feb/05/hong-kong-company-deepfake-video-conference-call-scam)
+
+\[129\]	G. Boesch, « What Is Adversarial Machine Learning? Attack Methods in 2024 », viso.ai. Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://viso.ai/deep-learning/adversarial-machine-learning/](https://viso.ai/deep-learning/adversarial-machine-learning/)
+
+\[130\]	« Training data extraction attacks ». Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://www.nightfall.ai/ai-security-101/training-data-extraction-attacks](https://www.nightfall.ai/ai-security-101/training-data-extraction-attacks)
+
+\[131\]	« The near-term impact of AI on the cyber threat ». Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat](https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat)
+
+\[132\]	« World Economic Forum », World Economic Forum. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://www.weforum.org/publications/global-cybersecurity-outlook-2023/](https://www.weforum.org/publications/global-cybersecurity-outlook-2023/)
+
+\[133\]	« Voice of SecOps reports », Deep Instinct. Consulté le: 12 août 2024\. \[En ligne\]. Disponible sur: [https://www.deepinstinct.com/voice-of-secops-reports](https://www.deepinstinct.com/voice-of-secops-reports)
+
+\[134\]	« Open-sourcing highly capable foundation models ». Consulté le: 13 août 2024\. \[En ligne\]. Disponible sur: [https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
+
+\[135\]	R. Slayton, « Conceptions, Causes, and Assessment », *Int. Secur.*, vol. 41, no 3, p. 72‑109, 2016\.
+
+\[136\]	*Defending a New Domain: The Pentagon’s Cyberstrategy*. Defense Technical Information Center, 2010\.
+
+\[137\]	P. Venables et C. Snyder, « Cloud CISO Perspectives: Building better cyber defenses with AI », Google Cloud Blog. Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-building-better-cyber-defenses-with-ai/](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-building-better-cyber-defenses-with-ai/)
+
+\[138\]	P. Gade, S. Lermen, C. Rogers-Smith, et J. Ladish, « BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B », *arXiv \[cs.CL\]*, 31 octobre 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2311.00117](http://arxiv.org/abs/2311.00117)
+
+\[139\]	« Disrupting deceptive uses of AI by covert influence operations ». Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
+
+\[140\]	C. Mouton, C. Lucas, et E. Guest, *The Operational Risks of AI in Large-Scale Biological Attacks*. RAND Corporation, 2024\.
+
+\[141\]	« Reddit \- Dive into anything ». Consulté le: 13 août 2024\. \[En ligne\]. Disponible sur: [https://www.reddit.com/r/ArtistHate/](https://www.reddit.com/r/ArtistHate/)
+
+\[142\]	J. Wolters, « The animation guild: Future unscripted: The Impact of Generative AI on entertainment industry jobs », INDAC. Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://indac.org/blog/the-animation-guild-future-unscripted-the-impact-of-generative-ai-on-entertainment-industry-jobs/](https://indac.org/blog/the-animation-guild-future-unscripted-the-impact-of-generative-ai-on-entertainment-industry-jobs/)
+
+\[143\]	« The potentially large effects of artificial intelligence on economic growth (Briggs/kodnani) ». Consulté le: 13 août 2024\. \[En ligne\]. Disponible sur: [https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html](https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html)
+
+\[144\]	« Sondage Ifop \- Talan : les Français et les IA génératives ». Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://www.talan.com/actualites/detail-actualites/news/sondage-ifop-talan-les-francais-et-les-ia-generatives/](https://www.talan.com/actualites/detail-actualites/news/sondage-ifop-talan-les-francais-et-les-ia-generatives/)
+
+\[145\]	« OpinionWay pour Universcience \- Barometre de l’esprit critique 2024 \- Mars 2024 ». Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/opinion-societe/opinionway-pour-universcience-barometre-de-l-esprit-critique-2024-mars-2024.html](https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/opinion-societe/opinionway-pour-universcience-barometre-de-l-esprit-critique-2024-mars-2024.html)
+
+\[146\]	« Intelligence artificielle : un Français sur deux inquiet », BCG Global. Consulté le: 14 août 2024\. \[En ligne\]. Disponible sur: [https://www.bcg.com/press/26april2024-intelligence-artificielle-un-francais-sur-deux-inquiet](https://www.bcg.com/press/26april2024-intelligence-artificielle-un-francais-sur-deux-inquiet)
+
+\[147\]	Y. Yao, J. Duan, K. Xu, Y. Cai, Z. Sun, et Y. Zhang, « A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly », *arXiv \[cs.CR\]*, 4 décembre 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2312.02003](http://arxiv.org/abs/2312.02003)
+
+\[148\]	« AI Safety Summit », AISS 2023\. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.aisafetysummit.gov.uk/](https://www.aisafetysummit.gov.uk/)
+
+\[149\]	« The bletchley declaration by countries attending the AI safety summit, 1-2 November 2023 », GOV.UK. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+
+\[150\]	« Action Plan to increase the safety and security of advanced AI ». Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.gladstone.ai/action-plan](https://www.gladstone.ai/action-plan)
+
+\[151\]	« International scientific report on the safety of advanced AI », GOV.UK. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai](https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai)
+
+\[152\]	R. J. Neuwirth, *The EU artificial intelligence act: Regulating subliminal AI systems*. in Routledge Research in the Law of Emerging Technologies. London, England: Routledge, 2022\. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://artificialintelligenceact.eu/](https://artificialintelligenceact.eu/)
+
+\[153\]	The White House, « Executive order on the safe, secure, and trustworthy development and use of artificial intelligence », The White House. Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+
+\[154\]	D. Patterson *et al.*, « Carbon Emissions and Large Neural Network Training », *arXiv \[cs.LG\]*, 21 avril 2021\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2104.10350](http://arxiv.org/abs/2104.10350)
+
+\[155\]	J. Saul et D. Bass, « Artificial Intelligence Is Booming—So Is Its Carbon Footprint », *Bloomberg News*, 9 mars 2023\. Consulté le: 2 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure](https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure)
+
+\[156\]	G. Livingstone, « ‘It’s pillage’: thirsty Uruguayans decry Google’s plan to exploit water supply », *The Guardian*, The Guardian, 11 juillet 2023\. Consulté le: 2 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.theguardian.com/world/2023/jul/11/uruguay-drought-water-google-data-center](https://www.theguardian.com/world/2023/jul/11/uruguay-drought-water-google-data-center)
+
+\[157\]	S. Kim *et al.*, « Chemical use in the semiconductor manufacturing industry », *Int. J. Occup. Environ. Health*, vol. 24, no 3‑4, p. 109‑118, oct. 2018\.
+
+\[158\]	C. Simpson, « American Chipmakers Had a Toxic Problem. Then They Outsourced It », *Bloomberg News*, 15 juin 2017\. Consulté le: 2 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it](https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it)
+
+\[159\]	T. Tech, « Anne Bouverot : La France, capitale européenne de l’iA ? » Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://www.youtube.com/watch?v=oQJhqxnDsjo](https://www.youtube.com/watch?v=oQJhqxnDsjo)
+
+\[160\]	F. Brewster, « Big Tech is lobbying hard to keep copyright law favorable to AI ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://jacobin.com/2023/11/artificial-intelligence-big-tech-lobbying-copyright-infringement-regulation/](https://jacobin.com/2023/11/artificial-intelligence-big-tech-lobbying-copyright-infringement-regulation/)
+
+\[161\]	« TTP \- funding the fight against antitrust: How Facebook’s antiregulatory attack dog spends its millions ». Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://www.techtransparencyproject.org/articles/funding-fight-against-antitrust-how-facebooks-antiregulatory-attack-dog-spends-its-millions](https://www.techtransparencyproject.org/articles/funding-fight-against-antitrust-how-facebooks-antiregulatory-attack-dog-spends-its-millions)
+
+\[162\]	S. Hashim, « Meta-funded group floods Facebook with anti-AI regulation ads », Transformer. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.transformernews.ai/p/american-edge-meta-ai-regulation-lobbying](https://www.transformernews.ai/p/american-edge-meta-ai-regulation-lobbying)
+
+\[163\]	S. Hashim, « Tech companies are trying to kill California’s AI regulation bill », Transformer. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.transformernews.ai/p/a16z-y-combinator-big-tech-sb1047-lobbying](https://www.transformernews.ai/p/a16z-y-combinator-big-tech-sb1047-lobbying)
+
+\[164\]	« Trojan horses: how European startups teamed up with Big Tech to gut the AI Act ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://corporateeurope.org/en/2024/03/trojan-horses-how-european-startups-teamed-big-tech-gut-ai-act](https://corporateeurope.org/en/2024/03/trojan-horses-how-european-startups-teamed-big-tech-gut-ai-act)
+
+\[165\]	S. User, « Yann Le Cun ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-L/yann-le-cun.html](https://www.academie-sciences.fr/fr/Liste-des-membres-de-l-Academie-des-sciences-/-L/yann-le-cun.html)
+
+\[166\]	O. LinkedIn, « About linkedin », *LinkedIn Corporation*, 2022, \[En ligne\]. Disponible sur: [https://www.linkedin.com/posts/yann-lecun\_today-i-was-made-a-chevalier-de-la-l%C3%A9gion-activity-7138326352776056832-GQFp/](https://www.linkedin.com/posts/yann-lecun_today-i-was-made-a-chevalier-de-la-l%C3%A9gion-activity-7138326352776056832-GQFp/)
+
+\[167\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/ylecun](https://x.com/ylecun)
+
+\[168\]	« LinkedIn ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.linkedin.com/in/yann-lecun/](https://www.linkedin.com/in/yann-lecun/)
+
+\[169\]	A. R. Chow, « Yann LeCun », *Time*, 7 septembre 2023\. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://time.com/collection/time100-ai/6309052/yann-lecun/](https://time.com/collection/time100-ai/6309052/yann-lecun/)
+
+\[170\]	« LinkedIn ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.linkedin.com/posts/yann-lecun\_current-and-former-colleagues-of-the-french-activity-7200524405267988480-NyaA/](https://www.linkedin.com/posts/yann-lecun_current-and-former-colleagues-of-the-french-activity-7200524405267988480-NyaA/)
+
+\[171\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/ylecun/status/1747714991292399763](https://x.com/ylecun/status/1747714991292399763)
+
+\[172\]	« Yann LeCun \- Our CTO, Mike Schroepfer, gives the details of the ». Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.facebook.com/yann.lecun/posts/10155043225132143](https://www.facebook.com/yann.lecun/posts/10155043225132143)
+
+\[173\]	« \[No title\] », X (formerly Twitter). Consulté le: 18 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/ylecun/status/1688140941079498752](https://x.com/ylecun/status/1688140941079498752)
+
+\[174\]	A. I. Mistral, « Mistral AI ». Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://mistral.ai/](https://mistral.ai/)
+
+\[175\]	K.D, « IA: la start-up française Mistral AI valorisée 6 milliards d’euros après une nouvelle levée de fonds », Tech\&Co. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.bfmtv.com/tech/intelligence-artificielle/ia-la-startup-francaise-mistral-ai-valorisee-6-milliards-d-euros-apres-une-nouvelle-levee-de-fonds\_AD-202406110709.html](https://www.bfmtv.com/tech/intelligence-artificielle/ia-la-startup-francaise-mistral-ai-valorisee-6-milliards-d-euros-apres-une-nouvelle-levee-de-fonds_AD-202406110709.html)
+
+\[176\]	S. Pommier, « L’ex-ministre Cédric 0 pourrait empocher 23 millions d'euros après avoir investi 176 euros dans Mistral AI », Capital.fr. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.capital.fr/economie-politique/mistral-ai-la-bonne-affaire-du-conseiller-fondateur-cedric-o-1488506](https://www.capital.fr/economie-politique/mistral-ai-la-bonne-affaire-du-conseiller-fondateur-cedric-o-1488506)
+
+\[177\]	H. A. P. la T. de la Vie Publique, « Délibération n° 2022-189 du 14 juin 2022 relative au projet de reconversion professionnelle de Monsieur Cédric O », juin 2022\. \[En ligne\]. Disponible sur: [https://www.hatvp.fr/wordpress/wp-content/uploads/2022/07/2022-189-Cedric-O.pdf](https://www.hatvp.fr/wordpress/wp-content/uploads/2022/07/2022-189-Cedric-O.pdf)
+
+\[178\]	Z. Wanat, « ‘EU’s AI act could kill our company,’ says Mistral’s Cédric O », Sifted. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://sifted.eu/articles/eu-ai-act-kill-mistral-cedric-o](https://sifted.eu/articles/eu-ai-act-kill-mistral-cedric-o)
+
+\[179\]	C. Axiotes, « Lobbying for loopholes: The battle over foundation models in the EU AI act », EURACTIV. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.euractiv.com/section/digital/opinion/lobbying-for-loopholes-the-battle-over-foundation-models-in-the-eu-ai-act/](https://www.euractiv.com/section/digital/opinion/lobbying-for-loopholes-the-battle-over-foundation-models-in-the-eu-ai-act/)
+
+\[180\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/tegmark/status/1728851164291059948](https://x.com/tegmark/status/1728851164291059948)
+
+\[181\]	I. Ramdani, « Intelligence artificielle : comment un ministre devenu lobbyiste a retourné le gouvernement », Mediapart. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.mediapart.fr/journal/france/011223/intelligence-artificielle-comment-un-ministre-devenu-lobbyiste-retourne-le-gouvernement](https://www.mediapart.fr/journal/france/011223/intelligence-artificielle-comment-un-ministre-devenu-lobbyiste-retourne-le-gouvernement)
+
+\[182\]	S. Pommier et S. Barge, « Régulation de l’IA : l'ex-secrétaire d'Etat Cédric O jongle entre ses intérêts et ceux de la France », Capital.fr. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.capital.fr/economie-politique/regulation-de-lia-lex-secretaire-detat-cedric-o-jongle-entre-ses-interets-et-ceux-de-la-france-1491749](https://www.capital.fr/economie-politique/regulation-de-lia-lex-secretaire-detat-cedric-o-jongle-entre-ses-interets-et-ceux-de-la-france-1491749)
+
+\[183\]	T. Hartmann, « Les coulisses de l’opposition de la France à la réglementation des modèles d’IA », EURACTIV. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.euractiv.fr/section/intelligence-artificielle/news/les-coulisses-de-lopposition-de-la-fance-a-la-reglementation-des-modeles-dia/](https://www.euractiv.fr/section/intelligence-artificielle/news/les-coulisses-de-lopposition-de-la-fance-a-la-reglementation-des-modeles-dia/)
+
+\[184\]	T. Hartmann, « AI Act : le gouvernement accusé d’avoir été influencé par un lobbyiste en situation de conflit d’intérêts », EURACTIV. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-le-gouvernement-accuse-davoir-ete-influence-par-un-lobbyiste-en-situation-de-conflit-dinterets/](https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-le-gouvernement-accuse-davoir-ete-influence-par-un-lobbyiste-en-situation-de-conflit-dinterets/)
+
+\[185\]	« Open letter EU AI act and signatories.Pdf », Google Docs. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://drive.google.com/file/d/1wrtxfvcD9FwfNfWGDL37Q6Nd8wBKXCkn/view](https://drive.google.com/file/d/1wrtxfvcD9FwfNfWGDL37Q6Nd8wBKXCkn/view)
+
+\[186\]	L. Bertuzzi, « AI Act : négociations bloquées à cause de divergences sur les modèles de fondation », EURACTIV. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-negociations-bloquees-a-cause-de-divergences-sur-les-modeles-de-fondation/?\_ga=2.50197092.31701998.1701074244-1669050714.1683052757](https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-negociations-bloquees-a-cause-de-divergences-sur-les-modeles-de-fondation/?_ga=2.50197092.31701998.1701074244-1669050714.1683052757)
+
+\[187\]	Propos recueillis par Philippe Mabille et Sylvain Rolland au Forum AIM Marseille, « Intelligence artificielle : « Les Gafam et la startup Mistral ne défendent pas l’intérêt général » (Thierry Breton) », La Tribune. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://www.latribune.fr/technos-medias/informatique/intelligence-artificielle-les-gafam-et-la-startup-mistral-ne-defendent-pas-l-interet-general-thierry-breton-984046.html](https://www.latribune.fr/technos-medias/informatique/intelligence-artificielle-les-gafam-et-la-startup-mistral-ne-defendent-pas-l-interet-general-thierry-breton-984046.html)
+
+\[188\]	O. Cédric, « This is worth some clarification. Before I do, Mr @tegmark, I shall say how pathetic I find your original tweet. You can obviously deeply disagree with my point of view, but the way you phrased it on a personal attack on my probity is to me epitomizes the decay of public debate.… », Twitter. Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://twitter.com/cedric\_o/status/1728724005459235052](https://twitter.com/cedric_o/status/1728724005459235052)
+
+\[189\]	Marc Andreessen, Ben Horowitz, Yann LeCun, Ben Fielding, Ion Stoica, Naveen Rao, Arthur Mensch, Garry Tan, Amjad Masad, Bill Gurley, Herman Narula,Tobi Lütke, Suhail Doshi, Clem Delangue, Aravind Srinivasan, Soumith Chintala, Tyler Cowen, John Carmack., « Letter to President Biden regarding the AI Executive Order », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/a16z/status/1720524920596128012](https://x.com/a16z/status/1720524920596128012)
+
+\[190\]	Andreessen-Horowitz, 1 décembre 2023\. \[En ligne\]. Disponible sur: [https://committees.parliament.uk/writtenevidence/127070/pdf](https://committees.parliament.uk/writtenevidence/127070/pdf)
+
+\[191\]	M. Casado, 6 décembre 2023\. Consulté le: 9 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.schumer.senate.gov/imo/media/doc/Martin%20Casado%20-%20Statement.pdf](https://www.schumer.senate.gov/imo/media/doc/Martin%20Casado%20-%20Statement.pdf)
+
+\[192\]	V. Hassija *et al.*, « Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence », *Cognit. Comput.*, vol. 16, no 1, p. 45‑74, janv. 2024\.
+
+\[193\]	A. Chaszczewicz, « Is Task-Agnostic Explainable AI a Myth? », *arXiv \[cs.AI\]*, 13 juillet 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2307.06963](http://arxiv.org/abs/2307.06963)
+
+\[194\]	A. Barredo Arrieta *et al.*, « Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI », *Inf. Fusion*, vol. 58, p. 82‑115, juin 2020\.
+
+\[195\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/edardaman/status/1744453999695176046](https://x.com/edardaman/status/1744453999695176046)
+
+\[196\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/NeelNanda5/status/1799203292066558403](https://x.com/NeelNanda5/status/1799203292066558403)
+
+\[197\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/m\_bourgon/status/1798863250173657312](https://x.com/m_bourgon/status/1798863250173657312)
+
+\[198\]	« \[No title\] », X (formerly Twitter). Consulté le: 15 août 2024\. \[En ligne\]. Disponible sur: [https://x.com/ID\_AA\_Carmack/status/1799147185793348006](https://x.com/ID_AA_Carmack/status/1799147185793348006)
+
+\[199\]	Sénat, « Intelligence artificielle : la France en pointe ? » Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://www.youtube.com/watch?v=tWXuGuOHMhk](https://www.youtube.com/watch?v=tWXuGuOHMhk)
+
+\[200\]	T. Petersen, « AI’s new power of persuasion: it can change your mind », avr. 2024, Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://actu.epfl.ch/news/ai-s-new-power-of-persuasion-it-can-change-your-mi/](https://actu.epfl.ch/news/ai-s-new-power-of-persuasion-it-can-change-your-mi/)
+
+\[201\]	F. Xu, H. Uszkoreit, Y. Du, W. Fan, D. Zhao, et J. Zhu, « Explainable AI: A Brief Survey on History, Research Areas, Approaches and Challenges », in *Natural Language Processing and Chinese Computing*, Springer International Publishing, 2019, p. 563‑574.
+
+\[202\]	« Guardrailing ». Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://docs.mistral.ai/capabilities/guardrailing/](https://docs.mistral.ai/capabilities/guardrailing/)
+
+\[203\]	Y. Wolf, N. Wies, O. Avnery, Y. Levine, et A. Shashua, « Fundamental Limitations of Alignment in Large Language Models », *arXiv \[cs.CL\]*, 19 avril 2023\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2304.11082](http://arxiv.org/abs/2304.11082)
+
+\[204\]	« Aligning language models to follow instructions ». Consulté le: 16 août 2024\. \[En ligne\]. Disponible sur: [https://openai.com/index/instruction-following/](https://openai.com/index/instruction-following/)
+
+\[205\]	J. Ji *et al.*, « Language Models Resist Alignment », *arXiv \[cs.CL\]*, 10 juin 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2406.06144](http://arxiv.org/abs/2406.06144)
+
+\[206\]	Z. Kenton, T. Everitt, L. Weidinger, I. Gabriel, V. Mikulik, et G. Irving, « Alignment of Language Agents », *arXiv \[cs.AI\]*, 26 mars 2021\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2103.14659](http://arxiv.org/abs/2103.14659)
+
+\[207\]	U. Anwar *et al.*, « Foundational Challenges in Assuring Alignment and Safety of Large Language Models », *arXiv \[cs.LG\]*, 15 avril 2024\. \[En ligne\]. Disponible sur: [http://arxiv.org/abs/2404.09932](http://arxiv.org/abs/2404.09932)
+
+\[208\]	« Artificial Intelligence: A Modern Approach, 4th US ed ». Consulté le: 2 septembre 2024\. \[En ligne\]. Disponible sur: [https://aima.cs.berkeley.edu](https://aima.cs.berkeley.edu)
+
+\[209\]	N. J. Nilsson, *The Quest for Artificial Intelligence*. Cambridge University Press, 2009\.
+
+\[210\]	« NEW SAVANNA ». Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://new-savanna.blogspot.com/2023/11/a-dialectical-view-of-history-of-ai.html](https://new-savanna.blogspot.com/2023/11/a-dialectical-view-of-history-of-ai.html)
+
+\[211\]	« A brief history: 70 years of machine learning ». Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.inveniam.fr/blog-brief-history-70-years-of-machine-learning](https://www.inveniam.fr/blog-brief-history-70-years-of-machine-learning)
+
+\[212\]	« AlphaGo », Google DeepMind. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://deepmind.google/technologies/alphago/](https://deepmind.google/technologies/alphago/)
+
+\[213\]	« AlphaGo versus Ke Jie ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/wiki/AlphaGo\_versus\_Ke\_Jie](https://en.wikipedia.org/wiki/AlphaGo_versus_Ke_Jie)
+
+\[214\]	« Terrence J. sejnowski », MIT Press. Consulté le: 5 septembre 2024\. \[En ligne\]. Disponible sur: [https://mitpress.mit.edu/author/terrence-j-sejnowski-2310](https://mitpress.mit.edu/author/terrence-j-sejnowski-2310)
+
+\[215\]	« Grand modèle de langage ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://fr.wikipedia.org/wiki/Grand\_mod%C3%A8le\_de\_langage](https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage)
+
+\[216\]	« Analyse lexicale ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://fr.wikipedia.org/wiki/Analyse\_lexicale](https://fr.wikipedia.org/wiki/Analyse_lexicale)
+
+\[217\]	F. C. Oettl, J. F. Oeding, et K. Samuelsson, « Explainable artificial intelligence in orthopedic surgery », *J Exp Orthop*, vol. 11, no 3, juill. 2024, doi: [10.1002/jeo2.12103.](http://dx.doi.org/10.1002/jeo2.12103.)
+
+\[218\]	« Explainable artificial intelligence ». Consulté le: 9 septembre 2024\. \[En ligne\]. Disponible sur: [https://en.wikipedia.org/wiki/Explainable\_artificial\_intelligence](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
+
+\[219\]	A. Jones, « Introduction to mechanistic Interpretability », BlueDot Impact. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://aisafetyfundamentals.com/blog/introduction-to-mechanistic-interpretability/](https://aisafetyfundamentals.com/blog/introduction-to-mechanistic-interpretability/)
+
+\[220\]	« Modèle de fondation ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://fr.wikipedia.org/wiki/Mod%C3%A8le\_de\_fondation](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_fondation)
+
+\[221\]	« Deployment ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://ailabwatch.org/categories/deployment/](https://ailabwatch.org/categories/deployment/)
+
+\[222\]	P. Villalobos, « Scaling laws literature review », Epoch AI. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://epochai.org/blog/scaling-laws-literature-review](https://epochai.org/blog/scaling-laws-literature-review)
+
+\[223\]	S. Capital, « Microsoft CTO Kevin Scott on How Far Scaling Laws Will Extend | Training Data ». Consulté le: 8 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.youtube.com/watch?v=aTQWymHp0n0](https://www.youtube.com/watch?v=aTQWymHp0n0)
+
+\[224\]	A. Patel, « NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models », NVIDIA Blog. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
+
+\[225\]	J. Calma, « Microsoft is going nuclear to power its AI ambitions », The Verge. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)
+
+\[226\]	K. Hagey et A. Fitch, « Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI », *The Wall Street Journal*, The Wall Street Journal, 9 février 2024\. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
+
+\[227\]	D. Leprince-Ringuet, « AI startups need more data centres. France wants to build them », Sifted. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://sifted.eu/articles/ai-startups-infrastructure-europe](https://sifted.eu/articles/ai-startups-infrastructure-europe)
+
+\[228\]	« OpenAI Data Partnerships ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://openai.com/index/data-partnerships/](https://openai.com/index/data-partnerships/)
+
+\[229\]	« Introducing GPT-4o and more tools to ChatGPT free users ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free)
+
+\[230\]	« Claude 3.5 Sonnet ». Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.anthropic.com/news/claude-3-5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+
+\[231\]	E. Woo, S. Palazzolo, et A. Efrati, « OpenAI Races to Launch ‘Strawberry’ Reasoning AI to Boost Chatbot Business », The Information. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business](https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business)
+
+\[232\]	J. O’Donnell, « Sam Altman says helpful agents are poised to become AI’s killer function », *MIT Technology Review*, 1 mai 2024\. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.technologyreview.com/2024/05/01/1091979/sam-altman-says-helpful-agents-are-poised-to-become-ais-killer-function/](https://www.technologyreview.com/2024/05/01/1091979/sam-altman-says-helpful-agents-are-poised-to-become-ais-killer-function/)
+
+[^1]:  Notons d'emblée que cette histoire n'est pas le fruit d'un travail d'historiens professionnels mais d'acteurs du domaine, ayant vécu ces développements « de l'intérieur », depuis leur position particulière. Ainsi par exemple, les auteurs placent parfois les articulations importantes de cette histoire technique à des moments différents.
+
+[^2]:  Les innovations techniques à l'origine du connexionnisme apparaissent dans les années 1970 (ex. *backpropagation*) et 1980 (ex. *CNN*s), mais on ne peut pas parler de changement de paradigme à proprement parler avant le milieu des années 1990 [\[208\], \[209\]](https://paperpile.com/c/P8fgeZ/GgOns+036S5).
 
 [^3]:  *Hidden Markov Models* ou Modèle de Markov Caché.
 
-[^4]:  On parle généralement « d'entraînement » pour désigner ce processus. Toutefois, la métaphore organique de modèles « cultivés » a l'avantage de mettre en exergue le peu de contrôle qu’ont les développeurs sur le contenu et les capacités des modèles qu'ils entraînent.
+[^4]:  On parle généralement « d'entraînement » pour désigner ce processus. Toutefois, la métaphore organique de modèles « cultivés » a l'avantage de mettre en exergue le peu de contrôle qu’ont les développeurs sur le contenu et les capacités des modèles qu'ils entraînent.
 
 [image1]: <data:image/png;base64,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zzZlTcm8efOsLY+Syxg4Ua369u1rfUjUAI0bNw6vvfaa9WFRAzRy5EjrQ6IGaujQoRg7dqz1YVED1K9fP+tDogbq22+/tT4kaqAeeugh60PNJjFwLqb//ve/1odEDdCnn34qDcJpavjw4daHRA3UK6+8glGjRlkfFjVAzz33nPUhUQM1Y8YM60OiBopR85YiMXAuJulZnZ5WrVqFH374wfqwqAFatmyZ9SFRA/Xjjz+qe0/UeH333XfWh0QN1KZNm6wPiRqor776yvpQs0kMnEgkEolEIpGTSQycSCQSNZO4el50epJrJ3J3iYFzAnFY9JFHHkH79u3x7rvvmo/n5uZi8ODBuOmmmyxqAz4+PrjkkkvqzBFh3X//+9+44YYbUFFRYVHbdcUX/Ny5c3HllVfixhtvRGlpqbksMzMTl112mc2w6e23366uXUxMTJ3jeXl5uPXWW5GdnV3nuCtr+vTp6NatGzp27KjmCOpivsVLL71UXStLcWUWjw8YMMB8bN++feq+4zL4/Px8i9quK5PJhClTpuCKK67AzTffjPLycnPZ888/r+6v5cuXm49t3LhRPZd8vnUlJCTgtttuw+WXX67quotZYeLSe++9V1278ePHq+/U4cOH1fzeu+++G6tXrzbX5/W8/vrrERERYT5GeXt7q3uR17WmpqZOmauqrKxMXTNeOz6blu/5p556ChdffDE2bNigvhcVFWH27Nnq/po4cWKde7RPnz7q2rnT0H5xcTE6deqkrt3MmTPNx8PDw9GzZ0/cd9992LJlizpWWFio7lG2u5MnTzbX1XXVVVeplfmOkBg4J5CezI85YQ4ePIjo6Gh1nA9fYGCgelCZAoMG5dVXXzVPxt+1a5eaY0NZNra8ubKysszfXVm8dmz8+BL/5z//ibi4OAQFBamHjOIKwAceeEBdu5dfftn8smc6lqVLl6rPfEjfeecdlbYgLS3N/LtdXZb33datW5GUlKSOt23bVv1k49q7d2/188knn8SHH36ojm/fvh1r166Fr6+vMs66rr76apSUlJi/u6p4v+n3Ha8d77WUlBSsWLHCbDTefPNNcweL15jXq2vXrubfwezrvBf5O1566SUMHDjQXObK4r+X14M/aSCuu+46dZxm9sCBA8poDBo0CEaj0XwOzVpISIj5O+8zf39/83d3kfV9d8stt6jjNGp6m/HMM89g2LBhqg47Gvw5depU9Q6kvvnmG9XZ53GmGmF9dxCvl/68MWDCa0A9+OCDqs1g+0Ajx7ZWv0cpml/LTv3bb7+t2pS77rrLfKwpJQbOicQbhxENJizmzcaepy4ajrCwMNWgfv311+oYG4H3339ffWavShcjUuzhu5N47Wjg+LAxKqdHLfnyZ8+LPXw+oLr4efTo0erzww8/jMjISGWC3cnA6eK146TngoIClW/R0mgwQhcVFYVHH31UReAoNgxsFJKTk1UGcb1BYYNg2dN3B/HfTkPBiMfnn39uPs68Toyq61q/fr3q1denp59+Gm+99Zb1YZcXDa8+YmD5bHIFJe85XX5+fnUMHJ/TadOmqffjkCFDzMfdSbzveB34vL3xxhvm43ynWbYFFCflP/744+ozn1E96sk8cYzauZtoeHndDAZDnfuHHVS+0yxFs5aTk6M+8z5khJjXUwycyEbMU6b3qviQcUhPF1/+69atUw/iggULzMfZW2XjaZki48ILL1S9WXcRGwBGMDjEQLEh7dy5s/pMY3L//feraGWPHj3M57zwwgsqSsIhaw6fUnwhpqenm+u4ixgB4hACxQha9+7dzWXMicTGkwbOcmjro48+UnV5Hq9taGioinDqjYM7iKaNUTZGRSj2znX99ttvdQwcI0b1GTh2HNig0Di7kxgB4fPIZ5dD7zQWun766Sd1P+myNnBszvThrtjYWHUN3UmpqanK8LIDzw6r5bWj+WXiaF0cOuSojT69ge9CfeiV19DdrAH3U9dzqTJQogdAqEmTJtW5lzjqxTyOunhtGZljVE4MnKiOeGN06NBBRUEovtCtI3A7d+5Ucx04/0Y/Z8SIEeqzZSic4/zuFIHjPEHd+FJz5sxR87oozhesLwLHl9xnn32mIppnnnmmgo8J4YvRXcReKHuVuvmlAbOOwPGlRgPHHjvFe5PDznyRWTYWZ599trrO7iI2nJamjPeTrvnz5/+lgWOUicOvjGi6k/iOe/bZZ83RWg6XWt5HnKNk2ZBaG7izzjoLKSkp5u+8toxIuYvYBnBKA8Whv9dff91c9sUXX6iIri4+t5ZDgJxTqHeyOIXkoosuMpe5uhhdYxugP280t5YGjZ1SfRoJO2fM4agbX95fZ5xxhmonWrVqpdqJ4OBg87lNJTFwTiBG3hg140uJN5D+gLGBYIRj8eLFmDBhgjrGYQfOO+JQK8v1oQY+1JybxHJO3HeHRoGRR0beOLTMa0d47Tj/jw3E7t27lZHjcB/FbVI49MJ5Smww2Hu3lLtF4Bh543A7e/S87/RIEu+lvXv3qsjQ999/r45x3giv5Z49e1TkhC9Ddii4eIHXk1E4Rj0t5y65qniPMfLGfzevHYfdGdXgXBo2njzOIXxua0RxCIa9d3YyOGma4nPL6DkNL689F924g9hR4Ly3/fv3q8Uy+vPGqC/NBTsFlou2OCeYHVbeh5xcTnG0gZ0O3qOcw+Quixg4UvDEE0/g0KFD6r5jBInideC9xGvKZ3TNmjXKnPAdFxAQoO4vfWiQ15+Gj+f84x//wLZt2yz/CJcV2wQGQdgx4H2nt49sX3k9Pv74Y3OnX1/EwOea106fD6dLInCiOjrvvPNUT4gPFKMYnC9D8abr37+/mieiiz0BmjTO92L0SBfrcvUb5+O4yzAWX9y8Zuecc476yWjG5s2bVRkfPppiy8THNHx8SC+44II6c2x0cXhBfym6g9iT1O87RjX4sqfi4+PVNbJcoMBrx44Br6nlkA2HYbiijfcdGxV3iISwceQrVb/vGDnXI0Q0cHw22VnQxYVGrMdrp7+KaejOP/989TvYq+e95w7i0CmvA//djGjokXOaEnYcOG3EcgUvF3KxLt+RnM/K+4sRYEZLeM9ZRlBcXTQelvedPk2EYqeK9xOjlRSnjtDksi6fbcu5boxC8f/A8jq7uthR0u87XkN9ipE+PYSjNHq7y4gu7zf9vWjdqWcQgB0HR0gMnEgkEolEIpGTSQycSCQSiUQikZNJDJxIJBKJRCKRk0kMnEgkEolEIpGTSQycSCQSiUQikZNJDJxIJHJrMeEwVydbr85mDi1uVWe5h65IJBK1FImBE4lEbi0mtWaaDsudJCjmaWPaD6Y/EYlEopYmMXAikcjtxWSczOv03nvvqe9MOHzuueeqz0zWSTPHnSasExEzWbFepm+5posJtplollvccfsn5soTiUQie0kMnEgkEmniXq3/+te/1Gcm1x02bJhKeMr9ha+55hqVCPqDDz5QyWZ1cT9EbmnHMm58rW+1w4SyfK1yVwAmo+WOFvoekyKRSGQPiYETiUSiP7RgwQKVZZ1Z/BkxozHbsWOHuZxbZOkmz1rM+s/M7JRu4Nq2bWtVSyQSiewjMXAikUhkIb4Oubcmtx3i9jrt2rVD+/btFdxyiOVVVVWqLqNr3FKMWzy1adPGxsCNGjXK8leLRCKR3SQGTiQSiSzE1+G8efPg6+urFjdMmDBB7W9IZs6cienTp6t63Hiem1qHhoZi3759GDlypNq/k9IN3Pjx4y1+s0gkEtlPYuBEIpHIQrqBY5SNw6krVqyoU56fn69+Tp48WW2grovROesI3Lhx48zlIpFIZE+JgROJRCIL6QaOuummm9Q8uKVLl6o0I1zY0KtXL1UWGRmJjh07quNTp07F7bffLgZOJBI5TGLgRCKRyEJr1qypk/uNq043bNgAf39/HDhwAIWFheYyfl+/fr0aTs3KylKfdbE+c8yJRCJRU0gMnEgkEolEIpGTSQycSCQSiUQikZNJDJxIJBKJRCKRk0kMnEgkEolEIpGTSQycSCQSiUQikZNJDJxIJBKJRCKRk0kMnEgkEolEIpGTSQycSCQSiUQikZPJbOBEIpFIJBKJRM6j/wczuUzkiaaZRgAAAABJRU5ErkJggg==>
 

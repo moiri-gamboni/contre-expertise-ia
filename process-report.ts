@@ -92,7 +92,7 @@ function processReferences(content: string, wrap: boolean): string {
       \]                                      # Match closing square bracket
     )
     \(                                        # Match opening parenthesis
-      (?<url>https?:\/\/paperpile.com\/\S*?)  # Named capture group 'url' for non-whitespace characters (non-greedy)
+      (?<url>\#bookmark=\S*?)  # Named capture group 'url' for non-whitespace characters (non-greedy)
     \)                                        # Match closing parenthesis
   `
   return content.replace(paperpileLinkRegex, (match, p1) => {
@@ -130,7 +130,7 @@ function processBibliography(content: string): string {
 
 function processExperts(content: string): string {
   const expertListRegex =
-    /\*\*Liste des experts et leur niveau de soutien :\*\*\s*([\s\S]+?)(?=\n# |\n## |\n### |$)/
+    /\*\*Liste des experts et leur niveau de soutien([\s\S]+?)(?=\n# |\n## |\n### |$)/
   const expertListMatch = content.match(expertListRegex)
 
   if (expertListMatch) {
@@ -212,7 +212,7 @@ try {
   content = content.replace(reTitle, '')
 
   // Extract the executive summary
-  const reResume = /^# Résumé Exécutif {#résumé-exécutif}$([\s\S]+?)(?=^\n# )/m
+  const reResume = /^# \*\*Résumé Exécutif\*\* {#résumé-exécutif}$([\s\S]+?)(?=^\n# )/m
   const resumeMatch = content.match(reResume)
   const resume = processReferences(
     "import { Reference } from '@/components/Reference'" +
@@ -224,7 +224,7 @@ try {
   // TODO: generate links automatically
   // Remove the Table of Contents section
   const tocRegex =
-    /^# Table des matières {#table-des-matières}$([\s\S]*?)(?=^\n# )/m
+    /^# \*\*Table des matières\*\* {#table-des-matières}$([\s\S]*?)(?=^\n# )/m
   content = content.replace(tocRegex, '')
   // Remove heading links
   content = content.replace(/^(#+ .+?) \{.+\}?$/gm, '$1')
@@ -236,7 +236,7 @@ try {
 
   let noteCounter = 1
   for (let i = 0; i < sections.length; i += 2) {
-    const titleMatch = sections[i].match(/^([\d\.]*) ?(.+?)$/)
+    const titleMatch = sections[i].match(/^\*\*([\d\.]*) ?(.+?)\*\*$/)
     let sectionContent = sections[i + 1].trim()
 
     const number = titleMatch?.[1] ?? ''
