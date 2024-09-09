@@ -108,6 +108,47 @@ function findAndReplaceReferencesWithLinks() {
   Logger.log('Script execution completed. Created ' + linkCount + ' links.')
 }
 
+function removePaperpileLinks() {
+  var doc = DocumentApp.getActiveDocument()
+  var body = doc.getBody()
+  var removed = 0
+
+  // Function to process an element and its child elements
+  function processElement(element) {
+    if (element.getType() === DocumentApp.ElementType.TEXT) {
+      var text = element.editAsText()
+      var textLength = text.getText().length
+
+      for (var i = 0; i < textLength; i++) {
+        var url = text.getLinkUrl(i)
+        if (
+          url &&
+          (url.startsWith('https://paperpile.com') ||
+            url.startsWith('http://paperpile.com'))
+        ) {
+          // Find the end of the link
+          var j = i
+          while (j < textLength && text.getLinkUrl(j) === url) {
+            j++
+          }
+          text.setLinkUrl(i, j - 1, null)
+          removed++
+          i = j - 1 // Skip to end of removed link
+        }
+      }
+    } else if (element.getNumChildren) {
+      // Recursively process child elements
+      var numChildren = element.getNumChildren()
+      for (var i = 0; i < numChildren; i++) {
+        processElement(element.getChild(i))
+      }
+    }
+  }
+
+  // Start processing from the body
+  processElement(body)
+}
+
 function onOpen() {
   var ui = DocumentApp.getUi()
   ui.createMenu('References')
