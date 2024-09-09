@@ -160,9 +160,9 @@ function processExperts(content: string): string {
         }
       }
 
-      const role = roleLines.join('\n').replace(/\n/g, '\\n')
+      const role = roleLines.join('\n')
 
-      return `<Expert name="${name}" role="${role}" ${comment ? `comment="${comment}"` : ''}>${type}</Expert>`
+      return `<Expert name="${name}" role={${JSON.stringify(role)}} ${comment ? `comment={${JSON.stringify(comment)}}` : ''}>${type}</Expert>`
     })
 
     return content.replace(
