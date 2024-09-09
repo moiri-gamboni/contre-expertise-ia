@@ -108,8 +108,6 @@ function processBibliography(content: string): string {
   const processedEntries = content
     .trim()
     .split('\n')
-
-  const bibliographyEntries = processedEntries
     .filter((entry: string) => entry.startsWith(`\\\[`))
     .map((entry: string) => processReferences(entry, false))
   
@@ -118,15 +116,12 @@ function processBibliography(content: string): string {
   }
   fs.mkdirSync(bibliographyDir, { recursive: true })
 
-  bibliographyEntries.forEach((item, index) => {
+  processedEntries.forEach((item, index) => {
     const filePath = path.join(bibliographyDir, `${index + 1}.mdx`)
     fs.writeFileSync(filePath, item.trim())
   })
 
-  const imageData = processedEntries
-    .filter((entry: string) => entry.startsWith(`\[image`))
-
-  return `${bibliographyEntries.join('\n')}\n\n${imageData.join('\n')}`
+  return `${processedEntries.join('\n')}`
 }
 
 
