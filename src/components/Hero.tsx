@@ -12,12 +12,12 @@ function Testimonial() {
       </div> */}
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
-          “ Les conflits d'intérêts manifestes dans [la composition de la
+          « Les conflits d'intérêts manifestes dans [la composition de la
           commission] sont confirmés par les parti pris qui minent la
           crédibilité des recommandations, et évacuent la plus nécessaire : la
           convocation urgente d'un authentique débat démocratique sur une
           industrie qui ne propose rien de moins que de déclencher une mutation
-          anthropologique majeure.”
+          anthropologique majeure. »
         </p>
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-600">
