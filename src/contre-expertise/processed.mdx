@@ -3,6 +3,13 @@ import { Insert } from '@/components/Insert'
 import { ReportSection } from '@/components/ReportSection'
 import { Experts, Expert } from '@/components/Experts'
 import { Footnote } from '@/components/Footnote'
+import image1 from '@/images/contre-expertise/image1.webp'
+import image2 from '@/images/contre-expertise/image2.webp'
+import image3 from '@/images/contre-expertise/image3.webp'
+import image4 from '@/images/contre-expertise/image4.png'
+import table from '@/images/contre-expertise/table.png'
+import legend from '@/images/contre-expertise/legend.png'
+import Image from 'next/image'
 
 <ReportSection id="introduction" number="1" navTitle="Introduction" className='print:pt-0'>
 L'intelligence artificielle (IA) transforme rapidement notre société, avec des implications profondes pour l'avenir <Reference>\[8\]</Reference>, <Reference>\[9\]</Reference>. Les décisions prises aujourd'hui en matière de développement et de régulation de l'IA auront des impacts concrets sur l'économie, la sécurité, la vie sociale et politique, l'influence internationale de la France, ainsi que sur son industrie, sa recherche scientifique, l'emploi et la vie privée des citoyens. Il est donc essentiel d'examiner attentivement les bases sur lesquelles ces décisions sont prises.
@@ -110,7 +117,7 @@ Parmi les accomplissements majeurs de ce domaine, on peut citer :
 3. La mémorisation non désirée de données sensibles ou protégées par des droits d'auteur <Reference>\[44\]</Reference>, <Reference>\[45\]</Reference>.  
 4. La vulnérabilité systématique au « *jailbreaking »*, c'est-à-dire à des manières de prompter ses systèmes qui rendent leur comportement imprévisible, voire dangereux <Reference>\[46\]</Reference>, <Reference>\[47\]</Reference>, <Reference>\[48\]</Reference>.  
 5. L'identification de problèmes fondamentaux comme le « *reward hacking* » <Reference>\[49\]</Reference>, permettant de mieux comprendre les défis de l'alignement.  
-6. Les risques liés aux algorithmes de recommandation déjà déployés <Reference>\[50\]</Reference>, <Reference>\[51\]</Reference>, <Reference>\[52\]</Reference> (voir [section 3.2.4](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)).
+6. Les risques liés aux algorithmes de recommandation déjà déployés <Reference>\[50\]</Reference>, <Reference>\[51\]</Reference>, <Reference>\[52\]</Reference> (voir [section 3.2.](#3.2.4-négligence-de-l’impact-dévastateur-des-ia-de-recommandation)4).
 
 2. Le développement de techniques d'alignement du comportement sur les valeurs humaines, notamment :  
      
@@ -136,6 +143,12 @@ Sections du rapport concernées : 1.2
 
 Malgré le silence du rapport à leur sujet, ces préoccupations ne sont pas marginales. Au contraire, des études récentes montrent qu'une part significative des experts du domaine considère que les IA présentent un risque réel d'extinction pour l'humanité <Reference>\[68\]</Reference>. Cette position est soutenue par des centaines de figures emblématiques du domaine <Reference>\[6\]</Reference> telles que Yoshua Bengio et Geoffrey Hinton, co-récipiendaires du prestigieux Prix Turing pour leurs travaux sur les réseaux de neurones profonds <Reference>\[69\]</Reference>, <Reference>\[70\]</Reference>.
 
+<Insert>
+**Les risques catastrophiques et existentiels**
+
+Les risques existentiels liés à l'IA sont des menaces potentielles qui pourraient conduire à l'extinction de l'humanité ou à des dommages catastrophiques à l'échelle mondiale. Ces risques comprennent la création involontaire de systèmes d'IA incontrôlables ou mal alignés avec les valeurs humaines, l'utilisation malveillante de l'IA pour concevoir des armes biologiques ou des cyberattaques dévastatrices, et l'escalade de conflits géopolitiques assistée par IA. Selon une enquête menée en 2022 par AI Impacts <Reference>\[66\]</Reference>, 48 % des experts interrogés estiment qu'il y a au moins 10 % de chance d'un résultat extrêmement négatif lié au développement de l'IA. Plusieurs éminents chercheurs en intelligence artificielle comme Geoffrey Hinton ou Yoshua Bengio ont fait part de craintes similaires. Geoffrey Hinton a récemment estimé le risque d'une catastrophe induite par l'IA à plus de 50 % <Reference>\[69\]</Reference>. Ces estimations alarmantes soulignent l'importance cruciale de la recherche en sécurité de l'IA et de la mise en place de garde-fous robustes pour guider le développement responsable de cette technologie.
+</Insert>
+
 En mai 2023, le Center for AI Safety a publié une déclaration <Reference>\[6\]</Reference>, signée par plus de 350 experts de premier plan, affirmant que « l'atténuation du risque d'extinction par l'IA devrait être une priorité mondiale ». Cette déclaration a suivi une autre lettre ouverte, *Pause Giant AI Experiments* <Reference>\[7\]</Reference>, qui a recueilli plus de 33 000 signatures, entre autres d’experts en intelligence artificielle venant du milieu académique comme industriel, démontrant l'ampleur de ces préoccupations au sein de la communauté scientifique et au-delà.
 
 La section « 1.2 Faut-il avoir peur de l'IA ? » (p. 31\) du rapport tourne en ridicule ces craintes sans aucune justification ou argument, et déforme les faits, confondant différentes lettres ouvertes et minimisant leur portée. Par exemple, le rapport fait référence à la déclaration du Center for AI Safety en affirmant qu'elle n'a recueilli que 60 signatures d'experts, tout en la confondant avec la lettre ouverte sur la pause des expérimentations géantes en IA (p. 33, note de bas de page numéro 9).
@@ -150,11 +163,13 @@ Sections du rapport concernées : 1.4
 
 Bien que la Commission reconnaisse que l'IA connaîtra « de nouvelles avancées rapides et de grande ampleur » (p. 12), son analyse se limite principalement aux impacts des technologies actuelles, négligeant ainsi les défis potentiels posés par les innovations à venir. Cette lacune, déjà pointée par le Centre pour la Sécurité de l'IA (CeSIA) dans une analyse détaillée <Reference>\[14\]</Reference>, n'a reçu aucune réponse de la part de la Commission.
 
-![][image1]  
+<Image src={image1} alt="*Performance des modèles d'IA sur divers benchmarks de 2000 à 2024, comprenant la vision par ordinateur (MNIST, ImageNet), la reconnaissance vocale (Switchboard), la compréhension du langage naturel (SQuAD 1.1, MNLU, GLUE), l'évaluation générale des modèles de langage (MMLU, Big Bench, et GPQA) et le raisonnement mathématique (MATH). De nombreux modèles dépassent le niveau de performance humaine (ligne noire solide). Kiela, D., Thrush, T., Ethayarajh, K., & Singh, A. (2023) « Plotting Progress in AI ».*"/> 
 *Performance des modèles d'IA sur divers benchmarks de 2000 à 2024, comprenant la vision par ordinateur (MNIST, ImageNet), la reconnaissance vocale (Switchboard), la compréhension du langage naturel (SQuAD 1.1, MNLU, GLUE), l'évaluation générale des modèles de langage (MMLU, Big Bench, et GPQA) et le raisonnement mathématique (MATH). De nombreux modèles dépassent le niveau de performance humaine (ligne noire solide). Kiela, D., Thrush, T., Ethayarajh, K., & Singh, A. (2023) « Plotting Progress in AI ».*
 
 L'IA évolue à une vitesse sans précédent <Reference>\[71\]</Reference>, <Reference>\[72\]</Reference>, et le rapport récent du UK AI Safety Institute <Reference>\[73\]</Reference> reconnaît la possibilité que cette progression « extrêmement rapide » (p. 9\) se poursuive dans un avenir proche. Une étude menée en 2023 auprès de 1714 experts a cherché à déterminer quand des machines autonomes seraient capables d'accomplir toutes les tâches mieux et à moindre coût que des travailleurs humains. Les prévisions globales de cette étude estiment qu'il y a 50% de chances que cela se produise avant 2047 <Reference>\[74\]</Reference>, soit 13 ans plus tôt que les prévisions d'une étude similaire réalisée en 2022 <Reference>\[75\]</Reference>. Ne pas adopter une approche prospective dans un tel contexte n'a aucun sens et compromet sérieusement la pertinence, même à court terme, des recommandations du rapport. Cette absence d'anticipation est particulièrement remarquable dans le cas du changement de paradigme vers des systèmes d'IA plus autonomes, un développement majeur que la Commission a omis de prendre en compte. Ces systèmes, capables d'exécuter de longues séries d'actions avec très peu de supervision humaine, soulèvent des questions d'ordre sociétal et des risques qualitativement différents des outils d'IA générative actuels <Reference>\[76\]</Reference>. Des projets comme AutoGPT <Reference>\[77\]</Reference>, Devin <Reference>\[78\]</Reference>, Genie <Reference>\[79\]</Reference> ou encore AI Scientist <Reference>\[80\]</Reference>, qui étaient prévisibles depuis plus d'un an (c’est-à-dire bien avant la constitution même de la Commission), illustrent cette transformation fondamentale. Pour plus d'informations à ce sujet, nous invitons à consulter la note du CeSIA <Reference>\[14\]</Reference>.  
-![][image2]  
+
+<Image src={image2} alt="*Figure illustrative extraite de l’article « Pour une IA française tournée vers l’avenir » du Centre pour la Sécurité de l’IA (CeSIA) <Reference>\[14\]</Reference>. Cette figure illustre le changement de paradigme actuel en IA, en comparant l'approche statique du rapport à l'évolution rapide des systèmes autonomes et leurs impacts systémiques potentiels, soulignant ainsi l'importance d'anticiper ces développements.*" /> 
+
 *Figure illustrative extraite de l’article « Pour une IA française tournée vers l’avenir » du Centre pour la Sécurité de l’IA (CeSIA) <Reference>\[14\]</Reference>. Cette figure illustre le changement de paradigme actuel en IA, en comparant l'approche statique du rapport à l'évolution rapide des systèmes autonomes et leurs impacts systémiques potentiels, soulignant ainsi l'importance d'anticiper ces développements.*
 
 Notons que cette approche non prospective présente un intérêt stratégique : celui de minimiser les risques liés à l'IA par omission. En effet, tous les risques sont amplifiés par le développement des capacités des modèles. Si les avancées s'arrêtaient aujourd'hui, comme le suppose implicitement la Commission, alors les risques seraient effectivement bien moindres. Cependant, cette hypothèse est en contradiction avec la réalité du domaine <Reference>\[71\]</Reference>, <Reference>\[72\]</Reference> et avec les propres déclarations de la Commission sur les « avancées rapides et de grande ampleur » (p. 12\) à venir.
@@ -206,7 +221,11 @@ Le rapport décrit l'IA comme une technologie arrivée à maturité à l'issue d
 2. Les paradigmes actuels, basés sur l'apprentissage profond et les grands modèles de langage (*LLM*), sont extrêmement récents — à peine plus d'une décennie pour le succès de l’apprentissage profond qui a provoqué un renouveau de la recherche en IA <Reference>\[103\]</Reference>, et seulement quelques années pour les *LLM* <Reference>\[104\]</Reference>.  
    
 
- 
+<Insert>
+***LLM***
+
+Les *Large Language Models* (*LLM*) sont des modèles d'intelligence artificielle entraînés à prédire le prochain élément dans un texte en fonction d'un contexte, générant ainsi du contenu cohérent. Ils utilisent des estimations probabilistes et sont capables de comprendre et de produire du langage humain, ce qui les rend particulièrement polyvalents pour diverses applications. Cependant, leur complexité et leur opacité posent des défis en termes de compréhension et de contrôle. Pour en savoir plus sur les *LLM*, consultez [l'annexe D](\#d-—-les-llm).
+</Insert> 
 
 Cette présentation biaisée minimise le tournant constitué par les développements actuels. Les modèles d'IA contemporains représentent une rupture fondamentale avec les paradigmes précédents :
 
@@ -285,7 +304,8 @@ L'IA présente des défis nouveaux et significatifs en matière de cybersécurit
 
 Ces risques sont pris très au sérieux par les experts du domaine. 93 % des professionnels en cybersécurité <Reference>\[132\]</Reference> estiment qu'un « événement cyber catastrophique de grande ampleur est probable dans les deux prochaines années » et 97 % <Reference>\[133\]</Reference> estiment que leur organisation va subir un incident de sécurité causé par une IA.
 
-![][image3]  
+<Image src={image3} alt="*Cette figure montre l'évolution projetée du coût annuel mondial de la cybercriminalité, exprimé en trillions de dollars américains. Les données révèlent une croissance accélérée entre 2018 et 2023\. Les coûts devraient passer de 0,86 trillion USD en 2018 à 13,82 trillions USD en 2028\.*" /> 
+
 *Cette figure montre l'évolution projetée du coût annuel mondial de la cybercriminalité, exprimé en trillions de dollars américains. Les données révèlent une croissance accélérée entre 2018 et 2023\. Les coûts devraient passer de 0,86 trillion USD en 2018 à 13,82 trillions USD en 2028\.*
 
 **Traitement de la cybersécurité dans le rapport**
@@ -326,6 +346,19 @@ Il est important de noter que cette analyse biaisée est certainement influencé
 Sections du rapport concernées : 1.6
 
 L'impact de l'IA sur la création artistique est un sujet de préoccupation croissante dans le monde de l'art et de la culture. Des mouvements d'artistes en colère, tels que ArtistsHate <Reference>\[141\]</Reference>, émergent en réaction à la menace perçue de l'IA sur leurs métiers et leur créativité. Ces inquiétudes ne sont pas infondées, comme le montre une étude récente menée par CVL Economics <Reference>\[142\]</Reference> sur l'impact de l'IA générative dans l'industrie du divertissement.
+
+<Insert>
+**État des lieux : une disruption massive en cours**
+
+L'étude *Future Unscripted* <Reference>\[139\]</Reference> révèle l'ampleur de la transformation en cours :
+
+* 72 % des entreprises du divertissement sont des adopteurs précoces de l'IA générative, contre seulement 3,9 % dans l'économie globale.  
+* 203 800 emplois américains dans le divertissement devraient être perturbés d'ici 2026, principalement par consolidation ou remplacement.  
+* L'industrie du film, de la télévision et de l'animation sera la plus touchée, avec 21,4 % de sa main-d'œuvre impactée.  
+* Le secteur du jeu vidéo affiche le taux d'adoption le plus élevé, près de 90 % des entreprises utilisant déjà l'IA générative.
+
+Ces chiffres préoccupants contrastent fortement avec le traitement superficiel et partial de la question par le rapport de la Commission de l'IA.
+</Insert> 
 
 **Une analyse déficiente et trompeuse**
 
@@ -429,27 +462,9 @@ Les deux rapports (*Gladstone Report* et *ISR*) abordent en profondeur de nombre
 
 La comparaison de ces textes avec le rapport de la Commission française montre que ce dernier ne remplit pas son rôle d'information concernant les différents risques majeurs d'un développement mal maîtrisé de l'IA. Notre évaluation est résumée dans la figure suivant
 
-| Risque | Rapport français | *Gladstone Report* | *ISR* | *Loi européenne sur l’IA* | *Executive order* |
-| :---: | :---: | ----- | ----- | ----- | ----- |
-| **Cybersécurité** | 2 phrases 0 références (p. 32, 59\) | Plusieurs mentions et paragraphes, interview de plusieurs experts en cybersécurité 7 références | 2 pages (4.1.3) 18 références | Récital 110, et plusieurs chapitres pour encadrer les systèmes à haut risque | 26 mentions concernant les risques 2 concernant le potentiel pour la défense |
-| **Bioterrorisme** | 3 phrases 1 référence (p. 32, 59\) | Plusieurs mentions et discussions 3 références | 3 pages (4.1.4) 20 références | Récital 110, et plusieurs chapitres pour encadrer les systèmes à haut risque | 12 mentions |
-| **Perte d'emploi** | 7 pages 10 références mais analyse biaisée et trompeuse. |  | 3 pages (4.3.1) 37 références | Non mentionné | 9 mentions et demande d'un rapport par le *Council of Economic Advisers* et le *Secretary of Labor* |
-| **Perte de contrôle** | 1 phrase 0 référence Risques ridiculisés | Extrêmement étayé 20 références | 3 pages (4.2.3) 45 références | Chapitre 3 et plusieurs autres chapitres pour encadrer les systèmes à haut risque | 1 mention et plusieurs systèmes d'évaluation pour les capacités dangereuses non spécifiquement conçus pour le risque de perte de contrôle |
-| **Guerre informationnelle** | 1,5 pages 1 référence |  | 2 pages (4.2.1) 34 références | Récitals 132 et 133 |  |
-| **Armes autonomes** | Non mentionné |  |  |  |  |
-| **Violations de confidentialité** | 2 phrases 0 référence |  | 2 pages (4.3.5) 20 références | Article 15 | 37 mentions et demande au *Secretary of Commerce* de faire une évaluation des meilleures pratiques dans le domaine sans imposer de restrictions particulières aux développeurs des modèles |
-| **Biais** | Non mentionné |  | 2 pages, (4.2.2) 45 références | Récital 67 | 29 mentions et ordonne l'évaluation de ces risques au *Secretary of Health and Human Services* et au *Secretary of Labor* |
-| **Deepfakes** | 2 phrases 0 référence |  | Plusieurs mentions (4.2.1 et 4.3.1) 17 références | Récitals 132 et 133 | Non mentionné |
-| **Escalade des conflits internationaux** | Non mentionné | Le rapport reconnaît les risques et propose des solutions intégrées à des LOE pour mitiger les risques d'escalade. |  | Non mentionné |  |
-| **Impact environnemental** | 2 pages 6 références |  | 2 pages 12 références | Non mentionné | Non mentionné |
-
-| Légende |
-| :---- |
-| Hors du champ d'application déclaré du rapport |
-| Aucune mention ou mention très brève sans analyse |
-| Mentionné avec une analyse superficielle et des références peu nombreuses ou biaisées. Le rapport évoque le risque, mais l'analyse est limitée ou trompeuse, avec des références rares ou sélectionnées pour soutenir un point de vue particulier. |
-| Analyse modérée avec quelques références variées, mais potentiellement incomplète. Le rapport fournit une analyse substantielle, bien que certains aspects ou points de vue importants puissent être sous-représentés. |
-| Analyse approfondie avec des références solides et diverses, offrant une image équilibrée des débats ou controverses existants. Le rapport cite une variété de sources représentant différents points de vue sur le sujet. |
+<Image src={table} alt="" /> 
+<br/>
+<Image src={legend} alt="" /> 
 
 ### 
 
@@ -550,11 +565,17 @@ La composition d'une Commission chargée d'élaborer des recommandations sur l'I
 
 Pour analyser la composition de la Commission, nous avons choisi de nous concentrer sur des axes qui nous semblaient particulièrement pertinents : la représentation de l'industrie par rapport au monde académique, les représentants de la société civile, et la présence d'experts en éthique et en sécurité de l'IA. Cette catégorisation s'est basée sur les affiliations principales de chaque membre au moment de la Commission. Une description détaillée de la méthodologie est disponible en annexe.
 
-![][image4]
+<Image src={image4} alt="*Nombre de membres de la Commission par affiliation(s). La plupart des membres viennent du monde de l'industrie tandis que les académiques, la société civile et les experts en éthique de l'IA sont sous représentés et qu'aucun expert en sécurité de l'IA n'en fait partie.*" /> 
 
 *Nombre de membres de la Commission par affiliation(s). La plupart des membres viennent du monde de l'industrie tandis que les académiques, la société civile et les experts en éthique de l'IA sont sous représentés et qu'aucun expert en sécurité de l'IA n'en fait partie.*
 
 Ce graphique illustre clairement la surreprésentation du secteur privé par rapport au monde académique, ainsi que l'absence d'experts en sécurité de l'IA et la sous-représentation des spécialistes en éthique de l'IA.
+
+<Insert>
+**Éthique et sécurité de l’IA**
+
+Bien que la distinction entre éthique et sécurité de l'IA soit parfois contestée, elle est utile pour notre analyse. Nous définissons l'éthique de l'IA comme la discipline examinant les implications morales et sociétales de l'IA, en établissant des principes pour son développement et son utilisation responsables, tandis que la sécurité de l’IA vise à développer des systèmes d'intelligence artificielle sûrs et fiables, en minimisant les risques de dommages non intentionnels.
+</Insert>
 
 Cette composition déséquilibrée a des implications directes sur les lacunes du rapport :
 
@@ -600,6 +621,23 @@ Yann LeCun est une figure emblématique dans le domaine de l'intelligence artifi
 L'influence de LeCun s'étend bien au-delà du monde académique. Avec plus de 800 000 *followers* sur Twitter <Reference>\[167\]</Reference> et 782 000 sur LinkedIn <Reference>\[168\]</Reference>, sa voix est prédominante dans le débat public sur l'IA. Sa présence médiatique est considérable, avec des centaines d'apparitions et mentions dans les médias en 2023\. Cette influence a été reconnue par le magazine TIME, qui l'a inclus dans sa liste « Time 100 AI » <Reference>\[169\]</Reference> des personnes les plus influentes dans le monde de l'IA. Son rayonnement atteint les sphères politiques et économiques les plus élevées, comme en témoignent ses rencontres avec le Président Emmanuel Macron <Reference>\[170\]</Reference> et sa participation au Forum économique mondial de Davos <Reference>\[171\]</Reference>. Cette stature exceptionnelle dans les milieux scientifiques, médiatiques et politiques suggère que les opinions de LeCun pourraient avoir un poids significatif au sein de la Commission.
 
 Malgré son expertise incontestable, la présence de Yann LeCun au sein de la Commission soulève des questions importantes quant aux conflits d'intérêts potentiels. En effet, LeCun occupe actuellement le poste de Vice-Président et Directeur Scientifique en IA chez Meta (anciennement Facebook), une entreprise américaine qui a été au cœur de nombreux scandales éthiques majeurs ces dernières années. 
+
+<Insert>
+**L'éthique contestable de Meta**
+
+Meta (anciennement Facebook) a été au cœur de plusieurs scandales éthiques majeurs :
+
+1. Le scandale Cambridge Analytica (2018) <Reference>\[169\]</Reference> a révélé l'exploitation massive de données personnelles de millions d'utilisateurs à des fins de manipulation politique.  
+2. Les « *Facebook Files* » (2021) <Reference>\[170\]</Reference>, une enquête du Wall Street Journal basée sur des documents internes, ont exposé de nombreuses pratiques antisociales de l'entreprise, notamment :  
+   1. L'amplification algorithmique de contenus toxiques et de désinformation.  
+   2. L'aggravation des problèmes de santé mentale, particulièrement chez les adolescents.  
+   3. Le laxisme face au trafic de drogue, au trafic d'êtres humains et aux activités mafieuses sur ses plateformes.  
+3. Amnesty International a accusé Meta d'avoir contribué au génocide des Rohingyas en Birmanie <Reference>\[84\]</Reference> et à la violence ethnique en Éthiopie <Reference>\[171\]</Reference>, en amplifiant massivement des appels à la violence sur ses plateformes.
+
+Ces révélations suggèrent que Meta a souvent privilégié la croissance et les profits au détriment de la sécurité des utilisateurs <Reference>\[172\]</Reference>. Dans le contexte de l'IA, Meta, disposant d'immenses bases de données et de ressources informatiques, a un intérêt évident à limiter la régulation.
+
+Yann LeCun, occupant un poste de direction stratégique durant ces scandales, a systématiquement défendu l'entreprise <Reference>\[172\]</Reference>, <Reference>\[173\]</Reference>, <Reference>\[174\]</Reference>, soulevant des questions sur sa capacité à évaluer objectivement les risques éthiques de l'IA au sein de la Commission.
+</Insert> 
 
 Il décrit lui-même son rôle comme étant « focalisé sur la direction scientifique, la stratégie IA, et l'évangélisation externe » <Reference>\[172\]</Reference>. Or, Meta développe activement des modèles d'IA à la frontière technologique, précisément le type de modèles dont le développement rapide est considéré comme risqué par de nombreux experts. De plus, Meta promeut l'approche open source pour ses modèles d'IA, une stratégie qui soulève des inquiétudes en termes de sécurité et de contrôle (voir [section 3.3.2.3](#3.3.2.3-open-source)). LeCun est également cofondateur et conseiller d'Element Inc., une entreprise spécialisée dans la reconnaissance biométrique, ce qui ajoute une couche supplémentaire de conflit potentiel, notamment sur les questions de protection de la vie privée et d'éthique liées à ces technologies.
 
@@ -1328,4 +1366,3 @@ Une prochaine étape de l’histoire de l’IA aujourd'hui largement discutée e
 \[231\]	E. Woo, S. Palazzolo, et A. Efrati, « OpenAI Races to Launch ‘Strawberry’ Reasoning AI to Boost Chatbot Business », The Information. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business](https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business)
 \[232\]	J. O’Donnell, « Sam Altman says helpful agents are poised to become AI’s killer function », *MIT Technology Review*, 1 mai 2024\. Consulté le: 1 septembre 2024\. \[En ligne\]. Disponible sur: [https://www.technologyreview.com/2024/05/01/1091979/sam-altman-says-helpful-agents-are-poised-to-become-ais-killer-function/](https://www.technologyreview.com/2024/05/01/1091979/sam-altman-says-helpful-agents-are-poised-to-become-ais-killer-function/)
 </ReportSection>
-
