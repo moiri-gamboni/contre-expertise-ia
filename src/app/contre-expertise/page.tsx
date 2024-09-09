@@ -1,15 +1,13 @@
-'use client'
-
 import { Container } from '@/components/Container'
 import { Report } from '@/components/Report'
 import Script from 'next/script'
 import '@/styles/paged.css'
-import { PagedContext } from '@/components/PagedContext'
+import PagedProvider from '@/components/PagedContext'
 import {title} from '@/contre-expertise/metadata.json'
 
 export default function FullReport() {
   return (
-    <PagedContext.Provider value={true}>
+    <PagedProvider>
       <Script src="scripts/paged.polyfill.min.js" />
       <section
         id="cover"
@@ -23,6 +21,6 @@ export default function FullReport() {
         </Container>
       </section>
       <Report />
-    </PagedContext.Provider>
+    </PagedProvider>
   )
 }

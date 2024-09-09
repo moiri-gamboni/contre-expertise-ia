@@ -4,7 +4,7 @@ import {
   TooltipTrigger,
   TooltipContent,
 } from '@/components/Tooltip'
-import fs from 'fs/promises'
+import fs from 'fs'
 import path from 'path'
 import { MDXRemote } from 'next-mdx-remote/rsc'
 
@@ -13,7 +13,7 @@ interface ReferenceProps {
   children: React.ReactNode
 }
 
-async function getMDXSource(num: number) {
+function getMDXSource(num: number): string {
   const filePath = path.join(
     process.cwd(),
     'src',
@@ -21,11 +21,11 @@ async function getMDXSource(num: number) {
     'bibliography',
     `${num}.mdx`,
   )
-  return await fs.readFile(filePath, 'utf8')
+  return fs.readFileSync(filePath, 'utf8')
 }
 
-export async function Reference({ sourceNumbers, children }: ReferenceProps) {
-  const sources = await Promise.all(sourceNumbers.map(getMDXSource))
+export function Reference({ sourceNumbers, children }: ReferenceProps) {
+  const sources = sourceNumbers.map(getMDXSource)
 
   return (
     <Tooltip placement="top-start">
